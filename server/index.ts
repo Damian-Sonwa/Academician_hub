@@ -187,6 +187,43 @@ app.use('/api/assignments', assignmentsRoutes);
 app.use('/api/weekly', weeklyRoutes);
 app.use('/api/dictionary', dictionaryRoutes);
 
+// 404 handler for API routes - MUST be before error handler
+app.use('/api/*', (req: express.Request, res: express.Response) => {
+  // Ensure CORS headers are set
+  const origin = req.headers.origin;
+  if (origin) {
+    const allowedOrigins = [
+      'http://localhost:8080',
+      'http://localhost:8081',
+      'http://localhost:5173',
+      'http://localhost:3000',
+      'http://127.0.0.1:8080',
+      'http://127.0.0.1:8081',
+      'http://127.0.0.1:5173',
+      'http://127.0.0.1:3000',
+    ];
+    
+    if (process.env.CORS_ORIGIN) {
+      allowedOrigins.push(process.env.CORS_ORIGIN);
+      const normalizedOrigin = origin.replace(/\/$/, '');
+      const normalizedCorsOrigin = process.env.CORS_ORIGIN.replace(/\/$/, '');
+      if (allowedOrigins.includes(origin) || 
+          normalizedOrigin === normalizedCorsOrigin ||
+          normalizedOrigin.toLowerCase() === normalizedCorsOrigin.toLowerCase()) {
+        res.setHeader('Access-Control-Allow-Origin', origin);
+        res.setHeader('Access-Control-Allow-Credentials', 'true');
+      }
+    }
+  }
+  
+  res.status(404).json({
+    success: false,
+    error: 'API endpoint not found',
+    path: req.path,
+    method: req.method,
+  });
+});
+
 // Error handling middleware - MUST be after all routes
 // This ensures CORS headers are always sent, even on errors
 app.use((err: any, req: express.Request, res: express.Response, next: express.NextFunction) => {
