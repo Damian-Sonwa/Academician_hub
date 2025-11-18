@@ -96,21 +96,41 @@ app.use(cors({
     // Add production origin from environment variable
     if (process.env.CORS_ORIGIN) {
       allowedOrigins.push(process.env.CORS_ORIGIN);
+      // Also allow www version if main domain is provided
+      if (process.env.CORS_ORIGIN.startsWith('https://')) {
+        const domain = process.env.CORS_ORIGIN.replace('https://', '');
+        allowedOrigins.push(`https://www.${domain}`);
+      }
+    }
+    
+    // Log CORS check for debugging (only in production)
+    if (process.env.NODE_ENV === 'production') {
+      console.log(`🔒 CORS check - Origin: ${origin}, Allowed: ${allowedOrigins.join(', ')}`);
     }
     
     // Allow requests from any localhost origin in development
     if (process.env.NODE_ENV !== 'production') {
-      if (origin.includes('localhost') || origin.includes('127.0.0.1')) {
+      if (origin && (origin.includes('localhost') || origin.includes('127.0.0.1'))) {
         return callback(null, true);
       }
     }
     
     // In production, check against allowed origins
     if (process.env.NODE_ENV === 'production') {
-      if (allowedOrigins.indexOf(origin) !== -1 || (process.env.CORS_ORIGIN && origin === process.env.CORS_ORIGIN)) {
+      // Check if origin is in allowed list
+      if (origin && allowedOrigins.includes(origin)) {
         return callback(null, true);
       }
-      return callback(new Error('Not allowed by CORS'));
+      // Also check direct match with CORS_ORIGIN
+      if (origin && process.env.CORS_ORIGIN && origin === process.env.CORS_ORIGIN) {
+        return callback(null, true);
+      }
+      // Allow if no origin (like mobile apps or Postman)
+      if (!origin) {
+        return callback(null, true);
+      }
+      console.error(`❌ CORS blocked - Origin: ${origin} not in allowed list`);
+      return callback(new Error(`Not allowed by CORS. Origin: ${origin}`));
     }
     
     // Development: Allow all origins
