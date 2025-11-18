@@ -1,0 +1,86 @@
+{
+  "topic": "The Spanish Alphabet and Pronunciation",
+  "detailedSummary": "The Spanish alphabet consists of 27 letters, including the 26 letters of the English alphabet plus 'ñ' (eñe). Unlike English, Spanish has consistent pronunciation rules, making it easier to read once you learn the sounds. Each letter typically has one sound. Vowels (a, e, i, o, u) are pure and consistent: 'a' sounds like 'ah', 'e' like 'eh', 'i' like 'ee', 'o' like 'oh', and 'u' like 'oo'. Consonants have specific rules: 'c' before 'e' or 'i' sounds like 's' (ce, ci), otherwise like 'k'. 'g' before 'e' or 'i' sounds like 'h' (ge, gi), otherwise like 'g' in 'go'. 'h' is always silent. 'j' sounds like 'h' in 'hello'. 'll' and 'y' often sound like 'y' in 'yes'. 'ñ' sounds like 'ny' in 'canyon'. 'r' is rolled, and 'rr' is strongly rolled. Stress rules: words ending in vowels, 'n', or 's' are stressed on the second-to-last syllable; words ending in consonants (except 'n' or 's') are stressed on the last syllable. Accent marks (á, é, í, ó, ú) indicate exceptions to these rules. Mastering pronunciation is crucial for being understood and understanding spoken Spanish.",
+  "whyItMatters": "Proper pronunciation is fundamental to Spanish communication - understanding the alphabet and pronunciation rules enables you to read, speak, and be understood correctly by native speakers.",
+  "materials": {
+    "videos": [
+      {
+        "title": "The Spanish Alphabet and Pronunciation | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=hsLYD1Jyf3A"
+      },
+      {
+        "title": "The Spanish Alphabet and Pronunciation | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "The Spanish Alphabet and Pronunciation | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Spanish Pronunciation Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Pronunciation Practice Exercises",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Spanish Pronunciation",
+      "description": "Practice and demonstrate understanding of Spanish alphabet and pronunciation rules.",
+      "tasks": [
+        "Create a pronunciation guide for all 27 letters of the Spanish alphabet with examples",
+        "Record yourself pronouncing each letter and common letter combinations",
+        "Practice words with different stress patterns and accent marks",
+        "Identify and practice the sounds of 'ñ', 'rr', 'll', and 'j'",
+        "Read a short Spanish text aloud, focusing on correct pronunciation and stress"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "How many letters are in the Spanish alphabet?",
+      "type": "multiple-choice",
+      "options": [
+        "26",
+        "27",
+        "28",
+        "25"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Spanish alphabet has 27 letters - the 26 letters of the English alphabet plus 'ñ' (eñe)."
+    },
+    {
+      "question": "The letter 'h' in Spanish is always silent.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. The letter 'h' is always silent in Spanish - it's written but never pronounced (e.g., 'hola' sounds like 'ola')."
+    },
+    {
+      "question": "How do you pronounce 'ñ' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "Like 'n'",
+        "Like 'ny' in 'canyon'",
+        "Like 'm'",
+        "Like 'ng'"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'ñ' is pronounced like 'ny' in English words like 'canyon' or 'onion' (e.g., 'España' sounds like 'es-pa-nya')."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=hsLYD1Jyf3A"
+}

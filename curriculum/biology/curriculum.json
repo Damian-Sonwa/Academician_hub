@@ -1,0 +1,41 @@
+{
+  "subject": "Biology",
+  "levels": {
+    "Secondary": [
+      "Introduction to Life Science and Scientific Method",
+      "Cell Structure and Function: Prokaryotic vs Eukaryotic",
+      "Cell Membrane and Transport Mechanisms",
+      "Cellular Respiration and Energy Production",
+      "Photosynthesis: Light and Dark Reactions",
+      "Cell Division: Mitosis and Meiosis",
+      "DNA Structure, Replication, and Protein Synthesis",
+      "Genetics: Mendelian Inheritance and Punnett Squares",
+      "Evolution: Natural Selection and Evidence",
+      "Ecology: Ecosystems, Food Webs, and Biomes",
+      "Human Body Systems: Digestive, Circulatory, Respiratory",
+      "Human Body Systems: Nervous, Endocrine, Immune",
+      "Plant Biology: Structure, Function, and Reproduction",
+      "Animal Diversity and Classification",
+      "Environmental Science and Conservation"
+    ],
+    "Advanced": [
+      "Advanced Cell Biology: Organelles and Cellular Processes",
+      "Biochemistry: Macromolecules and Metabolic Pathways",
+      "Molecular Biology: DNA Replication, Transcription, Translation",
+      "Genetics and Genomics: Gene Expression and Regulation",
+      "Developmental Biology: Embryogenesis and Differentiation",
+      "Immunology: Immune System Function and Response",
+      "Neurobiology: Neurons, Synapses, and Neural Circuits",
+      "Evolutionary Biology: Mechanisms and Phylogenetics",
+      "Ecology and Conservation Biology",
+      "Biotechnology and Genetic Engineering",
+      "Cancer Biology and Cell Cycle Regulation",
+      "Microbiology: Bacteria, Viruses, and Pathogens",
+      "Physiology: Homeostasis and Organ System Integration",
+      "Research Methods in Biology",
+      "Bioethics and Scientific Communication"
+    ]
+  }
+}
+
+

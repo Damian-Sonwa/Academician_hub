@@ -1,0 +1,87 @@
+{
+  "topic": "Advanced JavaScript: ES6+ Features and Modern Syntax",
+  "detailedSummary": "ES6 (ECMAScript 2015) and later versions introduced powerful features that modernize JavaScript development. Let and const provide block scoping, replacing var. Arrow functions offer concise syntax and lexical 'this' binding. Template literals enable string interpolation with embedded expressions. Destructuring extracts values from arrays and objects into variables. Spread operator (...) expands arrays/objects or collects arguments. Rest parameters collect remaining function arguments. Default parameters provide fallback values. Enhanced object literals allow shorthand property and method definitions. Modules (import/export) enable code organization and reuse. Promises handle asynchronous operations. Classes provide syntactic sugar over prototypes. These features improve code readability, maintainability, and enable modern JavaScript patterns. Understanding ES6+ is essential for professional JavaScript development and working with modern frameworks.",
+  "whyItMatters": "ES6+ features are the foundation of modern JavaScript development - they're used in all modern frameworks and are essential for writing clean, maintainable, professional code.",
+  "materials": {
+    "videos": [
+      {
+        "title": "JavaScript Tutorial | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "JavaScript Basics | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "JavaScript | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "ES6+ JavaScript Guide",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Modern JavaScript Practice",
+        "url": "https://codepen.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Refactor Code with ES6+ Features",
+      "description": "Rewrite JavaScript code using modern ES6+ features, demonstrating understanding of new syntax and patterns.",
+      "tasks": [
+        "Convert function declarations to arrow functions where appropriate",
+        "Use destructuring to extract values from objects and arrays",
+        "Implement template literals for string interpolation",
+        "Use spread operator to manipulate arrays and objects",
+        "Refactor a project to use ES6 modules (import/export) and write a report on the improvements"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the main advantage of arrow functions over traditional functions?",
+      "type": "multiple-choice",
+      "options": [
+        "They are faster",
+        "They have lexical 'this' binding and concise syntax",
+        "They can only be used in classes",
+        "They don't support parameters"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Arrow functions have lexical 'this' binding (inherit 'this' from surrounding scope) and provide more concise syntax, making code cleaner and avoiding 'this' binding issues."
+    },
+    {
+      "question": "Template literals use backticks and allow embedded expressions with ${}.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Template literals use backticks (`) instead of quotes and allow embedded expressions using ${expression} syntax for string interpolation."
+    },
+    {
+      "question": "What does the spread operator (...) do?",
+      "type": "multiple-choice",
+      "options": [
+        "Only creates copies of arrays",
+        "Expands arrays/objects or collects arguments",
+        "Only works with functions",
+        "Replaces all operators"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The spread operator can expand arrays/objects into individual elements, create copies, combine arrays, or collect function arguments into an array."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

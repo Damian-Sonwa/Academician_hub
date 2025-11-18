@@ -1,0 +1,86 @@
+{
+  "topic": "Travel and Transportation Vocabulary",
+  "detailedSummary": "Travel vocabulary is essential for navigating Spanish-speaking countries. Transportation: avión (airplane), tren (train), autobús/bus (bus), coche/carro/auto (car), taxi (taxi), metro (subway), bicicleta (bicycle), barco (boat), moto (motorcycle). Travel verbs: viajar (to travel), volar (to fly), conducir/manejar (to drive), llegar (to arrive), salir (to leave), partir (to depart), reservar (to reserve), cancelar (to cancel). Places: aeropuerto (airport), estación de tren (train station), parada de autobús (bus stop), hotel (hotel), hostal (hostel), restaurante (restaurant), playa (beach), montaña (mountain), ciudad (city), pueblo (town). Travel phrases: '¿Dónde está...?' (Where is...?), '¿Cómo llego a...?' (How do I get to...?), 'Un billete a...' (A ticket to...), '¿A qué hora sale...?' (What time does...leave?), 'Quisiera reservar...' (I would like to reserve...). Directions: 'a la derecha' (to the right), 'a la izquierda' (to the left), 'derecho' (straight), 'cerca' (near), 'lejos' (far). Understanding travel vocabulary enables navigating and communicating during trips.",
+  "whyItMatters": "Travel vocabulary is essential for practical communication - mastering these words and phrases enables you to navigate transportation, book accommodations, and travel confidently in Spanish-speaking countries.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Travel and Transportation Vocabulary | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Travel and Transportation Vocabulary | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Travel and Transportation Vocabulary | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Travel and Transportation Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Travel Vocabulary Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Travel Vocabulary",
+      "description": "Learn and practice travel and transportation vocabulary for real-world use.",
+      "tasks": [
+        "Create flashcards for 50 travel-related words and phrases",
+        "Write a dialogue for booking a hotel room and buying transportation tickets",
+        "Practice asking for directions and understanding responses",
+        "Write about a past or future trip using travel vocabulary",
+        "Create a travel guide for a Spanish-speaking city using the vocabulary learned"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "How do you say 'airport' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "estación",
+        "aeropuerto",
+        "terminal",
+        "puerto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Aeropuerto' means airport. 'Estación' is station, 'terminal' is terminal, and 'puerto' is port."
+    },
+    {
+      "question": "'Conducir' and 'manejar' both mean 'to drive' in Spanish, with 'conducir' more common in Spain and 'manejar' in Latin America.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Both words mean 'to drive', but regional preferences differ - 'conducir' in Spain, 'manejar' in most Latin American countries."
+    },
+    {
+      "question": "How do you ask 'What time does the train leave?'",
+      "type": "multiple-choice",
+      "options": [
+        "¿Qué hora es el tren?",
+        "¿A qué hora sale el tren?",
+        "¿Dónde está el tren?",
+        "¿Cuánto cuesta el tren?"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'¿A qué hora sale el tren?' means 'What time does the train leave?' - 'sale' comes from 'salir' (to leave)."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

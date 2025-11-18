@@ -1,0 +1,398 @@
+[
+  {
+    "title": "Cloud Security",
+    "summary": "Securing AWS, Azure, Google Cloud, IAM management, encryption, and incident response. Comprehensive cloud security for major cloud platforms.  Learn to secure AWS, Azure, and Google Cloud environments. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Cloud Security",
+          "url": "https://youtu.be/JIbIYCM48to"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "AWS Security Best Practices",
+          "url": "https://owasp.org/www-project-top-ten/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "AWS Cloud Security Lab",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    },
+    "detailedSummary": "Securing AWS, Azure, Google Cloud, IAM management, encryption, and incident response. Comprehensive cloud security for major cloud platforms.  Learn to secure AWS, Azure, and Google Cloud environments. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Advanced level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Cloud Security. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Cloud Security",
+        "description": "Complete a research assignment exploring key concepts related to Cloud Security.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Cloud Security",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Cloud Security",
+        "description": "Apply your understanding of Cloud Security through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Cloud Security",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Cloud Security?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Cloud Security",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Cloud Security?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding cybersecurity",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Cloud Security is an important topic for understanding cybersecurity at the Advanced level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Cloud Security provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+        },
+        {
+          "question": "The concepts in Cloud Security have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Cloud Security have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Cloud Security helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "cybersecurity",
+          "explanation": "The correct answer is \"cybersecurity\". Cloud Security is a key component of cybersecurity that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "AWS Security Fundamentals",
+    "summary": "Secure Amazon Web Services infrastructure. Learn IAM policies, security groups, VPC configuration, CloudTrail, and AWS security best practices. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "AWS Security Fundamentals",
+          "url": "https://youtu.be/JIbIYCM48to"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "AWS Security Guide",
+          "url": "https://owasp.org/www-project-top-ten/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "IAM Best Practices",
+          "url": "https://tryhackme.com/"
+        },
+        {
+          "title": "AWS Security",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    },
+    "detailedSummary": "Secure Amazon Web Services infrastructure. Learn IAM policies, security groups, VPC configuration, CloudTrail, and AWS security best practices. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Advanced level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to AWS Security Fundamentals. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: AWS Security Fundamentals",
+        "description": "Complete a research assignment exploring key concepts related to AWS Security Fundamentals.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about AWS Security Fundamentals",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: AWS Security Fundamentals",
+        "description": "Apply your understanding of AWS Security Fundamentals through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to AWS Security Fundamentals",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of AWS Security Fundamentals?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of AWS Security Fundamentals",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of AWS Security Fundamentals?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding cybersecurity",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+        },
+        {
+          "question": "AWS Security Fundamentals is an important topic for understanding cybersecurity at the Advanced level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. AWS Security Fundamentals provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+        },
+        {
+          "question": "The concepts in AWS Security Fundamentals have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in AWS Security Fundamentals have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of AWS Security Fundamentals helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "cybersecurity",
+          "explanation": "The correct answer is \"cybersecurity\". AWS Security Fundamentals is a key component of cybersecurity that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Azure and Google Cloud Security",
+    "summary": "Secure multi-cloud environments. Study Azure AD, resource groups, Google Cloud IAM, and cross-cloud security strategies. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Azure and Google Cloud Security",
+          "url": "https://youtu.be/JIbIYCM48to"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Cybersecurity Textbook - Advanced Level",
+          "url": "https://owasp.org/www-project-top-ten/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Multi-Cloud Security",
+          "url": "https://tryhackme.com/"
+        },
+        {
+          "title": "Cloud Comparison",
+          "url": "https://tryhackme.com/"
+        },
+        {
+          "title": "Cloud Security",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    },
+    "detailedSummary": "Secure multi-cloud environments. Study Azure AD, resource groups, Google Cloud IAM, and cross-cloud security strategies. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Advanced level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Azure and Google Cloud Security. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Azure and Google Cloud Security",
+        "description": "Complete a research assignment exploring key concepts related to Azure and Google Cloud Security.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Azure and Google Cloud Security",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Azure and Google Cloud Security",
+        "description": "Apply your understanding of Azure and Google Cloud Security through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Azure and Google Cloud Security",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Azure and Google Cloud Security?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Azure and Google Cloud Security",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Azure and Google Cloud Security?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding cybersecurity",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Azure and Google Cloud Security is an important topic for understanding cybersecurity at the Advanced level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Azure and Google Cloud Security provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+        },
+        {
+          "question": "The concepts in Azure and Google Cloud Security have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Azure and Google Cloud Security have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Azure and Google Cloud Security helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "cybersecurity",
+          "explanation": "The correct answer is \"cybersecurity\". Azure and Google Cloud Security is a key component of cybersecurity that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Cloud Incident Response",
+    "summary": "Respond to security incidents in cloud environments. Learn cloud-specific incident response procedures, log analysis, and recovery strategies for cloud-based attacks. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Cloud Incident Response",
+          "url": "https://youtu.be/JIbIYCM48to"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Cloud IR Guide",
+          "url": "https://owasp.org/www-project-top-ten/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Log Analysis",
+          "url": "https://tryhackme.com/"
+        },
+        {
+          "title": "Incident Response",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    },
+    "detailedSummary": "Respond to security incidents in cloud environments. Learn cloud-specific incident response procedures, log analysis, and recovery strategies for cloud-based attacks. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Advanced level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Cloud Incident Response. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Cloud Incident Response",
+        "description": "Complete a research assignment exploring key concepts related to Cloud Incident Response.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Cloud Incident Response",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Cloud Incident Response",
+        "description": "Apply your understanding of Cloud Incident Response through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Cloud Incident Response",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Cloud Incident Response?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Cloud Incident Response",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Cloud Incident Response?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding cybersecurity",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Cloud Incident Response is an important topic for understanding cybersecurity at the Advanced level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Cloud Incident Response provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+        },
+        {
+          "question": "The concepts in Cloud Incident Response have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Cloud Incident Response have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Cloud Incident Response helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "cybersecurity",
+          "explanation": "The correct answer is \"cybersecurity\". Cloud Incident Response is a key component of cybersecurity that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  }
+]

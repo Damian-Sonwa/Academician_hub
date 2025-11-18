@@ -1,0 +1,161 @@
+{
+  "topic": "Real Analysis: Sequences, Series, and Continuity",
+  "detailedSummary": "Real analysis provides rigorous foundations for calculus using precise mathematical definitions. Sequences are ordered lists of real numbers {aₙ}. A sequence converges to limit L if, for every ε > 0, there exists N such that |aₙ - L| < ε for all n > N. This formalizes the intuitive idea of 'approaching' a value. Monotone sequences (always increasing or decreasing) converge if bounded. Series are sums of sequences: Σaₙ = a₁ + a₂ + a₃ + ... Convergence tests determine if series have finite sums: comparison test, ratio test, root test, integral test, and alternating series test. Absolute convergence (Σ|aₙ| converges) implies convergence. Continuity is rigorously defined: f is continuous at a if lim(x→a) f(x) = f(a), requiring the limit exists and equals the function value. Uniform continuity strengthens this: for every ε > 0, there exists δ > 0 such that |f(x) - f(y)| < ε whenever |x - y| < δ (same δ works for all x). The Intermediate Value Theorem: if f is continuous on [a, b] and k is between f(a) and f(b), then f(c) = k for some c in (a, b). The Extreme Value Theorem: continuous functions on closed intervals attain maximum and minimum values. Differentiability requires the limit definition of derivative to exist. These rigorous foundations enable proving theorems, understanding convergence, and establishing mathematical certainty in calculus applications.",
+  "whyItMatters": "Real analysis provides rigorous mathematical foundations - essential for advanced mathematics, proving theorems, understanding convergence, and establishing certainty in mathematical reasoning.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Limits and Continuity | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=YNstP0ESndU"
+      },
+      {
+        "title": "Epsilon-Delta Definition | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Understanding Limits | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Understanding Analysis - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/textbooks/understanding-analysis"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Sequence and Series Visualizations",
+        "url": "https://www.desmos.com/calculator"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Real Analysis: Sequences, Series, and Continuity",
+      "description": "Master rigorous definitions, convergence, and continuity in real analysis.",
+      "tasks": [
+        "Prove convergence of 10 sequences using epsilon-N definition",
+        "Apply convergence tests to 15 infinite series",
+        "Prove continuity of 10 functions using epsilon-delta definition",
+        "Prove uniform continuity for 5 functions",
+        "Apply Intermediate Value Theorem to solve problems",
+        "Apply Extreme Value Theorem to find extrema",
+        "Prove differentiability using limit definition",
+        "Analyze convergence of power series",
+        "Prove properties of continuous functions",
+        "Write rigorous proofs of fundamental theorems"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "A sequence {aₙ} converges to L if:",
+      "type": "multiple-choice",
+      "options": [
+        "For every ε > 0, there exists N such that |aₙ - L| < ε for all n > N",
+        "aₙ gets close to L",
+        "aₙ = L for large n",
+        "The sequence is bounded"
+      ],
+      "correctAnswer": 0,
+      "explanation": "This is the rigorous epsilon-N definition of convergence: for any tolerance ε, terms eventually stay within ε of L."
+    },
+    {
+      "question": "The series Σ(1/n) (harmonic series):",
+      "type": "multiple-choice",
+      "options": [
+        "Diverges",
+        "Converges to 1",
+        "Converges to 0",
+        "Converges to e"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The harmonic series Σ(1/n) diverges, despite terms approaching zero. This can be proven using the integral test."
+    },
+    {
+      "question": "If f is continuous on [a, b], then f:",
+      "type": "multiple-choice",
+      "options": [
+        "Attains maximum and minimum values on [a, b]",
+        "Is always differentiable",
+        "Is always increasing",
+        "Has no discontinuities"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Extreme Value Theorem guarantees continuous functions on closed intervals attain maximum and minimum values."
+    },
+    {
+      "question": "Every continuous function is uniformly continuous.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Continuity on a closed interval implies uniform continuity, but on open intervals, functions can be continuous but not uniformly continuous (e.g., 1/x on (0,1))."
+    },
+    {
+      "question": "The ratio test determines convergence by examining:",
+      "type": "multiple-choice",
+      "options": [
+        "lim |aₙ₊₁/aₙ|",
+        "lim aₙ",
+        "The sum of terms",
+        "The number of terms"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The ratio test examines lim |aₙ₊₁/aₙ|: if < 1, converges; if > 1, diverges; if = 1, test is inconclusive."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1574170275470-a717198122c8?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Sequence": "Ordered list of real numbers {aₙ} = a₁, a₂, a₃, ... Can converge (approach limit) or diverge (no limit).",
+      "Convergence (ε-N Definition)": "Sequence {aₙ} converges to L if for every ε > 0, there exists N such that |aₙ - L| < ε for all n > N. Formalizes 'approaching' limit.",
+      "Monotone Sequence": "Always increasing (aₙ ≤ aₙ₊₁) or always decreasing (aₙ ≥ aₙ₊₁). Monotone Convergence Theorem: bounded monotone sequences converge.",
+      "Series": "Sum of sequence terms: Σₙ₌₁^∞ aₙ = a₁ + a₂ + a₃ + ... Converges if sequence of partial sums converges.",
+      "Absolute Convergence": "Series Σ|aₙ| converges. Implies convergence of Σaₙ. Conditionally convergent: Σaₙ converges but Σ|aₙ| diverges.",
+      "Ratio Test": "For series Σaₙ, if lim |aₙ₊₁/aₙ| = L: L < 1 converges, L > 1 diverges, L = 1 inconclusive.",
+      "Uniform Continuity": "f is uniformly continuous on S if for every ε > 0, there exists δ > 0 such that |f(x) - f(y)| < ε whenever |x - y| < δ for all x,y in S. Stronger than pointwise continuity.",
+      "Bolzano-Weierstrass Theorem": "Every bounded sequence has a convergent subsequence. Fundamental for proving existence results."
+    },
+    "keyConcepts": [
+      "Sequences converge if terms get arbitrarily close to limit for large n",
+      "Monotone bounded sequences always converge (no oscillation)",
+      "Series convergence depends on behavior of partial sums",
+      "Absolute convergence is stronger: rearrangements don't change sum",
+      "Uniform continuity ensures continuity holds uniformly across entire domain"
+    ],
+    "stepByStepExplanations": [
+      "**Proving Convergence:** Prove {1/n} → 0: Step 1) Given ε > 0, need N such that |1/n - 0| < ε for n > N. Step 2) |1/n| = 1/n < ε means n > 1/ε. Step 3) Choose N = ⌈1/ε⌉. Step 4) For n > N: |1/n| < ε. ✓",
+      "**Monotone Convergence:** {1 - 1/n}: Step 1) Sequence: 0, 1/2, 2/3, 3/4, ... Step 2) Increasing: 1 - 1/n < 1 - 1/(n+1). Step 3) Bounded above by 1. Step 4) By theorem, converges to 1.",
+      "**Ratio Test:** Σ n!/2ⁿ: Step 1) aₙ = n!/2ⁿ. Step 2) |aₙ₊₁/aₙ| = |(n+1)!/2ⁿ⁺¹| / |n!/2ⁿ| = (n+1)/2. Step 3) lim (n+1)/2 = ∞. Step 4) Since limit > 1, series diverges.",
+      "**Uniform Continuity:** f(x) = x² on [0,1]: Step 1) Given ε > 0, need δ such that |x² - y²| < ε when |x-y| < δ. Step 2) |x² - y²| = |x-y||x+y| ≤ 2|x-y| (since x,y ∈ [0,1]). Step 3) Choose δ = ε/2. Step 4) Then |x² - y²| < ε. Uniformly continuous on [0,1]."
+    ],
+    "examples": [
+      "**Convergent Sequence:** {1/n} = 1, 1/2, 1/3, 1/4, ...\n   Converges to 0\n   For ε = 0.01, need n > 100\n   Terms get arbitrarily close to 0",
+      "**Divergent Sequence:** {(-1)ⁿ} = -1, 1, -1, 1, ...\n   Oscillates between -1 and 1\n   No single limit\n   Diverges",
+      "**Geometric Series:** Σ rⁿ = 1 + r + r² + ...\n   Converges if |r| < 1\n   Sum = 1/(1-r)\n   Diverges if |r| ≥ 1",
+      "**Harmonic Series:** Σ 1/n = 1 + 1/2 + 1/3 + ...\n   Diverges (slowly)\n   Partial sums grow like ln(n)\n   Classic example of divergence"
+    ],
+    "realLifeApplications": [
+      "**Numerical Methods:** Sequences approximate solutions: Newton's method generates sequence converging to root. Convergence analysis ensures accuracy. Used in scientific computing and engineering.",
+      "**Financial Mathematics:** Series model present values: PV = Σ C/(1+r)ⁿ. Convergence ensures finite value. Infinite series calculate perpetuities. Essential in finance.",
+      "**Signal Processing:** Fourier series represent periodic signals as infinite sums. Convergence ensures accurate representation. Uniform convergence guarantees smooth approximations.",
+      "**Physics:** Series solutions to differential equations. Power series represent functions. Convergence radius determines validity. Used in quantum mechanics and fluid dynamics."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A number line showing sequence terms approaching limit L, with ε-band around L and N marked, demonstrating how terms eventually stay within ε of limit.",
+      "A graph showing partial sums of a series, with the sequence of partial sums converging to a limit, demonstrating series convergence.",
+      "A comparison diagram showing pointwise vs. uniform continuity: pointwise allows δ to depend on point, uniform requires single δ for all points."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=YNstP0ESndU"
+}

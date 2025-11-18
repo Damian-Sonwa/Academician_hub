@@ -1,0 +1,157 @@
+{
+  "topic": "British Literature: From Beowulf to Modern Times",
+  "detailedSummary": "British literature spans over a millennium, reflecting England's evolving culture, language, and society. Old English literature (450-1100) includes Beowulf, an epic poem in alliterative verse. Middle English (1100-1500) produced Geoffrey Chaucer's The Canterbury Tales, written in the vernacular. The Renaissance (1500-1660) saw the flowering of English drama and poetry: William Shakespeare's plays, Edmund Spenser's The Faerie Queene, and the sonnets of Shakespeare and others. The Restoration and 18th Century (1660-1798) featured satire (Jonathan Swift, Alexander Pope), the novel's emergence (Daniel Defoe's Robinson Crusoe, Samuel Richardson's Pamela), and neoclassical ideals. Romanticism (1798-1832) emphasized emotion and nature: William Wordsworth, Samuel Taylor Coleridge, Lord Byron, Percy Bysshe Shelley, John Keats, and Mary Shelley's Frankenstein. The Victorian Era (1832-1901) produced great novels: Charles Dickens's social critiques, the Brontë sisters' gothic romances, George Eliot's psychological realism. Modernism (1900-1945) broke traditional forms: Virginia Woolf's stream-of-consciousness, James Joyce's experimental techniques, T.S. Eliot's The Waste Land. Post-war literature (1945-present) includes diverse voices: George Orwell's dystopian visions, Salman Rushdie's magical realism, and contemporary authors exploring identity, postcolonial themes, and global perspectives. Major themes include: class and social change, individual vs. society, nature and industrialization, and the human condition. Understanding British literature provides insight into English history, language development, and cultural values that influenced world literature.",
+  "whyItMatters": "British literature is foundational to English literary tradition - understanding its evolution provides cultural literacy, historical insight, and appreciation for the development of English language and literature.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Literature Analysis | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Literature | Crash Course",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Shakespeare | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "British Literature - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/english"
+      },
+      {
+        "title": "Project Gutenberg - Free Classic British Literature",
+        "url": "https://www.gutenberg.org/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "British Library - Digital Collections",
+        "url": "https://www.bl.uk/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "British Literature: From Beowulf to Modern Times",
+      "description": "Read and analyze major works of British literature across historical periods.",
+      "tasks": [
+        "Read one work from each major British literary period",
+        "Analyze how language evolved from Old English to Modern English",
+        "Write comparative essays on works from different periods",
+        "Research historical context for 5 British literary works",
+        "Analyze how British literature reflects social and political changes",
+        "Examine themes of class, society, and individual identity",
+        "Compare Romantic and Victorian approaches to nature",
+        "Analyze Modernist techniques and their purposes",
+        "Create a timeline of British literary history with key works",
+        "Write a research paper on a major British author or movement"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Beowulf is an example of:",
+      "type": "multiple-choice",
+      "options": [
+        "Old English epic poetry",
+        "Middle English romance",
+        "Renaissance drama",
+        "Victorian novel"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Beowulf is an Old English epic poem (c. 700-1000 AD), written in alliterative verse, telling the story of a heroic warrior."
+    },
+    {
+      "question": "Who wrote The Canterbury Tales?",
+      "type": "multiple-choice",
+      "options": [
+        "Geoffrey Chaucer",
+        "William Shakespeare",
+        "John Milton",
+        "Geoffrey of Monmouth"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Geoffrey Chaucer wrote The Canterbury Tales (late 1300s), a collection of stories told by pilgrims, written in Middle English."
+    },
+    {
+      "question": "Which period emphasized emotion, nature, and the individual?",
+      "type": "multiple-choice",
+      "options": [
+        "Romanticism",
+        "Neoclassicism",
+        "Victorian",
+        "Modernism"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Romanticism (1798-1832) emphasized emotion, nature, imagination, and the individual, reacting against neoclassical reason and order."
+    },
+    {
+      "question": "The Victorian era was characterized by social stability and no change.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. The Victorian era (1832-1901) was a time of rapid social change: industrialization, urbanization, class tensions, and debates about women's roles."
+    },
+    {
+      "question": "Which author is known for stream-of-consciousness technique?",
+      "type": "multiple-choice",
+      "options": [
+        "Virginia Woolf",
+        "Charles Dickens",
+        "Jane Austen",
+        "William Wordsworth"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Virginia Woolf used stream-of-consciousness technique, presenting characters' inner thoughts and perceptions in a flowing, unbroken narrative style."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Plot": "The sequence of events in a story.",
+      "Character": "A person, animal, or entity in a story.",
+      "Theme": "The central message or insight about life that the author conveys."
+    },
+    "keyConcepts": [
+      "British literature spans over a millennium, reflecting England's evolving culture, language, and soc...",
+      "Old English literature (450-1100) includes Beowulf, an epic poem in alliterative verse",
+      "Middle English (1100-1500) produced Geoffrey Chaucer's The Canterbury Tales, written in the vernacul...",
+      "The Renaissance (1500-1660) saw the flowering of English drama and poetry: William Shakespeare's pla...",
+      "The Restoration and 18th Century (1660-1798) featured satire (Jonathan Swift, Alexander Pope), the n..."
+    ],
+    "stepByStepExplanations": [
+      "**Understanding british:** British literature spans over a millennium, reflecting England's evolving culture, language, and society. Old English literature (450-1100) includes B...",
+      "**Applying concepts:** Practice with examples specific to British Literature: From Beowulf to Modern Times.",
+      "**Mastering skills:** Develop proficiency through structured exercises."
+    ],
+    "examples": [
+      "**Example 1:** A practical illustration of british in action.",
+      "**Example 2:** Another scenario demonstrating literature.",
+      "**Example 3:** A real-world application of beowulf."
+    ],
+    "realLifeApplications": [
+      "**Academic Context:** British Literature: From Beowulf to Modern Times is essential for academic success and scholarly work.",
+      "**Professional Use:** These skills apply directly to professional communication and analysis.",
+      "**Personal Development:** Understanding British Literature: From Beowulf to Modern Times enhances critical thinking and expression."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram illustrating key concepts of British Literature: From Beowulf to Modern Times.",
+      "A flowchart showing the process and relationships in British Literature: From Beowulf to Modern Times."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

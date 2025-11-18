@@ -1,0 +1,41 @@
+{
+  "subject": "Physics",
+  "levels": {
+    "Secondary": [
+      "Introduction to Physics: Measurements and Units",
+      "Motion in One Dimension: Position, Velocity, Acceleration",
+      "Motion in Two Dimensions: Projectile Motion",
+      "Forces and Newton's Laws of Motion",
+      "Work, Energy, and Power",
+      "Momentum and Collisions",
+      "Circular Motion and Gravitation",
+      "Rotational Motion and Torque",
+      "Mechanical Waves and Sound",
+      "Thermodynamics: Heat, Temperature, and Laws",
+      "Electric Charge, Fields, and Forces",
+      "Electric Current, Circuits, and Resistance",
+      "Magnetism and Electromagnetic Induction",
+      "Light and Optics: Reflection, Refraction, Lenses",
+      "Modern Physics: Quantum Mechanics and Relativity"
+    ],
+    "Advanced": [
+      "Classical Mechanics: Lagrangian and Hamiltonian Formulations",
+      "Electromagnetism: Maxwell's Equations and Electromagnetic Waves",
+      "Quantum Mechanics: Wave Functions and Schrödinger Equation",
+      "Statistical Mechanics and Thermodynamics",
+      "Special and General Relativity",
+      "Particle Physics: Standard Model and Fundamental Forces",
+      "Nuclear Physics: Radioactivity and Nuclear Reactions",
+      "Solid State Physics: Crystals and Semiconductors",
+      "Optics: Wave Optics, Interference, and Diffraction",
+      "Astrophysics: Stellar Evolution and Cosmology",
+      "Fluid Mechanics and Aerodynamics",
+      "Mathematical Methods in Physics",
+      "Computational Physics and Simulations",
+      "Experimental Physics: Data Analysis and Error Propagation",
+      "Advanced Topics: String Theory and Quantum Field Theory"
+    ]
+  }
+}
+
+

@@ -1,0 +1,108 @@
+{
+  "course": "webdevelopment",
+  "level": "intermediate",
+  "week": 1,
+  "topic": "Advanced JavaScript",
+  "summary": "Master advanced JavaScript concepts including ES6+ features. Learn arrow functions, destructuring, spread operator, and template literals. Study closures, higher-order functions, and functional programming concepts. Understand promises, async/await, and error handling. Explore modules and how to organize code. Practice writing modern, efficient JavaScript code.\n\nThis topic provides essential knowledge for understanding webdev at the Secondary level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Advanced JavaScript. The material is designed to build a strong foundation for further learning and practical application in real-world contexts. This topic provides comprehensive coverage essential for understanding webdev at the intermediate level. Through detailed study, students will gain deep insights into the concepts, principles, and real-world applications. The material is designed to build a strong foundation for further learning and practical application in various contexts.",
+  "why_it_matters": "This programming/technology topic provides practical skills highly sought after in the job market and enables you to build real-world applications and solve technical problems.",
+  "materials": {
+    "videos": [
+      {
+        "title": "ES6+ Features - Traversy Media",
+        "url": "https://youtu.be/nZ1DMMsyVyI"
+      },
+      {
+        "title": "Advanced JavaScript - freeCodeCamp",
+        "url": "https://youtu.be/R8rmfD9Y5-c"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "ES6 Guide - MDN",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla"
+      },
+      {
+        "title": "JavaScript.info - Advanced Topics",
+        "url": "https://javascript.info/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "JavaScript Practice - CodePen",
+        "url": "https://codepen.io/"
+      },
+      {
+        "title": "Advanced Exercises",
+        "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Research Assignment: Advanced JavaScript",
+      "description": "Complete a research assignment exploring key concepts related to Advanced JavaScript.",
+      "tasks": [
+        "Read the assigned textbook chapters and online resources about Advanced JavaScript",
+        "Identify and explain at least three key concepts from the topic",
+        "Find one real-world example or application of these concepts",
+        "Write a 300-500 word summary explaining your findings",
+        "Include at least two credible sources in your research"
+      ]
+    },
+    {
+      "title": "Practical Exercise: Advanced JavaScript",
+      "description": "Apply your understanding of Advanced JavaScript through hands-on activities.",
+      "tasks": [
+        "Complete the lab exercises or simulations related to Advanced JavaScript",
+        "Document your observations and findings in a lab report",
+        "Answer the reflection questions about what you learned",
+        "Create a visual representation (diagram, chart, or model) of key concepts",
+        "Present your findings to the class or submit a written report"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary focus of Advanced JavaScript?",
+      "options": [
+        "Understanding fundamental concepts of Advanced JavaScript",
+        "Memorizing facts without context",
+        "Avoiding practical applications",
+        "Focusing only on advanced topics"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+    },
+    {
+      "question": "Which of the following best describes the importance of Advanced JavaScript?",
+      "options": [
+        "It provides essential knowledge for understanding webdev",
+        "It is only relevant for advanced students",
+        "It has no real-world applications",
+        "It is purely theoretical without practical value"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "This topic provides essential foundational knowledge that is crucial for understanding webdev and has practical applications in real-world contexts."
+    },
+    {
+      "question": "Advanced JavaScript is an important topic for understanding webdev at the Secondary level.",
+      "answer": true,
+      "type": "true-false",
+      "explanation": "This statement is true. Advanced JavaScript provides fundamental knowledge that is essential for building a strong understanding of webdev."
+    },
+    {
+      "question": "The concepts in Advanced JavaScript have no practical applications in real life.",
+      "answer": false,
+      "type": "true-false",
+      "explanation": "This statement is false. The concepts in Advanced JavaScript have numerous practical applications in various fields and everyday life."
+    },
+    {
+      "question": "The study of Advanced JavaScript helps students understand the fundamental principles of ______.",
+      "answer": "webdev",
+      "type": "fill-in-the-blank",
+      "explanation": "The correct answer is \"webdev\". Advanced JavaScript is a key component of webdev that helps students understand fundamental principles in this field."
+    }
+  ]
+}

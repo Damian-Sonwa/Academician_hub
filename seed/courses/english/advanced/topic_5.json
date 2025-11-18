@@ -1,0 +1,157 @@
+{
+  "topic": "Shakespeare: Advanced Analysis and Performance",
+  "detailedSummary": "Advanced Shakespeare study involves deep textual analysis, performance interpretation, and understanding his works' enduring cultural significance. Close reading examines: verse vs. prose (social class indicators), meter variations (iambic pentameter with substitutions), wordplay (puns, double entendres), imagery patterns, and structural choices (scene construction, act divisions). Performance analysis considers: staging possibilities, character interpretation, blocking (movement), delivery choices, and how different productions reveal different meanings. The same play can be interpreted in countless ways: setting (original period vs. modern), tone (tragic vs. comedic elements), and character motivations. Major plays for advanced study include: the great tragedies (Hamlet, King Lear, Macbeth, Othello), problem plays (Measure for Measure, Troilus and Cressida), late romances (The Tempest, The Winter's Tale), and the sonnets. The sonnets (154 poems) explore themes of love, time, beauty, and mortality in complex ways. Advanced analysis examines: sources and influences, textual variants (different versions of plays), performance history, critical reception over time, and adaptations. Shakespeare's language continues to influence English: many phrases originate from his works. Understanding Shakespeare at an advanced level reveals his mastery of language, psychological insight, and ability to explore fundamental human questions. Performance brings texts to life, showing how interpretation creates meaning. Advanced study connects Shakespeare to contemporary issues, demonstrating his works' timeless relevance.",
+  "whyItMatters": "Advanced Shakespeare study reveals mastery of language and human psychology - understanding his works deeply provides insight into literature, performance, and enduring human themes.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Literature Analysis | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Literature | Crash Course",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Shakespeare | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Shakespeare's Complete Works - MIT Shakespeare",
+        "url": "https://shakespeare.mit.edu/"
+      },
+      {
+        "title": "Folger Shakespeare Library - Advanced Resources",
+        "url": "https://www.folger.edu/shakespeare"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Shakespeare Performance Archive - Folger Library",
+        "url": "https://www.folger.edu/shakespeare"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Shakespeare: Advanced Analysis and Performance",
+      "description": "Conduct advanced analysis and performance interpretation of Shakespeare's works.",
+      "tasks": [
+        "Perform close reading analysis of 3 major Shakespeare plays",
+        "Compare different productions of the same play",
+        "Analyze Shakespeare's use of verse and prose",
+        "Examine character development across a play",
+        "Write performance reviews comparing interpretations",
+        "Analyze Shakespeare's sonnets for themes and techniques",
+        "Research performance history of a play",
+        "Create a director's concept for staging a scene",
+        "Analyze how adaptations update Shakespeare for modern audiences",
+        "Write a comprehensive research paper on a Shakespeare play or theme"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "In Shakespeare, verse vs. prose often indicates:",
+      "type": "multiple-choice",
+      "options": [
+        "Social class and formality",
+        "Only time of day",
+        "Only location",
+        "Nothing significant"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Shakespeare often uses verse for nobles and formal situations, while prose is used for lower-class characters and informal scenes, though there are exceptions."
+    },
+    {
+      "question": "Shakespeare's sonnets total:",
+      "type": "multiple-choice",
+      "options": [
+        "154",
+        "14",
+        "100",
+        "50"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Shakespeare wrote 154 sonnets, exploring themes of love, time, beauty, and mortality in 14-line poems."
+    },
+    {
+      "question": "A director's concept refers to:",
+      "type": "multiple-choice",
+      "options": [
+        "The overall interpretation and vision for a production",
+        "Only the set design",
+        "Only the costumes",
+        "The original text only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A director's concept is the overall interpretive vision that guides all production choices—setting, costumes, acting style, themes emphasized."
+    },
+    {
+      "question": "There is only one correct way to interpret a Shakespeare play.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Shakespeare's plays are rich and complex, allowing multiple valid interpretations. Different productions reveal different aspects and meanings."
+    },
+    {
+      "question": "Iambic pentameter substitutions:",
+      "type": "multiple-choice",
+      "options": [
+        "Vary the rhythm for emphasis or character",
+        "Are always mistakes",
+        "Never occur in Shakespeare",
+        "Only appear in prose"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Shakespeare frequently substitutes different metrical feet (trochees, spondees) within iambic pentameter to create emphasis, indicate emotion, or characterize speech."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Blank Verse": "Unrhymed iambic pentameter, Shakespeare's primary verse form.",
+      "Soliloquy": "A speech where a character speaks thoughts aloud, typically alone on stage.",
+      "Pun": "Wordplay exploiting multiple meanings of words."
+    },
+    "keyConcepts": [
+      "Advanced Shakespeare study involves deep textual analysis, performance interpretation, and understan...",
+      "Close reading examines: verse vs",
+      "prose (social class indicators), meter variations (iambic pentameter with substitutions), wordplay (...",
+      "Performance analysis considers: staging possibilities, character interpretation, blocking (movement)...",
+      "The same play can be interpreted in countless ways: setting (original period vs"
+    ],
+    "stepByStepExplanations": [
+      "**Understanding shakespeare:** Advanced Shakespeare study involves deep textual analysis, performance interpretation, and understanding his works' enduring cultural significance. Cl...",
+      "**Applying concepts:** Practice with examples specific to Shakespeare: Advanced Analysis and Performance.",
+      "**Mastering skills:** Develop proficiency through structured exercises."
+    ],
+    "examples": [
+      "**Example 1:** A practical illustration of shakespeare in action.",
+      "**Example 2:** Another scenario demonstrating advanced.",
+      "**Example 3:** A real-world application of analysis."
+    ],
+    "realLifeApplications": [
+      "**Academic Context:** Shakespeare: Advanced Analysis and Performance is essential for academic success and scholarly work.",
+      "**Professional Use:** These skills apply directly to professional communication and analysis.",
+      "**Personal Development:** Understanding Shakespeare: Advanced Analysis and Performance enhances critical thinking and expression."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram illustrating key concepts of Shakespeare: Advanced Analysis and Performance.",
+      "A flowchart showing the process and relationships in Shakespeare: Advanced Analysis and Performance."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

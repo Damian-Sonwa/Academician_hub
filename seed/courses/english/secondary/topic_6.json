@@ -1,0 +1,157 @@
+{
+  "topic": "American Literature: Major Authors and Movements",
+  "detailedSummary": "American literature reflects the nation's history, values, and evolving identity. The Colonial Period (1600s-1700s) featured religious writings and captivity narratives. The Revolutionary Period (late 1700s) produced political documents and Enlightenment thinking. Romanticism (early 1800s) emphasized emotion, nature, and individualism, with authors like Washington Irving, Edgar Allan Poe, and Nathaniel Hawthorne. The American Renaissance (mid-1800s) produced masterworks: Herman Melville's Moby-Dick, Walt Whitman's Leaves of Grass, and Emily Dickinson's innovative poetry. Realism (late 1800s) depicted ordinary life accurately: Mark Twain's Adventures of Huckleberry Finn, Henry James's psychological novels. Naturalism (late 1800s-early 1900s) showed deterministic forces: Stephen Crane, Theodore Dreiser. Modernism (early-mid 1900s) broke traditional forms: F. Scott Fitzgerald's The Great Gatsby, Ernest Hemingway's minimalist style, William Faulkner's stream-of-consciousness. The Harlem Renaissance (1920s-1930s) celebrated African American culture: Langston Hughes, Zora Neale Hurston. Postmodernism (mid-late 1900s) questioned reality and authority: Thomas Pynchon, Toni Morrison. Contemporary literature (late 1900s-present) explores diverse voices and identities. Major themes include: the American Dream, individualism vs. community, race and identity, nature and wilderness, and the search for meaning. Understanding American literature provides insight into American culture, history, and the ongoing conversation about what it means to be American.",
+  "whyItMatters": "American literature reflects and shapes national identity - understanding major authors and movements provides cultural literacy and insight into American history, values, and diverse perspectives.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Literature Analysis | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Literature | Crash Course",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Shakespeare | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "American Literature - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/english"
+      },
+      {
+        "title": "The American Yawp - Free Online Textbook",
+        "url": "https://www.americanyawp.com/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "American Literature Resources - Library of Congress",
+        "url": "https://www.loc.gov/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "American Literature: Major Authors and Movements",
+      "description": "Read and analyze major works of American literature across different periods.",
+      "tasks": [
+        "Read one work from each major American literary movement",
+        "Write analyses comparing how different periods address similar themes",
+        "Research historical context for 5 American literary works",
+        "Analyze how American literature reflects social and political changes",
+        "Write character analyses of protagonists from different periods",
+        "Compare treatments of the American Dream across authors",
+        "Examine how race and identity are explored in American literature",
+        "Create a timeline of American literary movements with key authors",
+        "Write a research paper on a major American author",
+        "Present on how a literary work influenced or reflected American culture"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Which movement emphasized emotion, nature, and individualism in early 1800s America?",
+      "type": "multiple-choice",
+      "options": [
+        "Romanticism",
+        "Realism",
+        "Modernism",
+        "Postmodernism"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Romanticism (early 1800s) emphasized emotion, nature, individualism, and the supernatural, reacting against Enlightenment rationalism."
+    },
+    {
+      "question": "Who wrote The Great Gatsby?",
+      "type": "multiple-choice",
+      "options": [
+        "F. Scott Fitzgerald",
+        "Ernest Hemingway",
+        "William Faulkner",
+        "John Steinbeck"
+      ],
+      "correctAnswer": 0,
+      "explanation": "F. Scott Fitzgerald wrote The Great Gatsby (1925), a quintessential Modernist novel exploring the American Dream."
+    },
+    {
+      "question": "The Harlem Renaissance was:",
+      "type": "multiple-choice",
+      "options": [
+        "A celebration of African American culture in the 1920s-1930s",
+        "A political movement",
+        "A European literary movement",
+        "A 19th-century movement"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Harlem Renaissance (1920s-1930s) was a flowering of African American arts, literature, music, and culture centered in Harlem, New York."
+    },
+    {
+      "question": "Realism in American literature always had happy endings.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Realism depicted life accurately, including hardships and complexities, without necessarily providing happy resolutions."
+    },
+    {
+      "question": "Which author is associated with stream-of-consciousness technique?",
+      "type": "multiple-choice",
+      "options": [
+        "William Faulkner",
+        "Mark Twain",
+        "Nathaniel Hawthorne",
+        "Walt Whitman"
+      ],
+      "correctAnswer": 0,
+      "explanation": "William Faulkner used stream-of-consciousness technique, presenting characters' thoughts and feelings in a flowing, unbroken narrative style."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Plot": "The sequence of events in a story.",
+      "Character": "A person, animal, or entity in a story.",
+      "Theme": "The central message or insight about life that the author conveys."
+    },
+    "keyConcepts": [
+      "American literature reflects the nation's history, values, and evolving identity",
+      "The Colonial Period (1600s-1700s) featured religious writings and captivity narratives",
+      "The Revolutionary Period (late 1700s) produced political documents and Enlightenment thinking",
+      "Romanticism (early 1800s) emphasized emotion, nature, and individualism, with authors like Washingto...",
+      "The American Renaissance (mid-1800s) produced masterworks: Herman Melville's Moby-Dick, Walt Whitman..."
+    ],
+    "stepByStepExplanations": [
+      "**Understanding american:** American literature reflects the nation's history, values, and evolving identity. The Colonial Period (1600s-1700s) featured religious writings and ca...",
+      "**Applying concepts:** Practice with examples specific to American Literature: Major Authors and Movements.",
+      "**Mastering skills:** Develop proficiency through structured exercises."
+    ],
+    "examples": [
+      "**Example 1:** A practical illustration of american in action.",
+      "**Example 2:** Another scenario demonstrating literature.",
+      "**Example 3:** A real-world application of major."
+    ],
+    "realLifeApplications": [
+      "**Academic Context:** American Literature: Major Authors and Movements is essential for academic success and scholarly work.",
+      "**Professional Use:** These skills apply directly to professional communication and analysis.",
+      "**Personal Development:** Understanding American Literature: Major Authors and Movements enhances critical thinking and expression."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram illustrating key concepts of American Literature: Major Authors and Movements.",
+      "A flowchart showing the process and relationships in American Literature: Major Authors and Movements."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

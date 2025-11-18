@@ -1,0 +1,87 @@
+{
+  "topic": "CSS Grid and Advanced Layout Techniques",
+  "detailedSummary": "CSS Grid is a powerful two-dimensional layout system that allows you to create complex layouts with rows and columns. Unlike flexbox, Grid can control both dimensions simultaneously. Grid containers use display: grid and define the layout structure. Grid-template-columns and grid-template-rows define the size of columns and rows. The fr unit represents a fraction of available space. Grid areas allow you to name sections of the grid for easier placement. Grid items can span multiple rows or columns using grid-column and grid-row. The gap property adds spacing between grid items. Grid enables responsive layouts without media queries by using auto-fit and minmax. Advanced techniques include subgrid (nesting grids), grid alignment properties, and implicit vs explicit grids. Grid is ideal for page layouts, card grids, and complex two-dimensional designs. Understanding Grid complements flexbox knowledge and provides powerful tools for modern web layout.",
+  "whyItMatters": "CSS Grid is essential for creating complex, responsive layouts efficiently - it's the modern standard for two-dimensional web layouts and significantly simplifies page structure.",
+  "materials": {
+    "videos": [
+      {
+        "title": "CSS Tutorial | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "CSS Basics | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "CSS | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "CSS Grid Complete Guide",
+        "url": "https://css-tricks.com/snippets/css/complete-guide-grid/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "CSS Grid Layout Builder",
+        "url": "https://codepen.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Build a Grid-Based Layout",
+      "description": "Create a complex page layout using CSS Grid, demonstrating two-dimensional layout capabilities.",
+      "tasks": [
+        "Create a grid container with multiple rows and columns",
+        "Use grid-template-areas to define a named layout structure",
+        "Place items using grid-area, grid-column, and grid-row",
+        "Create a responsive grid that adapts using auto-fit and minmax",
+        "Write a comparison of when to use Grid vs Flexbox for different layout scenarios"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the main difference between CSS Grid and Flexbox?",
+      "type": "multiple-choice",
+      "options": [
+        "Grid is one-dimensional, Flexbox is two-dimensional",
+        "Grid is two-dimensional, Flexbox is one-dimensional",
+        "They are the same",
+        "Grid is older than Flexbox"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CSS Grid is two-dimensional (rows and columns simultaneously), while Flexbox is one-dimensional (either rows OR columns)."
+    },
+    {
+      "question": "The fr unit in CSS Grid stands for 'fraction' and represents a fraction of the available space.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. The fr (fraction) unit represents a fraction of the free space in the grid container, making it easy to create flexible, proportional layouts."
+    },
+    {
+      "question": "Which CSS Grid property defines named areas for layout?",
+      "type": "multiple-choice",
+      "options": [
+        "grid-template-columns",
+        "grid-template-areas",
+        "grid-gap",
+        "grid-auto-flow"
+      ],
+      "correctAnswer": 1,
+      "explanation": "grid-template-areas allows you to define named grid areas, making it easier to place items by name rather than line numbers."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

@@ -1,0 +1,87 @@
+{
+  "topic": "Asynchronous JavaScript: Promises, Async/Await, and Fetch API",
+  "detailedSummary": "Asynchronous JavaScript handles operations that take time (like API calls, file reading, or timers) without blocking code execution. Callbacks were the original approach but lead to callback hell. Promises represent eventual completion of async operations with states: pending, fulfilled, or rejected. Promise methods include .then() for success, .catch() for errors, and .finally() for cleanup. Promise.all() runs multiple promises in parallel. Async/await provides synchronous-looking syntax for promises, making async code more readable. The async keyword marks functions that return promises. await pauses execution until a promise resolves. Error handling uses try/catch blocks. The Fetch API makes HTTP requests and returns promises. Response methods like .json() parse data. Understanding async JavaScript is crucial for building modern web applications that interact with APIs, databases, and handle user interactions without freezing the UI.",
+  "whyItMatters": "Asynchronous JavaScript is essential for modern web apps - it enables non-blocking operations, API interactions, and responsive user interfaces that don't freeze during data loading.",
+  "materials": {
+    "videos": [
+      {
+        "title": "JavaScript Tutorial | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "JavaScript Basics | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "JavaScript | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Asynchronous JavaScript Guide",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Async JavaScript Practice",
+        "url": "https://codepen.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Build Async Applications",
+      "description": "Create applications using promises, async/await, and the Fetch API to handle asynchronous operations.",
+      "tasks": [
+        "Use promises to handle asynchronous operations and chain multiple async tasks",
+        "Refactor promise-based code to use async/await syntax",
+        "Use Fetch API to make HTTP requests and handle responses",
+        "Implement error handling for async operations using try/catch",
+        "Build a small application that fetches data from an API and displays it dynamically"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the main advantage of async/await over promises?",
+      "type": "multiple-choice",
+      "options": [
+        "It's faster",
+        "It provides synchronous-looking syntax that's easier to read and debug",
+        "It doesn't require error handling",
+        "It only works with Fetch API"
+      ],
+      "correctAnswer": 1,
+      "explanation": "async/await provides synchronous-looking syntax that makes asynchronous code easier to read, write, and debug compared to promise chains."
+    },
+    {
+      "question": "Promise.all() waits for all promises to resolve and returns an array of results, or rejects if any promise rejects.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Promise.all() runs promises in parallel and resolves with an array of all results, but rejects immediately if any promise rejects."
+    },
+    {
+      "question": "What does the Fetch API return?",
+      "type": "multiple-choice",
+      "options": [
+        "Direct JSON data",
+        "A Promise that resolves to a Response object",
+        "A callback function",
+        "Synchronous data"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fetch API returns a Promise that resolves to a Response object, which must be processed (e.g., with .json()) to extract the actual data."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

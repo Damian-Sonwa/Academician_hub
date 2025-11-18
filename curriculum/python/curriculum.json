@@ -1,0 +1,43 @@
+{
+  "subject": "Python Programming",
+  "levels": {
+    "Basic": [
+      "Introduction to Python: Setup and First Programs",
+      "Variables, Data Types, and Basic Operations",
+      "Control Flow: Conditionals and Loops",
+      "Functions: Definition, Parameters, and Return Values",
+      "Data Structures: Lists, Tuples, and Dictionaries",
+      "String Manipulation and Formatting",
+      "File Handling: Reading and Writing Files",
+      "Error Handling: Try-Except and Exception Types",
+      "Modules and Packages: Importing and Using Libraries",
+      "Introduction to Object-Oriented Programming: Classes and Objects"
+    ],
+    "Secondary": [
+      "Advanced OOP: Inheritance, Polymorphism, and Encapsulation",
+      "Decorators and Generators",
+      "List Comprehensions and Functional Programming",
+      "Working with APIs: Requests and JSON",
+      "Database Programming: SQLite and SQLAlchemy",
+      "Web Scraping: BeautifulSoup and Selenium",
+      "Data Analysis: NumPy and Pandas Basics",
+      "Data Visualization: Matplotlib and Seaborn",
+      "Testing: Unit Testing with pytest",
+      "Project: Building a Complete Application"
+    ],
+    "Advanced": [
+      "Advanced Python: Metaclasses and Descriptors",
+      "Concurrency: Threading, Multiprocessing, and AsyncIO",
+      "Advanced Data Structures: Trees, Graphs, and Algorithms",
+      "Machine Learning: Scikit-learn and TensorFlow Basics",
+      "Web Development: Flask and Django Frameworks",
+      "RESTful APIs: Design and Implementation",
+      "Microservices Architecture with Python",
+      "DevOps: CI/CD, Docker, and Deployment",
+      "Performance Optimization: Profiling and Cython",
+      "Advanced Topics: Design Patterns and Best Practices"
+    ]
+  }
+}
+
+

@@ -1,0 +1,161 @@
+{
+  "topic": "Probability and Statistics",
+  "detailedSummary": "Probability quantifies uncertainty, measuring the likelihood that an event will occur. The probability of an event E, written P(E), is a number between 0 and 1, where 0 means impossible and 1 means certain. Basic probability rules include: P(E) = number of favorable outcomes / total number of possible outcomes (for equally likely outcomes), the complement rule P(not E) = 1 - P(E), and the addition rule P(A or B) = P(A) + P(B) - P(A and B). Conditional probability P(A|B) is the probability of A given that B has occurred. Two events are independent if P(A and B) = P(A)·P(B). Statistics involves collecting, organizing, analyzing, and interpreting data. Descriptive statistics summarize data using measures of center (mean, median, mode) and spread (range, standard deviation, variance). The mean is the average, the median is the middle value, and the mode is the most frequent value. Standard deviation measures how spread out data is from the mean. Probability distributions describe the likelihood of different outcomes. The normal distribution (bell curve) is particularly important, with about 68% of data within one standard deviation of the mean. These concepts are essential for making informed decisions, understanding risk, analyzing data in science and business, and drawing conclusions from experiments and surveys.",
+  "whyItMatters": "Probability and statistics enable data-driven decision making, risk assessment, and scientific inference - essential for science, business, medicine, and understanding uncertainty in the world.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Probability and Statistics | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Statistics | Crash Course",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Probability | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Introductory Statistics 2e - OpenStax",
+        "url": "https://openstax.org/details/books/introductory-statistics-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Probability and Statistics Tools - Khan Academy",
+        "url": "https://www.khanacademy.org/math/statistics-probability"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Probability and Statistics",
+      "description": "Master probability calculations, descriptive statistics, and data analysis.",
+      "tasks": [
+        "Calculate probabilities for 15 different scenarios",
+        "Solve problems involving independent and dependent events",
+        "Use conditional probability to solve problems",
+        "Calculate mean, median, and mode for 10 data sets",
+        "Calculate standard deviation and variance",
+        "Create and interpret histograms and box plots",
+        "Solve problems involving the normal distribution",
+        "Analyze real-world data sets using statistical measures",
+        "Design and analyze probability experiments",
+        "Create a statistical study and analyze the results"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the probability of rolling a 6 on a fair six-sided die?",
+      "type": "multiple-choice",
+      "options": [
+        "1/6",
+        "1/2",
+        "1/3",
+        "6"
+      ],
+      "correctAnswer": 0,
+      "explanation": "There is 1 favorable outcome (rolling a 6) out of 6 possible outcomes, so P(6) = 1/6."
+    },
+    {
+      "question": "If P(A) = 0.3 and P(B) = 0.5, and A and B are independent, what is P(A and B)?",
+      "type": "multiple-choice",
+      "options": [
+        "0.15",
+        "0.8",
+        "0.2",
+        "Cannot be determined"
+      ],
+      "correctAnswer": 0,
+      "explanation": "For independent events, P(A and B) = P(A)·P(B) = 0.3 × 0.5 = 0.15."
+    },
+    {
+      "question": "What is the mean of the data set: 5, 7, 9, 11, 13?",
+      "type": "multiple-choice",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "45"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mean = (5 + 7 + 9 + 11 + 13)/5 = 45/5 = 9."
+    },
+    {
+      "question": "The median is always equal to the mean.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. The median and mean are only equal for symmetric distributions. They differ for skewed data."
+    },
+    {
+      "question": "In a normal distribution, approximately what percentage of data falls within one standard deviation of the mean?",
+      "type": "multiple-choice",
+      "options": [
+        "68%",
+        "95%",
+        "99.7%",
+        "50%"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The empirical rule states that about 68% of data in a normal distribution falls within one standard deviation of the mean."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1574170275470-a717198122c8?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Probability": "A number between 0 and 1 measuring likelihood. P(E) = 0 means impossible, P(E) = 1 means certain. P(E) = favorable outcomes / total outcomes.",
+      "Sample Space": "The set of all possible outcomes. For rolling a die: {1, 2, 3, 4, 5, 6}. For coin flip: {H, T}.",
+      "Event": "A subset of the sample space. Example: 'rolling even number' = {2, 4, 6} when rolling a die.",
+      "Mean (Average)": "Sum of all values divided by count. μ = (Σx)/n or x̄ = (Σx)/n. Measures center of data.",
+      "Median": "The middle value when data is ordered. For odd count, middle number; for even, average of two middle numbers.",
+      "Standard Deviation": "Measures spread of data. σ = √[Σ(x - μ)²/n]. Larger σ means more variation. Square root of variance.",
+      "Normal Distribution": "Bell-shaped curve symmetric about mean. 68% within 1σ, 95% within 2σ, 99.7% within 3σ (empirical rule).",
+      "Conditional Probability": "P(A|B) = probability of A given B occurred. Formula: P(A|B) = P(A and B)/P(B)."
+    },
+    "keyConcepts": [
+      "Probability ranges from 0 (impossible) to 1 (certain), with 0.5 meaning equally likely",
+      "Mean measures center (average), median measures middle value, mode is most frequent",
+      "Standard deviation measures spread: larger values indicate more variability",
+      "Normal distribution is symmetric and bell-shaped, following empirical rule",
+      "Independent events: P(A and B) = P(A)·P(B). Mutually exclusive: P(A or B) = P(A) + P(B)"
+    ],
+    "stepByStepExplanations": [
+      "**Calculating Probability:** Rolling a die, find P(even): Step 1) Sample space: {1,2,3,4,5,6}. Step 2) Favorable: {2,4,6}. Step 3) P(even) = 3/6 = 1/2 = 0.5.",
+      "**Finding Mean:** Data: 5, 7, 9, 11, 13. Step 1) Sum: 5+7+9+11+13 = 45. Step 2) Count: 5. Step 3) Mean: 45/5 = 9.",
+      "**Standard Deviation:** Data: 2, 4, 6, 8, 10. Step 1) Mean: 6. Step 2) Differences: -4, -2, 0, 2, 4. Step 3) Squares: 16, 4, 0, 4, 16. Step 4) Average: 40/5 = 8. Step 5) σ = √8 ≈ 2.83.",
+      "**Conditional Probability:** P(rain|cloudy) = 0.7 means 70% chance of rain given it's cloudy. If P(cloudy) = 0.4 and P(rain and cloudy) = 0.28, then P(rain|cloudy) = 0.28/0.4 = 0.7."
+    ],
+    "examples": [
+      "**Basic Probability:** Flip two coins\n   Sample space: {HH, HT, TH, TT}\n   P(two heads) = 1/4 = 0.25\n   P(at least one head) = 3/4 = 0.75",
+      "**Mean and Median:** Data: 10, 15, 20, 25, 30\n   Mean: (10+15+20+25+30)/5 = 20\n   Median: 20 (middle value)\n   Both measure center differently",
+      "**Normal Distribution:** Test scores: μ = 75, σ = 10\n   About 68% score between 65-85 (μ ± σ)\n   About 95% score between 55-95 (μ ± 2σ)\n   About 99.7% score between 45-105 (μ ± 3σ)",
+      "**Independent Events:** Flip coin and roll die\n   P(heads and 6) = P(heads)·P(6) = (1/2)·(1/6) = 1/12\n   Events don't affect each other"
+    ],
+    "realLifeApplications": [
+      "**Quality Control:** Manufacturing uses probability to predict defect rates. If 2% defective, P(defect) = 0.02. Statistics monitor process: mean and standard deviation track consistency.",
+      "**Medical Testing:** Test accuracy: P(positive|disease) = sensitivity, P(negative|no disease) = specificity. Conditional probability helps interpret results and false positives.",
+      "**Weather Forecasting:** Probability of rain = 60% means 6 out of 10 similar days had rain. Statistics analyze historical patterns: mean temperature, standard deviation of rainfall.",
+      "**Insurance:** Actuaries use probability to set premiums. Life expectancy uses statistics (mean age at death). Risk assessment combines probability and statistical analysis."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A probability tree diagram showing coin flips, with branches labeled with probabilities (0.5 each) and outcomes (H, T), demonstrating how to calculate compound probabilities.",
+      "A normal distribution bell curve with mean marked at center, showing 68-95-99.7 rule with shaded regions for 1σ, 2σ, and 3σ from the mean.",
+      "A bar chart comparing mean, median, and mode for a dataset, showing how these measures of center can differ, especially with skewed data."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

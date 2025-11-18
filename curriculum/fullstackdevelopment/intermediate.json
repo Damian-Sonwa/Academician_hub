@@ -1,0 +1,933 @@
+{
+  "level": "Intermediate",
+  "topics": [
+    {
+      "course": "Full Stack Development",
+      "level": "Intermediate",
+      "topic": "React Fundamentals",
+      "description": "Master React, the most popular JavaScript library for building user interfaces. React lets you build reusable components and create dynamic, interactive web applications. Understanding React is essential for modern frontend development. Think of React like building blocks—you create components and combine them to build complex applications.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Learning React: A Complete Guide",
+          "content": "Step 1: Set up React project (Create React App or Vite). Step 2: Understand components (function components, JSX). Step 3: Learn props (passing data to components). Step 4: Learn state (useState hook). Step 5: Handle events (onClick, onChange). Step 6: Build reusable components. Step 7: Practice with projects. This guide helps you master React!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "React Component Architecture",
+          "content": "Draw component tree: App → Header → Navigation, App → Main → Card → Button. Show: Components are reusable, Props pass data down, State manages data, Components render UI. Visual helps understand React structure."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build React Components",
+          "content": "Activity: Create React app. Build: Header component, Card component, Button component, Form component. Practice: Props, State, Events, Reusable components. This activity helps you practice React."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "What is React? ⚛️",
+          "content": "React is JavaScript library for building user interfaces. **How to understand it:** Like LEGO blocks—you build components and combine them. **Key features:** Components (reusable UI pieces), Virtual DOM (efficient updates), JSX (HTML-like syntax), State management (dynamic data). **Real-world:** Developer builds app: Creates Header component, Creates Card component, Creates Button component, Combines them in App. React makes UI development easier. **Best practice:** Learn component concept, Understand JSX, Practice with components, Build reusable components, Learn hooks."
+        },
+        {
+          "title": "React Components 🧩",
+          "content": "Components are reusable pieces of UI. **Types:** Function components (modern), Class components (older). **How it works:** Create component function, Return JSX, Use component like HTML tag. **How to understand it:** Like custom HTML tags—you create and reuse them. **Real-world:** Developer creates Button component: function Button({ text }) { return <button>{text}</button> }. Uses it: <Button text=\"Click me\" />. Components make code reusable. **Best practice:** Create reusable components, Keep components focused, Use props for data, Compose components, Practice building components."
+        },
+        {
+          "title": "JSX Syntax 📝",
+          "content": "JSX lets you write HTML-like code in JavaScript. **How it works:** Write HTML in JavaScript, React converts to JavaScript, Renders to DOM. **How to understand it:** Like writing HTML but in JavaScript files. **Real-world:** Developer writes JSX: return <div><h1>Hello</h1><p>World</p></div>. React converts to JavaScript, Renders to page. JSX makes React code readable. **Best practice:** Learn JSX syntax, Understand JSX rules, Use JSX expressions, Keep JSX clean, Practice with JSX."
+        },
+        {
+          "title": "Props (Properties) 📦",
+          "content": "Props pass data from parent to child components. **How it works:** Parent passes props, Child receives props, Child uses props in JSX. **How to understand it:** Like passing arguments to functions. **Real-world:** Developer passes props: <Card title=\"Post\" content=\"Hello\" />. Card component receives: function Card({ title, content }) { return <div><h2>{title}</h2><p>{content}</p></div> }. Props make components dynamic. **Best practice:** Use props for data, Pass props correctly, Destructure props, Validate props, Keep props simple."
+        },
+        {
+          "title": "State with useState Hook 🎣",
+          "content": "State stores dynamic data that changes over time. **How it works:** useState hook creates state, State value changes, Component re-renders. **How to understand it:** Like a variable that triggers updates when changed. **Real-world:** Developer uses state: const [count, setCount] = useState(0). Button clicks, setCount(count + 1), Component re-renders with new count. State makes components interactive. **Best practice:** Use useState for state, Update state correctly, Understand re-renders, Keep state local, Practice with state."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Creating a Card Component",
+          "explanation": "Developer creates Card: function Card({ title, content }) { return <div className=\"card\"><h2>{title}</h2><p>{content}</p></div> }. Uses it: <Card title=\"Post\" content=\"Hello World\" />. Component is reusable, props make it dynamic."
+        },
+        {
+          "scenario": "Using State for Counter",
+          "explanation": "Developer creates counter: const [count, setCount] = useState(0). Button onClick={() => setCount(count + 1)}. Count increases on click, component re-renders, UI updates. State makes counter interactive."
+        },
+        {
+          "scenario": "Building Form Component",
+          "explanation": "Developer creates form: const [name, setName] = useState(''). Input onChange={(e) => setName(e.target.value)}. Name updates as user types, state stores input, component re-renders. State manages form data."
+        },
+        {
+          "scenario": "Composing Components",
+          "explanation": "Developer builds app: App component contains Header, Main, Footer. Main contains Card components. Components compose together, create complex UI. React components are composable."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Build React Components",
+          "instructions": "Step 1: Set up React project (Create React App or Vite). Step 2: Create components: Header, Card, Button, Form. Step 3: Use props: Pass data to components, Display props in JSX. Step 4: Use state: Add useState to components, Update state on events. Step 5: Compose components: Combine in App. Step 6: Test components. Step 7: Make components reusable.",
+          "example_answer": "Components built: Header, Card, Button, Form created. Props used to pass data, State used for dynamic data, Components composed in App. All components working, React fundamentals practiced."
+        },
+        {
+          "title": "Create Interactive Component",
+          "instructions": "Step 1: Create Counter component. Step 2: Use useState: const [count, setCount] = useState(0). Step 3: Add buttons: Increment, Decrement, Reset. Step 4: Handle clicks: Update state on click. Step 5: Display count. Step 6: Test counter. Step 7: Add features (max/min limits).",
+          "example_answer": "Counter built: useState for count, Buttons for increment/decrement/reset, State updates on clicks, Count displays correctly, Limits added. Interactive component working, state management practiced."
+        },
+        {
+          "title": "Build Todo List Component",
+          "instructions": "Step 1: Create TodoList component. Step 2: Use state: const [todos, setTodos] = useState([]). Step 3: Add form: Input and button to add todos. Step 4: Display todos: Map through todos array. Step 5: Add delete: Remove todos from state. Step 6: Test todo list. Step 7: Add features (complete, filter).",
+          "example_answer": "Todo list built: State stores todos array, Form adds todos, Todos displayed, Delete removes todos, Complete feature added. Todo list functional, React state and components practiced."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "React: The Complete Guide",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to React covering components, props, state, and hooks."
+        },
+        {
+          "title": "Modern React Development",
+          "source": "OpenStax",
+          "reason": "Covers React fundamentals, component architecture, and modern React patterns."
+        }
+      ],
+      "videos": [
+        {
+          "title": "React Tutorial for Beginners – Traversy Media",
+          "reason": "Complete React tutorial covering components, props, state, and hooks."
+        },
+        {
+          "title": "React Crash Course – freeCodeCamp",
+          "reason": "Comprehensive React course with hands-on projects and examples."
+        }
+      ],
+      "summary": "React is a JavaScript library for building user interfaces. Components are reusable pieces of UI that you create and combine. JSX lets you write HTML-like code in JavaScript. Props pass data from parent to child components. State (useState hook) stores dynamic data that triggers re-renders when changed. React makes building interactive, dynamic web applications easier and more organized. Mastering React is essential for modern frontend development and full stack development."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Intermediate",
+      "topic": "State Management in React",
+      "description": "Learn advanced state management techniques in React, including lifting state up, context API, and managing complex application state. State management is crucial for building scalable React applications. Think of it like managing shared information across multiple components—you need strategies to share and update state efficiently.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Mastering State Management: A Complete Guide",
+          "content": "Step 1: Understand state lifting (move state to common parent). Step 2: Learn Context API (share state across components). Step 3: Practice with useContext hook. Step 4: Learn state patterns (local vs global). Step 5: Handle complex state (objects, arrays). Step 6: Optimize state updates. Step 7: Practice with real projects. This guide helps you master state management!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "State Management Patterns",
+          "content": "Draw state flow: Parent Component (state) → Props → Child Components. Show: Lifting state up, Context API, State sharing, State updates. Visual helps understand state management."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Practice State Management",
+          "content": "Activity: Build app with shared state. Create: Multiple components, Shared state, Context provider, State updates. Practice: Lifting state, Context API, State patterns. This activity improves state management skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Lifting State Up 📤",
+          "content": "Moving state to common parent component to share with siblings. **How it works:** State in parent, Props pass to children, Children update via callbacks. **How to understand it:** Like putting shared items in a common room. **Real-world:** Two components need same data: Move state to parent, Pass as props to both, Both access same data. Lifting state enables sharing. **Best practice:** Lift state when needed, Keep state close to usage, Use callbacks for updates, Avoid over-lifting, Practice lifting state."
+        },
+        {
+          "title": "Context API 🌐",
+          "content": "React Context shares state across component tree without props drilling. **How it works:** Create context, Provide context, Consume context. **How to understand it:** Like a shared storage accessible to all components. **Real-world:** User data needed everywhere: Create UserContext, Provide at top level, Any component uses useContext. Context API avoids prop drilling. **Best practice:** Use Context for global state, Keep contexts focused, Avoid overusing Context, Combine with useState, Practice Context API."
+        },
+        {
+          "title": "useContext Hook 🎣",
+          "content": "useContext hook accesses context values in components. **How it works:** useContext(context), Returns context value, Component uses value. **How to understand it:** Like accessing shared storage. **Real-world:** Component needs user data: const user = useContext(UserContext). Component accesses user without props. useContext simplifies context usage. **Best practice:** Use useContext for context, Understand context value, Handle undefined context, Use with other hooks, Practice useContext."
+        },
+        {
+          "title": "State Patterns 📋",
+          "content": "Different strategies for managing state in React applications. **Patterns:** Local state (component-specific), Lifted state (shared siblings), Context (global), External state (Redux, Zustand). **How to understand it:** Like different storage locations for different needs. **Real-world:** Developer chooses pattern: Local state for component data, Lifted state for sibling sharing, Context for global data, External for complex apps. Right pattern for right situation. **Best practice:** Choose appropriate pattern, Start with local state, Lift when needed, Use Context sparingly, Consider external for complex."
+        },
+        {
+          "title": "Managing Complex State 🗂️",
+          "content": "Handling objects, arrays, and nested state in React. **How it works:** State can be objects/arrays, Update immutably, Use spread operator, Handle nested updates. **How to understand it:** Like managing complex data structures. **Real-world:** Developer manages user object: const [user, setUser] = useState({name: '', email: ''}). Updates: setUser({...user, name: 'John'}). Immutable updates prevent bugs. **Best practice:** Use immutable updates, Spread operator for objects, Map/filter for arrays, Handle nested state, Practice complex state."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Lifting State for Sibling Communication",
+          "explanation": "Two components need same count: Move count state to parent, Pass count as prop to both, Pass setCount callback, Both update same state. Lifting state enables sibling communication."
+        },
+        {
+          "scenario": "Using Context for Global State",
+          "explanation": "User data needed everywhere: Create UserContext, Provide user at App level, Any component uses useContext(UserContext), Accesses user without props. Context API shares global state."
+        },
+        {
+          "scenario": "Managing Object State",
+          "explanation": "Developer manages form state: const [form, setForm] = useState({name: '', email: ''}). Updates: setForm({...form, name: e.target.value}). Immutable updates, state managed correctly."
+        },
+        {
+          "scenario": "Complex State with Arrays",
+          "explanation": "Developer manages todos: const [todos, setTodos] = useState([]). Adds: setTodos([...todos, newTodo]). Deletes: setTodos(todos.filter(t => t.id !== id)). Array state managed immutably."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Practice Lifting State",
+          "instructions": "Step 1: Create two sibling components (Counter, Display). Step 2: Both need count state. Step 3: Lift state to parent. Step 4: Pass count as prop to both. Step 5: Pass setCount callback. Step 6: Both components update same state. Step 7: Test state sharing. Step 8: Practice with different scenarios.",
+          "example_answer": "State lifted: Count state in parent, Passed to Counter and Display, Both update same state, State shared correctly. Lifting state practiced, sibling communication working."
+        },
+        {
+          "title": "Build Context API Application",
+          "instructions": "Step 1: Create context (ThemeContext or UserContext). Step 2: Create provider component. Step 3: Provide context at top level. Step 4: Use useContext in multiple components. Step 5: Update context value. Step 6: Test context sharing. Step 7: Practice with different contexts.",
+          "example_answer": "Context built: ThemeContext created, Provider at App level, Multiple components use useContext, Context shared globally, Updates work correctly. Context API mastered, global state managed."
+        },
+        {
+          "title": "Manage Complex State",
+          "instructions": "Step 1: Create state with object (user: {name, email, age}). Step 2: Update single property immutably. Step 3: Create state with array (items: []). Step 4: Add items immutably. Step 5: Remove items immutably. Step 6: Update nested properties. Step 7: Practice complex state management.",
+          "example_answer": "Complex state managed: Object state updated immutably, Array state managed correctly, Nested properties updated, All updates immutable. Complex state management practiced, patterns learned."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "React State Management",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to state management patterns and techniques in React."
+        },
+        {
+          "title": "Advanced React Development",
+          "source": "OpenStax",
+          "reason": "Covers state management, Context API, and advanced React patterns."
+        }
+      ],
+      "videos": [
+        {
+          "title": "React State Management Tutorial – Traversy Media",
+          "reason": "Complete guide to state management, Context API, and state patterns."
+        },
+        {
+          "title": "React Context API Tutorial – freeCodeCamp",
+          "reason": "Comprehensive tutorial on Context API and global state management."
+        }
+      ],
+      "summary": "State management in React involves strategies for sharing and updating state across components. Lifting state up moves state to common parent to share with siblings. Context API shares state across component tree without prop drilling. useContext hook accesses context values. Different state patterns (local, lifted, context, external) suit different needs. Managing complex state (objects, arrays) requires immutable updates. Mastering state management is essential for building scalable React applications."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Intermediate",
+      "topic": "React Router and Navigation",
+      "description": "Learn React Router to build single-page applications with multiple views and navigation. React Router enables client-side routing, allowing users to navigate between different pages without full page reloads. This is essential for building modern web applications. Think of it like a GPS for your app—it helps users navigate to different sections smoothly.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Setting Up React Router: A Complete Guide",
+          "content": "Step 1: Install React Router (npm install react-router-dom). Step 2: Set up BrowserRouter in App. Step 3: Define routes with Route component. Step 4: Create navigation with Link component. Step 5: Handle dynamic routes with useParams. Step 6: Implement nested routes. Step 7: Add route protection. This guide helps you master React Router!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "React Router Architecture",
+          "content": "Draw routing: BrowserRouter → Routes → Route components. Show: URL changes, Route matches, Component renders, Navigation links. Visual helps understand routing flow."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build Multi-Page Application",
+          "content": "Activity: Create app with multiple pages. Build: Home page, About page, Contact page, Blog page. Add: Navigation menu, Route links, Dynamic routes. Practice: React Router, Navigation, Route parameters. This activity improves routing skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "What is React Router? 🧭",
+          "content": "React Router enables client-side routing in React applications. **How to understand it:** Like navigation system for single-page apps. **Key features:** Client-side routing (no page reloads), URL-based navigation, Route matching, Dynamic routes. **Real-world:** Developer builds app: Home page (/), About page (/about), Blog page (/blog), Each route shows different component. React Router handles navigation. **Best practice:** Install react-router-dom, Set up BrowserRouter, Define routes clearly, Use Link for navigation, Practice routing."
+        },
+        {
+          "title": "Setting Up Routes 🛣️",
+          "content": "Defining routes in React Router. **How it works:** BrowserRouter wraps app, Routes container, Route components define paths. **How to understand it:** Like mapping URLs to components. **Real-world:** Developer sets routes: <Route path=\"/\" element={<Home />} />, <Route path=\"/about\" element={<About />} />. URL matches path, component renders. Routes define app structure. **Best practice:** Use Routes container, Define clear paths, Match components to routes, Organize routes, Test routing."
+        },
+        {
+          "title": "Navigation with Link 🔗",
+          "content": "Link component creates navigation links without page reloads. **How it works:** <Link to=\"/path\">, Navigates to route, Updates URL, No page reload. **How to understand it:** Like anchor tags but for React routes. **Real-world:** Developer creates nav: <Link to=\"/\">Home</Link>, <Link to=\"/about\">About</Link>. Clicking navigates, URL updates, component changes. Link enables smooth navigation. **Best practice:** Use Link for navigation, Avoid anchor tags, Style links, Handle active states, Practice navigation."
+        },
+        {
+          "title": "Dynamic Routes with useParams 🎯",
+          "content": "Dynamic routes handle variable URL segments. **How it works:** Route path=\"/user/:id\", useParams hook gets id, Component uses id. **How to understand it:** Like variables in URLs. **Real-world:** Developer creates route: <Route path=\"/post/:id\" element={<Post />} />. Post component: const { id } = useParams(). Component uses id to fetch data. Dynamic routes enable flexible routing. **Best practice:** Use :param for variables, Access with useParams, Handle missing params, Validate params, Practice dynamic routes."
+        },
+        {
+          "title": "Route Protection and Guards 🛡️",
+          "content": "Protecting routes that require authentication. **How it works:** Check authentication, Redirect if not authenticated, Protect routes. **How to understand it:** Like security guards for routes. **Real-world:** Developer protects dashboard: Checks if user logged in, If not, redirects to login, If yes, shows dashboard. Route protection secures pages. **Best practice:** Create ProtectedRoute component, Check authentication, Redirect when needed, Protect sensitive routes, Test protection."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Setting Up Basic Routes",
+          "explanation": "Developer sets routes: BrowserRouter wraps App, Routes container, Route for Home (/), Route for About (/about). Navigation works, URL updates, components render. Basic routing set up."
+        },
+        {
+          "scenario": "Dynamic Route for Blog Posts",
+          "explanation": "Developer creates route: <Route path=\"/post/:id\" element={<Post />} />. Post component: const { id } = useParams(), Fetches post by id, Displays post. Dynamic routing enables flexible URLs."
+        },
+        {
+          "scenario": "Protected Dashboard Route",
+          "explanation": "Developer protects route: ProtectedRoute checks auth, If authenticated, shows Dashboard, If not, redirects to Login. Route protection secures dashboard."
+        },
+        {
+          "scenario": "Navigation Menu",
+          "explanation": "Developer creates nav: <Link to=\"/\">Home</Link>, <Link to=\"/about\">About</Link>, <Link to=\"/contact\">Contact</Link>. Navigation menu works, links navigate smoothly. Navigation implemented."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Build Multi-Page Application",
+          "instructions": "Step 1: Install React Router. Step 2: Set up BrowserRouter. Step 3: Create pages: Home, About, Contact. Step 4: Define routes for each page. Step 5: Create navigation menu with Links. Step 6: Test navigation. Step 7: Add more pages. Step 8: Practice routing.",
+          "example_answer": "Multi-page app built: React Router installed, Routes defined, Pages created, Navigation menu added, All routes working. Multi-page application functional, routing mastered."
+        },
+        {
+          "title": "Implement Dynamic Routes",
+          "instructions": "Step 1: Create dynamic route (e.g., /user/:id). Step 2: Create component for route. Step 3: Use useParams to get id. Step 4: Fetch data using id. Step 5: Display data. Step 6: Test dynamic routes. Step 7: Add more dynamic routes.",
+          "example_answer": "Dynamic routes implemented: Route with :id parameter, useParams gets id, Data fetched by id, Component displays data, Dynamic routing working. Dynamic routes mastered."
+        },
+        {
+          "title": "Add Route Protection",
+          "instructions": "Step 1: Create ProtectedRoute component. Step 2: Check authentication state. Step 3: Redirect if not authenticated. Step 4: Show component if authenticated. Step 5: Protect sensitive routes. Step 6: Test protection. Step 7: Add login redirect.",
+          "example_answer": "Route protection added: ProtectedRoute component created, Authentication checked, Redirects when needed, Protected routes secure, Login redirect works. Route protection implemented."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "React Router Guide",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to React Router, routing, and navigation patterns."
+        },
+        {
+          "title": "Modern React Routing",
+          "source": "OpenStax",
+          "reason": "Covers React Router, dynamic routes, and route protection."
+        }
+      ],
+      "videos": [
+        {
+          "title": "React Router Tutorial – Traversy Media",
+          "reason": "Complete guide to React Router with practical examples and navigation."
+        },
+        {
+          "title": "React Router Crash Course – freeCodeCamp",
+          "reason": "Comprehensive tutorial on React Router and client-side routing."
+        }
+      ],
+      "summary": "React Router enables client-side routing in React applications. Setting up routes maps URLs to components. Link component creates navigation without page reloads. Dynamic routes handle variable URL segments using useParams. Route protection secures routes that require authentication. React Router is essential for building single-page applications with multiple views. Mastering React Router enables you to create navigable, multi-page React applications."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Intermediate",
+      "topic": "Express.js Deep Dive",
+      "description": "Master Express.js, the most popular Node.js framework for building APIs and web servers. Express simplifies server creation, routing, middleware, and request handling. Understanding Express is essential for backend development. Think of Express like a toolkit that makes building servers much easier and faster.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Mastering Express.js: A Complete Guide",
+          "content": "Step 1: Set up Express project (npm init, npm install express). Step 2: Create Express app (const app = express()). Step 3: Define routes (app.get, app.post). Step 4: Use middleware (app.use). Step 5: Handle request/response (req, res). Step 6: Connect to database. Step 7: Build RESTful API. This guide helps you master Express!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Express.js Request Flow",
+          "content": "Draw flow: Request → Middleware → Route Handler → Response. Show: Express app, Middleware stack, Route matching, Response sending. Visual helps understand Express flow."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build Express API",
+          "content": "Activity: Create Express server. Build: Multiple routes, Middleware, Error handling, Database connection. Practice: Express routing, Middleware, Request handling. This activity improves Express skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Express.js Basics 🚀",
+          "content": "Express is Node.js framework for building web servers and APIs. **How to understand it:** Like a toolkit that simplifies server development. **Key features:** Routing (define endpoints), Middleware (request processing), Request/response handling, Template engines. **Real-world:** Developer builds API: Creates Express app, Defines routes, Handles requests, Returns JSON. Express makes server development easier. **Best practice:** Install Express, Set up app structure, Define routes clearly, Use middleware, Practice Express."
+        },
+        {
+          "title": "Express Routing 🛣️",
+          "content": "Defining endpoints and handling HTTP methods. **How it works:** app.get('/path', handler), app.post('/path', handler), Route handlers process requests. **How to understand it:** Like mapping URLs to functions. **Real-world:** Developer creates routes: app.get('/api/posts', getPosts), app.post('/api/posts', createPost). Routes handle different HTTP methods. Express routing is flexible. **Best practice:** Use RESTful routes, Organize routes, Handle all methods, Use route parameters, Test routes."
+        },
+        {
+          "title": "Middleware in Express 🔧",
+          "content": "Middleware functions process requests before route handlers. **How it works:** app.use(middleware), Middleware runs in order, Can modify req/res, Calls next(). **How to understand it:** Like checkpoints requests pass through. **Real-world:** Developer uses middleware: app.use(express.json()) (parses JSON), app.use(cors()) (handles CORS), Custom middleware (logging). Middleware processes requests. **Best practice:** Use built-in middleware, Create custom middleware, Order matters, Use next(), Practice middleware."
+        },
+        {
+          "title": "Request and Response Objects 📨",
+          "content": "req and res objects handle HTTP requests and responses. **req:** Contains request data (body, params, query), **res:** Sends responses (json, send, status). **How to understand it:** Like tools for handling requests and sending responses. **Real-world:** Developer handles request: req.body (request data), req.params (URL parameters), res.json() (send JSON), res.status() (set status). req/res objects are powerful. **Best practice:** Understand req properties, Use res methods, Handle errors, Set correct status codes, Practice req/res."
+        },
+        {
+          "title": "Error Handling in Express ⚠️",
+          "content": "Handling errors gracefully in Express applications. **How it works:** Error middleware, Try/catch blocks, Error responses, Status codes. **How to understand it:** Like safety nets for errors. **Real-world:** Developer handles errors: Try/catch in routes, Error middleware catches errors, Sends error response, Logs errors. Error handling prevents crashes. **Best practice:** Use error middleware, Handle async errors, Set error status codes, Log errors, Test error handling."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Creating Express Server",
+          "explanation": "Developer creates server: const app = express(), app.listen(3000), Defines routes, Handles requests. Express server running, routes working, requests handled."
+        },
+        {
+          "scenario": "RESTful API Routes",
+          "explanation": "Developer builds API: GET /api/posts (get all), POST /api/posts (create), GET /api/posts/:id (get one), PUT /api/posts/:id (update), DELETE /api/posts/:id (delete). RESTful API complete."
+        },
+        {
+          "scenario": "Using Middleware",
+          "explanation": "Developer uses middleware: app.use(express.json()) (parses JSON), app.use(cors()) (handles CORS), Custom logging middleware. Middleware processes all requests."
+        },
+        {
+          "scenario": "Error Handling",
+          "explanation": "Developer handles errors: Try/catch in routes, Error middleware catches errors, Sends 500 status, Returns error message. Errors handled gracefully."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Build Express API",
+          "instructions": "Step 1: Set up Express project. Step 2: Create Express app. Step 3: Define routes: GET, POST, PUT, DELETE. Step 4: Add middleware (JSON parser, CORS). Step 5: Handle requests/responses. Step 6: Test API (Postman). Step 7: Add error handling. Step 8: Practice Express.",
+          "example_answer": "Express API built: Server created, Routes defined, Middleware added, Requests handled, API tested, Errors handled. Express API functional, routing mastered."
+        },
+        {
+          "title": "Implement Middleware",
+          "instructions": "Step 1: Use built-in middleware (express.json, cors). Step 2: Create custom middleware (logging, authentication). Step 3: Apply middleware to routes. Step 4: Test middleware. Step 5: Practice with different middleware. Step 6: Understand middleware order.",
+          "example_answer": "Middleware implemented: Built-in middleware used, Custom middleware created, Applied to routes, Middleware working, Order understood. Middleware mastered."
+        },
+        {
+          "title": "Add Error Handling",
+          "instructions": "Step 1: Add try/catch to routes. Step 2: Create error middleware. Step 3: Handle different error types. Step 4: Set error status codes. Step 5: Return error responses. Step 6: Test error handling. Step 7: Log errors.",
+          "example_answer": "Error handling added: Try/catch in routes, Error middleware created, Error types handled, Status codes set, Error responses returned, Errors logged. Error handling implemented."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Express.js Guide",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to Express.js, routing, middleware, and API development."
+        },
+        {
+          "title": "Node.js and Express Development",
+          "source": "OpenStax",
+          "reason": "Covers Express.js, server development, and building RESTful APIs."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Express.js Tutorial – Traversy Media",
+          "reason": "Complete guide to Express.js with practical examples and API building."
+        },
+        {
+          "title": "Express.js Crash Course – freeCodeCamp",
+          "reason": "Comprehensive tutorial on Express.js and building web servers."
+        }
+      ],
+      "summary": "Express.js is a Node.js framework for building web servers and APIs. Express routing defines endpoints and handles HTTP methods. Middleware processes requests before route handlers. Request and response objects (req, res) handle HTTP data. Error handling prevents crashes and provides graceful error responses. Express simplifies server development and is essential for backend development. Mastering Express.js enables you to build robust, scalable APIs and web servers."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Intermediate",
+      "topic": "RESTful API Design",
+      "description": "Learn REST (Representational State Transfer) principles for designing well-structured, scalable APIs. RESTful APIs follow conventions that make them predictable, maintainable, and easy to use. Understanding REST is essential for backend development. Think of REST like a standard language for APIs—everyone follows the same rules, making APIs easier to understand and use.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Designing RESTful APIs: A Complete Guide",
+          "content": "Step 1: Understand REST principles (stateless, resource-based). Step 2: Design resources (nouns, not verbs). Step 3: Use HTTP methods correctly (GET, POST, PUT, DELETE). Step 4: Design URL structure (/api/resource/:id). Step 5: Use proper status codes (200, 201, 404, 500). Step 6: Return consistent JSON responses. Step 7: Document your API. This guide helps you design RESTful APIs!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "RESTful API Structure",
+          "content": "Draw API structure: Resources (Users, Posts, Comments), HTTP methods (GET, POST, PUT, DELETE), URL patterns (/api/users, /api/posts/:id), Status codes (200, 201, 404). Show: Resource-based design, HTTP method usage, URL conventions. Visual helps understand REST principles."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Design RESTful API",
+          "content": "Activity: Design API for blog application. Define: Resources (posts, comments, users), HTTP methods for each, URL structure, Request/response format. Practice: REST principles, API design, Documentation. This activity improves API design skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "REST Principles 🎯",
+          "content": "REST is architectural style for designing web APIs. **Principles:** Stateless (no server-side sessions), Resource-based (nouns, not verbs), HTTP methods (GET, POST, PUT, DELETE), Uniform interface. **How to understand it:** Like standard rules everyone follows. **Real-world:** Developer designs API: Resources are nouns (users, posts), HTTP methods are actions (GET, POST), URLs are resource-based (/api/users). REST makes APIs predictable. **Best practice:** Follow REST principles, Use resources correctly, Use HTTP methods properly, Keep stateless, Practice REST design."
+        },
+        {
+          "title": "HTTP Methods in REST 📡",
+          "content": "HTTP methods define actions on resources. **GET:** Retrieve data (read), **POST:** Create new resource, **PUT:** Update entire resource, **PATCH:** Update part of resource, **DELETE:** Remove resource. **How to understand it:** Like different actions you can perform. **Real-world:** Developer uses methods: GET /api/posts (get all), POST /api/posts (create), PUT /api/posts/:id (update), DELETE /api/posts/:id (delete). Methods define actions. **Best practice:** Use correct method, GET for read, POST for create, PUT/PATCH for update, DELETE for remove, Follow conventions."
+        },
+        {
+          "title": "URL Design 🛣️",
+          "content": "RESTful URLs are resource-based and hierarchical. **Structure:** /api/resource (collection), /api/resource/:id (single resource), /api/resource/:id/subresource (nested). **How to understand it:** Like file paths—organized and hierarchical. **Real-world:** Developer designs URLs: /api/users (all users), /api/users/:id (one user), /api/users/:id/posts (user's posts). URLs are clear and predictable. **Best practice:** Use nouns for resources, Keep URLs simple, Use hierarchical structure, Avoid verbs in URLs, Practice URL design."
+        },
+        {
+          "title": "HTTP Status Codes 📊",
+          "content": "Status codes communicate request results. **2xx:** Success (200 OK, 201 Created), **4xx:** Client error (400 Bad Request, 404 Not Found), **5xx:** Server error (500 Internal Error). **How to understand it:** Like response messages—success or error. **Real-world:** Developer uses codes: 200 (success), 201 (created), 400 (bad request), 404 (not found), 500 (server error). Status codes inform clients. **Best practice:** Use correct status codes, 200 for success, 201 for created, 400 for bad request, 404 for not found, 500 for server error."
+        },
+        {
+          "title": "API Response Format 📄",
+          "content": "Consistent response format makes APIs predictable. **Structure:** JSON format, Consistent structure, Error format, Success format. **How to understand it:** Like standard letter format—always the same structure. **Real-world:** Developer formats responses: {data: {...}, message: 'Success'} (success), {error: 'Message'} (error). Consistent format helps clients. **Best practice:** Use JSON, Keep structure consistent, Include error details, Use standard format, Document format."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "RESTful Blog API",
+          "explanation": "Developer designs API: GET /api/posts (get all), POST /api/posts (create), GET /api/posts/:id (get one), PUT /api/posts/:id (update), DELETE /api/posts/:id (delete). RESTful API follows conventions."
+        },
+        {
+          "scenario": "Proper HTTP Methods",
+          "explanation": "Developer uses methods correctly: GET for reading (no side effects), POST for creating, PUT for updating, DELETE for removing. HTTP methods used appropriately."
+        },
+        {
+          "scenario": "Status Code Usage",
+          "explanation": "Developer uses codes: 200 (successful GET), 201 (successful POST), 400 (invalid request), 404 (not found), 500 (server error). Status codes communicate results."
+        },
+        {
+          "scenario": "Consistent Response Format",
+          "explanation": "Developer formats responses: Success {data: {...}}, Error {error: 'Message'}. Consistent format makes API predictable."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Design RESTful API",
+          "instructions": "Step 1: Choose application (blog, e-commerce, social media). Step 2: Identify resources (nouns). Step 3: Design URLs for each resource. Step 4: Assign HTTP methods (GET, POST, PUT, DELETE). Step 5: Define request/response format. Step 6: Choose status codes. Step 7: Document API. Step 8: Test API design.",
+          "example_answer": "RESTful API designed: Resources identified, URLs designed, HTTP methods assigned, Request/response format defined, Status codes chosen, API documented. RESTful design complete, follows conventions."
+        },
+        {
+          "title": "Implement RESTful Endpoints",
+          "instructions": "Step 1: Create Express routes. Step 2: Implement GET (read). Step 3: Implement POST (create). Step 4: Implement PUT (update). Step 5: Implement DELETE (remove). Step 6: Use correct status codes. Step 7: Return consistent JSON. Step 8: Test endpoints.",
+          "example_answer": "RESTful endpoints implemented: GET, POST, PUT, DELETE implemented, Status codes used correctly, JSON responses consistent, Endpoints tested. RESTful API functional."
+        },
+        {
+          "title": "Document Your API",
+          "instructions": "Step 1: List all endpoints. Step 2: Document HTTP methods. Step 3: Document request format. Step 4: Document response format. Step 5: Document status codes. Step 6: Add examples. Step 7: Create API documentation. Step 8: Share documentation.",
+          "example_answer": "API documented: All endpoints listed, Methods documented, Request/response formats documented, Status codes documented, Examples added. API documentation complete, ready to share."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "RESTful API Design",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to REST principles, API design, and best practices."
+        },
+        {
+          "title": "Web API Development",
+          "source": "OpenStax",
+          "reason": "Covers RESTful API design, HTTP methods, and API architecture."
+        }
+      ],
+      "videos": [
+        {
+          "title": "RESTful API Design Tutorial – Traversy Media",
+          "reason": "Complete guide to REST principles and designing RESTful APIs."
+        },
+        {
+          "title": "REST API Tutorial – freeCodeCamp",
+          "reason": "Comprehensive tutorial on RESTful API design and implementation."
+        }
+      ],
+      "summary": "REST (Representational State Transfer) is an architectural style for designing web APIs. REST principles include stateless communication, resource-based design, and proper HTTP method usage. HTTP methods (GET, POST, PUT, DELETE) define actions on resources. URL design should be resource-based and hierarchical. HTTP status codes communicate request results. Consistent response format makes APIs predictable. RESTful APIs are easier to understand, maintain, and use. Mastering RESTful API design is essential for building professional backend services."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Intermediate",
+      "topic": "Database Integration with Express",
+      "description": "Learn how to connect Express.js applications to databases (MongoDB and MySQL). Database integration enables your API to store and retrieve data persistently. Understanding database integration is essential for building real applications. Think of it like connecting your server to a storage system—your API can now save and retrieve data.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Connecting Express to Databases: A Complete Guide",
+          "content": "Step 1: Choose database (MongoDB or MySQL). Step 2: Install database driver (mongoose or mysql2). Step 3: Connect to database. Step 4: Create models/schemas. Step 5: Implement CRUD operations in routes. Step 6: Handle database errors. Step 7: Test database operations. This guide helps you integrate databases!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Database Integration Architecture",
+          "content": "Draw flow: Express API → Database Driver → Database. Show: API routes, Database models, CRUD operations, Data flow. Visual helps understand database integration."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build API with Database",
+          "content": "Activity: Create Express API with database. Connect: MongoDB or MySQL, Create models, Implement CRUD routes, Test operations. Practice: Database connection, Models, CRUD, Error handling. This activity improves database integration skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "MongoDB with Mongoose 🍃",
+          "content": "Mongoose is ODM (Object Document Mapper) for MongoDB. **How it works:** Install mongoose, Connect to MongoDB, Define schemas, Create models, Use in routes. **How to understand it:** Like a translator between Express and MongoDB. **Real-world:** Developer uses Mongoose: Connects to MongoDB, Defines User schema, Creates User model, Uses in routes to save/retrieve users. Mongoose simplifies MongoDB. **Best practice:** Install mongoose, Connect properly, Define schemas, Use models, Handle errors."
+        },
+        {
+          "title": "MySQL with mysql2 💾",
+          "content": "mysql2 is MySQL driver for Node.js. **How it works:** Install mysql2, Create connection, Write SQL queries, Execute queries, Handle results. **How to understand it:** Like a bridge between Express and MySQL. **Real-world:** Developer uses mysql2: Connects to MySQL, Writes SQL queries, Executes in routes, Returns results. mysql2 enables SQL databases. **Best practice:** Install mysql2, Create connection pool, Write safe queries, Handle errors, Use prepared statements."
+        },
+        {
+          "title": "CRUD Operations in Routes 🔧",
+          "content": "Implementing create, read, update, delete in Express routes. **How it works:** Route handlers use database models, Perform CRUD operations, Return results. **How to understand it:** Like connecting routes to database. **Real-world:** Developer implements: GET route queries database, POST route creates record, PUT route updates record, DELETE route removes record. Routes interact with database. **Best practice:** Implement CRUD in routes, Handle database errors, Return appropriate responses, Validate data, Test operations."
+        },
+        {
+          "title": "Database Models and Schemas 📋",
+          "content": "Models define data structure and operations. **Mongoose:** Schemas define structure, Models provide methods. **MySQL:** Tables define structure, Queries provide operations. **How to understand it:** Like blueprints for data. **Real-world:** Developer creates User model: Defines fields (name, email), Provides methods (save, find), Used in routes. Models organize database operations. **Best practice:** Define clear schemas, Use models consistently, Validate data, Handle relationships, Practice models."
+        },
+        {
+          "title": "Error Handling with Databases ⚠️",
+          "content": "Handling database errors gracefully. **How it works:** Try/catch blocks, Database error types, User-friendly messages, Logging. **How to understand it:** Like safety nets for database operations. **Real-world:** Developer handles errors: Try/catch in routes, Catches database errors, Returns error response, Logs for debugging. Error handling prevents crashes. **Best practice:** Use try/catch, Handle specific errors, Return clear messages, Log errors, Test error cases."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "MongoDB Integration",
+          "explanation": "Developer integrates MongoDB: Installs mongoose, Connects to database, Defines Post schema, Creates Post model, Uses in routes to save/retrieve posts. MongoDB integrated successfully."
+        },
+        {
+          "scenario": "MySQL Integration",
+          "explanation": "Developer integrates MySQL: Installs mysql2, Creates connection, Writes SQL queries, Executes in routes, Returns results. MySQL integrated successfully."
+        },
+        {
+          "scenario": "CRUD API with Database",
+          "explanation": "Developer builds API: GET /api/posts (queries database), POST /api/posts (saves to database), PUT /api/posts/:id (updates in database), DELETE /api/posts/:id (removes from database). Full CRUD with database."
+        },
+        {
+          "scenario": "Error Handling",
+          "explanation": "Developer handles errors: Try/catch in routes, Catches database errors (connection, query), Returns 500 status, Logs errors. Errors handled gracefully."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Integrate MongoDB with Express",
+          "instructions": "Step 1: Install mongoose. Step 2: Connect to MongoDB. Step 3: Define schema (e.g., Post). Step 4: Create model. Step 5: Implement CRUD routes. Step 6: Test operations. Step 7: Handle errors. Step 8: Practice integration.",
+          "example_answer": "MongoDB integrated: Mongoose installed, Connected to database, Schema defined, Model created, CRUD routes implemented, Operations tested, Errors handled. MongoDB integration complete."
+        },
+        {
+          "title": "Integrate MySQL with Express",
+          "instructions": "Step 1: Install mysql2. Step 2: Create connection. Step 3: Create table. Step 4: Write SQL queries. Step 5: Implement CRUD routes. Step 6: Test operations. Step 7: Handle errors. Step 8: Practice integration.",
+          "example_answer": "MySQL integrated: mysql2 installed, Connection created, Table created, SQL queries written, CRUD routes implemented, Operations tested, Errors handled. MySQL integration complete."
+        },
+        {
+          "title": "Build Full CRUD API",
+          "instructions": "Step 1: Choose database (MongoDB or MySQL). Step 2: Set up connection. Step 3: Create model/table. Step 4: Implement GET (read all). Step 5: Implement GET/:id (read one). Step 6: Implement POST (create). Step 7: Implement PUT/:id (update). Step 8: Implement DELETE/:id (delete). Step 9: Test all operations.",
+          "example_answer": "Full CRUD API built: Database connected, Model/table created, All CRUD operations implemented, Operations tested, Errors handled. Full CRUD API functional."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Database Integration with Node.js",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to integrating MongoDB and MySQL with Express.js."
+        },
+        {
+          "title": "Backend Database Development",
+          "source": "OpenStax",
+          "reason": "Covers database integration, models, and CRUD operations."
+        }
+      ],
+      "videos": [
+        {
+          "title": "MongoDB with Express Tutorial – Traversy Media",
+          "reason": "Complete guide to integrating MongoDB with Express.js using Mongoose."
+        },
+        {
+          "title": "MySQL with Node.js Tutorial – freeCodeCamp",
+          "reason": "Comprehensive tutorial on integrating MySQL with Express.js."
+        }
+      ],
+      "summary": "Database integration connects Express.js applications to databases for persistent data storage. MongoDB integration uses Mongoose ODM to simplify operations. MySQL integration uses mysql2 driver to execute SQL queries. CRUD operations in routes interact with databases to create, read, update, and delete data. Database models and schemas define data structure. Error handling prevents crashes and provides graceful error responses. Database integration is essential for building real applications that store and retrieve data. Mastering database integration enables you to build full-featured backend services."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Intermediate",
+      "topic": "Authentication and Authorization",
+      "description": "Learn how to implement user authentication (login) and authorization (permissions) in full stack applications. Authentication verifies who users are, authorization controls what they can do. These are essential security features for any application with user accounts. Think of it like a building security system—authentication checks your ID, authorization determines which floors you can access.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Implementing Authentication: A Complete Guide",
+          "content": "Step 1: Set up user registration (hash passwords with bcrypt). Step 2: Implement login (verify credentials, create JWT tokens). Step 3: Protect routes with middleware (verify JWT tokens). Step 4: Implement authorization (check user roles/permissions). Step 5: Handle sessions and tokens. Step 6: Add password reset functionality. Step 7: Test authentication flow. This guide helps you implement authentication!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Authentication Flow",
+          "content": "Draw flow: User Registration → Password Hash → Database, User Login → Verify Password → Generate JWT → Return Token, Protected Route → Verify JWT → Allow/Deny. Show: Password hashing, JWT tokens, Route protection, Authorization checks. Visual helps understand authentication."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build Authentication System",
+          "content": "Activity: Create authentication system. Build: Registration, Login, Protected routes, JWT tokens, Password hashing. Practice: Authentication, Authorization, Security. This activity improves authentication skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Password Hashing with bcrypt 🔐",
+          "content": "Hashing passwords before storing in database. **How it works:** bcrypt hashes passwords, Stores hash (not plain password), Verifies on login. **How to understand it:** Like one-way encryption—can't reverse it. **Real-world:** Developer hashes password: bcrypt.hash(password, 10), Stores hash in database, On login: bcrypt.compare(password, hash). Passwords are secure. **Best practice:** Always hash passwords, Use bcrypt, Never store plain passwords, Use salt rounds, Practice hashing."
+        },
+        {
+          "title": "JWT (JSON Web Tokens) 🎫",
+          "content": "JWT tokens authenticate users without sessions. **How it works:** Server creates token, Client stores token, Client sends token with requests, Server verifies token. **How to understand it:** Like a temporary ID card. **Real-world:** User logs in, Server creates JWT, Client stores in localStorage, Client sends with API requests, Server verifies and allows access. JWT enables stateless authentication. **Best practice:** Use JWT for authentication, Set expiration, Verify tokens, Store securely, Practice JWT."
+        },
+        {
+          "title": "Route Protection Middleware 🛡️",
+          "content": "Middleware that protects routes requiring authentication. **How it works:** Check for token, Verify token, Allow/deny access. **How to understand it:** Like security guards for routes. **Real-world:** Developer protects route: authMiddleware checks JWT, If valid, allows access, If invalid, returns 401. Routes are protected. **Best practice:** Create auth middleware, Verify tokens, Handle errors, Protect sensitive routes, Test protection."
+        },
+        {
+          "title": "Authorization (Roles and Permissions) 👤",
+          "content": "Controlling what authenticated users can do. **How it works:** Check user role, Verify permissions, Allow/deny actions. **How to understand it:** Like different access levels. **Real-world:** Admin can delete posts, Regular user cannot. Authorization checks role, Allows/denies based on permissions. Authorization controls access. **Best practice:** Implement role-based access, Check permissions, Handle unauthorized, Test authorization, Practice roles."
+        },
+        {
+          "title": "Session Management 🔄",
+          "content": "Managing user sessions and token refresh. **How it works:** Create session on login, Refresh tokens, Handle logout, Expire sessions. **How to understand it:** Like managing user's active time. **Real-world:** User logs in, Session created, Token expires after time, User can refresh, Logout destroys session. Session management keeps users logged in. **Best practice:** Set token expiration, Implement refresh, Handle logout, Manage sessions, Test session flow."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "User Registration",
+          "explanation": "User registers: Password hashed with bcrypt, User saved to database, Registration successful. Password is secure, never stored in plain text."
+        },
+        {
+          "scenario": "User Login",
+          "explanation": "User logs in: Credentials verified, Password compared with hash, JWT token created, Token returned to client. User authenticated, token for future requests."
+        },
+        {
+          "scenario": "Protected Route",
+          "explanation": "User accesses protected route: JWT token sent, Middleware verifies token, If valid, access granted, If invalid, 401 returned. Route protected successfully."
+        },
+        {
+          "scenario": "Role-Based Authorization",
+          "explanation": "Admin tries to delete post: Authorization checks role, Admin has permission, Delete allowed. Regular user tries: No permission, Delete denied. Authorization working."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Implement User Authentication",
+          "instructions": "Step 1: Create registration route (hash password). Step 2: Create login route (verify, create JWT). Step 3: Create auth middleware (verify JWT). Step 4: Protect routes with middleware. Step 5: Test registration. Step 6: Test login. Step 7: Test protected routes. Step 8: Handle errors.",
+          "example_answer": "Authentication implemented: Registration hashes passwords, Login creates JWTs, Middleware protects routes, All flows tested, Errors handled. Authentication system functional."
+        },
+        {
+          "title": "Add Authorization",
+          "instructions": "Step 1: Add role field to user model. Step 2: Create authorization middleware. Step 3: Check roles in routes. Step 4: Protect admin routes. Step 5: Test authorization. Step 6: Test different roles. Step 7: Handle unauthorized access.",
+          "example_answer": "Authorization added: Roles implemented, Authorization middleware created, Admin routes protected, Different roles tested, Unauthorized access handled. Authorization system functional."
+        },
+        {
+          "title": "Build Complete Auth System",
+          "instructions": "Step 1: Implement registration. Step 2: Implement login. Step 3: Implement logout. Step 4: Add password reset. Step 5: Protect routes. Step 6: Add authorization. Step 7: Test all features. Step 8: Secure implementation.",
+          "example_answer": "Complete auth system: Registration, login, logout, password reset, route protection, authorization all implemented and tested. Complete authentication system functional and secure."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Web Application Security",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to authentication, authorization, and security best practices."
+        },
+        {
+          "title": "Secure Web Development",
+          "source": "OpenStax",
+          "reason": "Covers authentication, JWT, password hashing, and authorization."
+        }
+      ],
+      "videos": [
+        {
+          "title": "JWT Authentication Tutorial – Traversy Media",
+          "reason": "Complete guide to implementing JWT authentication in Express.js."
+        },
+        {
+          "title": "Node.js Authentication – freeCodeCamp",
+          "reason": "Comprehensive tutorial on authentication and authorization."
+        }
+      ],
+      "summary": "Authentication verifies user identity through login systems. Password hashing with bcrypt secures passwords before storage. JWT tokens enable stateless authentication. Route protection middleware secures routes requiring authentication. Authorization controls what authenticated users can do based on roles and permissions. Session management handles user sessions and token refresh. Authentication and authorization are essential security features for applications with user accounts. Mastering authentication and authorization enables you to build secure, user-based applications."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Intermediate",
+      "topic": "Testing Full Stack Applications",
+      "description": "Learn how to test full stack applications to ensure they work correctly. Testing includes unit tests, integration tests, and end-to-end tests. Understanding testing is essential for building reliable applications. Think of testing like quality control—you check everything works before users see it.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Testing Full Stack Apps: A Complete Guide",
+          "content": "Step 1: Set up testing framework (Jest for backend, React Testing Library for frontend). Step 2: Write unit tests (test individual functions). Step 3: Write integration tests (test API endpoints). Step 4: Write E2E tests (test user flows). Step 5: Run tests automatically. Step 6: Measure test coverage. Step 7: Fix failing tests. This guide helps you test applications!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Testing Pyramid",
+          "content": "Draw pyramid: E2E tests (few, top), Integration tests (some, middle), Unit tests (many, bottom). Show: Test types, Coverage, When to use each. Visual helps understand testing strategy."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Write Tests for Application",
+          "content": "Activity: Add tests to your application. Write: Unit tests for functions, Integration tests for API, E2E tests for flows. Practice: Testing frameworks, Writing tests, Running tests. This activity improves testing skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Unit Testing 🧪",
+          "content": "Testing individual functions and components in isolation. **How it works:** Test one function, Mock dependencies, Verify output. **How to understand it:** Like testing one piece at a time. **Real-world:** Developer tests function: Write test, Call function, Assert result, Test passes/fails. Unit tests catch bugs early. **Best practice:** Write unit tests, Test edge cases, Mock dependencies, Keep tests simple, Practice testing."
+        },
+        {
+          "title": "Integration Testing 🔗",
+          "content": "Testing how different parts work together. **How it works:** Test API endpoints, Test database operations, Test component integration. **How to understand it:** Like testing how pieces fit together. **Real-world:** Developer tests API: Send request, Verify response, Check database, Test passes/fails. Integration tests verify connections. **Best practice:** Test API endpoints, Test database, Test integrations, Use test database, Practice integration tests."
+        },
+        {
+          "title": "End-to-End (E2E) Testing 🎭",
+          "content": "Testing complete user flows from start to finish. **How it works:** Simulate user actions, Test full flow, Verify results. **How to understand it:** Like testing the whole journey. **Real-world:** Developer tests login flow: Open app, Enter credentials, Click login, Verify redirect. E2E tests verify user experience. **Best practice:** Test critical flows, Use E2E tools, Keep tests focused, Test user journeys, Practice E2E testing."
+        },
+        {
+          "title": "Testing Tools 🛠️",
+          "content": "Frameworks and tools for testing. **Backend:** Jest (JavaScript testing), Supertest (API testing). **Frontend:** Jest, React Testing Library. **E2E:** Cypress, Playwright. **How to understand it:** Like tools for quality control. **Real-world:** Developer uses Jest for unit tests, Supertest for API tests, Cypress for E2E tests. Testing tools make testing easier. **Best practice:** Choose appropriate tools, Learn testing frameworks, Use testing libraries, Automate tests, Practice with tools."
+        },
+        {
+          "title": "Test Coverage 📊",
+          "content": "Measuring how much of your code is tested. **How it works:** Run coverage tool, See percentage, Identify untested code. **How to understand it:** Like checking how much is verified. **Real-world:** Developer runs coverage: 80% coverage, Identifies untested functions, Writes tests, Improves coverage. Coverage shows test quality. **Best practice:** Aim for good coverage, Test critical code, Monitor coverage, Improve over time, Don't obsess over 100%."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Unit Test for Function",
+          "explanation": "Developer tests function: Writes test, Calls function with input, Asserts expected output, Test passes. Unit test verifies function works."
+        },
+        {
+          "scenario": "Integration Test for API",
+          "explanation": "Developer tests API: Sends POST request, Verifies response, Checks database, Test passes. Integration test verifies API works."
+        },
+        {
+          "scenario": "E2E Test for Login",
+          "explanation": "Developer tests login: Opens app, Enters credentials, Clicks login, Verifies redirect, Test passes. E2E test verifies user flow."
+        },
+        {
+          "scenario": "Test Coverage Report",
+          "explanation": "Developer runs coverage: 75% coverage, Sees untested functions, Writes more tests, Improves to 85%. Coverage improves code quality."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Write Unit Tests",
+          "instructions": "Step 1: Set up Jest. Step 2: Write tests for functions. Step 3: Test edge cases. Step 4: Mock dependencies. Step 5: Run tests. Step 6: Fix failing tests. Step 7: Achieve good coverage. Step 8: Practice unit testing.",
+          "example_answer": "Unit tests written: Jest set up, Functions tested, Edge cases covered, Dependencies mocked, Tests passing, Coverage good. Unit testing practiced."
+        },
+        {
+          "title": "Write Integration Tests",
+          "instructions": "Step 1: Set up Supertest. Step 2: Write tests for API endpoints. Step 3: Test database operations. Step 4: Test error cases. Step 5: Run tests. Step 6: Fix issues. Step 7: Test all endpoints. Step 8: Practice integration testing.",
+          "example_answer": "Integration tests written: Supertest set up, API endpoints tested, Database operations tested, Error cases covered, Tests passing. Integration testing practiced."
+        },
+        {
+          "title": "Write E2E Tests",
+          "instructions": "Step 1: Set up Cypress or Playwright. Step 2: Write test for user flow. Step 3: Test critical paths. Step 4: Run tests. Step 5: Fix issues. Step 6: Test multiple flows. Step 7: Automate E2E tests. Step 8: Practice E2E testing.",
+          "example_answer": "E2E tests written: Cypress set up, User flows tested, Critical paths covered, Tests passing, Automated. E2E testing practiced."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Software Testing Fundamentals",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to testing strategies, tools, and best practices."
+        },
+        {
+          "title": "Testing Web Applications",
+          "source": "OpenStax",
+          "reason": "Covers unit testing, integration testing, and E2E testing for web applications."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Jest Testing Tutorial – Traversy Media",
+          "reason": "Complete guide to writing tests with Jest for Node.js and React."
+        },
+        {
+          "title": "Testing React Applications – freeCodeCamp",
+          "reason": "Comprehensive tutorial on testing React applications."
+        }
+      ],
+      "summary": "Testing ensures applications work correctly before deployment. Unit testing tests individual functions and components in isolation. Integration testing tests how different parts work together. End-to-end testing tests complete user flows. Testing tools (Jest, Supertest, Cypress) make testing easier. Test coverage measures how much code is tested. Testing is essential for building reliable applications. Mastering testing enables you to catch bugs early and ensure application quality."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Intermediate",
+      "topic": "Deployment and DevOps Basics",
+      "description": "Learn how to deploy full stack applications to production and understand DevOps basics. Deployment makes your application available to users online. DevOps practices improve development and deployment workflows. Think of deployment like opening a store—you've built everything, now you make it accessible to customers.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Deploying Full Stack Apps: A Complete Guide",
+          "content": "Step 1: Prepare application for production (environment variables, build). Step 2: Choose hosting (frontend: Netlify/Vercel, backend: Railway/Heroku). Step 3: Set up database (MongoDB Atlas, Railway). Step 4: Deploy frontend. Step 5: Deploy backend. Step 6: Configure environment variables. Step 7: Test deployed application. This guide helps you deploy applications!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Deployment Architecture",
+          "content": "Draw deployment: Local Development → Git Repository → CI/CD Pipeline → Production Hosting. Show: Frontend hosting, Backend hosting, Database hosting, Environment variables. Visual helps understand deployment."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Deploy Your Application",
+          "content": "Activity: Deploy your full stack app. Deploy: Frontend to Netlify, Backend to Railway, Database to MongoDB Atlas. Configure: Environment variables, Domains, SSL. Practice: Deployment, Configuration, Testing. This activity improves deployment skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Frontend Deployment 🌐",
+          "content": "Deploying React applications to static hosting. **Options:** Netlify, Vercel, GitHub Pages. **How it works:** Build application, Upload files, Configure domain. **How to understand it:** Like uploading files to web server. **Real-world:** Developer deploys React app: Builds with npm run build, Deploys to Netlify, Configures domain, App live online. Frontend deployed successfully. **Best practice:** Choose hosting platform, Build for production, Configure environment variables, Set up domain, Test deployment."
+        },
+        {
+          "title": "Backend Deployment 🖥️",
+          "content": "Deploying Node.js/Express APIs to server hosting. **Options:** Railway, Heroku, Render, DigitalOcean. **How it works:** Push code, Platform builds, Server runs, API accessible. **How to understand it:** Like running server in cloud. **Real-world:** Developer deploys API: Pushes to GitHub, Railway builds, Server starts, API live online. Backend deployed successfully. **Best practice:** Choose platform, Configure environment, Set up database, Monitor server, Test API."
+        },
+        {
+          "title": "Database Deployment 🗄️",
+          "content": "Setting up cloud databases for production. **Options:** MongoDB Atlas, Railway, Supabase. **How it works:** Create database, Get connection string, Update app config. **How to understand it:** Like database in cloud. **Real-world:** Developer sets up database: Creates MongoDB Atlas cluster, Gets connection string, Updates app, Database accessible. Database deployed successfully. **Best practice:** Choose database service, Create cluster, Get connection string, Update app config, Test connection."
+        },
+        {
+          "title": "Environment Variables 🔐",
+          "content": "Managing configuration for different environments. **How it works:** Store secrets in .env, Different values for dev/prod, Load in application. **How to understand it:** Like settings that change per environment. **Real-world:** Developer uses env vars: DATABASE_URL for database, JWT_SECRET for tokens, API keys. Environment variables keep secrets safe. **Best practice:** Use .env files, Never commit secrets, Set in hosting platform, Use different values, Practice env vars."
+        },
+        {
+          "title": "CI/CD Basics 🔄",
+          "content": "Continuous Integration and Deployment automates testing and deployment. **How it works:** Push code, Tests run automatically, If pass, deploy automatically. **How to understand it:** Like automated quality control and shipping. **Real-world:** Developer sets up CI/CD: Push to GitHub, Tests run, If pass, auto-deploy to production. CI/CD automates workflow. **Best practice:** Set up CI/CD, Automate tests, Automate deployment, Monitor pipeline, Practice CI/CD."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Deploy Frontend to Netlify",
+          "explanation": "Developer deploys React app: Builds application, Connects GitHub repo to Netlify, Netlify builds and deploys, App live at netlify.app domain. Frontend deployed successfully."
+        },
+        {
+          "scenario": "Deploy Backend to Railway",
+          "explanation": "Developer deploys API: Pushes code to GitHub, Connects repo to Railway, Railway builds and deploys, API live at railway.app domain. Backend deployed successfully."
+        },
+        {
+          "scenario": "Set Up MongoDB Atlas",
+          "explanation": "Developer sets up database: Creates MongoDB Atlas account, Creates cluster, Gets connection string, Updates app config, Database accessible. Database deployed successfully."
+        },
+        {
+          "scenario": "Configure Environment Variables",
+          "explanation": "Developer configures env: Sets DATABASE_URL in hosting platform, Sets JWT_SECRET, Sets API keys, App uses env vars, Secrets secure. Environment variables configured."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Deploy Frontend Application",
+          "instructions": "Step 1: Build React app (npm run build). Step 2: Choose hosting (Netlify or Vercel). Step 3: Connect GitHub repository. Step 4: Configure build settings. Step 5: Set environment variables. Step 6: Deploy application. Step 7: Test deployed app. Step 8: Configure custom domain.",
+          "example_answer": "Frontend deployed: App built, Hosting chosen, Repository connected, Build configured, Environment variables set, App deployed, Tested, Domain configured. Frontend deployment complete."
+        },
+        {
+          "title": "Deploy Backend API",
+          "instructions": "Step 1: Prepare backend for production. Step 2: Choose hosting (Railway or Heroku). Step 3: Connect GitHub repository. Step 4: Set environment variables. Step 5: Configure database connection. Step 6: Deploy API. Step 7: Test deployed API. Step 8: Monitor server.",
+          "example_answer": "Backend deployed: API prepared, Hosting chosen, Repository connected, Environment variables set, Database configured, API deployed, Tested, Monitored. Backend deployment complete."
+        },
+        {
+          "title": "Deploy Full Stack Application",
+          "instructions": "Step 1: Set up MongoDB Atlas database. Step 2: Deploy frontend to Netlify. Step 3: Deploy backend to Railway. Step 4: Configure environment variables. Step 5: Update frontend API URLs. Step 6: Test complete application. Step 7: Fix any issues. Step 8: Document deployment.",
+          "example_answer": "Full stack deployed: Database set up, Frontend deployed, Backend deployed, Environment configured, URLs updated, Application tested, Issues fixed, Documented. Full stack deployment complete."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "DevOps Fundamentals",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to deployment, CI/CD, and DevOps practices."
+        },
+        {
+          "title": "Web Application Deployment",
+          "source": "OpenStax",
+          "reason": "Covers deployment strategies, hosting platforms, and production configuration."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Deploy React App to Netlify – Traversy Media",
+          "reason": "Complete guide to deploying React applications to Netlify."
+        },
+        {
+          "title": "Deploy Node.js to Railway – freeCodeCamp",
+          "reason": "Comprehensive tutorial on deploying Node.js applications."
+        }
+      ],
+      "summary": "Deployment makes applications available to users online. Frontend deployment uses static hosting platforms like Netlify or Vercel. Backend deployment uses server hosting platforms like Railway or Heroku. Database deployment uses cloud database services like MongoDB Atlas. Environment variables manage configuration for different environments. CI/CD automates testing and deployment workflows. Deployment is the final step in bringing applications to users. Mastering deployment enables you to share your applications with the world and understand DevOps basics."
+    }
+  ]
+}
+

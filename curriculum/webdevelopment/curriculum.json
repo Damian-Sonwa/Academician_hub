@@ -1,0 +1,57 @@
+{
+  "subject": "Web Development",
+  "levels": {
+    "Basic": [
+      "Introduction to the Web: How the Internet Works",
+      "Setting Up Your Development Environment",
+      "HTML Basics: Tags, Elements, and Structure",
+      "HTML Forms and Input Types",
+      "CSS Introduction: Inline, Internal, and External Styles",
+      "CSS Colors, Fonts, and Text Styling",
+      "CSS Box Model: Padding, Margin, and Borders",
+      "Introduction to JavaScript: Variables and Data Types",
+      "JavaScript: Basic Operations and Math",
+      "JavaScript: Alert, Prompt, and Console"
+    ],
+    "Secondary": [
+      "Introduction to Web Development",
+      "HTML Fundamentals and Document Structure",
+      "CSS Basics: Selectors, Properties, and Styling",
+      "CSS Layout: Box Model, Flexbox, and Positioning",
+      "CSS Grid and Advanced Layout Techniques",
+      "Responsive Design and Media Queries",
+      "JavaScript Fundamentals: Variables, Data Types, and Operators",
+      "JavaScript Control Flow: Conditionals and Loops",
+      "JavaScript Functions and Scope",
+      "DOM Manipulation: Selecting and Modifying Elements",
+      "Event Handling and User Interactions",
+      "Forms and Form Validation",
+      "Introduction to CSS Frameworks (Bootstrap)",
+      "Version Control with Git Basics",
+      "Web Hosting and Deployment Basics"
+    ],
+    "Advanced": [
+      "Advanced JavaScript: ES6+ Features and Modern Syntax",
+      "Asynchronous JavaScript: Promises, Async/Await, and Fetch API",
+      "JavaScript Design Patterns and Best Practices",
+      "Object-Oriented Programming in JavaScript",
+      "Advanced DOM Manipulation and Performance Optimization",
+      "Web APIs and Browser APIs",
+      "Introduction to React: Components, Props, and State",
+      "React Hooks and Functional Components",
+      "React Router and Navigation",
+      "State Management: Context API and Redux",
+      "Node.js and Server-Side JavaScript",
+      "Express.js Framework and RESTful APIs",
+      "Database Integration: MongoDB and Mongoose",
+      "Authentication and Authorization",
+      "Web Security: XSS, CSRF, and Best Practices",
+      "Testing: Unit Testing and Integration Testing",
+      "Build Tools: Webpack, Babel, and Module Bundlers",
+      "Progressive Web Apps (PWAs)",
+      "Performance Optimization and Web Vitals",
+      "Full-Stack Application Development"
+    ]
+  }
+}
+

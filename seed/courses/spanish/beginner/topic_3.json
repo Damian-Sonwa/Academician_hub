@@ -1,0 +1,86 @@
+{
+  "topic": "Numbers 0-100 and Basic Counting",
+  "detailedSummary": "Numbers are essential for everyday communication in Spanish. Learning numbers 0-100 provides a solid foundation for counting, telling time, discussing prices, and expressing quantities. Numbers 0-15 are unique: cero (0), uno (1), dos (2), tres (3), cuatro (4), cinco (5), seis (6), siete (7), ocho (8), nueve (9), diez (10), once (11), doce (12), trece (13), catorce (14), quince (15). Numbers 16-19 combine 'diez' with the unit: dieciséis (16), diecisiete (17), dieciocho (18), diecinueve (19). Multiples of ten are: veinte (20), treinta (30), cuarenta (40), cincuenta (50), sesenta (60), setenta (70), ochenta (80), noventa (90), cien (100). Numbers 21-99 combine tens and units with 'y' (and): veintiuno (21), treinta y dos (32), cuarenta y cinco (45). Note: 'uno' becomes 'un' before masculine nouns. Numbers are used for telling time, dates, prices, ages, and quantities. Practice with real-world contexts like shopping, scheduling, and describing quantities helps reinforce learning.",
+  "whyItMatters": "Numbers are used constantly in daily life - from telling time and dates to shopping and scheduling, mastering numbers 0-100 is essential for basic Spanish communication.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Numbers 0-100 and Basic Counting | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Numbers 0-100 and Basic Counting | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Numbers 0-100 and Basic Counting | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Spanish Numbers Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Numbers Practice Exercises",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Spanish Numbers",
+      "description": "Practice and demonstrate proficiency with Spanish numbers 0-100.",
+      "tasks": [
+        "Create flashcards for all numbers 0-100 and practice daily",
+        "Write out numbers in Spanish for: your age, phone number, and address",
+        "Practice counting objects in Spanish (count items in your room)",
+        "Create a shopping list with prices in Spanish",
+        "Record yourself counting from 0-100 in Spanish and identify any pronunciation challenges"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "How do you say '25' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "veinte y cinco",
+        "veinticinco",
+        "dos y cinco",
+        "veinte cinco"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Veinticinco' is the correct form - numbers 21-29 are written as one word without 'y' (unlike 31-99 which use 'y')."
+    },
+    {
+      "question": "The number 'uno' changes to 'un' when used before masculine nouns.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. 'Uno' becomes 'un' before masculine nouns (e.g., 'un libro' - one book), but stays 'uno' when used alone."
+    },
+    {
+      "question": "How do you say '100' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "ciento",
+        "cien",
+        "diez diez",
+        "cincuenta y cincuenta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Cien' is 100. 'Ciento' is used for numbers above 100 (e.g., 'ciento uno' - 101)."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

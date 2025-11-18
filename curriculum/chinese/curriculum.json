@@ -1,0 +1,54 @@
+{
+  "subject": "Chinese",
+  "levels": {
+    "Basic": [
+      "Pinyin: Basic Sounds and Tones",
+      "Basic Greetings: 你好, 再见, 谢谢",
+      "Numbers 1-20",
+      "Colors: 红色, 蓝色, 绿色, 黄色",
+      "Basic Body Parts: 头, 手, 脚",
+      "Simple Questions: 什么? 谁? 哪里?",
+      "Yes and No: 是 and 不是",
+      "Please and Thank You: 请, 谢谢",
+      "Days of the Week",
+      "Months of the Year"
+    ],
+    "Beginner": [
+      "Introduction to Chinese: Pinyin and Tones",
+      "Basic Characters: Stroke Order and Radicals",
+      "Numbers 0-100 and Basic Counting",
+      "Greetings and Polite Expressions",
+      "Personal Pronouns and Basic Sentence Structure",
+      "Essential Vocabulary: Family, Colors, and Days",
+      "Asking Questions: Question Words and Patterns",
+      "Telling Time and Dates",
+      "Basic Verbs: Action Words and Usage",
+      "Common Phrases and Survival Chinese"
+    ],
+    "Intermediate": [
+      "Complex Characters: Radicals and Character Formation",
+      "Verb Tenses: Past, Present, and Future Expressions",
+      "Measure Words: Classifiers and Usage",
+      "Aspect Markers: 了, 着, 过",
+      "Modal Verbs: Ability, Permission, and Necessity",
+      "Comparatives and Superlatives",
+      "Expressing Opinions and Preferences",
+      "Travel and Transportation Vocabulary",
+      "Reading Comprehension: Short Texts",
+      "Writing Practice: Paragraphs and Essays"
+    ],
+    "Advanced": [
+      "Advanced Grammar: Complex Sentence Structures",
+      "Literary Chinese: Classical Texts and Modern Literature",
+      "Business Chinese: Professional Communication",
+      "Idiomatic Expressions and Proverbs",
+      "Formal Writing: Academic and Business Documents",
+      "Cultural Texts: History, Philosophy, and Literature",
+      "Debate and Argumentation in Chinese",
+      "Regional Variations: Mainland, Taiwan, and Overseas",
+      "Media Chinese: News, Articles, and Social Media",
+      "Advanced Conversation: Nuances and Subtleties"
+    ]
+  }
+}
+

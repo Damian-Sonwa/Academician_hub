@@ -1,0 +1,87 @@
+{
+  "topic": "JavaScript Control Flow: Conditionals and Loops",
+  "detailedSummary": "Control flow determines the order in which code executes. Conditional statements allow code to make decisions. if statements execute code when a condition is true. else provides alternative execution when the condition is false. else if chains multiple conditions. The ternary operator (condition ? value1 : value2) provides a concise way to write simple conditionals. Switch statements handle multiple possible values efficiently. Loops repeat code execution. for loops iterate a specific number of times with initialization, condition, and increment. while loops continue while a condition is true. do-while loops execute at least once before checking the condition. for...of loops iterate over iterable objects like arrays. Break exits a loop early, and continue skips to the next iteration. Nested loops and conditionals create complex logic. Understanding control flow is essential for creating interactive programs that respond to different situations and process data efficiently.",
+  "whyItMatters": "Control flow is fundamental to programming - it allows code to make decisions and repeat actions, which is essential for any interactive application.",
+  "materials": {
+    "videos": [
+      {
+        "title": "JavaScript Tutorial | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "JavaScript Basics | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "JavaScript | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "JavaScript Control Flow Guide",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Control Flow Practice",
+        "url": "https://codepen.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Build Interactive Programs with Control Flow",
+      "description": "Create JavaScript programs using conditionals and loops to solve problems and create interactive features.",
+      "tasks": [
+        "Write programs using if/else statements to make decisions based on user input",
+        "Create a program using a switch statement to handle multiple cases",
+        "Use for loops to iterate through arrays and perform calculations",
+        "Implement a while loop to create an interactive program that continues until a condition is met",
+        "Combine conditionals and loops to create a simple game or interactive application"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the purpose of the break statement in a loop?",
+      "type": "multiple-choice",
+      "options": [
+        "To skip to the next iteration",
+        "To exit the loop immediately",
+        "To continue the loop",
+        "To start a new loop"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The break statement immediately exits the loop, regardless of the loop condition, allowing you to stop iteration early when needed."
+    },
+    {
+      "question": "A do-while loop always executes at least once, even if the condition is false initially.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. do-while loops check the condition after the first execution, so the code block always runs at least once."
+    },
+    {
+      "question": "Which loop is best for iterating through an array?",
+      "type": "multiple-choice",
+      "options": [
+        "while loop only",
+        "for loop or for...of loop",
+        "do-while loop only",
+        "switch statement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "for loops and for...of loops are ideal for arrays - for loops give you index control, while for...of loops iterate over values directly."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

@@ -1,0 +1,161 @@
+{
+  "topic": "Sequences and Series",
+  "detailedSummary": "A sequence is an ordered list of numbers following a specific pattern or rule. Each number in a sequence is called a term. Sequences can be defined explicitly (a formula for the nth term) or recursively (each term defined in terms of previous terms). Arithmetic sequences have a constant difference between consecutive terms: aₙ = a₁ + (n-1)d, where a₁ is the first term and d is the common difference. Geometric sequences have a constant ratio between consecutive terms: aₙ = a₁·rⁿ⁻¹, where r is the common ratio. A series is the sum of terms in a sequence. The sum of the first n terms of an arithmetic sequence is Sₙ = n/2 · (a₁ + aₙ) or Sₙ = n/2 · [2a₁ + (n-1)d]. The sum of the first n terms of a geometric sequence is Sₙ = a₁(1 - rⁿ)/(1 - r) when r ≠ 1. An infinite geometric series converges (has a finite sum) when |r| < 1, with sum S = a₁/(1 - r). Sequences and series model many real-world phenomena: population growth (geometric), loan payments (arithmetic), radioactive decay (geometric), and the value of investments over time. They're fundamental in calculus for understanding limits, Taylor series, and the convergence of functions. The Fibonacci sequence, where each term is the sum of the two preceding terms, appears throughout nature in patterns of growth and structure.",
+  "whyItMatters": "Sequences and series model patterns of growth and accumulation - essential for finance, biology, computer science, and understanding infinite processes in calculus.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Sequences and Series | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Sequences and Series | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Sequences and Series | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "College Algebra 2e - Chapter 9: Sequences, Probability and Counting Theory - OpenStax",
+        "url": "https://openstax.org/details/books/college-algebra-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Sequence Explorer - Desmos",
+        "url": "https://www.desmos.com/calculator"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Sequences and Series",
+      "description": "Master arithmetic and geometric sequences, their sums, and applications.",
+      "tasks": [
+        "Identify and classify 15 sequences as arithmetic, geometric, or neither",
+        "Find explicit formulas for 10 arithmetic sequences",
+        "Find explicit formulas for 10 geometric sequences",
+        "Calculate sums of 10 arithmetic series",
+        "Calculate sums of 10 geometric series",
+        "Determine if infinite geometric series converge and find their sums",
+        "Solve word problems involving sequences (population, investments, loans)",
+        "Work with recursive sequences",
+        "Find specific terms in sequences using formulas",
+        "Create real-world scenarios modeled by sequences or series"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the 10th term of the arithmetic sequence: 5, 8, 11, 14, ...?",
+      "type": "multiple-choice",
+      "options": [
+        "32",
+        "35",
+        "38",
+        "41"
+      ],
+      "correctAnswer": 0,
+      "explanation": "a₁ = 5, d = 3. a₁₀ = 5 + (10-1)(3) = 5 + 27 = 32."
+    },
+    {
+      "question": "What is the common ratio of the geometric sequence: 2, 6, 18, 54, ...?",
+      "type": "multiple-choice",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "6"
+      ],
+      "correctAnswer": 0,
+      "explanation": "r = 6/2 = 18/6 = 54/18 = 3."
+    },
+    {
+      "question": "What is the sum of the first 5 terms of the arithmetic sequence with a₁ = 3 and d = 4?",
+      "type": "multiple-choice",
+      "options": [
+        "55",
+        "60",
+        "65",
+        "70"
+      ],
+      "correctAnswer": 0,
+      "explanation": "a₅ = 3 + (5-1)(4) = 19. S₅ = 5/2 · (3 + 19) = 5/2 · 22 = 55."
+    },
+    {
+      "question": "An infinite geometric series always converges to a finite sum.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. An infinite geometric series converges only when |r| < 1. If |r| ≥ 1, it diverges."
+    },
+    {
+      "question": "What is the sum of the infinite geometric series: 10 + 5 + 2.5 + 1.25 + ...?",
+      "type": "multiple-choice",
+      "options": [
+        "20",
+        "15",
+        "25",
+        "Diverges"
+      ],
+      "correctAnswer": 0,
+      "explanation": "a₁ = 10, r = 0.5. Since |r| < 1, S = a₁/(1-r) = 10/(1-0.5) = 10/0.5 = 20."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1574170275470-a717198122c8?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Sequence": "An ordered list of numbers following a pattern. Each number is a term, denoted a₁, a₂, a₃, ..., aₙ.",
+      "Arithmetic Sequence": "A sequence with constant difference d between consecutive terms. Formula: aₙ = a₁ + (n-1)d. Example: 3, 7, 11, 15, ... (d = 4).",
+      "Geometric Sequence": "A sequence with constant ratio r between consecutive terms. Formula: aₙ = a₁·rⁿ⁻¹. Example: 2, 6, 18, 54, ... (r = 3).",
+      "Series": "The sum of terms in a sequence. Arithmetic series: Sₙ = n(a₁ + aₙ)/2. Geometric series: Sₙ = a₁(1-rⁿ)/(1-r) if r ≠ 1.",
+      "Summation Notation (Σ)": "Compact notation for series: Σᵢ₌₁ⁿ aᵢ means a₁ + a₂ + ... + aₙ. The Greek letter sigma (Σ) means 'sum'.",
+      "Infinite Geometric Series": "A geometric series with infinitely many terms. Sums to S = a₁/(1-r) if |r| < 1. Diverges if |r| ≥ 1.",
+      "Common Difference (d)": "In arithmetic sequences, the constant amount added to each term to get the next: d = aₙ₊₁ - aₙ.",
+      "Common Ratio (r)": "In geometric sequences, the constant multiplier: r = aₙ₊₁/aₙ."
+    },
+    "keyConcepts": [
+      "Arithmetic sequences: constant difference (add same number each time)",
+      "Geometric sequences: constant ratio (multiply by same number each time)",
+      "Series formulas provide efficient ways to sum many terms without adding individually",
+      "Infinite geometric series converge (have finite sum) only if |r| < 1",
+      "Sequences can be defined explicitly (formula for nth term) or recursively (each term from previous)"
+    ],
+    "stepByStepExplanations": [
+      "**Finding nth Term of Arithmetic Sequence:** Given: 5, 9, 13, 17, ... Step 1) Identify: a₁ = 5, d = 9 - 5 = 4. Step 2) Use formula: aₙ = 5 + (n-1)(4) = 4n + 1. Step 3) Verify: a₃ = 4(3) + 1 = 13 ✓.",
+      "**Finding Sum of Arithmetic Series:** Sum first 10 terms of 3, 7, 11, 15, ... Step 1) a₁ = 3, d = 4, n = 10. Step 2) Find a₁₀ = 3 + 9(4) = 39. Step 3) S₁₀ = 10(3 + 39)/2 = 210.",
+      "**Geometric Sequence:** Given: 2, 6, 18, 54, ... Step 1) Identify: a₁ = 2, r = 6/2 = 3. Step 2) Formula: aₙ = 2·3ⁿ⁻¹. Step 3) Find a₅ = 2·3⁴ = 162.",
+      "**Infinite Geometric Series:** Sum: 10 + 5 + 2.5 + 1.25 + ... Step 1) a₁ = 10, r = 5/10 = 0.5. Step 2) Since |r| < 1, sum exists. Step 3) S = 10/(1-0.5) = 10/0.5 = 20."
+    ],
+    "examples": [
+      "**Arithmetic Sequence:** 7, 12, 17, 22, ...\n   a₁ = 7, d = 5\n   Formula: aₙ = 7 + (n-1)(5) = 5n + 2\n   a₁₀ = 5(10) + 2 = 52",
+      "**Geometric Sequence:** 4, 12, 36, 108, ...\n   a₁ = 4, r = 3\n   Formula: aₙ = 4·3ⁿ⁻¹\n   a₆ = 4·3⁵ = 972",
+      "**Arithmetic Series Sum:** 2 + 5 + 8 + 11 + 14\n   n = 5, a₁ = 2, a₅ = 14\n   S₅ = 5(2 + 14)/2 = 40\n   Check: 2+5+8+11+14 = 40 ✓",
+      "**Infinite Geometric Series:** 1 + 1/2 + 1/4 + 1/8 + ...\n   a₁ = 1, r = 1/2\n   Since |r| < 1: S = 1/(1-1/2) = 2\n   This is the famous Zeno's paradox sum"
+    ],
+    "realLifeApplications": [
+      "**Loan Payments:** Monthly payments form arithmetic sequence if interest is simple. Total paid is arithmetic series sum. Used in finance to calculate total loan cost.",
+      "**Population Growth:** If population grows by 3% annually, it's geometric: P(t) = P₀·1.03ᵗ. Series helps calculate total growth over multiple periods.",
+      "**Depreciation:** Car value decreasing by $2000/year is arithmetic: V(t) = 30000 - 2000t. Series finds total depreciation over time.",
+      "**Compound Interest:** Investment with interest reinvested is geometric. If $1000 at 5% annually: A(t) = 1000·1.05ᵗ. Series models multiple deposits."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A number line showing an arithmetic sequence with terms marked, demonstrating constant spacing (common difference) between consecutive terms.",
+      "A graph showing geometric sequence terms, demonstrating exponential growth when r > 1 and exponential decay when 0 < r < 1.",
+      "A visual representation of series summation: showing terms being added together, with the sum formula providing the total without individual addition."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

@@ -1,0 +1,223 @@
+{
+  "topic": "Linear Equations and Inequalities",
+  "detailedSummary": "Linear equations and inequalities are fundamental algebraic concepts that model relationships with constant rates of change. A linear equation is an equation where the highest power of the variable is 1, forming a straight line when graphed. The standard form is ax + b = 0, and the slope-intercept form is y = mx + b, where m represents the slope (rate of change) and b is the y-intercept (starting value). Solving linear equations involves isolating the variable using inverse operations: addition/subtraction to move constants, and multiplication/division to eliminate coefficients. Linear inequalities use symbols like <, >, ≤, or ≥ instead of equals signs, representing ranges of solutions rather than single values. When solving inequalities, multiplying or dividing by a negative number reverses the inequality sign—a critical rule that differs from equations. Graphing linear equations reveals their visual representation: every point on the line satisfies the equation. Linear inequalities are graphed as shaded regions, with solid lines for ≤ or ≥ and dashed lines for < or >. These concepts are essential because they model countless real-world situations: calculating costs, predicting trends, analyzing rates of change, and solving optimization problems. From calculating phone bills to predicting population growth, linear relationships are everywhere in mathematics and science.",
+  "whyItMatters": "Linear equations and inequalities model real-world relationships with constant rates of change - essential for understanding economics, physics, engineering, and data analysis.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Linear Equations and Inequalities | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Linear Equations and Inequalities | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Linear Equations and Inequalities | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Elementary Algebra 2e - Chapter 2: Solving Linear Equations - OpenStax",
+        "url": "https://openstax.org/details/books/elementary-algebra-2e"
+      },
+      {
+        "title": "Intermediate Algebra 2e - Chapter 2: Linear Equations - OpenStax",
+        "url": "https://openstax.org/details/books/intermediate-algebra-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Graphing Linear Equations - Desmos",
+        "url": "https://www.desmos.com/calculator"
+      },
+      {
+        "title": "Linear Equations Practice - Khan Academy",
+        "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:linear-equations-graphs"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Linear Equations and Inequalities Mastery",
+      "description": "Demonstrate proficiency in solving and graphing linear equations and inequalities.",
+      "tasks": [
+        "Solve 20 linear equations of varying complexity (one-step, two-step, multi-step, with fractions)",
+        "Graph 10 linear equations using slope-intercept form, identifying slope and y-intercept",
+        "Solve 15 linear inequalities and graph the solution sets on number lines",
+        "Write linear equations from word problems (e.g., 'A phone plan costs $30 plus $0.10 per minute')",
+        "Solve systems of linear equations using substitution and elimination methods",
+        "Graph systems of linear inequalities and identify the solution region",
+        "Create real-world scenarios that can be modeled with linear equations",
+        "Solve compound inequalities and graph their solutions",
+        "Determine if given points lie on specific linear equations",
+        "Write a reflection on how linear relationships appear in your daily life"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the solution to the equation 4x - 7 = 2x + 5?",
+      "type": "multiple-choice",
+      "options": [
+        "x = 2",
+        "x = 6",
+        "x = 12",
+        "x = -6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Subtract 2x from both sides: 2x - 7 = 5. Add 7 to both sides: 2x = 12. Divide by 2: x = 6."
+    },
+    {
+      "question": "In the equation y = -3x + 4, what is the slope?",
+      "type": "multiple-choice",
+      "options": [
+        "-3",
+        "3",
+        "4",
+        "-4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In slope-intercept form y = mx + b, m is the slope. Here, m = -3."
+    },
+    {
+      "question": "Solve the inequality: 2x + 5 < 13",
+      "type": "multiple-choice",
+      "options": [
+        "x < 4",
+        "x < 9",
+        "x > 4",
+        "x > 9"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Subtract 5 from both sides: 2x < 8. Divide by 2: x < 4."
+    },
+    {
+      "question": "When solving an inequality, if you multiply both sides by a negative number, you must reverse the inequality sign.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. This is a critical rule: multiplying or dividing by a negative number reverses the inequality direction."
+    },
+    {
+      "question": "What is the y-intercept of the line y = 2x - 6?",
+      "type": "multiple-choice",
+      "options": [
+        "-6",
+        "6",
+        "2",
+        "-2"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In y = mx + b form, b is the y-intercept. Here, b = -6, so the y-intercept is -6."
+    },
+    {
+      "question": "Which point lies on the line y = 3x + 1?",
+      "type": "multiple-choice",
+      "options": [
+        "(0, 1)",
+        "(1, 0)",
+        "(0, 3)",
+        "(3, 0)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Substitute x = 0: y = 3(0) + 1 = 1. So (0, 1) is on the line."
+    },
+    {
+      "question": "Solve: -3x + 4 ≥ 10",
+      "type": "multiple-choice",
+      "options": [
+        "x ≤ -2",
+        "x ≥ -2",
+        "x ≤ 2",
+        "x ≥ 2"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Subtract 4: -3x ≥ 6. Divide by -3 (reverse sign): x ≤ -2."
+    },
+    {
+      "question": "A linear equation always forms a straight line when graphed.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. By definition, linear equations have degree 1 and graph as straight lines."
+    },
+    {
+      "question": "What is the slope of a line passing through points (2, 5) and (4, 11)?",
+      "type": "multiple-choice",
+      "options": [
+        "3",
+        "-3",
+        "6",
+        "-6"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Slope = (y₂ - y₁)/(x₂ - x₁) = (11 - 5)/(4 - 2) = 6/2 = 3."
+    },
+    {
+      "question": "Which inequality represents 'x is greater than or equal to -3'?",
+      "type": "multiple-choice",
+      "options": [
+        "x > -3",
+        "x ≥ -3",
+        "x < -3",
+        "x ≤ -3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Greater than or equal to' uses the ≥ symbol, so x ≥ -3."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1574170275470-a717198122c8?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Linear Equation": "An equation where the highest power of the variable is 1, forming a straight line when graphed. General form: ax + b = 0 or y = mx + b.",
+      "Slope (m)": "The rate of change in a linear equation, representing how much y changes for each unit change in x. Calculated as (y₂ - y₁)/(x₂ - x₁) or rise/run.",
+      "Y-Intercept (b)": "The point where a line crosses the y-axis, occurring when x = 0. In y = mx + b, b is the y-intercept.",
+      "Slope-Intercept Form": "The equation form y = mx + b, where m is the slope and b is the y-intercept, making graphing straightforward.",
+      "Standard Form": "The equation form Ax + By = C, where A, B, and C are integers and A is non-negative.",
+      "Linear Inequality": "A mathematical statement using <, >, ≤, or ≥ instead of =, representing a range of solutions rather than a single value.",
+      "Solution Set": "All values that satisfy an equation or inequality. For equations, it's typically one value; for inequalities, it's a range of values.",
+      "Inequality Reversal": "The rule that when multiplying or dividing both sides of an inequality by a negative number, the inequality sign must be reversed."
+    },
+    "keyConcepts": [
+      "Linear equations graph as straight lines with constant slope",
+      "Slope-intercept form (y = mx + b) reveals slope and y-intercept directly",
+      "Solving linear equations uses inverse operations to isolate the variable",
+      "Inequalities have solution sets (ranges) rather than single solutions",
+      "Multiplying/dividing inequalities by negatives requires sign reversal"
+    ],
+    "stepByStepExplanations": [
+      "**Solving Linear Equations:** For 3x + 7 = 22: Step 1) Subtract 7 from both sides: 3x = 15. Step 2) Divide by 3: x = 5. Step 3) Verify: 3(5) + 7 = 22 ✓.",
+      "**Graphing from Slope-Intercept Form:** For y = 2x - 3: Step 1) Plot y-intercept at (0, -3). Step 2) Use slope 2/1: from (0, -3), move right 1, up 2 to (1, -1). Step 3) Draw line through points.",
+      "**Solving Linear Inequalities:** For -2x + 5 > 11: Step 1) Subtract 5: -2x > 6. Step 2) Divide by -2 (REVERSE SIGN): x < -3. Step 3) Graph: open circle at -3, arrow left.",
+      "**Finding Slope from Two Points:** Given (2, 5) and (4, 11): Step 1) Identify (x₁, y₁) = (2, 5) and (x₂, y₂) = (4, 11). Step 2) Calculate: m = (11 - 5)/(4 - 2) = 6/2 = 3."
+    ],
+    "examples": [
+      "**Linear Equation:** y = -3x + 4\n   Slope: -3 (line decreases 3 units for each 1 unit right)\n   Y-intercept: 4 (line crosses y-axis at (0, 4))\n   Graph: Line passing through (0, 4) with negative slope",
+      "**Solving Multi-Step:** 2(x + 3) - 5 = 11\n   Distribute: 2x + 6 - 5 = 11\n   Simplify: 2x + 1 = 11\n   Subtract 1: 2x = 10\n   Divide by 2: x = 5",
+      "**Inequality with Reversal:** -4x + 8 ≤ 20\n   Subtract 8: -4x ≤ 12\n   Divide by -4 (REVERSE): x ≥ -3\n   Solution: All numbers greater than or equal to -3",
+      "**Word Problem:** 'A taxi charges $3 plus $2 per mile. Write an equation for cost C after m miles.'\n   Answer: C = 2m + 3\n   Slope (2) = cost per mile\n   Y-intercept (3) = initial fee"
+    ],
+    "realLifeApplications": [
+      "**Economics:** Linear equations model costs, revenue, and profit. Example: C = 50 + 10x (fixed cost $50 + $10 per unit) helps businesses determine break-even points.",
+      "**Physics:** Distance-time relationships are linear for constant speed: d = rt (distance = rate × time). Graphing shows speed as slope.",
+      "**Budgeting:** Inequalities model constraints: If you have $100 and items cost $15 each, 15x ≤ 100 means you can buy at most 6 items (x ≤ 6.67, so x ≤ 6).",
+      "**Temperature Conversion:** Celsius to Fahrenheit is linear: F = (9/5)C + 32. The slope 9/5 shows F changes faster than C."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A coordinate plane showing a line with equation y = 2x + 1, with slope triangle showing rise of 2 and run of 1, and y-intercept marked at (0, 1).",
+      "A number line showing the solution to x > -3: open circle at -3, arrow extending right, with shaded region indicating all values greater than -3.",
+      "A comparison diagram showing two lines: y = 2x + 1 (positive slope, rising) and y = -2x + 1 (negative slope, falling), both with same y-intercept."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 10 points. Passing: 7/10 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

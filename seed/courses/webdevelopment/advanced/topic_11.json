@@ -1,0 +1,87 @@
+{
+  "topic": "Node.js and Server-Side JavaScript",
+  "detailedSummary": "Node.js enables JavaScript to run on the server, using Chrome's V8 engine. Node.js is event-driven and non-blocking, making it efficient for I/O operations. The Node.js runtime provides modules, file system access, HTTP servers, and more. CommonJS modules use require() and module.exports. npm (Node Package Manager) manages packages and dependencies. package.json defines project metadata and dependencies. The file system (fs) module reads/writes files. The HTTP module creates web servers. Express.js is a popular web framework built on Node.js. Environment variables store configuration. Process management handles server lifecycle. Understanding Node.js enables building full-stack JavaScript applications, APIs, and server-side logic.",
+  "whyItMatters": "Node.js enables full-stack JavaScript development - understanding server-side JavaScript is essential for building modern web applications, APIs, and backend services.",
+  "materials": {
+    "videos": [
+      {
+        "title": "JavaScript Tutorial | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "JavaScript Basics | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "JavaScript | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Node.js Documentation",
+        "url": "https://nodejs.org/docs"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Node.js Practice",
+        "url": "https://codesandbox.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Build a Node.js Server",
+      "description": "Create a Node.js server application demonstrating server-side JavaScript capabilities.",
+      "tasks": [
+        "Set up a Node.js project with package.json and install dependencies",
+        "Create a basic HTTP server using Node.js built-in modules",
+        "Use the file system module to read and write files",
+        "Handle environment variables for configuration",
+        "Build a simple API server that responds to HTTP requests"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is Node.js?",
+      "type": "multiple-choice",
+      "options": [
+        "A JavaScript framework",
+        "A JavaScript runtime that enables server-side JavaScript using Chrome's V8 engine",
+        "A database",
+        "A CSS framework"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Node.js is a JavaScript runtime built on Chrome's V8 engine that enables JavaScript to run on the server, not just in browsers."
+    },
+    {
+      "question": "Node.js is blocking and synchronous by default.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Node.js is non-blocking and asynchronous by default, using an event-driven architecture that makes it efficient for I/O operations."
+    },
+    {
+      "question": "What is npm?",
+      "type": "multiple-choice",
+      "options": [
+        "Node Package Manager - manages JavaScript packages and dependencies",
+        "A JavaScript framework",
+        "A database",
+        "A server"
+      ],
+      "correctAnswer": 0,
+      "explanation": "npm (Node Package Manager) is the package manager for Node.js, used to install, manage, and share JavaScript packages and dependencies."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

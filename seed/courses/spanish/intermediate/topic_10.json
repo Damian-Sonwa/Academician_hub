@@ -1,0 +1,86 @@
+{
+  "topic": "Reading Comprehension and Writing Practice",
+  "detailedSummary": "Reading and writing practice integrates all grammar and vocabulary learned. Reading strategies: identify main ideas, use context clues, recognize cognates (words similar to English), break down complex sentences. Writing practice: start with simple sentences, build to paragraphs, use connectors (y, pero, porque, sin embargo, además), vary sentence structure, check grammar and spelling. Common writing topics: describing daily routines, narrating past events, expressing opinions, writing emails/letters, summarizing stories. Reading materials: news articles, short stories, blogs, social media posts, advertisements. Writing formats: emails ('Estimado/a...' - Dear...), postcards ('Querido/a...' - Dear...), descriptions, narratives. Practice activities: reading comprehension questions, writing summaries, creative writing, translation exercises. Regular reading expands vocabulary and exposes you to natural language patterns. Writing reinforces grammar and helps internalize structures. Both skills complement speaking and listening for well-rounded language proficiency.",
+  "whyItMatters": "Reading and writing are essential for language mastery - they reinforce grammar, expand vocabulary, and enable you to communicate in written form, which is crucial for academic and professional contexts.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Reading Comprehension and Writing Practice | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Reading Comprehension and Writing Practice | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Reading Comprehension and Writing Practice | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Reading and Writing Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Reading and Writing Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Develop Reading and Writing Skills",
+      "description": "Practice reading comprehension and writing in Spanish to integrate all learned skills.",
+      "tasks": [
+        "Read a Spanish article or story and write a summary in Spanish",
+        "Write a formal email in Spanish using appropriate greetings and closings",
+        "Practice writing narratives using past tenses (preterite and imperfect)",
+        "Write opinion pieces expressing your views on various topics",
+        "Complete reading comprehension exercises and identify main ideas, details, and vocabulary"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is a good strategy for reading in Spanish when you encounter unknown words?",
+      "type": "multiple-choice",
+      "options": [
+        "Stop and look up every word",
+        "Use context clues and continue reading",
+        "Skip the entire sentence",
+        "Only read words you know"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Using context clues helps you understand meaning without interrupting flow, and you can look up important words afterward."
+    },
+    {
+      "question": "Writing practice helps reinforce grammar structures and internalize language patterns.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Writing actively uses grammar and vocabulary, reinforcing learning and helping you internalize language structures."
+    },
+    {
+      "question": "What connector means 'however' or 'nevertheless' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "y",
+        "pero",
+        "sin embargo",
+        "porque"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Sin embargo' means 'however' or 'nevertheless' and is used to contrast ideas in writing."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

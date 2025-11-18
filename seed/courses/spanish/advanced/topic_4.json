@@ -1,0 +1,86 @@
+{
+  "topic": "Advanced Grammar: Por vs Para, Ser vs Estar (Nuanced Uses)",
+  "detailedSummary": "Advanced uses of 'por' and 'para' require understanding subtle distinctions. 'Por' indicates: reason/motive ('Lo hice por ti' - I did it for you), exchange ('Pagué diez dólares por el libro' - I paid ten dollars for the book), duration ('Estudié por dos horas' - I studied for two hours), means ('Viajé por avión' - I traveled by plane), 'through' ('Caminé por el parque' - I walked through the park), 'on behalf of' ('Firmé por él' - I signed for him). 'Para' indicates: destination ('Voy para Madrid' - I'm going to Madrid), purpose ('Estudio para aprender' - I study to learn), deadline ('Es para mañana' - It's for tomorrow), recipient ('Es para ti' - It's for you), opinion ('Para mí, es fácil' - For me, it's easy). Ser vs Estar nuances: 'ser' for time ('Es la una' - It's one o'clock), events ('La fiesta es en mi casa' - The party is at my house), passive ('Es escrito' - It's written). 'Estar' for ongoing actions ('Está escribiendo' - He's writing), results ('Está roto' - It's broken). Mastering these distinctions enables precise, native-like expression.",
+  "whyItMatters": "Por/para and ser/estar distinctions are among the most challenging aspects of Spanish - mastering their nuanced uses is essential for advanced, accurate communication.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Advanced Grammar: Por vs Para, Ser vs Estar (Nuanced Uses) | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=l2uWKj7MSkI"
+      },
+      {
+        "title": "Advanced Grammar: Por vs Para, Ser vs Estar (Nuanced Uses) | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Advanced Grammar: Por vs Para, Ser vs Estar (Nuanced Uses) | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Advanced Grammar Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Advanced Grammar Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Advanced Grammar Distinctions",
+      "description": "Practice using por/para and nuanced ser/estar in complex contexts.",
+      "tasks": [
+        "Create 30 sentences using 'por' and 'para' correctly in different contexts",
+        "Practice ser/estar in nuanced situations (time, events, ongoing actions, results)",
+        "Write sentences showing the difference between 'por' (reason) and 'para' (purpose)",
+        "Use ser/estar with past participles (ser for characteristics, estar for results)",
+        "Write a paragraph demonstrating mastery of all these distinctions"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "When do you use 'por' vs 'para' for 'for'?",
+      "type": "multiple-choice",
+      "options": [
+        "They are interchangeable",
+        "'Por' for reason/exchange, 'para' for purpose/destination",
+        "'Por' is always correct",
+        "'Para' is always correct"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Por' indicates reason, exchange, or means ('Lo hice por ti' - I did it for you/reason). 'Para' indicates purpose or destination ('Estudio para aprender' - I study to learn/purpose)."
+    },
+    {
+      "question": "'Está roto' (It's broken) uses 'estar' because it describes a result or condition, not a permanent characteristic.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. 'Estar' with past participles describes results or conditions ('está roto' - it's broken), while 'ser' would describe permanent characteristics."
+    },
+    {
+      "question": "How do you say 'I paid ten dollars for the book'?",
+      "type": "multiple-choice",
+      "options": [
+        "Pagué diez dólares para el libro",
+        "Pagué diez dólares por el libro",
+        "Pagué diez dólares del libro",
+        "Pagué diez dólares con el libro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Pagué diez dólares por el libro' - 'por' is used for exchange (I paid X for Y)."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=l2uWKj7MSkI"
+}

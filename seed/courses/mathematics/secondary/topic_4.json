@@ -1,0 +1,161 @@
+{
+  "topic": "Polynomials and Factoring",
+  "detailedSummary": "Polynomials are algebraic expressions consisting of variables raised to non-negative integer powers, combined using addition, subtraction, and multiplication. A polynomial in one variable has the form aₙxⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₁x + a₀, where each aᵢ is a coefficient and n is the degree (the highest power). Polynomials are classified by degree: linear (degree 1), quadratic (degree 2), cubic (degree 3), quartic (degree 4), and so on. Operations with polynomials include addition (combining like terms), subtraction, multiplication (using the distributive property), and division (long division or synthetic division). Factoring is the reverse process of multiplication—expressing a polynomial as a product of simpler polynomials. Common factoring techniques include: factoring out the greatest common factor (GCF), factoring by grouping, factoring trinomials, factoring differences of squares (a² - b² = (a+b)(a-b)), and factoring sums/differences of cubes. The Factor Theorem states that if (x - c) is a factor of polynomial P(x), then P(c) = 0, and vice versa. This connects factoring to finding roots (zeros) of polynomials. Understanding polynomials and factoring is crucial for solving higher-degree equations, simplifying rational expressions, analyzing function behavior, and working with complex algebraic structures. These skills form the foundation for calculus, where polynomials are among the simplest functions to differentiate and integrate.",
+  "whyItMatters": "Polynomials are fundamental building blocks of algebra - mastering factoring enables solving complex equations, simplifying expressions, and understanding function behavior.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Polynomials and Factoring | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Polynomials and Factoring | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Polynomials and Factoring | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Intermediate Algebra 2e - Chapter 5: Polynomials and Polynomial Functions - OpenStax",
+        "url": "https://openstax.org/details/books/intermediate-algebra-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Polynomial Operations Practice - Khan Academy",
+        "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:poly-factor"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Polynomials and Factoring Practice",
+      "description": "Master polynomial operations and factoring techniques.",
+      "tasks": [
+        "Add and subtract 15 polynomial expressions",
+        "Multiply 10 pairs of polynomials using distribution",
+        "Factor 20 polynomials using GCF method",
+        "Factor 15 trinomials of the form ax² + bx + c",
+        "Factor 10 differences of squares",
+        "Factor 10 sums and differences of cubes",
+        "Factor by grouping for 10 polynomials",
+        "Use synthetic division to divide polynomials",
+        "Find all roots of 5 polynomial equations",
+        "Create a polynomial that models a real-world situation"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the degree of the polynomial 3x⁴ - 2x³ + 5x - 1?",
+      "type": "multiple-choice",
+      "options": [
+        "4",
+        "3",
+        "1",
+        "0"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The degree is the highest power of x, which is 4."
+    },
+    {
+      "question": "Factor completely: x² - 9",
+      "type": "multiple-choice",
+      "options": [
+        "(x + 3)(x - 3)",
+        "(x - 3)²",
+        "(x + 9)(x - 1)",
+        "Cannot be factored"
+      ],
+      "correctAnswer": 0,
+      "explanation": "This is a difference of squares: x² - 9 = x² - 3² = (x + 3)(x - 3)."
+    },
+    {
+      "question": "What is the factored form of 2x² + 7x + 3?",
+      "type": "multiple-choice",
+      "options": [
+        "(2x + 1)(x + 3)",
+        "(2x + 3)(x + 1)",
+        "(x + 1)(2x + 3)",
+        "Cannot be factored"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Factor: 2x² + 7x + 3 = (2x + 1)(x + 3). Check: 2x·x + 2x·3 + 1·x + 1·3 = 2x² + 7x + 3."
+    },
+    {
+      "question": "Every polynomial of degree n has exactly n real roots.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. A polynomial of degree n has exactly n roots counting multiplicity, but some may be complex, not real."
+    },
+    {
+      "question": "What is the GCF of 12x³y² and 18x²y⁴?",
+      "type": "multiple-choice",
+      "options": [
+        "6x²y²",
+        "6x³y⁴",
+        "12x²y²",
+        "18x³y⁴"
+      ],
+      "correctAnswer": 0,
+      "explanation": "GCF of coefficients: 6. GCF of x terms: x² (lowest power). GCF of y terms: y² (lowest power). So GCF = 6x²y²."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1574170275470-a717198122c8?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Polynomial": "An algebraic expression with terms of the form axⁿ where a is a coefficient, x is a variable, and n is a non-negative integer. Example: 3x⁴ - 2x³ + 5x - 1.",
+      "Degree": "The highest power of the variable in a polynomial. A polynomial of degree n has the form aₙxⁿ + ... + a₁x + a₀ where aₙ ≠ 0.",
+      "GCF (Greatest Common Factor)": "The largest factor that divides all terms of a polynomial. Used as the first step in factoring.",
+      "Factoring": "Writing a polynomial as a product of simpler polynomials. The reverse of multiplication.",
+      "Difference of Squares": "A pattern a² - b² = (a + b)(a - b). Example: x² - 9 = (x + 3)(x - 3).",
+      "Sum/Difference of Cubes": "Patterns: a³ + b³ = (a + b)(a² - ab + b²) and a³ - b³ = (a - b)(a² + ab + b²).",
+      "Factor by Grouping": "A method for factoring polynomials with four terms by grouping pairs and factoring out common factors.",
+      "Factor Theorem": "If (x - c) is a factor of polynomial P(x), then P(c) = 0. Conversely, if P(c) = 0, then (x - c) is a factor."
+    },
+    "keyConcepts": [
+      "Polynomials are classified by degree: constant (0), linear (1), quadratic (2), cubic (3), quartic (4), etc.",
+      "Factoring reverses multiplication, expressing polynomials as products of factors",
+      "Common factoring methods: GCF, grouping, trinomials, special patterns (squares, cubes)",
+      "The Factor Theorem connects factors to roots: if (x - c) is a factor, then c is a root",
+      "Factoring enables solving polynomial equations by setting each factor equal to zero"
+    ],
+    "stepByStepExplanations": [
+      "**Factoring by GCF:** For 6x³ + 12x² - 18x: Step 1) Find GCF: 6x. Step 2) Factor out: 6x(x² + 2x - 3). Step 3) Factor trinomial: 6x(x + 3)(x - 1).",
+      "**Factoring Difference of Squares:** For x² - 16: Step 1) Recognize pattern: a² - b² where a = x, b = 4. Step 2) Apply formula: (x + 4)(x - 4).",
+      "**Factoring Trinomials:** For x² + 7x + 12: Step 1) Find two numbers that multiply to 12 and add to 7: 3 and 4. Step 2) Write factors: (x + 3)(x + 4). Step 3) Verify: (x + 3)(x + 4) = x² + 7x + 12 ✓.",
+      "**Factoring by Grouping:** For 2x³ + 4x² - 3x - 6: Step 1) Group: (2x³ + 4x²) + (-3x - 6). Step 2) Factor each group: 2x²(x + 2) - 3(x + 2). Step 3) Factor out (x + 2): (x + 2)(2x² - 3)."
+    ],
+    "examples": [
+      "**Polynomial Classification:** 5x⁴ - 3x² + 2x - 1\n   Degree: 4 (quartic)\n   Terms: 4\n   Leading coefficient: 5\n   Constant term: -1",
+      "**GCF Factoring:** 12x³y² - 18x²y⁴\n   GCF: 6x²y²\n   Factored: 6x²y²(2x - 3y²)",
+      "**Difference of Squares:** 25x² - 9y²\n   Recognize: (5x)² - (3y)²\n   Factor: (5x + 3y)(5x - 3y)",
+      "**Trinomial Factoring:** 2x² + 11x + 5\n   Find numbers: 1 and 10 (multiply to 10, add to 11)\n   Split middle: 2x² + x + 10x + 5\n   Group: x(2x + 1) + 5(2x + 1)\n   Factor: (2x + 1)(x + 5)"
+    ],
+    "realLifeApplications": [
+      "**Volume Calculations:** Polynomials model volumes. Example: Box with dimensions (x+2), (x+1), x has volume V = x(x+1)(x+2) = x³ + 3x² + 2x cubic units.",
+      "**Area Problems:** Factoring helps find dimensions. If area is x² + 5x + 6 and one side is (x+2), the other is (x+3) since x² + 5x + 6 = (x+2)(x+3).",
+      "**Physics:** Polynomial equations model motion. Factoring helps find when objects hit the ground: h(t) = -16t² + 64t factors to -16t(t - 4), so t = 0 or t = 4 seconds.",
+      "**Economics:** Profit functions are polynomials. Factoring helps find break-even points where profit equals zero."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A diagram showing polynomial structure: terms arranged by degree from highest to lowest, with coefficients and variables clearly labeled.",
+      "A factoring tree diagram: starting with a polynomial, branching to show GCF extraction, then further factoring into irreducible factors.",
+      "A visual comparison of multiplication (expanding) vs. factoring: showing (x+2)(x+3) = x² + 5x + 6 in both directions."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

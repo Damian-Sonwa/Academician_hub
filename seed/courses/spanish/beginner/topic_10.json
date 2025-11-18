@@ -1,0 +1,86 @@
+{
+  "topic": "Common Phrases and Survival Spanish",
+  "detailedSummary": "Survival Spanish consists of essential phrases for basic communication in everyday situations. Essential phrases include: 'Por favor' (Please), 'Gracias' (Thank you), 'De nada' (You're welcome), 'Perdón'/'Disculpe' (Excuse me/Sorry), 'Lo siento' (I'm sorry), 'Con permiso' (Excuse me - when passing), 'Salud' (Bless you/Cheers). Getting help: '¿Puede ayudarme?' (Can you help me?), 'No entiendo' (I don't understand), 'Hablo un poco de español' (I speak a little Spanish), '¿Habla inglés?' (Do you speak English?), 'Más despacio, por favor' (Slower, please), '¿Puede repetir?' (Can you repeat?). Shopping: '¿Cuánto cuesta?' (How much does it cost?), '¿Dónde está...?' (Where is...?), 'Quiero...' (I want...), 'Necesito...' (I need...). Directions: '¿Dónde está el baño?' (Where is the bathroom?), 'A la derecha' (To the right), 'A la izquierda' (To the left), 'Derecho' (Straight ahead). These phrases enable basic communication and navigation in Spanish-speaking countries.",
+  "whyItMatters": "Survival Spanish phrases are essential for real-world communication - mastering these enables you to navigate daily situations, ask for help, and interact with Spanish speakers effectively.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Common Phrases and Survival Spanish | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Common Phrases and Survival Spanish | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Common Phrases and Survival Spanish | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Essential Spanish Phrases Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Survival Spanish Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Survival Spanish",
+      "description": "Learn and practice essential phrases for real-world Spanish communication.",
+      "tasks": [
+        "Create flashcards for 50 essential survival phrases and practice daily",
+        "Write dialogues for common situations (restaurant, asking directions, shopping)",
+        "Practice pronunciation of all phrases with correct intonation",
+        "Create a 'survival guide' with phrases organized by situation",
+        "Record yourself using these phrases in simulated real-world scenarios"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "How do you politely ask someone to speak slower?",
+      "type": "multiple-choice",
+      "options": [
+        "Más rápido, por favor",
+        "Más despacio, por favor",
+        "Más alto, por favor",
+        "Más bajo, por favor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Más despacio, por favor' means 'Slower, please' - essential when you need someone to slow down their speech."
+    },
+    {
+      "question": "'Con permiso' is used when passing by someone, while 'Perdón' is used for apologizing.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. 'Con permiso' is polite when passing through or interrupting, while 'Perdón' or 'Disculpe' is for getting attention or apologizing."
+    },
+    {
+      "question": "What is the most common way to ask 'Where is the bathroom?'",
+      "type": "multiple-choice",
+      "options": [
+        "¿Dónde está el baño?",
+        "¿Dónde es el baño?",
+        "¿Cuál es el baño?",
+        "¿Qué es el baño?"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'¿Dónde está el baño?' is the standard way to ask where the bathroom is - one of the most important survival phrases!"
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

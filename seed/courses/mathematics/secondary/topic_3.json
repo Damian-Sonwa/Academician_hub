@@ -1,0 +1,165 @@
+{
+  "topic": "Quadratic Equations and Functions",
+  "detailedSummary": "Quadratic equations are polynomial equations of degree 2, taking the general form ax² + bx + c = 0, where a ≠ 0. These equations model relationships where the rate of change itself changes, creating parabolic curves when graphed. The graph of a quadratic function is a parabola, which opens upward if a > 0 and downward if a < 0. The vertex represents the maximum or minimum point of the parabola, and the axis of symmetry is a vertical line through the vertex. Quadratic equations can be solved using multiple methods: factoring (when the quadratic factors nicely), completing the square (which reveals the vertex form), and the quadratic formula x = (-b ± √(b² - 4ac)) / 2a (which works for all quadratics). The discriminant (b² - 4ac) determines the nature of solutions: positive discriminant means two real solutions, zero means one repeated solution, and negative means two complex solutions. Quadratic functions model numerous real-world phenomena including projectile motion (height of a thrown ball), area optimization (maximizing rectangular areas with fixed perimeters), profit maximization in business, and the shape of satellite dishes and bridges. Understanding quadratics is essential for advanced mathematics, physics, engineering, and economics, as they represent the simplest form of nonlinear relationships.",
+  "whyItMatters": "Quadratic equations model real-world situations with changing rates - essential for physics (projectile motion), engineering (optimization), and economics (profit maximization).",
+  "materials": {
+    "videos": [
+      {
+        "title": "Functions - Domain, Range, and Composition | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=Uzt63oiMvvg"
+      },
+      {
+        "title": "What is a Function? | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=WUfTyaaNkzM"
+      },
+      {
+        "title": "Function Properties | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Intermediate Algebra 2e - Chapter 9: Quadratic Equations - OpenStax",
+        "url": "https://openstax.org/details/books/intermediate-algebra-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Quadratic Function Explorer - Desmos",
+        "url": "https://www.desmos.com/calculator"
+      },
+      {
+        "title": "Quadratic Equations Practice - Khan Academy",
+        "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Quadratic Equations and Functions Mastery",
+      "description": "Solve quadratic equations using multiple methods and analyze quadratic functions.",
+      "tasks": [
+        "Solve 15 quadratic equations by factoring",
+        "Solve 10 quadratic equations using the quadratic formula",
+        "Solve 10 quadratic equations by completing the square",
+        "Graph 10 quadratic functions, identifying vertex, axis of symmetry, and intercepts",
+        "Convert quadratic functions between standard, vertex, and factored forms",
+        "Determine the number and type of solutions using the discriminant",
+        "Solve word problems involving quadratic equations (projectile motion, area optimization)",
+        "Find maximum/minimum values of quadratic functions",
+        "Analyze the effects of changing parameters a, b, and c on the graph",
+        "Create a real-world scenario modeled by a quadratic function"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What are the solutions to x² - 5x + 6 = 0?",
+      "type": "multiple-choice",
+      "options": [
+        "x = 2 and x = 3",
+        "x = -2 and x = -3",
+        "x = 1 and x = 6",
+        "x = -1 and x = -6"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Factor: (x - 2)(x - 3) = 0. So x = 2 or x = 3."
+    },
+    {
+      "question": "What is the vertex of the parabola y = x² - 4x + 3?",
+      "type": "multiple-choice",
+      "options": [
+        "(2, -1)",
+        "(-2, 15)",
+        "(4, 3)",
+        "(0, 3)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Complete the square or use vertex formula: h = -b/(2a) = 4/2 = 2, k = f(2) = 4 - 8 + 3 = -1. Vertex: (2, -1)."
+    },
+    {
+      "question": "Using the quadratic formula, what is the discriminant of 2x² + 3x - 5 = 0?",
+      "type": "multiple-choice",
+      "options": [
+        "49",
+        "-31",
+        "31",
+        "7"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Discriminant = b² - 4ac = 3² - 4(2)(-5) = 9 + 40 = 49."
+    },
+    {
+      "question": "A quadratic equation always has exactly two real solutions.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. A quadratic can have 2 real solutions, 1 real solution (repeated), or 2 complex solutions, depending on the discriminant."
+    },
+    {
+      "question": "Which method is guaranteed to solve any quadratic equation?",
+      "type": "multiple-choice",
+      "options": [
+        "Factoring",
+        "Completing the square",
+        "Quadratic formula",
+        "Graphing"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The quadratic formula works for all quadratic equations, regardless of whether they factor nicely."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1574170275470-a717198122c8?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Quadratic Equation": "A polynomial equation of degree 2 in the form ax² + bx + c = 0, where a ≠ 0. The highest power is x².",
+      "Parabola": "The U-shaped curve that is the graph of a quadratic function. Opens upward if a > 0, downward if a < 0.",
+      "Vertex": "The highest or lowest point on a parabola. For y = ax² + bx + c, vertex is at x = -b/(2a). The vertex is the maximum if a < 0, minimum if a > 0.",
+      "Axis of Symmetry": "The vertical line through the vertex that divides the parabola into two mirror-image halves. Equation: x = -b/(2a).",
+      "Discriminant": "The expression b² - 4ac in the quadratic formula. Determines solution types: positive = 2 real solutions, zero = 1 repeated solution, negative = 2 complex solutions.",
+      "Quadratic Formula": "x = (-b ± √(b² - 4ac)) / 2a. A universal method to solve any quadratic equation.",
+      "Factoring": "Writing a quadratic as a product of two binomials: ax² + bx + c = (px + q)(rx + s). Useful when factors are integers.",
+      "Completing the Square": "A method to rewrite ax² + bx + c in vertex form a(x - h)² + k, revealing the vertex directly."
+    },
+    "keyConcepts": [
+      "Quadratic functions graph as parabolas with a single vertex (maximum or minimum)",
+      "The coefficient a determines direction: positive opens up, negative opens down",
+      "Three solution methods: factoring (when possible), completing the square, quadratic formula (always works)",
+      "The discriminant predicts solution types without solving",
+      "Vertex form y = a(x - h)² + k directly shows vertex at (h, k)"
+    ],
+    "stepByStepExplanations": [
+      "**Solving by Factoring:** For x² - 5x + 6 = 0: Step 1) Find two numbers that multiply to 6 and add to -5: -2 and -3. Step 2) Factor: (x - 2)(x - 3) = 0. Step 3) Set each factor = 0: x = 2 or x = 3.",
+      "**Using Quadratic Formula:** For 2x² + 3x - 5 = 0: Step 1) Identify a = 2, b = 3, c = -5. Step 2) Calculate discriminant: 3² - 4(2)(-5) = 9 + 40 = 49. Step 3) Apply formula: x = (-3 ± √49)/(2×2) = (-3 ± 7)/4. Step 4) Solutions: x = 1 or x = -2.5.",
+      "**Finding Vertex:** For y = x² - 4x + 3: Step 1) Find x-coordinate: h = -b/(2a) = -(-4)/(2×1) = 2. Step 2) Find y-coordinate: k = f(2) = 2² - 4(2) + 3 = -1. Step 3) Vertex: (2, -1).",
+      "**Completing the Square:** For x² + 6x + 5 = 0: Step 1) Move constant: x² + 6x = -5. Step 2) Add (6/2)² = 9: x² + 6x + 9 = -5 + 9. Step 3) Factor: (x + 3)² = 4. Step 4) Solve: x + 3 = ±2, so x = -1 or x = -5."
+    ],
+    "examples": [
+      "**Factoring Example:** x² - 7x + 12 = 0\n   Find factors of 12 that sum to -7: -3 and -4\n   Factor: (x - 3)(x - 4) = 0\n   Solutions: x = 3 or x = 4",
+      "**Quadratic Formula:** 3x² - 11x + 6 = 0\n   a = 3, b = -11, c = 6\n   Discriminant: (-11)² - 4(3)(6) = 121 - 72 = 49\n   x = (11 ± 7)/6\n   Solutions: x = 3 or x = 2/3",
+      "**Vertex and Graph:** y = -2x² + 8x - 5\n   Vertex: x = -8/(2×-2) = 2, y = -2(4) + 16 - 5 = 3\n   Vertex: (2, 3) - maximum point (a < 0)\n   Axis of symmetry: x = 2\n   Opens downward",
+      "**Projectile Motion:** h(t) = -16t² + 64t + 5 (height in feet, time in seconds)\n   Maximum height at vertex: t = -64/(2×-16) = 2 seconds\n   Maximum height: h(2) = -64 + 128 + 5 = 69 feet"
+    ],
+    "realLifeApplications": [
+      "**Projectile Motion:** When a ball is thrown, its height follows h(t) = -16t² + v₀t + h₀. The vertex gives maximum height and time to reach it. Used in sports, physics, and engineering.",
+      "**Area Optimization:** Given a fixed perimeter, maximizing rectangular area creates a quadratic. Example: With 40m fence, area A = x(20 - x) = -x² + 20x. Maximum at x = 10m (square).",
+      "**Business Profit:** Profit P = -x² + 100x - 500 models revenue minus costs. The vertex shows optimal production level for maximum profit. Critical for business decision-making.",
+      "**Architecture:** Parabolic arches (bridges, doorways) use quadratic functions. The shape distributes weight efficiently. Satellite dishes use parabolic reflectors to focus signals."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A coordinate plane showing a parabola y = x² - 4x + 3, with vertex at (2, -1) marked, axis of symmetry x = 2 shown as a dashed vertical line, and x-intercepts at (1, 0) and (3, 0).",
+      "A comparison diagram showing two parabolas: y = x² (opens up, vertex at origin) and y = -x² (opens down, vertex at origin), demonstrating the effect of the sign of coefficient a.",
+      "A projectile motion diagram showing height vs. time as a parabola, with the vertex indicating maximum height, and the x-intercepts showing when the object hits the ground."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uzt63oiMvvg"
+}

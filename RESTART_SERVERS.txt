@@ -1,0 +1,11 @@
+Copy and run these commands after whitelisting your IP in MongoDB Atlas:
+
+Stop-Process -Name node -Force
+
+$env:MONGODB_URI = "mongodb+srv://madudamian25_db_user:sopuluchukwu@cluster0.t1jvgmx.mongodb.net/my_elearning?retryWrites=true&w=majority&appName=Cluster0"
+
+npm run dev:all
+
+Then check terminal for: ✅ Connected to MongoDB
+If you see that, login will work!
+

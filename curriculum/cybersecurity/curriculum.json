@@ -1,0 +1,43 @@
+{
+  "subject": "Cybersecurity",
+  "levels": {
+    "Basic": [
+      "Introduction to Cybersecurity: Threats and Vulnerabilities",
+      "Computer Networks: Fundamentals and Protocols",
+      "Operating Systems Security: Windows and Linux Basics",
+      "Cryptography Basics: Encryption and Hashing",
+      "Web Security: Common Vulnerabilities (OWASP Top 10)",
+      "Malware: Types, Detection, and Prevention",
+      "Social Engineering: Phishing and Human Factors",
+      "Network Security: Firewalls and Intrusion Detection",
+      "Security Policies and Best Practices",
+      "Incident Response: Detection and Basic Response"
+    ],
+    "Secondary": [
+      "Advanced Network Security: VPNs, IDS/IPS, and SIEM",
+      "Penetration Testing: Methodology and Tools",
+      "Web Application Security: OWASP Testing and Remediation",
+      "Cryptography: Advanced Algorithms and PKI",
+      "Digital Forensics: Evidence Collection and Analysis",
+      "Ethical Hacking: Legal and Ethical Considerations",
+      "Cloud Security: AWS, Azure, and GCP Security",
+      "Mobile Security: Android and iOS Security",
+      "Security Architecture and Design",
+      "Risk Management and Compliance (ISO 27001, NIST)"
+    ],
+    "Advanced": [
+      "Advanced Penetration Testing: Red Team Operations",
+      "Malware Analysis: Reverse Engineering and Behavior Analysis",
+      "Advanced Cryptography: Zero-Knowledge Proofs and Homomorphic Encryption",
+      "Threat Intelligence: APT Analysis and Attribution",
+      "Security Operations Center (SOC): Advanced Monitoring and Response",
+      "Cloud Security Architecture: Multi-Cloud and Hybrid Deployments",
+      "IoT and Embedded Systems Security",
+      "Blockchain Security and Smart Contract Auditing",
+      "Security Research: Vulnerability Discovery and Exploitation",
+      "Cybersecurity Leadership: Strategy, Governance, and Compliance"
+    ]
+  }
+}
+
+

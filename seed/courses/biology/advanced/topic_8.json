@@ -1,0 +1,86 @@
+{
+  "topic": "Ecology and Conservation Biology",
+  "detailedSummary": "Advanced ecology examines complex interactions between organisms and their environment at multiple scales. Population ecology studies how populations change over time, including growth models, carrying capacity, and population regulation. Community ecology explores species interactions including competition, predation, mutualism, and how these shape community structure. Ecosystem ecology examines energy flow and nutrient cycling at large scales. Biodiversity encompasses species richness, evenness, and genetic diversity. Conservation biology applies ecological principles to protect biodiversity and ecosystems. Threats to biodiversity include habitat destruction, climate change, invasive species, overexploitation, and pollution. Conservation strategies include protected areas, habitat restoration, captive breeding, and ecosystem management. Landscape ecology studies how spatial patterns affect ecological processes. Global change biology examines how human activities alter ecosystems worldwide. Understanding advanced ecology is essential for addressing environmental challenges, managing natural resources, and developing conservation strategies.",
+  "whyItMatters": "Understanding advanced ecology and conservation biology is essential for protecting biodiversity, managing ecosystems sustainably, addressing climate change impacts, and developing effective conservation strategies.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Ecology | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Ecosystems | Crash Course Biology",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Ecology | Bozeman Science",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Ecology: Concepts and Applications - Advanced Textbook",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Ecosystem Modeling and Conservation Planning",
+        "url": "https://phet.colorado.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Conservation Case Study Analysis",
+      "description": "Analyze a specific conservation challenge, evaluating threats, current strategies, and proposing solutions.",
+      "tasks": [
+        "Choose a specific conservation case (e.g., endangered species, threatened ecosystem, or conservation area)",
+        "Identify the primary threats to biodiversity",
+        "Evaluate current conservation strategies and their effectiveness",
+        "Propose evidence-based conservation solutions",
+        "Write a 500-600 word report with maps or diagrams explaining the conservation challenge and solutions, citing at least three scientific sources"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is carrying capacity in population ecology?",
+      "type": "multiple-choice",
+      "options": [
+        "The maximum number of individuals an environment can support",
+        "The minimum number of individuals needed for survival",
+        "The rate of population growth",
+        "The number of species in a community"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Carrying capacity is the maximum number of individuals of a species that an environment can sustainably support, determined by available resources."
+    },
+    {
+      "question": "Biodiversity only refers to the number of species in an area.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Biodiversity encompasses species diversity (richness and evenness), genetic diversity within species, and ecosystem diversity across landscapes."
+    },
+    {
+      "question": "Which of the following is a major threat to global biodiversity?",
+      "type": "multiple-choice",
+      "options": [
+        "Habitat destruction only",
+        "Climate change only",
+        "Habitat destruction, climate change, invasive species, overexploitation, and pollution",
+        "None of the above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Multiple factors threaten biodiversity, including habitat destruction, climate change, invasive species, overexploitation, and pollution, often acting synergistically."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=800&q=80",
+      "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

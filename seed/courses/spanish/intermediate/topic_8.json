@@ -1,0 +1,86 @@
+{
+  "topic": "Expressing Opinions and Preferences",
+  "detailedSummary": "Expressing opinions and preferences is essential for conversation. Opinion expressions: 'Creo que...' (I think that...), 'Pienso que...' (I think that...), 'Opino que...' (In my opinion...), 'Me parece que...' (It seems to me that...), 'En mi opinión...' (In my opinion...). Preferences: 'Me gusta...' (I like...), 'Me encanta...' (I love...), 'Prefiero...' (I prefer...), 'Me interesa...' (I'm interested in...), 'Odio...' (I hate...), 'No me gusta...' (I don't like...). Agreement/disagreement: 'Estoy de acuerdo' (I agree), 'No estoy de acuerdo' (I disagree), 'Tienes razón' (You're right), 'No estoy seguro' (I'm not sure). Giving reasons: 'Porque...' (Because...), 'Ya que...' (Since...), 'Debido a...' (Due to...). Example: 'Creo que el español es fácil porque tiene reglas consistentes' (I think Spanish is easy because it has consistent rules). 'Me gusta' uses indirect object pronouns: 'Me gusta el café' (I like coffee), 'Me gustan los libros' (I like books). Understanding these expressions enables participating in discussions and expressing personal views.",
+  "whyItMatters": "Expressing opinions and preferences is fundamental to conversation - mastering these phrases enables you to participate in discussions, share your thoughts, and connect with Spanish speakers.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Expressing Opinions and Preferences | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Expressing Opinions and Preferences | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Expressing Opinions and Preferences | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Opinions and Preferences Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Opinions Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Express Opinions and Preferences",
+      "description": "Practice expressing opinions, preferences, and agreement/disagreement in Spanish.",
+      "tasks": [
+        "Write 20 sentences expressing opinions on various topics using different opinion phrases",
+        "Practice 'me gusta' with singular and plural nouns correctly",
+        "Write a dialogue where two people discuss preferences and agree/disagree",
+        "Express preferences about food, hobbies, movies, and travel",
+        "Write a paragraph giving your opinion on a topic with reasons"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "How do you say 'I think that...' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "Me gusta que...",
+        "Creo que...",
+        "Prefiero que...",
+        "Odio que..."
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Creo que...' or 'Pienso que...' means 'I think that...' and is used to express opinions."
+    },
+    {
+      "question": "'Me gusta' uses indirect object pronouns and the verb agrees with what is liked, not the person.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. 'Me gusta el café' (I like coffee) - 'gusta' agrees with 'café' (singular), while 'Me gustan los libros' (I like books) - 'gustan' agrees with 'libros' (plural)."
+    },
+    {
+      "question": "How do you say 'I prefer' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "Me gusta",
+        "Me encanta",
+        "Prefiero",
+        "Odio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Prefiero' means 'I prefer' and is used to express preferences, as in 'Prefiero el café al té' (I prefer coffee to tea)."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

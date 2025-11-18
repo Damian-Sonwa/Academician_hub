@@ -1,0 +1,162 @@
+{
+  "topic": "Shakespeare: Reading and Analyzing Plays",
+  "detailedSummary": "William Shakespeare (1564-1616) is widely regarded as the greatest writer in the English language. His works include 37 plays (tragedies, comedies, histories) and 154 sonnets. Understanding Shakespeare requires navigating Early Modern English (1500-1700), which differs from contemporary English in vocabulary, syntax, and grammar. Key challenges include: archaic words (thou, thee, hath), different word order, and poetic language. Shakespeare's plays follow dramatic structure: exposition, rising action, climax, falling action, and resolution. Tragedies feature noble protagonists with tragic flaws leading to downfall (Hamlet, Macbeth, Othello, King Lear). Comedies end happily, often with marriages, mistaken identities, and witty wordplay (A Midsummer Night's Dream, Much Ado About Nothing). Histories dramatize English monarchs (Richard III, Henry V). Shakespeare's language techniques include: blank verse (unrhymed iambic pentameter), prose (ordinary speech), soliloquies (characters speaking thoughts aloud), asides (comments to audience), puns (wordplay with multiple meanings), and metaphors. Themes explore universal human experiences: love, jealousy, ambition, power, betrayal, revenge, and the human condition. Analyzing Shakespeare develops skills in close reading, understanding complex language, interpreting symbolism, and appreciating how literature addresses timeless questions about human nature, society, and existence.",
+  "whyItMatters": "Shakespeare's works are foundational to English literature and language - understanding his plays develops critical thinking, cultural literacy, and appreciation for timeless human themes.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Literature Analysis | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Literature | Crash Course",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Shakespeare | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Shakespeare's Works - MIT Shakespeare",
+        "url": "https://shakespeare.mit.edu/"
+      },
+      {
+        "title": "Folger Shakespeare Library - Free Resources",
+        "url": "https://www.folger.edu/shakespeare"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Shakespeare Text Analysis - Folger Library",
+        "url": "https://www.folger.edu/shakespeare"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Shakespeare: Reading and Analyzing Plays",
+      "description": "Read, understand, and analyze Shakespearean plays.",
+      "tasks": [
+        "Read one complete Shakespearean tragedy and one comedy",
+        "Translate 20 lines of Shakespearean dialogue into modern English",
+        "Identify and analyze soliloquies in plays",
+        "Write character analyses for major Shakespearean characters",
+        "Analyze themes in Shakespeare's plays with textual evidence",
+        "Compare film adaptations to original texts",
+        "Perform a scene from a Shakespeare play",
+        "Analyze Shakespeare's use of figurative language and wordplay",
+        "Research historical context of a Shakespeare play",
+        "Write a comprehensive analysis essay on a Shakespeare play"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is blank verse?",
+      "type": "multiple-choice",
+      "options": [
+        "Unrhymed iambic pentameter",
+        "Rhymed couplets",
+        "Free verse",
+        "Prose"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Blank verse is unrhymed iambic pentameter—Shakespeare's primary verse form for his plays."
+    },
+    {
+      "question": "A soliloquy is:",
+      "type": "multiple-choice",
+      "options": [
+        "A character speaking thoughts aloud, alone on stage",
+        "A conversation between two characters",
+        "A comment made to the audience",
+        "A stage direction"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A soliloquy is a speech where a character speaks thoughts aloud, typically alone on stage, revealing inner thoughts to the audience."
+    },
+    {
+      "question": "Which play is a Shakespearean tragedy?",
+      "type": "multiple-choice",
+      "options": [
+        "Hamlet",
+        "A Midsummer Night's Dream",
+        "Much Ado About Nothing",
+        "The Tempest"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hamlet is a tragedy featuring a noble protagonist (Prince Hamlet) whose tragic flaw leads to downfall. The others are comedies."
+    },
+    {
+      "question": "Shakespeare wrote only in verse; he never used prose.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Shakespeare used both verse (blank verse, rhymed verse) and prose. Lower-class characters often speak in prose, while nobles typically speak in verse."
+    },
+    {
+      "question": "What is a pun?",
+      "type": "multiple-choice",
+      "options": [
+        "Wordplay exploiting multiple meanings of words",
+        "A type of meter",
+        "A character type",
+        "A stage direction"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A pun is wordplay that exploits multiple meanings of words or words that sound similar but have different meanings, creating humor or emphasis."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+      "https://images.unsplash.com/photo-1512820790803-83ca750da1c7?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Blank Verse": "Unrhymed iambic pentameter, Shakespeare's primary verse form.",
+      "Prose": "Ordinary written or spoken language without metrical structure.",
+      "Soliloquy": "A speech where a character speaks thoughts aloud, typically alone on stage.",
+      "Aside": "A comment made directly to the audience, unheard by other characters.",
+      "Pun": "Wordplay exploiting multiple meanings of words or similar-sounding words.",
+      "Early Modern English": "The form of English used from approximately 1500-1700, differing from contemporary English.",
+      "Tragedy": "A play featuring a noble protagonist with a tragic flaw leading to downfall.",
+      "Comedy": "A play ending happily, often with marriages and resolution of conflicts.",
+      "Tragic Flaw": "A character trait that leads to the protagonist's downfall in tragedy."
+    },
+    "keyConcepts": [
+      "Shakespeare used both verse (blank verse) and prose in his plays",
+      "Soliloquies reveal characters' inner thoughts to the audience",
+      "Early Modern English requires understanding archaic vocabulary and syntax",
+      "Shakespeare's plays follow dramatic structure with five acts",
+      "Wordplay and puns create humor and multiple layers of meaning"
+    ],
+    "stepByStepExplanations": [
+      "**Reading Shakespearean Language:** Identify archaic words (thou = you, hath = has). Understand different word order. Recognize poetic inversions. Use context clues for unfamiliar terms.",
+      "**Analyzing Soliloquies:** Identify when character is alone. Note what thoughts are revealed. Consider what this reveals about character motivation. Connect to plot development.",
+      "**Understanding Blank Verse:** Recognize iambic pentameter pattern (five unstressed-stressed pairs). Note when Shakespeare breaks the pattern for emphasis. Understand why verse vs. prose is used."
+    ],
+    "examples": [
+      "**Blank Verse:** 'To be or not to be, that is the question'\n   u / u / u / u / u / u / u /\n   Unrhymed iambic pentameter (with variations)",
+      "**Soliloquy:** Hamlet's 'To be or not to be' speech reveals his internal conflict about suicide, spoken alone on stage.",
+      "**Pun:** In Romeo and Juliet, Mercutio's dying words: 'Ask for me tomorrow, and you shall find me a grave man' - 'grave' means both serious and burial place."
+    ],
+    "realLifeApplications": [
+      "**Theater and Performance:** Understanding Shakespeare's language and dramatic techniques enhances appreciation of live theater and film adaptations.",
+      "**Language Development:** Studying Early Modern English reveals how language evolves and helps understand historical texts.",
+      "**Literary Analysis:** Skills developed analyzing Shakespeare apply to understanding complex literature and subtext in all forms of writing."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A diagram showing the structure of a Shakespearean play: Act I (exposition), Act II (rising action), Act III (climax), Act IV (falling action), Act V (resolution).",
+      "A comparison chart showing verse vs. prose in Shakespeare: when each is used, examples, and effects."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Questions about Shakespearean techniques, language, or play types require accurate identification. Total: 5 points. Passing: 3.5/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

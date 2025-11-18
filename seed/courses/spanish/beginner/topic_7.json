@@ -1,0 +1,86 @@
+{
+  "topic": "Asking Questions and Basic Conversation",
+  "detailedSummary": "Asking questions is fundamental to communication. Spanish uses question words (interrogatives) and inverted question marks (¿?). Question words include: ¿Qué? (What?), ¿Quién?/¿Quiénes? (Who?), ¿Dónde? (Where?), ¿Cuándo? (When?), ¿Por qué? (Why?), ¿Cómo? (How?), ¿Cuánto?/¿Cuánta?/¿Cuántos?/¿Cuántas? (How much/many?), ¿Cuál?/¿Cuáles? (Which?). Yes/no questions can be formed by intonation (raising voice at end) or by adding '¿' at the beginning. Common question structures: '¿Dónde está...?' (Where is...?), '¿Cómo se llama...?' (What is...called?), '¿Cuánto cuesta...?' (How much does...cost?), '¿Qué hora es?' (What time is it?). Basic conversation phrases: '¿Hablas inglés?' (Do you speak English?), 'No entiendo' (I don't understand), '¿Puede repetir?' (Can you repeat?), 'Hablo un poco de español' (I speak a little Spanish), 'Más despacio, por favor' (Slower, please). Understanding question formation enables you to gather information, navigate situations, and engage in meaningful conversations.",
+  "whyItMatters": "Asking questions is essential for communication - mastering question formation enables you to get information, clarify understanding, and engage in real conversations with Spanish speakers.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Asking Questions and Basic Conversation | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Asking Questions and Basic Conversation | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Asking Questions and Basic Conversation | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Spanish Question Formation Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Question Practice Exercises",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Practice Asking Questions in Spanish",
+      "description": "Learn to form questions and engage in basic conversations in Spanish.",
+      "tasks": [
+        "Create 20 questions using different question words (qué, quién, dónde, etc.)",
+        "Practice asking and answering questions about personal information",
+        "Write a dialogue script with at least 10 questions and responses",
+        "Practice question intonation and pronunciation",
+        "Create flashcards for question words and common conversation phrases"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What question word means 'Where?' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "¿Qué?",
+        "¿Dónde?",
+        "¿Cuándo?",
+        "¿Cómo?"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'¿Dónde?' means 'Where?' and is used to ask about location (e.g., '¿Dónde está el baño?' - Where is the bathroom?)."
+    },
+    {
+      "question": "Spanish uses inverted question marks (¿) at the beginning of questions.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Spanish uses both opening (¿) and closing (?) question marks, making questions easy to identify when reading."
+    },
+    {
+      "question": "How do you say 'I don't understand' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "No entiendo",
+        "No hablo",
+        "No sé",
+        "No puedo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'No entiendo' means 'I don't understand' and is essential for communication when you need clarification."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+      "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

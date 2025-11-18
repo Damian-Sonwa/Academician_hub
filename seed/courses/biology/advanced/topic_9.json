@@ -1,0 +1,87 @@
+{
+  "topic": "Biotechnology and Genetic Engineering",
+  "detailedSummary": "Biotechnology applies biological systems and organisms to develop technologies and products. Recombinant DNA technology allows scientists to combine DNA from different sources, creating genetically modified organisms. Restriction enzymes cut DNA at specific sequences, while DNA ligase joins DNA fragments. Plasmids are circular DNA molecules used as vectors to introduce foreign DNA into cells. Polymerase chain reaction (PCR) amplifies specific DNA sequences exponentially. DNA sequencing technologies have advanced from Sanger sequencing to next-generation sequencing, enabling whole genome sequencing. CRISPR-Cas9 is a revolutionary gene-editing tool that allows precise modification of DNA sequences. Gene therapy aims to treat diseases by introducing, removing, or modifying genetic material. Transgenic organisms have been created for agriculture (crop improvement), medicine (pharmaceutical production), and research. Synthetic biology designs and constructs new biological systems. Bioprocessing uses microorganisms or cells to produce valuable products like antibiotics, enzymes, and biofuels. Ethical considerations include safety, environmental impact, and social implications. Understanding biotechnology is essential for medicine, agriculture, environmental remediation, and industrial applications.",
+  "whyItMatters": "Understanding biotechnology is crucial for developing new medical treatments, improving agriculture, producing sustainable materials, and addressing global challenges like food security and disease.",
+  "materials": {
+    "videos": [
+      {
+        "title": "DNA Structure | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "DNA and Genetics | Crash Course Biology",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Genetics | Bozeman Science",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Introduction to Biotechnology - Advanced Textbook",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Molecular Cloning and PCR Virtual Lab",
+        "url": "https://phet.colorado.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Biotechnology Application Research",
+      "description": "Research a specific biotechnology application, explaining the technology, its development, and its impact.",
+      "tasks": [
+        "Choose a biotechnology application (e.g., CRISPR gene editing, recombinant insulin production, or GMO crops)",
+        "Explain the underlying biological and technical principles",
+        "Describe how the technology was developed",
+        "Analyze its current applications and potential future uses",
+        "Write a 500-600 word report with diagrams explaining the biotechnology application, including ethical considerations and citing at least three scientific sources"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary function of restriction enzymes in genetic engineering?",
+      "type": "multiple-choice",
+      "options": [
+        "To join DNA fragments together",
+        "To cut DNA at specific sequences",
+        "To amplify DNA",
+        "To sequence DNA"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Restriction enzymes cut DNA at specific recognition sequences, allowing scientists to create precise cuts for inserting foreign DNA."
+    },
+    {
+      "question": "CRISPR-Cas9 can only be used to add genes, not to remove or modify existing genes.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. CRISPR-Cas9 is a versatile gene-editing tool that can add, remove, or modify genes by making precise cuts in DNA that are then repaired by the cell."
+    },
+    {
+      "question": "What is the purpose of PCR (Polymerase Chain Reaction)?",
+      "type": "multiple-choice",
+      "options": [
+        "To cut DNA at specific sites",
+        "To join DNA fragments",
+        "To amplify specific DNA sequences",
+        "To sequence entire genomes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "PCR amplifies specific DNA sequences exponentially, making millions of copies of a target DNA region for analysis, cloning, or sequencing."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1628595351029-c2bf17511435?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

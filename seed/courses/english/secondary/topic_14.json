@@ -1,0 +1,157 @@
+{
+  "topic": "Media Literacy: Analyzing News and Digital Content",
+  "detailedSummary": "Media literacy is the ability to access, analyze, evaluate, and create media in various forms. In our digital age, understanding how media works is crucial for informed citizenship. News analysis requires evaluating: source credibility (who produced it, what are their qualifications), bias (what perspective is presented), evidence (what facts support claims), and purpose (to inform, persuade, entertain, or sell). Recognizing different types of news helps: hard news (factual reporting), opinion pieces (editorials, columns), feature stories (in-depth human interest), and investigative journalism (deep research). Digital media includes: websites, social media posts, videos, podcasts, and online articles. Evaluating digital content involves checking: author credentials, publication dates, supporting sources, and potential misinformation. Fact-checking verifies claims using reliable sources. Recognizing propaganda techniques helps identify manipulation: emotional appeals, loaded language, bandwagon (everyone's doing it), and false dilemmas (only two options). Understanding media ownership and funding reveals potential biases. Algorithms shape what content we see online, creating filter bubbles. Critical media consumption involves: questioning sources, seeking multiple perspectives, verifying information, and recognizing one's own biases. Creating media responsibly means: fact-checking, citing sources, avoiding manipulation, and considering audience impact. Media literacy enables informed decision-making, protects against misinformation, and empowers active participation in democratic society.",
+  "whyItMatters": "Media literacy enables critical evaluation of information - essential for informed citizenship, protection against misinformation, and responsible participation in digital society.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Media Literacy: Analyzing News and Digital Content | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Media Literacy: Analyzing News and Digital Content | Crash Course Literature",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Media Literacy: Analyzing News and Digital Content | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Media Literacy - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/communication"
+      },
+      {
+        "title": "Understanding Media and Culture - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/textbooks/understanding-media-and-culture"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Fact-Checking Resources - Snopes, FactCheck.org",
+        "url": "https://www.snopes.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Media Literacy: Analyzing News and Digital Content",
+      "description": "Develop critical media analysis skills through evaluation of various media sources.",
+      "tasks": [
+        "Analyze 10 news articles for credibility, bias, and evidence",
+        "Compare how different sources report the same event",
+        "Fact-check 5 claims from social media or news",
+        "Identify propaganda techniques in 5 media examples",
+        "Evaluate the credibility of 10 websites",
+        "Analyze how algorithms might affect your news feed",
+        "Create a media analysis comparing coverage of a current event",
+        "Write a guide for evaluating online information",
+        "Examine how images and videos can be manipulated",
+        "Create responsible media content with proper sourcing"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Media literacy involves:",
+      "type": "multiple-choice",
+      "options": [
+        "Accessing, analyzing, evaluating, and creating media",
+        "Only consuming media",
+        "Believing everything in media",
+        "Avoiding all media"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Media literacy involves four components: accessing media, analyzing how it works, evaluating its credibility and purpose, and creating media responsibly."
+    },
+    {
+      "question": "What should you check when evaluating a news source?",
+      "type": "multiple-choice",
+      "options": [
+        "Author credentials, evidence, potential bias",
+        "Only the headline",
+        "How many likes it has",
+        "The font size"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Evaluating news requires checking author credentials, quality of evidence, potential bias, publication date, and supporting sources."
+    },
+    {
+      "question": "What is a filter bubble?",
+      "type": "multiple-choice",
+      "options": [
+        "When algorithms show only content that matches your existing views",
+        "A type of news article",
+        "A fact-checking website",
+        "A media company"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Filter bubbles occur when algorithms personalize content, showing only information that aligns with your existing preferences and views."
+    },
+    {
+      "question": "All news sources are completely objective with no bias.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. All media reflects some perspective. The goal is to recognize bias, seek multiple perspectives, and evaluate sources critically."
+    },
+    {
+      "question": "Fact-checking means:",
+      "type": "multiple-choice",
+      "options": [
+        "Verifying claims using reliable sources",
+        "Only reading headlines",
+        "Believing the first source you find",
+        "Sharing information immediately"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fact-checking involves verifying claims, statistics, and information using reliable, credible sources before accepting or sharing information."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Media Literacy": "The ability to access, analyze, evaluate, and create media.",
+      "Bias": "A perspective or prejudice that influences how information is presented.",
+      "Fact-Checking": "The process of verifying claims using reliable sources."
+    },
+    "keyConcepts": [
+      "Media literacy is the ability to access, analyze, evaluate, and create media in various forms",
+      "In our digital age, understanding how media works is crucial for informed citizenship",
+      "News analysis requires evaluating: source credibility (who produced it, what are their qualification...",
+      "Recognizing different types of news helps: hard news (factual reporting), opinion pieces (editorials...",
+      "Digital media includes: websites, social media posts, videos, podcasts, and online articles"
+    ],
+    "stepByStepExplanations": [
+      "**Understanding media:** Media literacy is the ability to access, analyze, evaluate, and create media in various forms. In our digital age, understanding how media works is cr...",
+      "**Applying concepts:** Practice with examples specific to Media Literacy: Analyzing News and Digital Content.",
+      "**Mastering skills:** Develop proficiency through structured exercises."
+    ],
+    "examples": [
+      "**Example 1:** A practical illustration of media in action.",
+      "**Example 2:** Another scenario demonstrating literacy.",
+      "**Example 3:** A real-world application of analyzing."
+    ],
+    "realLifeApplications": [
+      "**Academic Context:** Media Literacy: Analyzing News and Digital Content is essential for academic success and scholarly work.",
+      "**Professional Use:** These skills apply directly to professional communication and analysis.",
+      "**Personal Development:** Understanding Media Literacy: Analyzing News and Digital Content enhances critical thinking and expression."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram illustrating key concepts of Media Literacy: Analyzing News and Digital Content.",
+      "A flowchart showing the process and relationships in Media Literacy: Analyzing News and Digital Content."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

@@ -1,0 +1,86 @@
+{
+  "topic": "Genetics and Genomics",
+  "detailedSummary": "Modern genetics extends beyond Mendelian inheritance to include molecular genetics, population genetics, and genomics. The central dogma describes the flow of genetic information from DNA to RNA to protein. Transcription involves RNA polymerase synthesizing mRNA from a DNA template, with regulation occurring at multiple levels including promoters, enhancers, and transcription factors. Post-transcriptional modifications like 5' capping, polyadenylation, and RNA splicing create mature mRNA. Translation occurs on ribosomes, where tRNA molecules bring amino acids according to the genetic code. Gene regulation controls when and where genes are expressed, involving mechanisms like DNA methylation, histone modification, and non-coding RNAs. Population genetics studies how allele frequencies change in populations over time, influenced by mutation, selection, genetic drift, and gene flow. Genomics involves sequencing and analyzing entire genomes, revealing gene structure, function, and evolution. Epigenetics explores heritable changes in gene expression that don't involve DNA sequence changes. Genetic technologies like CRISPR-Cas9 enable precise genome editing. Understanding genetics and genomics is essential for personalized medicine, genetic counseling, evolutionary biology, and biotechnology.",
+  "whyItMatters": "Genetics and genomics knowledge is crucial for personalized medicine, understanding genetic diseases, evolutionary biology, and developing new biotechnological applications including gene therapy.",
+  "materials": {
+    "videos": [
+      {
+        "title": "DNA Structure | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "DNA and Genetics | Crash Course Biology",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Genetics | Bozeman Science",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Genetics: Analysis and Principles - Advanced Textbook",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Genome Analysis and Bioinformatics Tools",
+        "url": "https://phet.colorado.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Genomic Analysis Research Project",
+      "description": "Analyze a specific genetic condition or trait using modern genomic approaches and explain the underlying genetic mechanisms.",
+      "tasks": [
+        "Choose a genetic condition or trait to research (e.g., cystic fibrosis, sickle cell anemia, or lactose tolerance)",
+        "Identify the gene(s) and mutations involved",
+        "Explain how the mutation affects protein function and leads to the phenotype",
+        "Research current treatment approaches or gene therapy strategies",
+        "Write a 600-700 word report with diagrams explaining the genetics, including at least four peer-reviewed sources"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary function of RNA splicing in eukaryotic cells?",
+      "type": "multiple-choice",
+      "options": [
+        "To add a 5' cap to mRNA",
+        "To remove introns and join exons to create mature mRNA",
+        "To translate mRNA into protein",
+        "To replicate DNA"
+      ],
+      "correctAnswer": 1,
+      "explanation": "RNA splicing removes introns (non-coding regions) and joins exons (coding regions) to create mature mRNA that can be translated into protein."
+    },
+    {
+      "question": "Epigenetic changes involve alterations to the DNA sequence itself.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Epigenetic changes modify gene expression without changing the DNA sequence, through mechanisms like DNA methylation and histone modification."
+    },
+    {
+      "question": "Which process describes the flow of genetic information from DNA to RNA to protein?",
+      "type": "multiple-choice",
+      "options": [
+        "Central dogma",
+        "Genetic code",
+        "Transcription only",
+        "Translation only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The central dogma describes the flow of genetic information: DNA is transcribed to RNA, which is translated to protein. This is the fundamental principle of molecular biology."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&q=80",
+      "https://images.unsplash.com/photo-1578496781379-7dcfb995293d?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

@@ -1,0 +1,1036 @@
+{
+  "level": "Basic",
+  "topics": [
+    {
+      "course": "Full Stack Development",
+      "level": "Basic",
+      "topic": "Introduction to Full Stack Development",
+      "description": "Full stack development means building both the frontend (what users see) and backend (server and database) of web applications. A full stack developer works on all parts of an application, from the user interface to the database. Think of it like being both a chef and a waiter—you create the food (backend) and serve it to customers (frontend).",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Understanding Full Stack Development: A Beginner's Walkthrough",
+          "content": "Step 1: Frontend is what users see and interact with (buttons, forms, pages). Step 2: Backend is the server that processes requests and stores data (APIs, databases). Step 3: Full stack developers work on both frontend and backend. Step 4: Common frontend technologies: HTML, CSS, JavaScript, React. Step 5: Common backend technologies: Node.js, Python, databases. Step 6: Full stack means you can build complete applications from start to finish. This walkthrough helps you understand what full stack development means!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Full Stack Architecture Diagram",
+          "content": "Draw a diagram: User → Frontend (Browser, HTML/CSS/JavaScript) → Backend (Server, API) → Database (Data Storage). Show: Frontend handles user interface, Backend handles business logic, Database stores data. Visual helps understand how frontend and backend work together."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Identify Frontend vs Backend",
+          "content": "Activity: Look at a website (like a social media site). Identify: What is frontend? (buttons, forms, pages you see). What is backend? (user authentication, data storage, posts). For each feature, determine if it's frontend or backend. This activity helps you understand the difference between frontend and backend."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "What is Full Stack Development? 🎯",
+          "content": "Full stack development means building both frontend and backend of web applications. **How to understand it:** Like being able to build both the customer-facing part and the behind-the-scenes part of a restaurant. **Frontend:** What users see and interact with (user interface). **Backend:** Server, database, and business logic (data processing). **Full Stack:** Working on both sides to build complete applications. **Real-world:** A full stack developer builds a social media app: Creates the user interface (frontend), Builds the server to handle posts (backend), Sets up the database to store data (backend), Connects everything together. **Best practice:** Learn both frontend and backend, Understand how they connect, Build complete applications, Practice regularly."
+        },
+        {
+          "title": "Frontend Technologies 🌐",
+          "content": "Technologies used to build user interfaces. **Core technologies:** HTML (structure), CSS (styling), JavaScript (interactivity). **Frameworks:** React, Vue, Angular (modern UI frameworks). **How to understand it:** Like tools for building the customer-facing part of a store. **Real-world:** A developer uses HTML to create page structure, CSS to style it beautifully, JavaScript to make it interactive, React to build reusable components. Frontend technologies create what users see and interact with. **Best practice:** Master HTML/CSS/JavaScript first, Learn a framework (React recommended), Practice building UIs, Focus on user experience."
+        },
+        {
+          "title": "Backend Technologies ⚙️",
+          "content": "Technologies used to build servers and handle data. **Server technologies:** Node.js, Python, Java, PHP. **Databases:** MySQL, MongoDB, PostgreSQL. **APIs:** REST, GraphQL. **How to understand it:** Like the kitchen and storage in a restaurant—users don't see it, but it's essential. **Real-world:** A developer uses Node.js to create a server, Express.js to build APIs, MongoDB to store data, JWT for authentication. Backend technologies handle data processing and storage. **Best practice:** Learn a server language (Node.js or Python), Understand databases, Learn API development, Practice building backends."
+        },
+        {
+          "title": "How Frontend and Backend Connect 🔗",
+          "content": "Frontend and backend communicate through APIs (Application Programming Interfaces). **How it works:** Frontend sends requests (GET, POST, PUT, DELETE), Backend processes requests, Backend returns data (JSON), Frontend displays data. **How to understand it:** Like ordering food—you (frontend) place an order, kitchen (backend) prepares it, you receive the food (data). **Real-world:** User clicks 'Login' button (frontend), Frontend sends login request to backend API, Backend checks credentials in database, Backend returns success/failure, Frontend shows result to user. **Best practice:** Understand HTTP methods, Learn REST API concepts, Practice API integration, Test API connections."
+        },
+        {
+          "title": "Why Learn Full Stack? 💡",
+          "content": "Benefits of being a full stack developer. **Advantages:** Build complete applications, Understand entire system, More job opportunities, Can work independently, Better problem-solving. **How to understand it:** Like being able to do everything in a restaurant—you're more valuable. **Real-world:** A full stack developer can: Build a complete web app alone, Understand how frontend and backend work together, Fix issues on both sides, Work on any part of a project. Full stack skills make you versatile and valuable. **Best practice:** Start with one side (frontend or backend), Then learn the other, Practice building full applications, Build a portfolio, Keep learning."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Building a Todo App",
+          "explanation": "Full stack developer builds a todo app: Frontend (React) - User interface to add/view todos, Backend (Node.js) - API to save/retrieve todos, Database (MongoDB) - Stores todo items. User adds a todo (frontend), Request sent to backend API, Backend saves to database, Backend returns saved todo, Frontend displays it. Complete application built by one developer!"
+        },
+        {
+          "scenario": "Frontend and Backend Communication",
+          "explanation": "User visits a blog website: Frontend (HTML/CSS/JavaScript) displays the page, User clicks 'View Posts', Frontend sends GET request to backend API, Backend queries database for posts, Backend returns posts as JSON, Frontend displays posts on page. Frontend and backend work together seamlessly."
+        },
+        {
+          "scenario": "Full Stack Developer Workflow",
+          "explanation": "Full stack developer builds a feature: Designs user interface (frontend), Creates API endpoints (backend), Sets up database (backend), Connects frontend to backend, Tests everything together. One developer handles the entire feature from start to finish."
+        },
+        {
+          "scenario": "Technology Stack Example",
+          "explanation": "Full stack developer uses: Frontend - React (UI framework), HTML/CSS (styling), JavaScript (logic). Backend - Node.js (server), Express.js (API framework), MongoDB (database). This is a common full stack technology combination (MERN stack: MongoDB, Express, React, Node.js)."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Identify Frontend and Backend Components",
+          "instructions": "Step 1: Visit a website (e.g., social media, e-commerce). Step 2: Identify frontend components: What do you see? (buttons, forms, pages, images). Step 3: Identify backend components: What happens behind the scenes? (user login, data storage, search functionality). Step 4: For each feature, determine: Is it frontend or backend? Step 5: Explain how frontend and backend might work together for one feature.",
+          "example_answer": "Website: Social media site. Frontend: Login form, News feed, Post creation form, Profile page. Backend: User authentication, Post storage, Friend connections, Search functionality. Feature: Creating a post. Frontend: User types post and clicks 'Post', Backend: Server receives post, saves to database, returns success, Frontend: Displays new post. Frontend and backend work together to create posts."
+        },
+        {
+          "title": "Plan a Full Stack Application",
+          "instructions": "Step 1: Choose an application idea (e.g., blog, todo app, weather app). Step 2: Design frontend: What pages? What features? What will users see? Step 3: Design backend: What APIs needed? What data to store? What processing required? Step 4: Plan database: What data to store? What structure? Step 5: Create a simple diagram showing frontend, backend, and database. Step 6: List technologies you would use for each part.",
+          "example_answer": "Application: Blog app. Frontend: Home page (list posts), Post page (view post), Create post page, Login page. Backend: GET /posts (get all posts), POST /posts (create post), GET /posts/:id (get one post), POST /login (authenticate). Database: Posts collection (title, content, author, date), Users collection (username, password, email). Technologies: Frontend - React, HTML, CSS. Backend - Node.js, Express. Database - MongoDB. Diagram created showing connections."
+        },
+        {
+          "title": "Compare Frontend and Backend",
+          "instructions": "Step 1: Create a comparison table: Frontend vs Backend. Step 2: Compare: Purpose, Technologies, What users see, Where it runs, Examples. Step 3: For each category, explain the difference. Step 4: Give examples of frontend-only features and backend-only features. Step 5: Explain why both are needed for a complete application.",
+          "example_answer": "Comparison: Purpose - Frontend (user interface), Backend (data processing). Technologies - Frontend (HTML, CSS, JavaScript, React), Backend (Node.js, Python, databases). What users see - Frontend (everything), Backend (nothing, hidden). Where it runs - Frontend (browser), Backend (server). Examples - Frontend (buttons, forms), Backend (APIs, databases). Frontend-only: Styling, animations. Backend-only: Database queries, authentication. Both needed: Frontend provides interface, Backend provides functionality, Together they create complete applications."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Full Stack Web Development",
+          "source": "Open Textbook Library",
+          "reason": "Provides a beginner-friendly overview of full stack development concepts with simple explanations."
+        },
+        {
+          "title": "Web Development Fundamentals",
+          "source": "OpenStax",
+          "reason": "Covers frontend and backend basics, perfect for understanding full stack development."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Full Stack Development Explained – Simplilearn",
+          "reason": "Simple explanation of what full stack development is and why it matters."
+        },
+        {
+          "title": "Frontend vs Backend – Traversy Media",
+          "reason": "Clear comparison of frontend and backend with practical examples."
+        }
+      ],
+      "summary": "Full stack development means building both frontend (user interface) and backend (server and database) of web applications. Frontend technologies (HTML, CSS, JavaScript, React) create what users see. Backend technologies (Node.js, Python, databases) handle data processing and storage. Frontend and backend connect through APIs. Full stack developers can build complete applications from start to finish. Learning full stack development makes you versatile and valuable in the tech industry."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Basic",
+      "topic": "HTML and CSS Fundamentals",
+      "description": "Learn the building blocks of web pages: HTML for structure and CSS for styling. HTML (HyperText Markup Language) creates the structure of web pages, while CSS (Cascading Style Sheets) makes them look beautiful. These are the foundation of every website. Think of HTML as the skeleton and CSS as the skin—HTML provides structure, CSS provides appearance.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Building Your First Web Page: A Complete Guide",
+          "content": "Step 1: Create HTML file (index.html) with basic structure (<html>, <head>, <body>). Step 2: Add content using HTML tags (<h1> for headings, <p> for paragraphs, <img> for images). Step 3: Create CSS file (style.css) to style your page. Step 4: Link CSS to HTML (<link> tag in <head>). Step 5: Style elements (colors, fonts, spacing, layout). Step 6: Test in browser. This guide helps you build your first styled web page!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "HTML Structure and CSS Styling",
+          "content": "Draw a web page: HTML structure (headings, paragraphs, images, buttons) → CSS styling (colors, fonts, spacing, layout) → Final styled page. Show: HTML tags create structure, CSS rules add styling, Together they create beautiful web pages. Visual helps understand HTML and CSS relationship."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build a Simple Web Page",
+          "content": "Activity: Create a simple web page about yourself. Use HTML: Headings, Paragraphs, Lists, Images. Use CSS: Colors, Fonts, Spacing, Background. Link CSS to HTML. View in browser. This activity helps you practice HTML and CSS together."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "HTML Structure 📄",
+          "content": "HTML creates the structure and content of web pages. **How to understand it:** Like building the frame of a house—HTML provides the structure. **Basic tags:** <html> (page container), <head> (page info), <body> (visible content), <h1> to <h6> (headings), <p> (paragraphs), <img> (images), <a> (links). **Real-world:** A developer creates a blog post page: Uses <h1> for title, <p> for paragraphs, <img> for images, <a> for links. HTML provides the structure that CSS will style. **Best practice:** Use semantic HTML (meaningful tags), Structure content logically, Validate HTML, Keep it organized."
+        },
+        {
+          "title": "CSS Styling 🎨",
+          "content": "CSS makes web pages look beautiful and professional. **How to understand it:** Like painting and decorating a house—CSS adds style. **CSS properties:** color (text color), background-color (background), font-size (text size), margin (spacing outside), padding (spacing inside), border (borders). **Real-world:** A developer styles a button: Sets background-color (blue), color (white), padding (spacing inside), border-radius (rounded corners), font-size (text size). CSS makes the button look attractive and clickable. **Best practice:** Use external CSS files, Organize styles logically, Use consistent colors/fonts, Make it responsive, Keep styles reusable."
+        },
+        {
+          "title": "HTML and CSS Together 🤝",
+          "content": "HTML and CSS work together to create web pages. **How it works:** HTML provides structure, CSS provides styling, Browser combines them to display the page. **How to understand it:** Like a recipe—HTML is ingredients, CSS is cooking instructions. **Real-world:** Developer creates a card: HTML (<div> with <h2> and <p> inside) provides structure, CSS (background, padding, border, shadow) provides styling. Together they create a beautiful card component. **Best practice:** Separate HTML and CSS, Link CSS to HTML, Use classes for styling, Keep structure and style separate, Test in browser."
+        },
+        {
+          "title": "Common HTML Elements 🧱",
+          "content": "Essential HTML tags every developer should know. **Structure:** <div> (container), <section> (section), <header> (header), <footer> (footer), <nav> (navigation). **Content:** <h1> to <h6> (headings), <p> (paragraphs), <ul>/<ol>/<li> (lists), <img> (images), <a> (links). **Forms:** <form> (form), <input> (input fields), <button> (buttons). **Real-world:** Developer builds a contact form: Uses <form> container, <input> for name/email, <textarea> for message, <button> to submit. HTML provides the form structure. **Best practice:** Learn common tags, Use semantic HTML, Understand form elements, Practice regularly, Reference documentation."
+        },
+        {
+          "title": "CSS Selectors and Properties 🎯",
+          "content": "CSS selectors target HTML elements, properties style them. **Selectors:** element (targets all elements), .class (targets class), #id (targets ID), element.class (combines). **Properties:** Hundreds of properties (color, size, spacing, layout). **How to understand it:** Like giving instructions—selector says 'what', property says 'how'. **Real-world:** Developer styles buttons: Uses .button selector (targets all buttons), Sets background-color (blue), padding (10px), border-radius (5px). CSS makes all buttons look consistent. **Best practice:** Learn common selectors, Understand specificity, Use classes effectively, Organize properties, Practice styling."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Building a Blog Post Page",
+          "explanation": "Developer creates a blog post: HTML - <h1> for title, <p> for paragraphs, <img> for images, <a> for links. CSS - Styles headings (large, bold), Paragraphs (readable font, spacing), Images (rounded corners, shadow), Links (blue, underlined). HTML provides structure, CSS makes it beautiful."
+        },
+        {
+          "scenario": "Creating a Navigation Bar",
+          "explanation": "Developer creates navigation: HTML - <nav> container, <ul> list, <li> items, <a> links. CSS - Styles nav (background color, padding), Links (spacing, hover effects), Active link (different color). HTML provides structure, CSS makes it look professional."
+        },
+        {
+          "scenario": "Styling a Button",
+          "explanation": "Developer creates a button: HTML - <button> element with text. CSS - background-color (blue), color (white), padding (spacing), border-radius (rounded), hover effect (darker on hover). HTML provides button structure, CSS makes it attractive and interactive."
+        },
+        {
+          "scenario": "Building a Card Component",
+          "explanation": "Developer creates a card: HTML - <div> container, <h2> title, <p> description, <button> action. CSS - Card (background, padding, border, shadow), Title (large, bold), Description (readable), Button (styled, centered). HTML provides card structure, CSS makes it look modern and professional."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Build a Personal Web Page",
+          "instructions": "Step 1: Create HTML file (index.html) with basic structure. Step 2: Add content: Your name (heading), About you (paragraph), Your interests (list), Your photo (image), Contact link. Step 3: Create CSS file (style.css). Step 4: Style your page: Choose colors, Set fonts, Add spacing, Style headings, Style links. Step 5: Link CSS to HTML. Step 6: View in browser and test. Step 7: Make improvements based on what you see.",
+          "example_answer": "HTML created: <h1> with name, <p> with about, <ul> with interests, <img> with photo, <a> with contact. CSS created: Body (background color, font), Heading (large, bold, color), Paragraph (readable, spacing), List (styled bullets), Image (rounded, border), Link (blue, hover effect). CSS linked, page viewed, improvements made. Personal web page complete!"
+        },
+        {
+          "title": "Create a Styled Form",
+          "instructions": "Step 1: Create HTML form: <form> container, <input> for name, <input> for email, <textarea> for message, <button> to submit. Step 2: Create CSS file. Step 3: Style form: Container (background, padding, border), Inputs (spacing, borders, focus effects), Button (colors, hover effect). Step 4: Link CSS to HTML. Step 5: Test form styling. Step 6: Make it look professional.",
+          "example_answer": "Form created: HTML form with name, email, message fields, submit button. CSS styled: Form container (white background, padding, shadow), Inputs (spacing, borders, rounded corners, focus highlight), Button (blue background, white text, hover effect). Form looks professional and user-friendly."
+        },
+        {
+          "title": "Build a Card Layout",
+          "instructions": "Step 1: Create HTML: Three <div> cards, Each with <h2> title, <p> description, <button> action. Step 2: Create CSS: Card container (background, padding, border, shadow), Title (large, bold), Description (readable), Button (styled). Step 3: Arrange cards: Use CSS to display cards side-by-side. Step 4: Add hover effects: Cards change on hover. Step 5: Test layout. Step 6: Make responsive (adjusts to screen size).",
+          "example_answer": "Cards created: Three HTML cards with title, description, button. CSS styled: Cards (background, padding, border-radius, shadow), Displayed side-by-side (flexbox), Hover effects (shadow increases, slight scale). Layout looks modern and professional, responsive on different screens."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "HTML and CSS: Design and Build Websites",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive beginner-friendly guide to HTML and CSS with practical examples."
+        },
+        {
+          "title": "Web Development Fundamentals",
+          "source": "OpenStax",
+          "reason": "Covers HTML structure and CSS styling basics with hands-on exercises."
+        }
+      ],
+      "videos": [
+        {
+          "title": "HTML and CSS Tutorial for Beginners – Traversy Media",
+          "reason": "Clear, step-by-step tutorial on HTML and CSS fundamentals with practical examples."
+        },
+        {
+          "title": "HTML Crash Course – Brad Traversy",
+          "reason": "Quick introduction to HTML structure and common elements."
+        }
+      ],
+      "summary": "HTML creates the structure of web pages using tags like headings, paragraphs, images, and links. CSS styles web pages using properties like colors, fonts, spacing, and layout. HTML and CSS work together—HTML provides structure, CSS provides styling. Common HTML elements include headings, paragraphs, lists, images, and forms. CSS selectors target elements, properties style them. Mastering HTML and CSS is the foundation of web development and full stack development."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Basic",
+      "topic": "JavaScript Basics",
+      "description": "Learn JavaScript, the programming language that makes web pages interactive. JavaScript adds behavior to web pages—it makes buttons work, forms submit, and pages dynamic. JavaScript is essential for both frontend and backend development. Think of it like the brain of a website—HTML is the skeleton, CSS is the skin, JavaScript is the brain that makes everything work.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Learning JavaScript: A Beginner's Guide",
+          "content": "Step 1: Understand JavaScript basics (variables, data types, operators). Step 2: Learn control structures (if/else, loops). Step 3: Practice functions (creating and calling functions). Step 4: Work with arrays and objects (storing and accessing data). Step 5: Learn DOM manipulation (changing web page content). Step 6: Practice with projects (build interactive features). This guide helps you learn JavaScript step by step!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "JavaScript Concepts",
+          "content": "Draw concepts: Variables (containers for data), Functions (reusable code blocks), Events (user actions), DOM (web page structure). Show: JavaScript code → Browser executes → Page changes. Visual helps understand how JavaScript works."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build Interactive Features",
+          "content": "Activity: Add JavaScript to a web page. Create: Button that changes text, Form that shows message, Counter that increases, List that adds items. Practice: Variables, Functions, Events, DOM manipulation. This activity helps you practice JavaScript interactively."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "JavaScript Variables and Data Types 📦",
+          "content": "Variables store data, data types define what kind of data. **How to understand it:** Like labeled boxes that hold different types of items. **Variables:** let, const, var (ways to declare). **Data types:** String (text), Number (numbers), Boolean (true/false), Array (lists), Object (collections). **Real-world:** Developer creates a user profile: Uses let name = 'John' (string), let age = 25 (number), let isActive = true (boolean), let hobbies = ['reading', 'coding'] (array). Variables store user data. **Best practice:** Use const by default, Use let when needed, Choose meaningful names, Understand data types, Practice regularly."
+        },
+        {
+          "title": "JavaScript Functions 🔧",
+          "content": "Functions are reusable blocks of code that perform tasks. **How to understand it:** Like recipes—you write them once, use them many times. **Function syntax:** function name() { code }, Arrow functions: () => { code }. **Real-world:** Developer creates a function: function greet(name) { return 'Hello ' + name; }. Function can be called: greet('John') returns 'Hello John'. Functions make code reusable and organized. **Best practice:** Write reusable functions, Use descriptive names, Keep functions focused, Return values, Practice writing functions."
+        },
+        {
+          "title": "Control Structures 🎛️",
+          "content": "Control structures control program flow (decisions and loops). **If/else:** Makes decisions based on conditions. **Loops:** Repeats code (for, while). **How to understand it:** Like making decisions and repeating tasks. **Real-world:** Developer checks user age: if (age >= 18) { allow access } else { deny access }. Developer loops through items: for (let item of items) { display item }. Control structures add logic to programs. **Best practice:** Understand conditions, Use appropriate loops, Avoid infinite loops, Keep logic clear, Practice with examples."
+        },
+        {
+          "title": "Arrays and Objects 📋",
+          "content": "Arrays store lists, objects store collections of data. **Arrays:** Ordered lists [item1, item2]. **Objects:** Key-value pairs {key: value}. **How to understand it:** Arrays are like numbered lists, objects are like labeled containers. **Real-world:** Developer stores products: let products = ['laptop', 'phone', 'tablet'] (array). Developer stores user: let user = {name: 'John', age: 25} (object). Arrays and objects organize data. **Best practice:** Learn array methods, Understand object properties, Practice accessing data, Use appropriate structure, Work with real data."
+        },
+        {
+          "title": "DOM Manipulation 🎨",
+          "content": "DOM (Document Object Model) manipulation changes web page content with JavaScript. **How it works:** JavaScript selects elements, Changes content, Adds/removes elements, Responds to events. **How to understand it:** Like using JavaScript to edit a web page. **Real-world:** User clicks button, JavaScript selects element, Changes text content, Updates page. DOM manipulation makes pages interactive. **Best practice:** Learn DOM methods, Understand selectors, Practice manipulation, Handle events, Test in browser."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Interactive Button",
+          "explanation": "Developer creates interactive button: HTML - <button> element. JavaScript - Selects button, Adds click event, Changes text on click. User clicks button, JavaScript executes, Button text changes. JavaScript makes button interactive."
+        },
+        {
+          "scenario": "Form Validation",
+          "explanation": "Developer validates form: User submits form, JavaScript checks inputs, If valid (shows success), If invalid (shows errors). JavaScript validates user input before submission."
+        },
+        {
+          "scenario": "Dynamic List",
+          "explanation": "Developer creates dynamic list: User types item, Clicks 'Add', JavaScript adds item to list, Displays on page. JavaScript makes list interactive and dynamic."
+        },
+        {
+          "scenario": "Counter App",
+          "explanation": "Developer creates counter: HTML - Display number, Buttons (+ and -). JavaScript - Tracks count, Increases/decreases on button click, Updates display. JavaScript makes counter functional."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Build Interactive Features",
+          "instructions": "Step 1: Create HTML page with: Button, Input field, Display area. Step 2: Add JavaScript: Select elements, Create functions, Add event listeners. Step 3: Make button interactive: Click changes text. Step 4: Make input interactive: Type shows message. Step 5: Test all features. Step 6: Add more features (counter, list). Step 7: Practice JavaScript concepts.",
+          "example_answer": "Features built: Button (changes text on click), Input (shows typed text), Counter (increases/decreases), List (adds items). JavaScript used: Variables (store data), Functions (handle actions), Events (respond to clicks), DOM manipulation (update page). All features working, JavaScript concepts practiced."
+        },
+        {
+          "title": "Create a Calculator",
+          "instructions": "Step 1: Create HTML: Number inputs, Operation buttons (+, -, *, /), Display result. Step 2: Add JavaScript: Get input values, Perform calculations, Display results. Step 3: Handle operations: Addition, Subtraction, Multiplication, Division. Step 4: Test calculator. Step 5: Add error handling (invalid inputs). Step 6: Make it user-friendly.",
+          "example_answer": "Calculator created: HTML inputs and buttons, JavaScript functions for each operation, Result displayed, Error handling for invalid inputs. Calculator works correctly, performs all operations, handles errors gracefully."
+        },
+        {
+          "title": "Build a Todo List",
+          "instructions": "Step 1: Create HTML: Input for todo, Add button, List to display todos. Step 2: Add JavaScript: Store todos (array), Add todo function, Display todos function, Remove todo function. Step 3: Make it interactive: Add todos, Display todos, Remove todos. Step 4: Test todo list. Step 5: Add features (mark complete, filter). Step 6: Practice arrays and DOM manipulation.",
+          "example_answer": "Todo list built: HTML structure, JavaScript array stores todos, Functions add/remove/display todos, Interactive features working. Todo list functional, arrays and DOM manipulation practiced, features working correctly."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "JavaScript for Beginners",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive beginner-friendly guide to JavaScript with practical examples and exercises."
+        },
+        {
+          "title": "Eloquent JavaScript",
+          "source": "Open Textbook Library",
+          "reason": "Free online book covering JavaScript fundamentals with interactive examples."
+        }
+      ],
+      "videos": [
+        {
+          "title": "JavaScript Crash Course – Traversy Media",
+          "reason": "Complete JavaScript tutorial for beginners covering all fundamentals."
+        },
+        {
+          "title": "JavaScript Basics – freeCodeCamp",
+          "reason": "Comprehensive JavaScript course with hands-on practice."
+        }
+      ],
+      "summary": "JavaScript is the programming language that makes web pages interactive. Variables store data, functions are reusable code blocks, control structures add logic, arrays and objects organize data, DOM manipulation changes web pages. JavaScript works with HTML and CSS to create interactive web applications. Learning JavaScript is essential for full stack development—it's used in both frontend and backend. Practice JavaScript regularly to build interactive features and dynamic web applications."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Basic",
+      "topic": "DOM Manipulation and Events",
+      "description": "Learn how to interact with web pages using JavaScript. DOM (Document Object Model) manipulation lets you change page content dynamically. Events let you respond to user actions like clicks and form submissions. These skills are essential for building interactive web applications. Think of it like being able to control a web page with JavaScript—you can change anything and respond to user actions.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "DOM Manipulation: A Complete Guide",
+          "content": "Step 1: Select elements (getElementById, querySelector). Step 2: Change content (textContent, innerHTML). Step 3: Modify styles (style property). Step 4: Add/remove elements (createElement, appendChild, removeChild). Step 5: Listen to events (addEventListener). Step 6: Handle user interactions (clicks, form submissions). Step 7: Practice with projects. This guide helps you master DOM manipulation!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "DOM Tree and Events",
+          "content": "Draw DOM tree: HTML structure → JavaScript selects elements → Changes content → User interacts → Events trigger → JavaScript responds. Show: DOM tree structure, Element selection, Content changes, Event flow. Visual helps understand DOM and events."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build Interactive Web Page",
+          "content": "Activity: Create interactive features. Build: Button that changes page color, Form that shows submitted data, List that adds/removes items, Image gallery that changes images. Practice: DOM selection, Content changes, Event handling. This activity improves DOM manipulation skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "DOM Selection Methods 🎯",
+          "content": "Ways to select HTML elements with JavaScript. **Methods:** getElementById (select by ID), querySelector (select by CSS selector), querySelectorAll (select all matching), getElementsByClassName (select by class). **How to understand it:** Like finding items in a store—you need to locate them first. **Real-world:** Developer selects button: const button = document.getElementById('submit-btn'). Developer selects all cards: const cards = document.querySelectorAll('.card'). Selection methods find elements to manipulate. **Best practice:** Use querySelector (modern), Understand selectors, Select efficiently, Store selections in variables, Practice selection."
+        },
+        {
+          "title": "Changing Content with JavaScript ✏️",
+          "content": "Modifying text, HTML, and attributes of elements. **Methods:** textContent (text only), innerHTML (HTML content), setAttribute (attributes), style (CSS styles). **How to understand it:** Like editing a document—you can change any part. **Real-world:** Developer updates heading: element.textContent = 'New Title'. Developer changes image: img.src = 'new-image.jpg'. Developer updates style: element.style.color = 'blue'. JavaScript changes page content dynamically. **Best practice:** Use textContent for text, Use innerHTML carefully, Update attributes as needed, Change styles dynamically, Test changes."
+        },
+        {
+          "title": "JavaScript Events 🎪",
+          "content": "Events are user actions that trigger JavaScript code. **Common events:** click (button clicks), submit (form submissions), change (input changes), keyup (keyboard input), load (page loads). **How to understand it:** Like doorbells—user action triggers response. **Real-world:** User clicks button, JavaScript listens for click event, Event handler function runs, Page updates. Events make pages interactive. **Best practice:** Use addEventListener, Understand event types, Handle events properly, Prevent default when needed, Practice with different events."
+        },
+        {
+          "title": "Event Handling 🎮",
+          "content": "Responding to events with JavaScript functions. **How it works:** Add event listener, Define handler function, Function executes on event. **How to understand it:** Like setting up alarms—when something happens, code runs. **Real-world:** Developer adds click handler: button.addEventListener('click', function() { alert('Clicked!'); }). User clicks button, Handler function runs, Alert shows. Event handling responds to user actions. **Best practice:** Use event listeners, Write handler functions, Understand event object, Handle multiple events, Test event handling."
+        },
+        {
+          "title": "Creating and Removing Elements ➕➖",
+          "content": "Adding and removing HTML elements dynamically. **Methods:** createElement (create new element), appendChild (add to page), removeChild (remove from page), innerHTML (add HTML). **How to understand it:** Like building and demolishing—you can add or remove parts. **Real-world:** Developer adds todo item: Creates <li> element, Sets text content, Appends to <ul> list. Developer removes item: Selects element, Removes from parent. Dynamic elements make pages interactive. **Best practice:** Create elements properly, Add to correct parent, Remove when needed, Keep DOM clean, Practice dynamic content."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Interactive Button",
+          "explanation": "Developer creates interactive button: Selects button element, Adds click event listener, Handler function changes page background color. User clicks button, JavaScript executes, Background color changes. DOM manipulation makes button interactive."
+        },
+        {
+          "scenario": "Dynamic List",
+          "explanation": "Developer creates dynamic list: User types item, Clicks 'Add', JavaScript creates <li> element, Sets text content, Appends to list. User can add items dynamically, JavaScript updates DOM, List grows with each addition."
+        },
+        {
+          "scenario": "Form Submission",
+          "explanation": "Developer handles form: User submits form, JavaScript listens for submit event, Prevents default submission, Gets form data, Displays message. JavaScript handles form without page reload, Shows feedback to user."
+        },
+        {
+          "scenario": "Image Gallery",
+          "explanation": "Developer creates image gallery: User clicks thumbnail, JavaScript selects clicked image, Changes main image source, Updates display. JavaScript manipulates DOM to show different images, Creates interactive gallery."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Build Interactive Features",
+          "instructions": "Step 1: Create HTML: Button, Input, List, Display area. Step 2: Add JavaScript: Select all elements, Create event listeners, Write handler functions. Step 3: Make button interactive: Click changes text. Step 4: Make input interactive: Type shows in display. Step 5: Make list interactive: Add items dynamically. Step 6: Test all features. Step 7: Add more interactions (hover, focus).",
+          "example_answer": "Features built: Button (changes text on click), Input (shows typed text), List (adds items dynamically), Display (updates content). JavaScript used: DOM selection, Event listeners, Handler functions, Content updates. All features working, DOM manipulation practiced."
+        },
+        {
+          "title": "Create Dynamic Content",
+          "instructions": "Step 1: Create HTML container. Step 2: Add JavaScript: Create elements function, Add elements function, Remove elements function. Step 3: Create cards dynamically: Create <div> elements, Add content, Style them, Append to page. Step 4: Add remove functionality: Click removes card. Step 5: Test dynamic content. Step 6: Practice creating and removing elements.",
+          "example_answer": "Dynamic content created: JavaScript creates card elements, Adds content and styling, Appends to page, Removes on click. Dynamic content working, elements created/removed successfully, DOM manipulation mastered."
+        },
+        {
+          "title": "Build Event-Driven Application",
+          "instructions": "Step 1: Create HTML: Multiple buttons, Form, Display area. Step 2: Add JavaScript: Event listeners for each button, Form submission handler, Keyboard event handler. Step 3: Handle different events: Clicks, Form submit, Keyboard input. Step 4: Update page based on events. Step 5: Test all events. Step 6: Make it user-friendly.",
+          "example_answer": "Event-driven app built: Multiple event listeners, Different event types handled, Page updates based on events, User interactions work correctly. Event handling mastered, application responsive to all user actions."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "JavaScript DOM Manipulation",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to DOM manipulation and event handling with practical examples."
+        },
+        {
+          "title": "Interactive Web Development",
+          "source": "OpenStax",
+          "reason": "Covers DOM manipulation, events, and building interactive web applications."
+        }
+      ],
+      "videos": [
+        {
+          "title": "DOM Manipulation Tutorial – Traversy Media",
+          "reason": "Clear tutorial on DOM manipulation and event handling with hands-on examples."
+        },
+        {
+          "title": "JavaScript Events Explained – freeCodeCamp",
+          "reason": "Comprehensive guide to JavaScript events and event handling."
+        }
+      ],
+      "summary": "DOM manipulation lets JavaScript change web page content dynamically. DOM selection methods find elements, content methods change text and HTML, events respond to user actions, event handling executes code on events, creating/removing elements adds dynamic content. DOM manipulation and events are essential for building interactive web applications. Mastering these skills enables you to create dynamic, responsive user interfaces that respond to user actions."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Basic",
+      "topic": "Responsive Web Design",
+      "description": "Learn how to make web pages look great on all devices—phones, tablets, and desktops. Responsive design ensures your website works perfectly on any screen size. This is essential for modern web development. Think of it like clothing that fits everyone—responsive design adapts to different screen sizes automatically.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Building Responsive Websites: A Complete Guide",
+          "content": "Step 1: Use viewport meta tag (tells browser how to scale). Step 2: Use flexible units (percentages, rem, em instead of fixed pixels). Step 3: Use CSS media queries (different styles for different screen sizes). Step 4: Use flexible layouts (flexbox, grid). Step 5: Test on different devices (phone, tablet, desktop). Step 6: Make images responsive (max-width: 100%). Step 7: Optimize for mobile first. This guide helps you build responsive websites!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Responsive Design Breakpoints",
+          "content": "Draw three layouts: Desktop (wide, multi-column), Tablet (medium, adjusted columns), Mobile (narrow, single column). Show: Same content, Different layouts, Media queries switch layouts. Visual helps understand responsive design."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Make a Page Responsive",
+          "content": "Activity: Take an existing web page. Add: Viewport meta tag, Flexible units, Media queries, Responsive images. Test: Desktop view, Tablet view, Mobile view. Adjust layout for each size. This activity improves responsive design skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "What is Responsive Design? 📱",
+          "content": "Responsive design makes websites work on all screen sizes. **How to understand it:** Like a chameleon—website adapts to its environment. **Key concepts:** Flexible layouts, Media queries, Responsive images, Mobile-first approach. **Real-world:** A website looks great on desktop (wide layout, multiple columns), Tablet (adjusted layout, fewer columns), Mobile (narrow layout, single column). Same content, different layouts. Responsive design ensures good user experience on all devices. **Best practice:** Design mobile-first, Use flexible units, Test on devices, Optimize images, Keep it simple."
+        },
+        {
+          "title": "CSS Media Queries 📐",
+          "content": "Media queries apply different styles based on screen size. **How it works:** @media (max-width: 768px) { styles }. **Breakpoints:** Mobile (< 768px), Tablet (768px - 1024px), Desktop (> 1024px). **How to understand it:** Like different rules for different situations. **Real-world:** Developer uses media query: @media (max-width: 768px) { nav { display: block; } }. On mobile, navigation becomes vertical. Media queries adapt layout to screen size. **Best practice:** Use common breakpoints, Test breakpoints, Mobile-first approach, Keep queries organized, Test thoroughly."
+        },
+        {
+          "title": "Flexible Layouts with Flexbox and Grid 🎨",
+          "content": "Flexbox and Grid create flexible, responsive layouts. **Flexbox:** One-dimensional layouts (rows or columns), Great for navigation, cards, centering. **Grid:** Two-dimensional layouts (rows and columns), Great for complex layouts, page structure. **How to understand it:** Like flexible containers that adapt to content. **Real-world:** Developer uses flexbox: display: flex, Items arrange automatically, Adapts to screen size. Developer uses grid: display: grid, Creates columns, Responsive automatically. Flexible layouts make responsive design easier. **Best practice:** Learn flexbox first, Use grid for complex layouts, Practice both, Understand when to use each, Make layouts responsive."
+        },
+        {
+          "title": "Responsive Images and Media 🖼️",
+          "content": "Making images and media adapt to screen size. **Methods:** max-width: 100% (images scale down), srcset (different images for different sizes), picture element (art direction). **How to understand it:** Like images that resize automatically. **Real-world:** Developer makes image responsive: img { max-width: 100%; height: auto; }. Image scales to fit container, Works on all screen sizes. Responsive images prevent overflow and improve performance. **Best practice:** Use max-width: 100%, Optimize image sizes, Use srcset for performance, Test image loading, Consider mobile data."
+        },
+        {
+          "title": "Mobile-First Design Approach 📲",
+          "content": "Designing for mobile first, then enhancing for larger screens. **How it works:** Start with mobile layout, Add styles for larger screens, Progressive enhancement. **How to understand it:** Like building a house—start with foundation, add features. **Real-world:** Developer designs mobile-first: Creates mobile layout (simple, focused), Adds tablet styles (more space), Adds desktop styles (full features). Mobile-first ensures good experience on all devices. **Best practice:** Start mobile-first, Add breakpoints up, Test on real devices, Focus on content, Keep it simple."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Responsive Navigation",
+          "explanation": "Developer creates responsive navigation: Desktop - Horizontal menu, Tablet - Adjusted spacing, Mobile - Hamburger menu. Media queries change navigation layout based on screen size. Navigation works perfectly on all devices."
+        },
+        {
+          "scenario": "Responsive Card Layout",
+          "explanation": "Developer creates responsive cards: Desktop - 3 columns, Tablet - 2 columns, Mobile - 1 column. Flexbox or Grid automatically adjusts columns. Cards look great on all screen sizes."
+        },
+        {
+          "scenario": "Responsive Images",
+          "explanation": "Developer makes images responsive: Sets max-width: 100%, Images scale to fit container, No horizontal scrolling, Works on all devices. Responsive images prevent layout issues."
+        },
+        {
+          "scenario": "Mobile-First Design",
+          "explanation": "Developer designs mobile-first: Creates mobile layout first, Adds tablet breakpoint, Adds desktop breakpoint, Progressive enhancement. Mobile-first ensures good experience on all devices."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Make a Page Responsive",
+          "instructions": "Step 1: Take an existing web page. Step 2: Add viewport meta tag. Step 3: Convert fixed units to flexible (px to %, rem, em). Step 4: Add media queries: Mobile (< 768px), Tablet (768px - 1024px), Desktop (> 1024px). Step 5: Make images responsive (max-width: 100%). Step 6: Test on different screen sizes. Step 7: Adjust layout for each size. Step 8: Verify it works on all devices.",
+          "example_answer": "Page made responsive: Viewport tag added, Flexible units used, Media queries added for three breakpoints, Images responsive, Layout adapts to screen size. Tested on desktop, tablet, mobile - all working correctly. Page is fully responsive."
+        },
+        {
+          "title": "Build Responsive Layout with Flexbox",
+          "instructions": "Step 1: Create HTML: Container, Cards, Navigation. Step 2: Use flexbox: display: flex, flex-direction, flex-wrap. Step 3: Make responsive: Media queries change flex direction, Adjust spacing for different screens. Step 4: Test layout: Desktop (horizontal), Mobile (vertical). Step 5: Make it look good on all sizes.",
+          "example_answer": "Responsive flexbox layout: Flexbox used for layout, Media queries adjust direction, Desktop (horizontal layout), Mobile (vertical layout), Spacing adjusts automatically. Layout looks great on all screen sizes, flexbox makes it flexible."
+        },
+        {
+          "title": "Create Responsive Navigation",
+          "instructions": "Step 1: Create navigation: Desktop (horizontal menu), Mobile (hamburger menu). Step 2: Add media queries: Switch layout at breakpoint. Step 3: Add JavaScript: Toggle mobile menu. Step 4: Style for both: Desktop styles, Mobile styles. Step 5: Test navigation: Works on all devices. Step 6: Make it user-friendly.",
+          "example_answer": "Responsive navigation: Desktop (horizontal menu), Mobile (hamburger menu), Media queries switch layout, JavaScript toggles mobile menu, Styled for both views. Navigation works perfectly on all devices, user-friendly on mobile and desktop."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Responsive Web Design",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to responsive design principles and techniques."
+        },
+        {
+          "title": "Modern Web Development",
+          "source": "OpenStax",
+          "reason": "Covers responsive design, flexbox, grid, and mobile-first approaches."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Responsive Design Tutorial – Traversy Media",
+          "reason": "Complete guide to responsive web design with practical examples."
+        },
+        {
+          "title": "CSS Flexbox and Grid – freeCodeCamp",
+          "reason": "Comprehensive tutorial on flexible layouts for responsive design."
+        }
+      ],
+      "summary": "Responsive design makes websites work on all screen sizes. CSS media queries apply different styles based on screen size. Flexible layouts (flexbox, grid) adapt to different screens. Responsive images scale to fit containers. Mobile-first design starts with mobile, then enhances for larger screens. Responsive design is essential for modern web development—users access websites on many devices. Mastering responsive design ensures your websites look great and work well on phones, tablets, and desktops."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Basic",
+      "topic": "Git and Version Control",
+      "description": "Learn Git, the version control system used by developers worldwide. Version control tracks changes to your code, lets you work with others, and helps you recover from mistakes. Git is essential for professional development. Think of it like a time machine for your code—you can go back to any version and see what changed.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Learning Git: A Beginner's Guide",
+          "content": "Step 1: Install Git on your computer. Step 2: Configure Git (set your name and email). Step 3: Initialize repository (git init). Step 4: Make changes to files. Step 5: Stage changes (git add). Step 6: Commit changes (git commit). Step 7: View history (git log). Step 8: Create branches (git branch). This guide helps you learn Git step by step!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Git Workflow",
+          "content": "Draw workflow: Working Directory → Stage (git add) → Commit (git commit) → Repository. Show: Files change, Stage changes, Commit saves snapshot, History tracked. Visual helps understand Git workflow."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Practice Git Commands",
+          "content": "Activity: Create a project folder. Initialize Git repository. Create files, Make changes, Stage changes, Commit changes. View history. Create branches. Practice: git init, git add, git commit, git log, git branch. This activity helps you practice Git commands."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "What is Version Control? 📚",
+          "content": "Version control tracks changes to files over time. **How to understand it:** Like saving different versions of a document—you can see history and go back. **Benefits:** Track changes, Work with others, Recover from mistakes, See who changed what, Merge changes. **Real-world:** Developer works on project: Makes changes, Commits changes, Can see history, Can revert mistakes, Can work with team. Version control protects your work. **Best practice:** Use version control always, Commit often, Write clear commit messages, Learn Git commands, Practice regularly."
+        },
+        {
+          "title": "Git Basics 🔧",
+          "content": "Essential Git commands every developer needs. **Commands:** git init (start repository), git add (stage changes), git commit (save changes), git status (check status), git log (view history). **How to understand it:** Like file management commands—but for code history. **Real-world:** Developer starts project: git init (creates repository), Makes changes, git add . (stages all), git commit -m 'message' (saves), git log (views history). Git tracks all changes. **Best practice:** Learn basic commands, Use git status often, Write clear commit messages, Commit frequently, Review history."
+        },
+        {
+          "title": "Git Workflow 🔄",
+          "content": "The process of using Git: modify, stage, commit. **Workflow:** Make changes → Stage (git add) → Commit (git commit) → Repeat. **How to understand it:** Like preparing and saving work—stage prepares, commit saves. **Real-world:** Developer workflow: Edits file, git add file (stages), git commit -m 'Add feature' (saves), Continues working. Workflow keeps changes organized. **Best practice:** Follow workflow, Stage before commit, Write meaningful messages, Commit logical changes, Keep workflow consistent."
+        },
+        {
+          "title": "Git Branches 🌿",
+          "content": "Branches let you work on different features separately. **How it works:** Create branch, Work on feature, Merge back to main. **How to understand it:** Like creating a copy to experiment, then merging back. **Real-world:** Developer creates feature branch: git branch feature, git checkout feature, Works on feature, Merges to main. Branches keep features separate. **Best practice:** Use branches for features, Keep main stable, Merge when ready, Delete old branches, Practice branching."
+        },
+        {
+          "title": "GitHub and Remote Repositories ☁️",
+          "content": "GitHub hosts Git repositories online for collaboration. **How it works:** Create repository on GitHub, Push local code, Pull changes, Collaborate with others. **How to understand it:** Like cloud storage for code—accessible anywhere. **Real-world:** Developer uses GitHub: Creates repository, Pushes code (git push), Others clone (git clone), Team collaborates, Changes synced. GitHub enables collaboration. **Best practice:** Use GitHub for projects, Push regularly, Pull before push, Write good README, Collaborate effectively."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Starting a Project with Git",
+          "explanation": "Developer starts project: Creates folder, git init (initializes repository), Creates files, git add . (stages), git commit -m 'Initial commit' (saves). Git tracks project from start, history begins, can track all changes."
+        },
+        {
+          "scenario": "Working with Branches",
+          "explanation": "Developer works on feature: git branch feature (creates branch), git checkout feature (switches), Works on feature, Commits changes, git checkout main (switches back), git merge feature (merges). Branches keep features separate, main stays stable."
+        },
+        {
+          "scenario": "Collaborating with GitHub",
+          "explanation": "Team collaborates: Developer pushes code to GitHub, Teammate clones repository, Both work on different features, Push changes, Pull updates, Merge changes. GitHub enables team collaboration, changes synced, everyone up-to-date."
+        },
+        {
+          "scenario": "Recovering from Mistakes",
+          "explanation": "Developer makes mistake: Realizes error, git log (views history), git checkout previous-commit (goes back), Fixes mistake, Commits fix. Git allows recovery, can revert changes, protects work."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Practice Git Workflow",
+          "instructions": "Step 1: Create project folder. Step 2: Initialize Git (git init). Step 3: Create files (HTML, CSS, JavaScript). Step 4: Stage files (git add .). Step 5: Commit (git commit -m 'message'). Step 6: Make changes. Step 7: Stage and commit again. Step 8: View history (git log). Step 9: Practice workflow multiple times.",
+          "example_answer": "Git workflow practiced: Repository initialized, Files created, Changes staged and committed, History viewed, Multiple commits made. Workflow mastered, Git commands practiced, Ready for real projects."
+        },
+        {
+          "title": "Work with Branches",
+          "instructions": "Step 1: Create main branch (already exists). Step 2: Create feature branch (git branch feature). Step 3: Switch to branch (git checkout feature). Step 4: Make changes on branch. Step 5: Commit changes. Step 6: Switch back to main (git checkout main). Step 7: Merge branch (git merge feature). Step 8: Delete branch (git branch -d feature).",
+          "example_answer": "Branches practiced: Feature branch created, Worked on feature, Committed changes, Switched back to main, Merged feature, Deleted branch. Branching workflow mastered, ready for feature development."
+        },
+        {
+          "title": "Set Up GitHub Repository",
+          "instructions": "Step 1: Create GitHub account. Step 2: Create new repository on GitHub. Step 3: Connect local repository (git remote add origin URL). Step 4: Push code (git push -u origin main). Step 5: Make changes locally. Step 6: Push changes (git push). Step 7: View on GitHub. Step 8: Practice pushing and pulling.",
+          "example_answer": "GitHub set up: Account created, Repository created, Local repo connected, Code pushed, Changes pushed, Viewed on GitHub. GitHub workflow mastered, code backed up online, ready for collaboration."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Pro Git",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive free book on Git covering all aspects of version control."
+        },
+        {
+          "title": "Version Control with Git",
+          "source": "OpenStax",
+          "reason": "Covers Git basics, workflows, and collaboration with practical examples."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Git Tutorial for Beginners – Traversy Media",
+          "reason": "Complete Git tutorial covering all essential commands and workflows."
+        },
+        {
+          "title": "Git and GitHub Crash Course – freeCodeCamp",
+          "reason": "Comprehensive guide to Git and GitHub with hands-on practice."
+        }
+      ],
+      "summary": "Git is a version control system that tracks changes to code. Git basics include init, add, commit, status, and log commands. Git workflow: modify files, stage changes, commit changes. Git branches let you work on features separately. GitHub hosts repositories online for collaboration. Version control is essential for professional development—it protects your work, enables collaboration, and helps you recover from mistakes. Mastering Git is crucial for full stack development and working in teams."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Basic",
+      "topic": "Introduction to APIs",
+      "description": "Learn about APIs (Application Programming Interfaces), how frontend and backend communicate. APIs allow different parts of applications to talk to each other. Understanding APIs is essential for full stack development. Think of it like a waiter in a restaurant—the frontend (customer) makes a request, the API (waiter) takes it to the backend (kitchen), and brings back the response (food).",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Understanding APIs: A Complete Guide",
+          "content": "Step 1: Understand what APIs are (how applications communicate). Step 2: Learn HTTP methods (GET, POST, PUT, DELETE). Step 3: Understand endpoints (URLs that APIs use). Step 4: Learn JSON (data format APIs use). Step 5: Practice making API requests (fetch in JavaScript). Step 6: Handle API responses (process data). Step 7: Build simple API integration. This guide helps you understand APIs!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "API Communication Flow",
+          "content": "Draw flow: Frontend → API Request → Backend → Process → Response → Frontend. Show: HTTP methods (GET, POST), Endpoints (URLs), JSON data, Request/Response cycle. Visual helps understand API communication."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Make API Requests",
+          "content": "Activity: Use a public API (like weather API). Make: GET request to fetch data, Display data on page, Handle errors. Practice: fetch API, JSON parsing, Error handling. This activity helps you practice working with APIs."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "What is an API? 🔌",
+          "content": "API (Application Programming Interface) lets applications communicate. **How to understand it:** Like a menu in a restaurant—you order (request), kitchen prepares (processes), you get food (response). **How it works:** Frontend sends request, Backend processes request, Backend returns response, Frontend uses data. **Real-world:** User clicks 'Get Weather', Frontend sends API request, Backend gets weather data, Returns to frontend, Frontend displays weather. API connects frontend and backend. **Best practice:** Understand API concept, Learn HTTP methods, Practice making requests, Handle responses, Test APIs."
+        },
+        {
+          "title": "HTTP Methods 📡",
+          "content": "Different types of API requests. **Methods:** GET (retrieve data), POST (create data), PUT (update data), DELETE (remove data). **How to understand it:** Like different actions—read, create, update, delete. **Real-world:** Developer uses GET to fetch posts, POST to create post, PUT to update post, DELETE to remove post. HTTP methods define what action to perform. **Best practice:** Use correct method, Understand each method, Follow REST conventions, Test methods, Document APIs."
+        },
+        {
+          "title": "API Endpoints 🎯",
+          "content": "URLs that APIs use to receive requests. **How it works:** Each endpoint handles specific requests, Endpoints are URLs, Different endpoints for different actions. **How to understand it:** Like different doors—each leads to different room. **Real-world:** API has endpoints: GET /api/posts (get all posts), POST /api/posts (create post), GET /api/posts/:id (get one post), DELETE /api/posts/:id (delete post). Endpoints define API structure. **Best practice:** Use clear endpoint names, Follow REST conventions, Organize endpoints, Document endpoints, Test endpoints."
+        },
+        {
+          "title": "JSON Data Format 📄",
+          "content": "JSON (JavaScript Object Notation) is the data format APIs use. **How it works:** Data formatted as JSON, Easy to read and write, Works with JavaScript. **How to understand it:** Like a structured way to write data. **Real-world:** API returns JSON: { \"name\": \"John\", \"age\": 25, \"city\": \"New York\" }. Frontend parses JSON, Uses data. JSON is standard for APIs. **Best practice:** Understand JSON syntax, Parse JSON correctly, Format JSON properly, Validate JSON, Practice with JSON."
+        },
+        {
+          "title": "Making API Requests with JavaScript 🌐",
+          "content": "Using JavaScript to call APIs. **Methods:** fetch() (modern way), XMLHttpRequest (older way). **How it works:** JavaScript sends request, Waits for response, Processes data, Updates page. **How to understand it:** Like making a phone call—you call, wait, get answer. **Real-world:** Developer uses fetch: fetch('/api/posts').then(response => response.json()).then(data => displayPosts(data)). Frontend gets data from backend API. **Best practice:** Use fetch API, Handle promises, Process responses, Handle errors, Test API calls."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Fetching Data from API",
+          "explanation": "Developer fetches posts: Frontend sends GET request to /api/posts, Backend returns JSON array of posts, Frontend parses JSON, Displays posts on page. API provides data, frontend displays it."
+        },
+        {
+          "scenario": "Creating Data via API",
+          "explanation": "User creates post: Frontend sends POST request with post data, Backend creates post in database, Returns created post, Frontend displays new post. API creates data, frontend updates display."
+        },
+        {
+          "scenario": "API Error Handling",
+          "explanation": "Developer handles API errors: Request fails, Catches error, Shows error message to user, Handles gracefully. Error handling ensures good user experience even when API fails."
+        },
+        {
+          "scenario": "Using Public APIs",
+          "explanation": "Developer uses weather API: Fetches weather data from public API, Displays weather on page, Updates regularly. Public APIs provide data without building backend."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Make API Requests",
+          "instructions": "Step 1: Choose a public API (weather, quotes, etc.). Step 2: Read API documentation (endpoints, data format). Step 3: Make GET request using fetch(). Step 4: Parse JSON response. Step 5: Display data on page. Step 6: Handle errors (try/catch). Step 7: Add loading state. Step 8: Test API integration.",
+          "example_answer": "API requests made: Public API chosen, GET request sent, JSON parsed, Data displayed, Errors handled, Loading state added. API integration working, data fetched and displayed correctly."
+        },
+        {
+          "title": "Build API Integration",
+          "instructions": "Step 1: Create HTML page with form. Step 2: Add JavaScript: Form submission handler, API request function, Response handler. Step 3: Send POST request with form data. Step 4: Handle response (success/error). Step 5: Update page with response. Step 6: Test integration. Step 7: Add error handling.",
+          "example_answer": "API integration built: Form created, POST request sent, Data submitted, Response handled, Page updated, Errors handled. API integration complete, form submits data, response displayed."
+        },
+        {
+          "title": "Practice with Different HTTP Methods",
+          "instructions": "Step 1: Create API client functions: GET, POST, PUT, DELETE. Step 2: Test each method: GET (fetch data), POST (create data), PUT (update data), DELETE (remove data). Step 3: Handle responses for each. Step 4: Test error cases. Step 5: Practice with all methods. Step 6: Understand when to use each.",
+          "example_answer": "HTTP methods practiced: GET (fetch), POST (create), PUT (update), DELETE (remove). All methods tested, responses handled, errors handled. HTTP methods understood, ready to use in projects."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "REST API Design",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to APIs, HTTP methods, and REST principles."
+        },
+        {
+          "title": "Web API Development",
+          "source": "OpenStax",
+          "reason": "Covers API concepts, making requests, and handling responses."
+        }
+      ],
+      "videos": [
+        {
+          "title": "APIs Explained – Traversy Media",
+          "reason": "Clear explanation of APIs and how to use them with practical examples."
+        },
+        {
+          "title": "JavaScript Fetch API Tutorial – freeCodeCamp",
+          "reason": "Comprehensive guide to making API requests with JavaScript."
+        }
+      ],
+      "summary": "APIs (Application Programming Interfaces) let applications communicate. HTTP methods (GET, POST, PUT, DELETE) define actions. API endpoints are URLs that receive requests. JSON is the data format APIs use. JavaScript fetch() makes API requests. APIs connect frontend and backend—frontend sends requests, backend processes and returns data. Understanding APIs is essential for full stack development—it's how different parts of applications communicate. Mastering APIs enables you to build connected, dynamic web applications."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Basic",
+      "topic": "Introduction to Databases",
+      "description": "Learn about databases, where applications store data permanently. Databases store information like user accounts, posts, products, and more. Understanding databases is essential for backend development. Think of it like a filing cabinet—databases organize and store data so you can find it quickly later.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Understanding Databases: A Beginner's Guide",
+          "content": "Step 1: Understand what databases are (data storage). Step 2: Learn database types (SQL vs NoSQL). Step 3: Learn basic concepts (tables, rows, columns). Step 4: Practice basic queries (SELECT, INSERT, UPDATE, DELETE). Step 5: Understand relationships (one-to-many, many-to-many). Step 6: Practice with a database. Step 7: Connect database to application. This guide helps you learn databases!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Database Structure",
+          "content": "Draw database: Tables (Users, Posts, Comments), Rows (individual records), Columns (fields like name, email). Show: How data is organized, Relationships between tables, Queries retrieve data. Visual helps understand database structure."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Practice Database Queries",
+          "content": "Activity: Set up a database (SQLite or online). Create tables, Insert data, Query data, Update data, Delete data. Practice: CREATE, INSERT, SELECT, UPDATE, DELETE. This activity helps you practice database operations."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "What is a Database? 🗄️",
+          "content": "Database stores data permanently for applications. **How to understand it:** Like a digital filing cabinet—organized storage for data. **Types:** SQL (structured, tables), NoSQL (flexible, documents). **Real-world:** A social media app uses database: Stores user accounts, Stores posts, Stores comments, Stores likes. Database keeps all data organized and accessible. **Best practice:** Understand database purpose, Learn database types, Choose appropriate database, Organize data well, Practice with databases."
+        },
+        {
+          "title": "SQL Databases 📊",
+          "content": "SQL databases use tables, rows, and columns (structured). **How it works:** Data organized in tables, Tables have columns (fields), Rows are records, SQL queries retrieve data. **How to understand it:** Like spreadsheets—organized in rows and columns. **Real-world:** Developer creates users table: Columns (id, name, email, password), Rows (each user is a row), Queries retrieve users. SQL databases are structured and reliable. **Best practice:** Learn SQL syntax, Understand tables, Practice queries, Design schemas well, Use relationships."
+        },
+        {
+          "title": "NoSQL Databases 📦",
+          "content": "NoSQL databases store flexible, document-based data. **How it works:** Data stored as documents (JSON-like), Flexible structure, Easy to scale. **How to understand it:** Like flexible filing—no fixed structure. **Real-world:** Developer uses MongoDB: Stores user documents {name, email, posts}, Flexible structure, Easy to add fields. NoSQL databases are flexible and scalable. **Best practice:** Understand NoSQL concepts, Learn document structure, Practice queries, Use when flexible, Understand trade-offs."
+        },
+        {
+          "title": "Basic Database Operations 🔧",
+          "content": "Essential operations: create, read, update, delete (CRUD). **Operations:** CREATE (add data), READ (get data), UPDATE (modify data), DELETE (remove data). **How to understand it:** Like managing a list—add, view, change, remove items. **Real-world:** Developer manages users: CREATE (add new user), READ (get user by ID), UPDATE (change user email), DELETE (remove user). CRUD operations manage all data. **Best practice:** Master CRUD operations, Write efficient queries, Handle errors, Validate data, Practice regularly."
+        },
+        {
+          "title": "Database Relationships 🔗",
+          "content": "Connections between different data (tables or documents). **Types:** One-to-many (user has many posts), Many-to-many (users have many friends). **How to understand it:** Like connections between things—related data linked together. **Real-world:** Database has relationships: User has many posts (one-to-many), Post has many comments (one-to-many), Users have many friends (many-to-many). Relationships organize related data. **Best practice:** Understand relationships, Design relationships well, Use foreign keys (SQL), Use references (NoSQL), Practice with relationships."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Storing User Data",
+          "explanation": "Developer stores users: Creates users table (SQL) or collection (NoSQL), Inserts user data, Queries to get users, Updates user information, Deletes users when needed. Database stores all user data permanently."
+        },
+        {
+          "scenario": "Database Relationships",
+          "explanation": "Developer creates relationships: User table connected to Posts table, One user has many posts, Query gets user with posts, Relationships organize data. Database relationships link related data together."
+        },
+        {
+          "scenario": "Querying Data",
+          "explanation": "Developer queries database: SELECT * FROM users (get all users), SELECT * FROM users WHERE age > 18 (filtered), JOIN posts to get user posts. Queries retrieve specific data from database."
+        },
+        {
+          "scenario": "SQL vs NoSQL",
+          "explanation": "Developer chooses database: SQL (MySQL) for structured data (users, orders), NoSQL (MongoDB) for flexible data (blog posts, comments). Different databases for different needs."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Set Up and Practice with Database",
+          "instructions": "Step 1: Choose database (SQLite for SQL, MongoDB for NoSQL). Step 2: Set up database. Step 3: Create tables/collections: Users, Posts. Step 4: Insert sample data. Step 5: Practice queries: Get all users, Get user by ID, Get user posts, Update user, Delete user. Step 6: Test all operations. Step 7: Practice with relationships.",
+          "example_answer": "Database set up: SQLite/MongoDB installed, Tables/collections created, Sample data inserted, Queries practiced (SELECT, INSERT, UPDATE, DELETE), Relationships created. Database operations mastered, ready to use in applications."
+        },
+        {
+          "title": "Design Database Schema",
+          "instructions": "Step 1: Choose application (blog, e-commerce, social media). Step 2: Identify data needed: What to store? Step 3: Design tables/collections: Structure, Fields, Types. Step 4: Design relationships: How data connects? Step 5: Create schema. Step 6: Insert sample data. Step 7: Test queries. Step 8: Refine schema.",
+          "example_answer": "Schema designed: Application chosen (blog), Tables designed (Users, Posts, Comments), Relationships defined (User-Posts, Post-Comments), Schema created, Sample data inserted, Queries tested. Schema well-designed, relationships correct, ready for application."
+        },
+        {
+          "title": "Practice CRUD Operations",
+          "instructions": "Step 1: Create database and table. Step 2: Practice CREATE: Insert multiple records. Step 3: Practice READ: Get all, Get by ID, Filter data. Step 4: Practice UPDATE: Update single field, Update multiple fields. Step 5: Practice DELETE: Delete by ID, Delete multiple. Step 6: Test all operations. Step 7: Handle errors.",
+          "example_answer": "CRUD practiced: CREATE (inserted records), READ (queried data), UPDATE (modified records), DELETE (removed records). All operations working, errors handled, CRUD mastered."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Database Design Fundamentals",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to database concepts, SQL, and database design."
+        },
+        {
+          "title": "Introduction to Databases",
+          "source": "OpenStax",
+          "reason": "Covers database basics, SQL queries, and database management."
+        }
+      ],
+      "videos": [
+        {
+          "title": "SQL Tutorial for Beginners – Traversy Media",
+          "reason": "Complete SQL tutorial covering database concepts and queries."
+        },
+        {
+          "title": "MongoDB Tutorial – freeCodeCamp",
+          "reason": "Comprehensive guide to NoSQL databases and MongoDB."
+        }
+      ],
+      "summary": "Databases store data permanently for applications. SQL databases use structured tables, NoSQL databases use flexible documents. Basic operations are CRUD (create, read, update, delete). Database relationships connect related data. Understanding databases is essential for backend development—applications need to store and retrieve data. Mastering databases enables you to build applications that persist data and handle user information, posts, products, and more."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Basic",
+      "topic": "Node.js Basics",
+      "description": "Learn Node.js, JavaScript runtime for building backend servers. Node.js lets you use JavaScript on the server side, not just in the browser. This is essential for full stack development with JavaScript. Think of it like running JavaScript outside the browser—you can build servers, APIs, and backend applications with the same language you use for frontend.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Learning Node.js: A Beginner's Guide",
+          "content": "Step 1: Install Node.js on your computer. Step 2: Create your first Node.js file (server.js). Step 3: Use built-in modules (fs, http). Step 4: Create a simple server. Step 5: Handle requests and responses. Step 6: Use npm (Node Package Manager) to install packages. Step 7: Build a simple API. This guide helps you learn Node.js!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Node.js Server Architecture",
+          "content": "Draw server: Client → HTTP Request → Node.js Server → Process → Response → Client. Show: Node.js runs JavaScript, Handles requests, Processes data, Returns responses. Visual helps understand Node.js server."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build Your First Node.js Server",
+          "content": "Activity: Create Node.js server. Build: Simple HTTP server, Handle GET requests, Return JSON responses, Test with browser. Practice: http module, Request handling, Response sending. This activity helps you practice Node.js."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "What is Node.js? 🟢",
+          "content": "Node.js is JavaScript runtime for building servers and backend applications. **How to understand it:** Like running JavaScript outside the browser—on a server. **Key features:** JavaScript on server, Fast and efficient, Large ecosystem (npm), Event-driven, Non-blocking. **Real-world:** Developer builds API: Uses Node.js server, Handles HTTP requests, Processes data, Returns JSON responses. Node.js enables JavaScript full stack development. **Best practice:** Learn Node.js basics, Understand server concepts, Use npm packages, Practice building servers, Learn Express.js."
+        },
+        {
+          "title": "Node.js Modules 📦",
+          "content": "Node.js uses modules to organize code. **Types:** Built-in modules (fs, http, path), Third-party modules (from npm), Custom modules (your own). **How to understand it:** Like toolboxes—different modules for different tasks. **Real-world:** Developer uses modules: require('http') (built-in), require('express') (third-party), require('./myModule') (custom). Modules organize and reuse code. **Best practice:** Learn built-in modules, Use npm packages, Create custom modules, Organize code well, Understand module system."
+        },
+        {
+          "title": "Creating a Server 🖥️",
+          "content": "Building HTTP servers with Node.js. **How it works:** Create server, Listen on port, Handle requests, Send responses. **How to understand it:** Like setting up a restaurant—server waits for customers (requests). **Real-world:** Developer creates server: const http = require('http'), Creates server, Listens on port 3000, Handles requests, Returns responses. Server runs and responds to requests. **Best practice:** Learn http module, Understand server setup, Handle requests properly, Send correct responses, Test servers."
+        },
+        {
+          "title": "npm and Package Management 📚",
+          "content": "npm (Node Package Manager) installs and manages packages. **How it works:** npm install package, Packages added to node_modules, Use in code with require(). **How to understand it:** Like an app store for code—download and use packages. **Real-world:** Developer uses npm: npm install express, Express added to project, require('express') in code, Use Express to build API. npm provides thousands of packages. **Best practice:** Learn npm commands, Use package.json, Install packages, Update packages, Understand dependencies."
+        },
+        {
+          "title": "Express.js Framework 🚀",
+          "content": "Express.js is popular Node.js framework for building APIs and servers. **How it works:** Simplifies server creation, Handles routing, Middleware support, Easy to use. **How to understand it:** Like a toolkit that makes building servers easier. **Real-world:** Developer uses Express: const express = require('express'), Creates app, Defines routes, Handles requests easily. Express makes Node.js development faster. **Best practice:** Learn Express basics, Understand routing, Use middleware, Practice with Express, Build APIs."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Creating a Simple Server",
+          "explanation": "Developer creates server: Uses Node.js http module, Creates server, Listens on port 3000, Handles GET requests, Returns 'Hello World'. Server runs, responds to requests, Node.js working."
+        },
+        {
+          "scenario": "Building API with Express",
+          "explanation": "Developer builds API: Installs Express, Creates Express app, Defines routes (GET /api/posts), Returns JSON data, Server handles requests. Express simplifies API development."
+        },
+        {
+          "scenario": "Using npm Packages",
+          "explanation": "Developer uses packages: npm install express, Package installed, require('express') in code, Uses Express features. npm provides tools for development."
+        },
+        {
+          "scenario": "Handling Different Routes",
+          "explanation": "Developer handles routes: GET / (home), GET /api/users (users), POST /api/posts (create post). Different routes for different actions, Express handles routing easily."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Build Your First Node.js Server",
+          "instructions": "Step 1: Install Node.js. Step 2: Create server.js file. Step 3: Use http module to create server. Step 4: Handle GET request to root (/). Step 5: Return 'Hello World' response. Step 6: Listen on port 3000. Step 7: Test server (open browser to localhost:3000). Step 8: Add more routes.",
+          "example_answer": "Server built: Node.js installed, Server created, GET route handled, Response returned, Server listening on port 3000, Tested in browser. First server working, Node.js basics learned."
+        },
+        {
+          "title": "Build API with Express",
+          "instructions": "Step 1: Initialize npm project (npm init). Step 2: Install Express (npm install express). Step 3: Create Express app. Step 4: Define routes: GET /api/posts, POST /api/posts. Step 5: Return JSON responses. Step 6: Test API (use browser or Postman). Step 7: Add more routes. Step 8: Practice Express routing.",
+          "example_answer": "Express API built: Project initialized, Express installed, App created, Routes defined, JSON responses returned, API tested. Express API working, routing mastered."
+        },
+        {
+          "title": "Practice with npm",
+          "instructions": "Step 1: Create new project folder. Step 2: Initialize npm (npm init). Step 3: Install a package (e.g., express, axios). Step 4: Use package in code. Step 5: Check package.json. Step 6: Install multiple packages. Step 7: Understand dependencies. Step 8: Practice npm commands.",
+          "example_answer": "npm practiced: Project initialized, Packages installed, Used in code, package.json updated, Dependencies understood. npm workflow mastered, ready to use packages in projects."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Node.js for Beginners",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to Node.js, server development, and backend programming."
+        },
+        {
+          "title": "Server-Side JavaScript",
+          "source": "OpenStax",
+          "reason": "Covers Node.js, Express.js, and building backend applications."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Node.js Tutorial for Beginners – Traversy Media",
+          "reason": "Complete Node.js tutorial covering server creation and backend development."
+        },
+        {
+          "title": "Express.js Crash Course – freeCodeCamp",
+          "reason": "Comprehensive guide to Express.js and building APIs."
+        }
+      ],
+      "summary": "Node.js is JavaScript runtime for building servers and backend applications. Node.js modules organize code (built-in, third-party, custom). Creating servers with Node.js handles HTTP requests and responses. npm (Node Package Manager) installs and manages packages. Express.js framework simplifies Node.js development. Node.js enables JavaScript full stack development—same language for frontend and backend. Mastering Node.js is essential for full stack development—it's the foundation of backend development with JavaScript."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Basic",
+      "topic": "Building Your First Full Stack Application",
+      "description": "Put it all together! Build your first complete full stack application combining frontend, backend, and database. This project brings together everything you've learned: HTML/CSS, JavaScript, Node.js, APIs, and databases. Think of it like building your first complete house—you combine all the skills you've learned to create something real.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Building a Full Stack App: Complete Project Guide",
+          "content": "Step 1: Plan your application (features, structure). Step 2: Set up project (folders, files). Step 3: Build backend (Node.js server, API routes, database). Step 4: Build frontend (HTML, CSS, JavaScript). Step 5: Connect frontend to backend (API calls). Step 6: Test everything together. Step 7: Deploy your application. This guide helps you build your first full stack app!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Full Stack Application Architecture",
+          "content": "Draw architecture: Frontend (HTML/CSS/JavaScript) → API Requests → Backend (Node.js/Express) → Database (Data Storage). Show: User interacts with frontend, Frontend calls API, Backend processes, Database stores data, Response returns to frontend. Visual helps understand full stack architecture."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build Complete Application",
+          "content": "Activity: Build a todo app or blog. Create: Frontend (user interface), Backend (API server), Database (data storage), Connect everything. Practice: Full stack development, API integration, Database operations. This activity helps you build your first complete application."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Full Stack Project Structure 📁",
+          "content": "Organizing a full stack project. **Structure:** Frontend folder (HTML, CSS, JavaScript), Backend folder (Node.js, API), Database (data storage), Configuration files. **How to understand it:** Like organizing a workspace—everything in its place. **Real-world:** Developer organizes project: /frontend (client code), /backend (server code), /database (database files), package.json (dependencies). Structure keeps project organized. **Best practice:** Separate frontend and backend, Organize files well, Use proper structure, Keep it clean, Document structure."
+        },
+        {
+          "title": "Connecting Frontend and Backend 🔗",
+          "content": "Making frontend communicate with backend through APIs. **How it works:** Frontend sends API requests, Backend processes requests, Backend returns data, Frontend displays data. **How to understand it:** Like frontend and backend talking through APIs. **Real-world:** User adds todo (frontend), Frontend sends POST request to /api/todos, Backend saves to database, Returns saved todo, Frontend displays it. Frontend and backend work together. **Best practice:** Use fetch for API calls, Handle responses, Handle errors, Test connections, Keep API consistent."
+        },
+        {
+          "title": "Full Stack Development Workflow 🔄",
+          "content": "The process of building full stack applications. **Workflow:** Plan application, Build backend (API, database), Build frontend (UI), Connect them, Test everything, Deploy. **How to understand it:** Like building a house—foundation first, then structure, then finish. **Real-world:** Developer builds app: Creates backend API, Sets up database, Builds frontend UI, Connects frontend to API, Tests all features, Deploys application. Workflow ensures complete application. **Best practice:** Plan before building, Build backend first, Then build frontend, Test as you go, Deploy when ready."
+        },
+        {
+          "title": "Testing Your Application ✅",
+          "content": "Verifying that your full stack application works correctly. **Testing:** Test backend API, Test frontend UI, Test API integration, Test database operations, Test user flows. **How to understand it:** Like quality control—make sure everything works. **Real-world:** Developer tests app: Tests API endpoints, Tests frontend features, Tests data flow, Tests error handling, Tests on different devices. Testing ensures application works. **Best practice:** Test backend, Test frontend, Test integration, Test errors, Test user experience."
+        },
+        {
+          "title": "Deploying Your Application 🚀",
+          "content": "Making your application available online. **Options:** Frontend (Netlify, Vercel), Backend (Heroku, Railway), Database (MongoDB Atlas, Railway). **How to understand it:** Like publishing your work—making it accessible to others. **Real-world:** Developer deploys app: Deploys frontend to Netlify, Deploys backend to Railway, Uses MongoDB Atlas for database, Application live online. Deployment makes app accessible. **Best practice:** Choose hosting platforms, Deploy frontend, Deploy backend, Configure database, Test deployed app."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Building a Todo App",
+          "explanation": "Developer builds todo app: Frontend (HTML/CSS/JavaScript) - User interface, Backend (Node.js/Express) - API server, Database (MongoDB) - Stores todos, API connects frontend and backend. Complete full stack application working!"
+        },
+        {
+          "scenario": "Full Stack Data Flow",
+          "explanation": "User adds todo: Frontend sends POST request, Backend receives request, Backend saves to database, Backend returns saved todo, Frontend displays new todo. Data flows from frontend through backend to database and back."
+        },
+        {
+          "scenario": "Testing Full Stack App",
+          "explanation": "Developer tests app: Tests API endpoints (Postman), Tests frontend (browser), Tests integration (full flow), Tests errors (invalid data), Tests on mobile. Comprehensive testing ensures app works correctly."
+        },
+        {
+          "scenario": "Deploying Full Stack App",
+          "explanation": "Developer deploys app: Frontend to Netlify (static hosting), Backend to Railway (server hosting), Database to MongoDB Atlas (cloud database), Application live and accessible. Deployment makes app available to users."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Build Your First Full Stack App",
+          "instructions": "Step 1: Choose project (todo app, blog, weather app). Step 2: Plan: Features, Structure, Technologies. Step 3: Set up: Project folders, Backend, Frontend. Step 4: Build backend: Node.js server, API routes, Database. Step 5: Build frontend: HTML/CSS, JavaScript, API integration. Step 6: Connect: Frontend calls backend API. Step 7: Test: All features, API, Integration. Step 8: Deploy: Frontend, Backend, Database.",
+          "example_answer": "Full stack app built: Todo app chosen, Backend built (Node.js/Express/MongoDB), Frontend built (HTML/CSS/JavaScript), Connected via API, All features tested, Deployed to hosting. Complete full stack application working, all skills applied!"
+        },
+        {
+          "title": "Practice Full Stack Development",
+          "instructions": "Step 1: Build backend API: Create server, Define routes, Connect database, Test API. Step 2: Build frontend: Create UI, Style pages, Add JavaScript. Step 3: Connect frontend to backend: Make API calls, Display data, Handle responses. Step 4: Test everything: Backend works, Frontend works, Integration works. Step 5: Fix any issues. Step 6: Deploy application.",
+          "example_answer": "Full stack practiced: Backend API built and tested, Frontend UI built and styled, Connected via API, All features working, Deployed successfully. Full stack development skills applied, complete application working."
+        },
+        {
+          "title": "Document Your Full Stack Project",
+          "instructions": "Step 1: Write README: Project description, Features, Technologies used. Step 2: Document setup: Installation steps, Configuration, Dependencies. Step 3: Document API: Endpoints, Request/response format. Step 4: Document frontend: Structure, Features, Usage. Step 5: Add screenshots. Step 6: Include deployment instructions. Step 7: Create project documentation.",
+          "example_answer": "Project documented: README created with description, Setup instructions documented, API endpoints documented, Frontend features documented, Screenshots added, Deployment guide included. Project well-documented, ready to share."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Full Stack Web Development",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to building full stack applications with practical projects."
+        },
+        {
+          "title": "Building Web Applications",
+          "source": "OpenStax",
+          "reason": "Covers full stack development, connecting frontend and backend, and deployment."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Full Stack Development Tutorial – Traversy Media",
+          "reason": "Complete guide to building full stack applications from scratch."
+        },
+        {
+          "title": "Build a Full Stack App – freeCodeCamp",
+          "reason": "Step-by-step tutorial building a complete full stack application."
+        }
+      ],
+      "summary": "Building your first full stack application combines all skills: frontend (HTML/CSS/JavaScript), backend (Node.js/API), and database. Full stack project structure organizes frontend and backend separately. Connecting frontend and backend through APIs enables communication. Full stack development workflow: plan, build backend, build frontend, connect, test, deploy. Testing ensures everything works correctly. Deploying makes your application available online. Building a complete full stack application demonstrates your skills and creates a real, working project you can showcase."
+    }
+  ]
+}
+

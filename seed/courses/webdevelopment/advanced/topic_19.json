@@ -1,0 +1,87 @@
+{
+  "topic": "Performance Optimization and Web Vitals",
+  "detailedSummary": "Performance optimization creates fast, responsive web experiences. Core Web Vitals measure user experience: LCP (Largest Contentful Paint) measures loading speed, FID (First Input Delay) measures interactivity, CLS (Cumulative Layout Shift) measures visual stability. Optimization techniques include: code splitting reduces initial bundle size, lazy loading defers non-critical resources, image optimization (WebP, compression, responsive images), minification removes whitespace and comments, compression (Gzip/Brotli) reduces file sizes, CDN (Content Delivery Network) serves assets from nearby servers, caching reduces server requests, database query optimization improves data retrieval. Performance monitoring uses tools like Lighthouse, WebPageTest, and browser DevTools. Understanding performance optimization enables building fast applications that provide excellent user experiences and rank well in search engines.",
+  "whyItMatters": "Performance directly impacts user experience and business success - fast websites have better engagement, lower bounce rates, and higher conversion rates.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Performance Optimization and Web Vitals | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Performance Optimization and Web Vitals | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Performance Optimization and Web Vitals | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Web Performance Guide",
+        "url": "https://web.dev/performance/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Performance Optimization Practice",
+        "url": "https://pagespeed.web.dev/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Optimize Web Application Performance",
+      "description": "Analyze and optimize a web application's performance using various techniques and tools.",
+      "tasks": [
+        "Measure performance using Lighthouse and identify bottlenecks",
+        "Implement code splitting and lazy loading to reduce initial load time",
+        "Optimize images (compression, format, responsive images)",
+        "Minify and compress assets (CSS, JavaScript)",
+        "Achieve improvements in Core Web Vitals and document the optimization process"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What does LCP (Largest Contentful Paint) measure?",
+      "type": "multiple-choice",
+      "options": [
+        "Visual stability",
+        "Loading speed - time to render the largest content element",
+        "Interactivity",
+        "Code size"
+      ],
+      "correctAnswer": 1,
+      "explanation": "LCP measures loading performance - specifically, the time it takes for the largest content element to become visible in the viewport."
+    },
+    {
+      "question": "Code splitting increases initial bundle size to improve performance.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Code splitting reduces initial bundle size by dividing code into smaller chunks loaded on demand, improving initial load time."
+    },
+    {
+      "question": "What is lazy loading?",
+      "type": "multiple-choice",
+      "options": [
+        "Loading all resources immediately",
+        "Deferring loading of non-critical resources until they're needed",
+        "Deleting resources",
+        "Combining all resources"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lazy loading defers loading of non-critical resources (like images below the fold) until they're needed, reducing initial load time."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

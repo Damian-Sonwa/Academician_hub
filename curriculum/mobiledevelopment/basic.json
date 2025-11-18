@@ -1,0 +1,1037 @@
+{
+  "level": "Basic",
+  "topics": [
+    {
+      "course": "Mobile Development",
+      "level": "Basic",
+      "topic": "Introduction to Mobile Development",
+      "description": "Learn what mobile development is and explore the different platforms (iOS, Android) and development approaches. Mobile development involves creating applications for smartphones and tablets. Understanding mobile development is essential for building apps that billions of people use daily. Think of mobile development like building apps for the devices people carry everywhere—smartphones and tablets.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Understanding Mobile Development: A Beginner's Walkthrough",
+          "content": "Step 1: Understand mobile platforms (iOS, Android). Step 2: Learn development approaches (native, cross-platform, hybrid). Step 3: Choose development tools (React Native, Flutter, native). Step 4: Set up development environment. Step 5: Create your first mobile app. Step 6: Test on devices. Step 7: Learn app deployment. This guide helps you start mobile development!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Mobile Development Platforms",
+          "content": "Draw platforms: iOS (Apple devices) and Android (Google devices). Show: Native development (platform-specific), Cross-platform (one codebase), Hybrid (web-based). Visual helps understand mobile development options."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Explore Mobile Apps",
+          "content": "Activity: Analyze 5 mobile apps you use daily. For each: Which platform (iOS/Android)? What features? How does it work? What makes it mobile-friendly? This helps you understand mobile app characteristics."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "What is Mobile Development? 📱",
+          "content": "Mobile development creates applications for smartphones and tablets. **Platforms:** iOS (Apple), Android (Google). **How to understand it:** Like building apps for phones and tablets. **Real-world:** Developer builds mobile app: Creates app for iOS and Android, Users download from app stores, App runs on devices. Mobile apps are everywhere. **Best practice:** Understand platforms, Choose development approach, Learn mobile concepts, Practice development."
+        },
+        {
+          "title": "Mobile Platforms 🍎🤖",
+          "content": "Two main platforms: iOS and Android. **iOS:** Apple devices (iPhone, iPad), Swift/Objective-C, App Store. **Android:** Google devices, Java/Kotlin, Google Play. **How to understand it:** Like two different operating systems. **Real-world:** Developer targets both: Builds iOS app, Builds Android app, Covers most users, Apps on both stores. Both platforms important. **Best practice:** Understand both platforms, Consider cross-platform, Learn platform differences, Practice on both."
+        },
+        {
+          "title": "Development Approaches 🛠️",
+          "content": "Different ways to build mobile apps. **Native:** Platform-specific (Swift for iOS, Kotlin for Android). **Cross-platform:** One codebase (React Native, Flutter). **Hybrid:** Web-based (Ionic, Cordova). **How to understand it:** Like different tools for building. **Real-world:** Developer chooses approach: Native for performance, Cross-platform for efficiency, Hybrid for web skills. Right approach for right need. **Best practice:** Understand approaches, Choose based on needs, Learn cross-platform, Practice development."
+        },
+        {
+          "title": "Mobile App Characteristics 📲",
+          "content": "What makes apps mobile-friendly. **Features:** Touch interactions, Responsive design, Offline capability, Push notifications, Device sensors. **How to understand it:** Like apps designed for mobile use. **Real-world:** Mobile app features: Touch gestures, Works offline, Sends notifications, Uses camera/GPS, Mobile-optimized. Mobile apps are interactive. **Best practice:** Design for touch, Consider offline, Use device features, Optimize for mobile, Practice mobile design."
+        },
+        {
+          "title": "Development Tools 🧰",
+          "content": "Tools for building mobile apps. **React Native:** JavaScript, Cross-platform. **Flutter:** Dart, Cross-platform. **Xcode:** iOS development. **Android Studio:** Android development. **How to understand it:** Like toolkits for building. **Real-world:** Developer uses tools: React Native for cross-platform, Xcode for iOS, Android Studio for Android, Tools enable development. Tools make development easier. **Best practice:** Choose tools, Set up environment, Learn tools, Practice with tools."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Building a Todo App",
+          "explanation": "Developer builds todo app: Uses React Native, Creates iOS and Android versions, Users add todos, App works on both platforms. Cross-platform development."
+        },
+        {
+          "scenario": "Native iOS App",
+          "explanation": "Developer builds iOS app: Uses Swift, Xcode, App Store, iPhone users download, Native iOS experience. Native development."
+        },
+        {
+          "scenario": "Mobile App Features",
+          "explanation": "Developer adds features: Touch gestures, Offline mode, Push notifications, Camera access, Mobile-optimized. Mobile features working."
+        },
+        {
+          "scenario": "Cross-Platform Development",
+          "explanation": "Developer uses React Native: One codebase, iOS and Android, Faster development, Shared code, Cross-platform success."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Explore Mobile Development",
+          "instructions": "Step 1: Research mobile platforms (iOS, Android). Step 2: Compare development approaches (native, cross-platform, hybrid). Step 3: Choose a tool (React Native recommended). Step 4: Set up development environment. Step 5: Create simple app. Step 6: Test on device/emulator. Step 7: Document your learning.",
+          "example_answer": "Mobile development explored: Platforms researched, Approaches compared, Tool chosen, Environment set up, Simple app created, Tested, Learning documented. Mobile development started."
+        },
+        {
+          "title": "Analyze Mobile Apps",
+          "instructions": "Step 1: Choose 3 mobile apps you use. Step 2: For each app: Platform? Features? User experience? What makes it mobile-friendly? Step 3: Compare apps. Step 4: Identify mobile patterns. Step 5: Document findings.",
+          "example_answer": "Mobile apps analyzed: 3 apps chosen, Features identified, User experience evaluated, Mobile patterns found, Findings documented. Mobile app analysis complete."
+        },
+        {
+          "title": "Set Up Development Environment",
+          "instructions": "Step 1: Choose development tool (React Native). Step 2: Install required software. Step 3: Set up iOS simulator (Mac) or Android emulator. Step 4: Create new project. Step 5: Run project. Step 6: Test on device/emulator. Step 7: Verify setup.",
+          "example_answer": "Development environment set up: Tool chosen, Software installed, Simulator/emulator set up, Project created, Project running, Tested, Setup verified. Environment ready."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Introduction to Mobile Development",
+          "source": "Open Textbook Library",
+          "reason": "Provides a beginner-friendly overview of mobile development concepts and platforms."
+        },
+        {
+          "title": "Mobile Application Development",
+          "source": "OpenStax",
+          "reason": "Covers mobile development basics, platforms, and development approaches."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Mobile Development Explained – Traversy Media",
+          "reason": "Simple explanation of mobile development and platforms."
+        },
+        {
+          "title": "Introduction to Mobile Development – freeCodeCamp",
+          "reason": "Comprehensive beginner-friendly introduction to mobile development."
+        }
+      ],
+      "summary": "Mobile development creates applications for smartphones and tablets. Two main platforms are iOS (Apple) and Android (Google). Development approaches include native (platform-specific), cross-platform (one codebase), and hybrid (web-based). Mobile apps have characteristics like touch interactions, responsive design, and device features. Development tools like React Native, Flutter, Xcode, and Android Studio enable app creation. Understanding mobile development is essential for building apps that billions of people use daily."
+    },
+    {
+      "course": "Mobile Development",
+      "level": "Basic",
+      "topic": "React Native Basics",
+      "description": "Learn React Native, the most popular framework for building cross-platform mobile apps with JavaScript. React Native lets you build iOS and Android apps with one codebase. Understanding React Native is essential for efficient mobile development. Think of React Native like React for mobile—you use familiar JavaScript and React concepts to build mobile apps.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Learning React Native: A Complete Guide",
+          "content": "Step 1: Install React Native CLI. Step 2: Create new project. Step 3: Understand React Native components (View, Text, Button). Step 4: Learn styling (StyleSheet). Step 5: Handle user input. Step 6: Navigate between screens. Step 7: Build your first app. This guide helps you learn React Native!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "React Native Architecture",
+          "content": "Draw: JavaScript Code → React Native Bridge → Native Components. Show: Cross-platform code, Native rendering, iOS and Android. Visual helps understand React Native."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build React Native App",
+          "content": "Activity: Create React Native app. Build: Basic components, Styling, User interaction, Navigation. Practice: React Native, Components, Mobile development. This activity helps you practice React Native."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "What is React Native? ⚛️",
+          "content": "React Native builds mobile apps with JavaScript and React. **How it works:** Write JavaScript, React Native renders to native, Works on iOS and Android. **How to understand it:** Like React for mobile devices. **Real-world:** Developer uses React Native: Writes JavaScript code, Creates iOS and Android apps, One codebase, Faster development. React Native is efficient. **Best practice:** Learn React first, Understand React Native, Practice components, Build apps, Practice React Native."
+        },
+        {
+          "title": "React Native Components 📱",
+          "content": "Components for building mobile UIs. **Components:** View (container), Text (text display), Button (button), Image (images), ScrollView (scrollable). **How to understand it:** Like HTML elements for mobile. **Real-world:** Developer uses components: View for layout, Text for text, Button for actions, Image for pictures, Components build UI. Components are building blocks. **Best practice:** Learn core components, Use appropriately, Style components, Practice components."
+        },
+        {
+          "title": "Styling in React Native 🎨",
+          "content": "Styling mobile apps with StyleSheet. **How it works:** Create StyleSheet, Apply styles, Use flexbox, Platform-specific styles. **How to understand it:** Like CSS for mobile. **Real-world:** Developer styles app: Creates styles, Applies to components, Uses flexbox, App looks good. Styling makes apps beautiful. **Best practice:** Use StyleSheet, Learn flexbox, Style consistently, Practice styling."
+        },
+        {
+          "title": "Handling User Input 👆",
+          "content": "Responding to user interactions. **Inputs:** TextInput (text entry), Button (clicks), TouchableOpacity (touches). **How to understand it:** Like handling user actions. **Real-world:** Developer handles input: TextInput for text, Button for clicks, TouchableOpacity for touches, App interactive. Input makes apps interactive. **Best practice:** Use TextInput, Handle events, Validate input, Practice input."
+        },
+        {
+          "title": "React Native vs React 🔄",
+          "content": "Differences between React and React Native. **React:** Web components (div, span), CSS styling, Browser rendering. **React Native:** Mobile components (View, Text), StyleSheet, Native rendering. **How to understand it:** Like same concepts, different platforms. **Real-world:** Developer knows React: Applies to React Native, Similar concepts, Different components, Skills transfer. React knowledge helps. **Best practice:** Learn React first, Understand differences, Practice both, Transfer skills."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Creating a Simple App",
+          "explanation": "Developer creates app: Uses View, Text, Button components, Styles with StyleSheet, Handles button click, App works on iOS and Android. React Native basics working."
+        },
+        {
+          "scenario": "Styling Components",
+          "explanation": "Developer styles app: Creates StyleSheet, Applies styles, Uses flexbox, App looks good, Styling working."
+        },
+        {
+          "scenario": "User Input",
+          "explanation": "Developer adds input: Uses TextInput, Handles text change, Validates input, Input working."
+        },
+        {
+          "scenario": "Cross-Platform App",
+          "explanation": "Developer builds app: One codebase, Works on iOS, Works on Android, Cross-platform success."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Build React Native App",
+          "instructions": "Step 1: Install React Native CLI. Step 2: Create new project. Step 3: Build UI with components (View, Text, Button). Step 4: Style components. Step 5: Handle user input. Step 6: Test on device/emulator. Step 7: Practice React Native.",
+          "example_answer": "React Native app built: CLI installed, Project created, UI built, Components styled, Input handled, Tested. React Native app working."
+        },
+        {
+          "title": "Practice React Native Components",
+          "instructions": "Step 1: Create app with View, Text, Button. Step 2: Add Image component. Step 3: Add ScrollView. Step 4: Style all components. Step 5: Test components. Step 6: Practice with different components. Step 7: Build complete UI.",
+          "example_answer": "Components practiced: View, Text, Button used, Image added, ScrollView added, All styled, Tested, Complete UI built. Components mastered."
+        },
+        {
+          "title": "Style React Native App",
+          "instructions": "Step 1: Create StyleSheet. Step 2: Style View components. Step 3: Style Text components. Step 4: Use flexbox for layout. Step 5: Add colors and spacing. Step 6: Test styling. Step 7: Practice styling.",
+          "example_answer": "App styled: StyleSheet created, Views styled, Text styled, Flexbox used, Colors/spacing added, Tested. Styling mastered."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "React Native Guide",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to React Native, components, and mobile development."
+        },
+        {
+          "title": "Mobile App Development with React Native",
+          "source": "OpenStax",
+          "reason": "Covers React Native basics, components, and styling."
+        }
+      ],
+      "videos": [
+        {
+          "title": "React Native Tutorial – Traversy Media",
+          "reason": "Complete guide to React Native with practical examples."
+        },
+        {
+          "title": "React Native Crash Course – freeCodeCamp",
+          "reason": "Comprehensive tutorial on React Native and mobile development."
+        }
+      ],
+      "summary": "React Native builds mobile apps with JavaScript and React. React Native components (View, Text, Button, Image) build mobile UIs. Styling uses StyleSheet with flexbox for layouts. User input is handled with TextInput, Button, and TouchableOpacity. React Native is similar to React but for mobile platforms. React Native enables building iOS and Android apps with one codebase. Mastering React Native basics enables you to build cross-platform mobile applications efficiently."
+    },
+    {
+      "course": "Mobile Development",
+      "level": "Basic",
+      "topic": "Mobile UI/UX Design",
+      "description": "Learn mobile UI/UX design principles for creating user-friendly mobile applications. Good design makes apps intuitive, beautiful, and enjoyable to use. Understanding mobile design is essential for building successful apps. Think of mobile design like interior design for apps—you arrange elements to create a pleasant, functional space.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Designing Mobile Apps: A Complete Guide",
+          "content": "Step 1: Understand mobile design principles (simplicity, consistency). Step 2: Design for touch (button sizes, spacing). Step 3: Plan navigation (tabs, stacks). Step 4: Choose colors and typography. Step 5: Design responsive layouts. Step 6: Test on devices. Step 7: Iterate and improve. This guide helps you design mobile apps!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Mobile Design Principles",
+          "content": "Draw design: Simplicity → Consistency → Touch-friendly → Clear navigation. Show: Design principles, Layout patterns, User experience. Visual helps understand mobile design."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Design Mobile App UI",
+          "content": "Activity: Design app UI. Plan: Layout, Navigation, Colors, Typography, Touch targets. Practice: Design principles, UI patterns, User experience. This activity improves design skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Mobile Design Principles 📐",
+          "content": "Principles for good mobile design. **Principles:** Simplicity (keep it simple), Consistency (same patterns), Clarity (clear purpose), Touch-friendly (easy to tap). **How to understand it:** Like design rules for mobile. **Real-world:** Developer designs app: Simple interface, Consistent patterns, Clear purpose, Easy to use, Users love it. Good design matters. **Best practice:** Follow principles, Keep it simple, Be consistent, Design for touch, Practice design."
+        },
+        {
+          "title": "Touch-Friendly Design 👆",
+          "content": "Designing for touch interactions. **Requirements:** Large touch targets (44x44pt minimum), Adequate spacing, Easy gestures, Clear feedback. **How to understand it:** Like making buttons easy to tap. **Real-world:** Developer designs touch-friendly: Large buttons, Good spacing, Easy gestures, Clear feedback, Users can tap easily. Touch-friendly design improves UX. **Best practice:** Large touch targets, Good spacing, Easy gestures, Clear feedback, Test on devices."
+        },
+        {
+          "title": "Navigation Patterns 🧭",
+          "content": "Common navigation patterns in mobile apps. **Patterns:** Tab navigation (bottom tabs), Stack navigation (screens), Drawer navigation (side menu). **How to understand it:** Like different ways to move around. **Real-world:** Developer uses navigation: Bottom tabs for main sections, Stack for details, Drawer for settings, Navigation clear. Navigation helps users. **Best practice:** Choose appropriate pattern, Keep navigation clear, Test navigation, Practice patterns."
+        },
+        {
+          "title": "Colors and Typography 🎨",
+          "content": "Using colors and typography effectively. **Colors:** Consistent palette, Good contrast, Accessible colors. **Typography:** Readable fonts, Appropriate sizes, Good hierarchy. **How to understand it:** Like choosing colors and fonts. **Real-world:** Developer chooses design: Consistent colors, Good contrast, Readable fonts, Clear hierarchy, App looks professional. Colors and typography matter. **Best practice:** Use consistent colors, Ensure contrast, Choose readable fonts, Create hierarchy, Practice design."
+        },
+        {
+          "title": "Responsive Layouts 📱",
+          "content": "Designing layouts that work on different screen sizes. **Techniques:** Flexbox, Relative sizing, Platform-specific layouts. **How to understand it:** Like making layouts flexible. **Real-world:** Developer designs responsive: Uses flexbox, Relative sizes, Works on phones, Works on tablets, Layout adapts. Responsive design is essential. **Best practice:** Use flexbox, Relative sizing, Test on devices, Practice responsive design."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Simple, Clear Design",
+          "explanation": "Developer designs app: Simple interface, Clear purpose, Easy to understand, Users love it. Good design working."
+        },
+        {
+          "scenario": "Touch-Friendly Buttons",
+          "explanation": "Developer designs buttons: Large size, Good spacing, Easy to tap, Clear feedback, Touch-friendly design."
+        },
+        {
+          "scenario": "Navigation Design",
+          "explanation": "Developer designs navigation: Bottom tabs for main, Stack for details, Clear navigation, Users can navigate easily."
+        },
+        {
+          "scenario": "Responsive Layout",
+          "explanation": "Developer designs layout: Uses flexbox, Relative sizing, Works on phones, Works on tablets, Responsive design working."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Design Mobile App UI",
+          "instructions": "Step 1: Choose app idea. Step 2: Plan layout (screens, navigation). Step 3: Design touch targets. Step 4: Choose colors and typography. Step 5: Create mockups. Step 6: Test design. Step 7: Iterate and improve.",
+          "example_answer": "Mobile UI designed: App idea chosen, Layout planned, Touch targets designed, Colors/typography chosen, Mockups created, Tested, Improved. Mobile UI design complete."
+        },
+        {
+          "title": "Create Touch-Friendly Design",
+          "instructions": "Step 1: Design buttons (44x44pt minimum). Step 2: Add spacing between elements. Step 3: Design gestures. Step 4: Add feedback. Step 5: Test on device. Step 6: Measure touch accuracy. Step 7: Improve design.",
+          "example_answer": "Touch-friendly design created: Buttons sized correctly, Spacing added, Gestures designed, Feedback added, Tested, Measured, Improved. Touch-friendly design complete."
+        },
+        {
+          "title": "Design Navigation",
+          "instructions": "Step 1: Plan app structure. Step 2: Choose navigation pattern. Step 3: Design navigation UI. Step 4: Implement navigation. Step 5: Test navigation flow. Step 6: Improve navigation. Step 7: Practice navigation design.",
+          "example_answer": "Navigation designed: Structure planned, Pattern chosen, UI designed, Navigation implemented, Tested, Improved. Navigation design complete."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Mobile UI/UX Design",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to mobile design principles and best practices."
+        },
+        {
+          "title": "User Experience Design",
+          "source": "OpenStax",
+          "reason": "Covers mobile design, UI patterns, and user experience."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Mobile UI Design Tutorial – Traversy Media",
+          "reason": "Complete guide to mobile UI/UX design."
+        },
+        {
+          "title": "Mobile Design Principles – freeCodeCamp",
+          "reason": "Comprehensive tutorial on mobile design and UX."
+        }
+      ],
+      "summary": "Mobile UI/UX design creates user-friendly mobile applications. Mobile design principles (simplicity, consistency, clarity) guide good design. Touch-friendly design ensures buttons are large and easy to tap. Navigation patterns (tabs, stacks, drawers) help users move through apps. Colors and typography create visual hierarchy and brand identity. Responsive layouts adapt to different screen sizes. Good design makes apps intuitive, beautiful, and enjoyable to use. Mastering mobile design enables you to create apps that users love."
+    },
+    {
+      "course": "Mobile Development",
+      "level": "Basic",
+      "topic": "Navigation in Mobile Apps",
+      "description": "Learn how to implement navigation in mobile apps using React Navigation. Navigation allows users to move between different screens in your app. Understanding navigation is essential for building multi-screen mobile applications. Think of navigation like a map for your app—it helps users know where they are and how to get to different places.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Implementing Navigation: A Complete Guide",
+          "content": "Step 1: Install React Navigation. Step 2: Set up navigation container. Step 3: Create stack navigator. Step 4: Create tab navigator. Step 5: Navigate between screens. Step 6: Pass data between screens. Step 7: Handle navigation events. This guide helps you implement navigation!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Navigation Structure",
+          "content": "Draw navigation: NavigationContainer → Stack Navigator → Screens. Show: Tab Navigator, Stack Navigator, Screen flow. Visual helps understand navigation."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build Navigation System",
+          "content": "Activity: Create app with navigation. Build: Multiple screens, Stack navigation, Tab navigation, Navigation flow. Practice: React Navigation, Screen navigation, Data passing. This activity improves navigation skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "React Navigation 🧭",
+          "content": "React Navigation is library for mobile navigation. **How it works:** Install library, Set up navigators, Navigate between screens. **How to understand it:** Like routing for mobile apps. **Real-world:** Developer uses React Navigation: Sets up stack navigator, Creates screens, Navigates between screens, Navigation working. React Navigation enables navigation. **Best practice:** Install React Navigation, Set up navigators, Create screens, Practice navigation."
+        },
+        {
+          "title": "Stack Navigation 📚",
+          "content": "Stack navigation for screen hierarchies. **How it works:** Push screens onto stack, Pop screens from stack, Navigate forward/back. **How to understand it:** Like a stack of screens. **Real-world:** Developer uses stack: Home screen, Push to detail screen, Pop back to home, Stack navigation working. Stack navigation for hierarchies. **Best practice:** Use stack for hierarchies, Push/pop screens, Handle back button, Practice stack navigation."
+        },
+        {
+          "title": "Tab Navigation 📑",
+          "content": "Tab navigation for main sections. **How it works:** Create tabs, Switch between tabs, Each tab has own stack. **How to understand it:** Like tabs in browser. **Real-world:** Developer uses tabs: Home tab, Profile tab, Settings tab, Switch between tabs, Tab navigation working. Tab navigation for sections. **Best practice:** Use tabs for main sections, Keep tabs clear, Test tab switching, Practice tab navigation."
+        },
+        {
+          "title": "Passing Data Between Screens 📤",
+          "content": "Sending data when navigating. **How it works:** Pass params when navigating, Access params in screen, Update params. **How to understand it:** Like passing arguments. **Real-world:** Developer passes data: Navigate with params, Screen receives params, Uses params, Data passed successfully. Passing data enables communication. **Best practice:** Pass params, Access params, Handle missing params, Practice data passing."
+        },
+        {
+          "title": "Navigation Events 🎯",
+          "content": "Responding to navigation events. **Events:** Focus (screen focused), Blur (screen unfocused), BeforeRemove (before leaving). **How to understand it:** Like lifecycle events for navigation. **Real-world:** Developer handles events: Listens for focus, Updates on focus, Handles before remove, Events working. Navigation events enable reactivity. **Best practice:** Listen to events, Handle focus/blur, Prevent navigation when needed, Practice events."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Stack Navigation",
+          "explanation": "Developer implements stack: Home screen, Navigate to detail, Detail screen shows, Back button works, Stack navigation working."
+        },
+        {
+          "scenario": "Tab Navigation",
+          "explanation": "Developer implements tabs: Home tab, Profile tab, Settings tab, Switch between tabs, Tab navigation working."
+        },
+        {
+          "scenario": "Passing Data",
+          "explanation": "Developer passes data: Navigate with item ID, Detail screen receives ID, Fetches item data, Data passed successfully."
+        },
+        {
+          "scenario": "Navigation Events",
+          "explanation": "Developer handles events: Listens for screen focus, Updates data on focus, Handles navigation, Events working."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Implement Stack Navigation",
+          "instructions": "Step 1: Install React Navigation. Step 2: Set up NavigationContainer. Step 3: Create stack navigator. Step 4: Create multiple screens. Step 5: Navigate between screens. Step 6: Test navigation. Step 7: Practice stack navigation.",
+          "example_answer": "Stack navigation implemented: React Navigation installed, Container set up, Stack navigator created, Screens created, Navigation working, Tested. Stack navigation complete."
+        },
+        {
+          "title": "Build Tab Navigation",
+          "instructions": "Step 1: Create tab navigator. Step 2: Create tab screens. Step 3: Configure tabs. Step 4: Switch between tabs. Step 5: Test tab navigation. Step 6: Add icons to tabs. Step 7: Practice tab navigation.",
+          "example_answer": "Tab navigation built: Tab navigator created, Tab screens created, Tabs configured, Tab switching working, Tested, Icons added. Tab navigation complete."
+        },
+        {
+          "title": "Pass Data Between Screens",
+          "instructions": "Step 1: Navigate with params. Step 2: Access params in screen. Step 3: Use params to fetch data. Step 4: Update screen with data. Step 5: Test data passing. Step 6: Handle missing params. Step 7: Practice data passing.",
+          "example_answer": "Data passing implemented: Navigation with params, Params accessed, Data fetched, Screen updated, Tested, Missing params handled. Data passing complete."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "React Navigation Guide",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to React Navigation and mobile app navigation."
+        },
+        {
+          "title": "Mobile App Navigation",
+          "source": "OpenStax",
+          "reason": "Covers navigation patterns, React Navigation, and screen management."
+        }
+      ],
+      "videos": [
+        {
+          "title": "React Navigation Tutorial – Traversy Media",
+          "reason": "Complete guide to React Navigation with practical examples."
+        },
+        {
+          "title": "Mobile Navigation – freeCodeCamp",
+          "reason": "Comprehensive tutorial on React Navigation and mobile app navigation."
+        }
+      ],
+      "summary": "Navigation allows users to move between screens in mobile apps. React Navigation is the standard library for React Native navigation. Stack navigation manages screen hierarchies with push and pop operations. Tab navigation provides main sections with easy switching. Passing data between screens enables communication and context sharing. Navigation events (focus, blur) enable reactive updates based on screen state. Navigation is essential for multi-screen mobile applications. Mastering navigation enables you to build apps with clear, intuitive user flows."
+    },
+    {
+      "course": "Mobile Development",
+      "level": "Basic",
+      "topic": "State Management in Mobile Apps",
+      "description": "Learn how to manage state in mobile applications using React hooks and Context API. State management stores and updates data that changes over time. Understanding state management is essential for building interactive mobile apps. Think of state management like a memory system for your app—it remembers what users do and updates the UI accordingly.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Managing State in Mobile Apps: A Complete Guide",
+          "content": "Step 1: Understand state concepts (useState, useEffect). Step 2: Use useState for local state. Step 3: Use Context API for global state. Step 4: Handle async state updates. Step 5: Optimize state updates. Step 6: Manage complex state. Step 7: Practice state management. This guide helps you manage state!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "State Management Flow",
+          "content": "Draw flow: User Action → State Update → UI Re-render. Show: Local state, Global state, State updates. Visual helps understand state management."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build App with State",
+          "content": "Activity: Create app with state. Build: Local state, Global state, State updates, UI updates. Practice: useState, Context API, State management. This activity improves state management skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "useState Hook 🎣",
+          "content": "useState manages local component state. **How it works:** Create state, Update state, Component re-renders. **How to understand it:** Like a variable that triggers updates. **Real-world:** Developer uses useState: const [count, setCount] = useState(0), Updates count, Component re-renders, State working. useState enables local state. **Best practice:** Use useState for local state, Update state correctly, Understand re-renders, Practice useState."
+        },
+        {
+          "title": "Context API 🌐",
+          "content": "Context API shares state across components. **How it works:** Create context, Provide context, Consume context. **How to understand it:** Like shared storage. **Real-world:** Developer uses Context: Creates UserContext, Provides user data, Components access user, Global state working. Context API enables sharing. **Best practice:** Use Context for global state, Keep contexts focused, Practice Context API."
+        },
+        {
+          "title": "useEffect Hook 🔄",
+          "content": "useEffect handles side effects. **How it works:** Run code after render, Handle cleanup, Dependencies array. **How to understand it:** Like lifecycle methods. **Real-world:** Developer uses useEffect: Fetches data on mount, Updates on dependency change, Cleans up on unmount, Side effects handled. useEffect enables side effects. **Best practice:** Use useEffect for side effects, Handle cleanup, Use dependencies, Practice useEffect."
+        },
+        {
+          "title": "Async State Updates ⚡",
+          "content": "Handling asynchronous state updates. **How it works:** Async operations, Update state after completion, Handle loading/error. **How to understand it:** Like waiting for data. **Real-world:** Developer handles async: Fetches data, Shows loading, Updates state, Handles errors, Async state working. Async updates enable data fetching. **Best practice:** Handle async, Show loading states, Handle errors, Practice async state."
+        },
+        {
+          "title": "State Optimization 🚀",
+          "content": "Optimizing state updates for performance. **Techniques:** Memoization, useMemo, useCallback, Avoid unnecessary updates. **How to understand it:** Like optimizing updates. **Real-world:** Developer optimizes: Uses useMemo, Uses useCallback, Reduces re-renders, Performance improved. Optimization improves performance. **Best practice:** Memoize expensive operations, Use useCallback, Avoid unnecessary updates, Practice optimization."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Local State with useState",
+          "explanation": "Developer uses useState: Creates counter state, Updates on button click, Component re-renders, State working."
+        },
+        {
+          "scenario": "Global State with Context",
+          "explanation": "Developer uses Context: Creates UserContext, Provides user data, Components access user, Global state working."
+        },
+        {
+          "scenario": "Async State Updates",
+          "explanation": "Developer handles async: Fetches data, Shows loading, Updates state, Handles errors, Async state working."
+        },
+        {
+          "scenario": "State Optimization",
+          "explanation": "Developer optimizes: Uses useMemo for calculations, Uses useCallback for functions, Reduces re-renders, Performance improved."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Use useState for Local State",
+          "instructions": "Step 1: Create component with useState. Step 2: Update state on user action. Step 3: Display state in UI. Step 4: Test state updates. Step 5: Handle multiple state variables. Step 6: Practice useState. Step 7: Build interactive component.",
+          "example_answer": "useState used: Component created, State updated, UI displays state, Tested, Multiple states handled, Interactive component built. useState mastered."
+        },
+        {
+          "title": "Implement Context API",
+          "instructions": "Step 1: Create context. Step 2: Create provider component. Step 3: Provide context at top level. Step 4: Use useContext in components. Step 5: Update context value. Step 6: Test context sharing. Step 7: Practice Context API.",
+          "example_answer": "Context API implemented: Context created, Provider created, Context provided, useContext used, Context updated, Tested. Context API mastered."
+        },
+        {
+          "title": "Handle Async State",
+          "instructions": "Step 1: Fetch data in useEffect. Step 2: Show loading state. Step 3: Update state with data. Step 4: Handle errors. Step 5: Test async state. Step 6: Optimize async operations. Step 7: Practice async state.",
+          "example_answer": "Async state handled: Data fetched, Loading shown, State updated, Errors handled, Tested, Optimized. Async state mastered."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "React State Management",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to state management in React and React Native."
+        },
+        {
+          "title": "Mobile App State Management",
+          "source": "OpenStax",
+          "reason": "Covers state management, hooks, and Context API in mobile apps."
+        }
+      ],
+      "videos": [
+        {
+          "title": "React State Management Tutorial – Traversy Media",
+          "reason": "Complete guide to state management in React Native."
+        },
+        {
+          "title": "React Hooks – freeCodeCamp",
+          "reason": "Comprehensive tutorial on React hooks and state management."
+        }
+      ],
+      "summary": "State management stores and updates data in mobile applications. useState hook manages local component state and triggers re-renders when updated. Context API shares state across multiple components without prop drilling. useEffect hook handles side effects like data fetching and cleanup. Async state updates handle loading states and errors for asynchronous operations. State optimization (useMemo, useCallback) improves performance by reducing unnecessary re-renders. State management is essential for building interactive mobile apps. Mastering state management enables you to build apps that respond to user actions and update dynamically."
+    },
+    {
+      "course": "Mobile Development",
+      "level": "Basic",
+      "topic": "Working with APIs in Mobile Apps",
+      "description": "Learn how to fetch data from APIs in mobile applications using fetch and axios. APIs provide data and functionality from servers. Understanding API integration is essential for building data-driven mobile apps. Think of APIs like a restaurant menu—you order what you need, and the server brings it to you.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Integrating APIs: A Complete Guide",
+          "content": "Step 1: Understand REST APIs. Step 2: Use fetch or axios. Step 3: Make GET requests. Step 4: Make POST requests. Step 5: Handle responses. Step 6: Handle errors. Step 7: Display data in UI. This guide helps you integrate APIs!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "API Integration Flow",
+          "content": "Draw flow: Mobile App → API Request → Server → API Response → Mobile App. Show: GET requests, POST requests, Error handling. Visual helps understand API integration."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build App with API",
+          "content": "Activity: Create app that uses API. Build: API requests, Response handling, Error handling, Data display. Practice: fetch, axios, API integration. This activity improves API skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "REST APIs 📡",
+          "content": "REST APIs provide data and functionality. **How it works:** Send HTTP requests, Receive JSON responses, Use data in app. **How to understand it:** Like requesting data from server. **Real-world:** Developer uses API: Sends GET request, Receives JSON data, Displays in app, API integration working. APIs enable data-driven apps. **Best practice:** Understand REST, Use appropriate methods, Handle responses, Practice APIs."
+        },
+        {
+          "title": "Fetch API 🌐",
+          "content": "fetch makes HTTP requests. **How it works:** fetch(url), Returns promise, Handle response. **How to understand it:** Like requesting data. **Real-world:** Developer uses fetch: fetch('https://api.example.com/data'), Gets response, Parses JSON, Uses data. fetch enables API calls. **Best practice:** Use fetch, Handle promises, Parse JSON, Handle errors, Practice fetch."
+        },
+        {
+          "title": "Axios Library 📦",
+          "content": "Axios simplifies HTTP requests. **How it works:** Install axios, axios.get/post, Returns promise, Easier than fetch. **How to understand it:** Like fetch but easier. **Real-world:** Developer uses axios: axios.get(url), Gets response, Easier error handling, Axios working. Axios simplifies API calls. **Best practice:** Use axios, Handle responses, Handle errors, Practice axios."
+        },
+        {
+          "title": "Handling API Responses 📨",
+          "content": "Processing API responses correctly. **How it works:** Parse JSON, Extract data, Update state, Display in UI. **How to understand it:** Like processing received data. **Real-world:** Developer handles response: Parses JSON, Extracts data, Updates state, Displays in UI, Response handled. Response handling enables data display. **Best practice:** Parse JSON, Extract data, Update state, Display data, Handle errors."
+        },
+        {
+          "title": "Error Handling ⚠️",
+          "content": "Handling API errors gracefully. **How it works:** Try/catch blocks, Check response status, Show error messages. **How to understand it:** Like handling problems. **Real-world:** Developer handles errors: Try/catch, Checks status, Shows error message, Errors handled gracefully. Error handling improves UX. **Best practice:** Use try/catch, Check status, Show errors, Practice error handling."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Fetching Data",
+          "explanation": "Developer fetches data: Uses fetch, Gets response, Parses JSON, Updates state, Displays data, API integration working."
+        },
+        {
+          "scenario": "Using Axios",
+          "explanation": "Developer uses axios: axios.get(url), Gets response, Easier handling, Data displayed, Axios working."
+        },
+        {
+          "scenario": "POST Request",
+          "explanation": "Developer sends POST: Sends data, Receives response, Updates UI, POST request working."
+        },
+        {
+          "scenario": "Error Handling",
+          "explanation": "Developer handles errors: Try/catch, Checks status, Shows error, Errors handled gracefully."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Fetch Data from API",
+          "instructions": "Step 1: Choose API (JSONPlaceholder). Step 2: Use fetch to get data. Step 3: Parse JSON response. Step 4: Update state with data. Step 5: Display data in UI. Step 6: Handle errors. Step 7: Practice API integration.",
+          "example_answer": "Data fetched: API chosen, fetch used, JSON parsed, State updated, Data displayed, Errors handled. API integration working."
+        },
+        {
+          "title": "Use Axios for API Calls",
+          "instructions": "Step 1: Install axios. Step 2: Use axios.get. Step 3: Handle response. Step 4: Handle errors. Step 5: Display data. Step 6: Make POST request. Step 7: Practice axios.",
+          "example_answer": "Axios used: axios installed, GET request made, Response handled, Errors handled, Data displayed, POST request made. Axios mastered."
+        },
+        {
+          "title": "Build Data-Driven App",
+          "instructions": "Step 1: Choose API. Step 2: Fetch data on mount. Step 3: Display data in list. Step 4: Add loading state. Step 5: Handle errors. Step 6: Add refresh. Step 7: Test app.",
+          "example_answer": "Data-driven app built: API chosen, Data fetched, List displayed, Loading shown, Errors handled, Refresh added, Tested. Data-driven app working."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "API Integration Guide",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to API integration and HTTP requests."
+        },
+        {
+          "title": "Mobile App API Development",
+          "source": "OpenStax",
+          "reason": "Covers API integration, fetch, axios, and data handling."
+        }
+      ],
+      "videos": [
+        {
+          "title": "API Integration Tutorial – Traversy Media",
+          "reason": "Complete guide to API integration in React Native."
+        },
+        {
+          "title": "Fetch API – freeCodeCamp",
+          "reason": "Comprehensive tutorial on API integration and HTTP requests."
+        }
+      ],
+      "summary": "API integration enables mobile apps to fetch and send data from servers. REST APIs provide data through HTTP requests (GET, POST). fetch API makes HTTP requests and returns promises. Axios library simplifies HTTP requests with easier syntax and error handling. Handling API responses requires parsing JSON and updating app state. Error handling ensures apps gracefully handle network failures and API errors. API integration is essential for building data-driven mobile applications. Mastering API integration enables you to build apps that connect to servers and display real-time data."
+    },
+    {
+      "course": "Mobile Development",
+      "level": "Basic",
+      "topic": "Mobile App Testing",
+      "description": "Learn how to test mobile applications to ensure they work correctly. Testing includes unit tests, integration tests, and device testing. Understanding testing is essential for building reliable mobile apps. Think of testing like quality control—you check everything works before users see it.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Testing Mobile Apps: A Complete Guide",
+          "content": "Step 1: Set up testing framework (Jest, React Native Testing Library). Step 2: Write unit tests. Step 3: Write component tests. Step 4: Test navigation. Step 5: Test API integration. Step 6: Test on devices. Step 7: Automate testing. This guide helps you test mobile apps!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Testing Pyramid",
+          "content": "Draw pyramid: E2E tests (few), Integration tests (some), Unit tests (many). Show: Test types, Coverage, When to use each. Visual helps understand testing strategy."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Write Tests for App",
+          "content": "Activity: Add tests to your app. Write: Unit tests, Component tests, Integration tests. Practice: Testing frameworks, Writing tests, Running tests. This activity improves testing skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Jest Testing Framework 🧪",
+          "content": "Jest is testing framework for JavaScript. **How it works:** Write tests, Run tests, See results. **How to understand it:** Like quality control system. **Real-world:** Developer uses Jest: Writes tests, Runs tests, Tests pass/fail, Quality ensured. Jest enables testing. **Best practice:** Use Jest, Write tests, Run tests regularly, Practice testing."
+        },
+        {
+          "title": "React Native Testing Library 📚",
+          "content": "Testing Library tests React Native components. **How it works:** Render components, Query elements, Test interactions. **How to understand it:** Like testing UI components. **Real-world:** Developer uses Testing Library: Renders component, Queries button, Tests click, Component tested. Testing Library enables component testing. **Best practice:** Use Testing Library, Test components, Test interactions, Practice testing."
+        },
+        {
+          "title": "Unit Testing 🔬",
+          "content": "Testing individual functions and components. **How it works:** Test one function, Mock dependencies, Verify output. **How to understand it:** Like testing one piece at a time. **Real-world:** Developer writes unit tests: Tests function, Mocks API, Verifies output, Tests pass. Unit tests catch bugs. **Best practice:** Write unit tests, Test edge cases, Mock dependencies, Practice unit testing."
+        },
+        {
+          "title": "Component Testing 🧩",
+          "content": "Testing React Native components. **How it works:** Render component, Test rendering, Test interactions, Verify behavior. **How to understand it:** Like testing UI pieces. **Real-world:** Developer tests component: Renders component, Tests button click, Verifies update, Component tested. Component tests verify UI. **Best practice:** Test components, Test interactions, Verify behavior, Practice component testing."
+        },
+        {
+          "title": "Device Testing 📱",
+          "content": "Testing apps on real devices. **How it works:** Install on device, Test functionality, Test performance, Test on different devices. **How to understand it:** Like testing in real world. **Real-world:** Developer tests on device: Installs app, Tests features, Tests performance, Works on device. Device testing ensures compatibility. **Best practice:** Test on devices, Test on iOS and Android, Test on different sizes, Practice device testing."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Unit Test",
+          "explanation": "Developer writes unit test: Tests function, Mocks dependencies, Verifies output, Test passes. Unit test working."
+        },
+        {
+          "scenario": "Component Test",
+          "explanation": "Developer tests component: Renders component, Tests button click, Verifies update, Component test passes."
+        },
+        {
+          "scenario": "Device Testing",
+          "explanation": "Developer tests on device: Installs app, Tests features, Works correctly, Device testing complete."
+        },
+        {
+          "scenario": "Test Coverage",
+          "explanation": "Developer measures coverage: Runs coverage tool, Sees percentage, Writes more tests, Coverage improved."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Write Unit Tests",
+          "instructions": "Step 1: Set up Jest. Step 2: Write tests for functions. Step 3: Mock dependencies. Step 4: Test edge cases. Step 5: Run tests. Step 6: Fix failing tests. Step 7: Practice unit testing.",
+          "example_answer": "Unit tests written: Jest set up, Functions tested, Dependencies mocked, Edge cases covered, Tests passing. Unit testing mastered."
+        },
+        {
+          "title": "Test React Native Components",
+          "instructions": "Step 1: Set up Testing Library. Step 2: Render components. Step 3: Test rendering. Step 4: Test interactions. Step 5: Verify behavior. Step 6: Run tests. Step 7: Practice component testing.",
+          "example_answer": "Components tested: Testing Library set up, Components rendered, Interactions tested, Behavior verified, Tests passing. Component testing mastered."
+        },
+        {
+          "title": "Test on Devices",
+          "instructions": "Step 1: Build app. Step 2: Install on iOS device. Step 3: Install on Android device. Step 4: Test functionality. Step 5: Test performance. Step 6: Fix issues. Step 7: Practice device testing.",
+          "example_answer": "Device testing done: App built, iOS tested, Android tested, Functionality verified, Performance tested, Issues fixed. Device testing complete."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Mobile App Testing",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to testing mobile applications and best practices."
+        },
+        {
+          "title": "Testing React Native Apps",
+          "source": "OpenStax",
+          "reason": "Covers testing strategies, Jest, and Testing Library."
+        }
+      ],
+      "videos": [
+        {
+          "title": "React Native Testing Tutorial – Traversy Media",
+          "reason": "Complete guide to testing React Native applications."
+        },
+        {
+          "title": "Mobile App Testing – freeCodeCamp",
+          "reason": "Comprehensive tutorial on testing mobile apps."
+        }
+      ],
+      "summary": "Testing ensures mobile apps work correctly before release. Jest testing framework provides tools for writing and running tests. React Native Testing Library enables component testing with user-focused queries. Unit testing tests individual functions and components in isolation. Component testing verifies UI components render and interact correctly. Device testing ensures apps work on real iOS and Android devices. Testing is essential for building reliable mobile applications. Mastering testing enables you to catch bugs early and ensure app quality."
+    },
+    {
+      "course": "Mobile Development",
+      "level": "Basic",
+      "topic": "Building and Deploying Mobile Apps",
+      "description": "Learn how to build and deploy mobile applications to app stores (App Store, Google Play). Deployment makes your app available to users worldwide. Understanding deployment is essential for sharing your apps. Think of deployment like publishing a book—you've written it, now you make it available to readers.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Deploying Mobile Apps: A Complete Guide",
+          "content": "Step 1: Prepare app for production (optimize, test). Step 2: Build iOS app (Xcode, certificates). Step 3: Build Android app (Android Studio, signing). Step 4: Submit to App Store. Step 5: Submit to Google Play. Step 6: Handle app store requirements. Step 7: Monitor app after release. This guide helps you deploy apps!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Deployment Process",
+          "content": "Draw process: Development → Build → Test → Submit → Review → Release. Show: App Store, Google Play, Deployment steps. Visual helps understand deployment."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Deploy Your App",
+          "content": "Activity: Deploy your app. Build: iOS build, Android build, App store assets, Submit to stores. Practice: Building, Signing, Deployment. This activity improves deployment skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Building iOS Apps 🍎",
+          "content": "Building apps for iOS App Store. **How it works:** Use Xcode, Configure certificates, Build app, Archive, Submit to App Store. **How to understand it:** Like packaging for iOS. **Real-world:** Developer builds iOS app: Configures in Xcode, Creates certificates, Builds app, Submits to App Store, App available. iOS deployment complete. **Best practice:** Use Xcode, Configure certificates, Test build, Submit properly, Practice iOS deployment."
+        },
+        {
+          "title": "Building Android Apps 🤖",
+          "content": "Building apps for Google Play. **How it works:** Use Android Studio, Sign app, Build APK/AAB, Submit to Play Store. **How to understand it:** Like packaging for Android. **Real-world:** Developer builds Android app: Signs app, Builds AAB, Submits to Play Store, App available. Android deployment complete. **Best practice:** Sign app, Build AAB, Test build, Submit properly, Practice Android deployment."
+        },
+        {
+          "title": "App Store Requirements 📋",
+          "content": "Requirements for app store submission. **Requirements:** App icons, Screenshots, Descriptions, Privacy policy, Age rating. **How to understand it:** Like requirements for publishing. **Real-world:** Developer prepares: Creates icons, Takes screenshots, Writes description, Adds privacy policy, Meets requirements. Requirements met. **Best practice:** Prepare assets, Write descriptions, Add privacy policy, Meet requirements, Practice preparation."
+        },
+        {
+          "title": "App Signing 🔐",
+          "content": "Signing apps for distribution. **How it works:** Create signing key, Sign app, Verify signature. **How to understand it:** Like signing a document. **Real-world:** Developer signs app: Creates key, Signs app, Verifies signature, App signed. Signing enables distribution. **Best practice:** Create signing keys, Sign apps, Secure keys, Practice signing."
+        },
+        {
+          "title": "App Store Review 📝",
+          "content": "App store review process. **How it works:** Submit app, Review process, Approval/rejection, Release. **How to understand it:** Like quality check. **Real-world:** Developer submits app: App reviewed, Approved, Released, App live. Review process ensures quality. **Best practice:** Follow guidelines, Test thoroughly, Respond to feedback, Practice submission."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "iOS Deployment",
+          "explanation": "Developer deploys iOS: Configures in Xcode, Creates certificates, Builds app, Submits to App Store, App approved, iOS deployment complete."
+        },
+        {
+          "scenario": "Android Deployment",
+          "explanation": "Developer deploys Android: Signs app, Builds AAB, Submits to Play Store, App approved, Android deployment complete."
+        },
+        {
+          "scenario": "App Store Assets",
+          "explanation": "Developer prepares assets: Creates icons, Takes screenshots, Writes description, Adds privacy policy, Assets ready."
+        },
+        {
+          "scenario": "App Review",
+          "explanation": "Developer submits app: App reviewed, Guidelines followed, App approved, Released, App live."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Build iOS App",
+          "instructions": "Step 1: Configure in Xcode. Step 2: Create certificates. Step 3: Build app. Step 4: Archive app. Step 5: Test build. Step 6: Prepare for submission. Step 7: Practice iOS building.",
+          "example_answer": "iOS app built: Xcode configured, Certificates created, App built, Archived, Tested, Ready for submission. iOS build complete."
+        },
+        {
+          "title": "Build Android App",
+          "instructions": "Step 1: Sign app. Step 2: Build AAB. Step 3: Test build. Step 4: Prepare assets. Step 5: Prepare for submission. Step 6: Test on devices. Step 7: Practice Android building.",
+          "example_answer": "Android app built: App signed, AAB built, Tested, Assets prepared, Ready for submission. Android build complete."
+        },
+        {
+          "title": "Prepare App Store Submission",
+          "instructions": "Step 1: Create app icons. Step 2: Take screenshots. Step 3: Write description. Step 4: Add privacy policy. Step 5: Set age rating. Step 6: Prepare all assets. Step 7: Review requirements.",
+          "example_answer": "Submission prepared: Icons created, Screenshots taken, Description written, Privacy policy added, Age rating set, All assets ready. Submission ready."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Mobile App Deployment",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to building and deploying mobile applications."
+        },
+        {
+          "title": "App Store Publishing",
+          "source": "OpenStax",
+          "reason": "Covers app store requirements, building, and deployment."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Deploy React Native App – Traversy Media",
+          "reason": "Complete guide to deploying React Native apps to app stores."
+        },
+        {
+          "title": "App Store Deployment – freeCodeCamp",
+          "reason": "Comprehensive tutorial on app store deployment."
+        }
+      ],
+      "summary": "Building and deploying mobile apps makes them available to users worldwide. iOS deployment uses Xcode to build and submit apps to the App Store. Android deployment uses Android Studio to build and submit apps to Google Play. App store requirements (icons, screenshots, descriptions) must be met for submission. App signing ensures apps are secure and verifiable. App store review process ensures apps meet quality and guideline standards. Deployment is the final step in bringing mobile apps to users. Mastering deployment enables you to share your mobile applications with the world."
+    },
+    {
+      "course": "Mobile Development",
+      "level": "Basic",
+      "topic": "Mobile App Performance",
+      "description": "Learn how to optimize mobile app performance for speed and efficiency. Performance affects user experience and battery life. Understanding performance optimization is essential for building fast, responsive mobile apps. Think of performance optimization like tuning a car—you adjust different parts to get the best performance.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Optimizing Mobile Apps: A Complete Guide",
+          "content": "Step 1: Measure performance (profiling, metrics). Step 2: Optimize images (compression, lazy loading). Step 3: Optimize rendering (FlatList, memoization). Step 4: Optimize state updates. Step 5: Reduce bundle size. Step 6: Optimize API calls. Step 7: Test performance. This guide helps you optimize apps!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Performance Optimization",
+          "content": "Draw optimization: Images → Rendering → State → Bundle → Fast Performance. Show: Optimization techniques, Performance gains. Visual helps understand optimization."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Optimize Your App",
+          "content": "Activity: Optimize your app. Measure: Performance metrics, Identify bottlenecks, Optimize images, Optimize rendering, Measure improvements. Practice: Optimization, Performance, Monitoring. This activity improves optimization skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Image Optimization 🖼️",
+          "content": "Optimizing images for mobile apps. **Techniques:** Compression, Lazy loading, Appropriate sizes, Caching. **How to understand it:** Like making images smaller and faster. **Real-world:** Developer optimizes images: Compresses images, Lazy loads, Uses appropriate sizes, App loads faster, Performance improved. Image optimization improves performance. **Best practice:** Compress images, Lazy load, Use appropriate sizes, Cache images, Practice optimization."
+        },
+        {
+          "title": "Rendering Optimization ⚡",
+          "content": "Optimizing component rendering. **Techniques:** FlatList for lists, Memoization, Avoid unnecessary re-renders. **How to understand it:** Like making rendering faster. **Real-world:** Developer optimizes rendering: Uses FlatList, Memoizes components, Reduces re-renders, App smoother, Performance improved. Rendering optimization improves smoothness. **Best practice:** Use FlatList, Memoize components, Avoid unnecessary renders, Practice optimization."
+        },
+        {
+          "title": "State Update Optimization 🔄",
+          "content": "Optimizing state updates for performance. **Techniques:** Batch updates, useMemo, useCallback, Avoid frequent updates. **How to understand it:** Like optimizing state changes. **Real-world:** Developer optimizes state: Batches updates, Uses useMemo, Uses useCallback, Fewer re-renders, Performance improved. State optimization improves performance. **Best practice:** Batch updates, Use useMemo, Use useCallback, Avoid frequent updates, Practice optimization."
+        },
+        {
+          "title": "Bundle Size Optimization 📦",
+          "content": "Reducing app bundle size. **Techniques:** Code splitting, Remove unused code, Optimize dependencies. **How to understand it:** Like making app smaller. **Real-world:** Developer optimizes bundle: Splits code, Removes unused, Optimizes dependencies, Smaller bundle, Faster download. Bundle optimization improves download. **Best practice:** Split code, Remove unused, Optimize dependencies, Practice optimization."
+        },
+        {
+          "title": "Performance Monitoring 📊",
+          "content": "Monitoring app performance. **Metrics:** Render time, Memory usage, Network requests, Battery usage. **Tools:** React Native Performance Monitor, Flipper. **How to understand it:** Like health monitoring. **Real-world:** Developer monitors performance: Tracks metrics, Identifies issues, Optimizes, Performance maintained. Monitoring ensures performance. **Best practice:** Monitor continuously, Track metrics, Identify issues, Optimize based on data, Practice monitoring."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Image Optimization",
+          "explanation": "Developer optimizes images: Compresses images, Lazy loads, Uses appropriate sizes, App loads 50% faster, Performance improved."
+        },
+        {
+          "scenario": "Rendering Optimization",
+          "explanation": "Developer optimizes rendering: Uses FlatList, Memoizes components, Reduces re-renders, App smoother, Performance improved."
+        },
+        {
+          "scenario": "Bundle Optimization",
+          "explanation": "Developer optimizes bundle: Splits code, Removes unused, Bundle 40% smaller, Faster download, Performance improved."
+        },
+        {
+          "scenario": "Performance Monitoring",
+          "explanation": "Developer monitors performance: Tracks metrics, Identifies bottlenecks, Optimizes, Performance maintained."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Optimize Images",
+          "instructions": "Step 1: Identify large images. Step 2: Compress images. Step 3: Implement lazy loading. Step 4: Use appropriate sizes. Step 5: Cache images. Step 6: Measure improvements. Step 7: Practice optimization.",
+          "example_answer": "Images optimized: Large images identified, Compressed, Lazy loading implemented, Appropriate sizes used, Cached, Improvements measured. Image optimization complete."
+        },
+        {
+          "title": "Optimize Rendering",
+          "instructions": "Step 1: Replace ScrollView with FlatList. Step 2: Memoize components. Step 3: Avoid unnecessary re-renders. Step 4: Measure render times. Step 5: Optimize further. Step 6: Test performance. Step 7: Practice optimization.",
+          "example_answer": "Rendering optimized: FlatList used, Components memoized, Re-renders reduced, Render times measured, Further optimized, Performance tested. Rendering optimization complete."
+        },
+        {
+          "title": "Reduce Bundle Size",
+          "instructions": "Step 1: Analyze bundle size. Step 2: Remove unused code. Step 3: Optimize dependencies. Step 4: Split code. Step 5: Measure improvements. Step 6: Optimize further. Step 7: Practice optimization.",
+          "example_answer": "Bundle optimized: Size analyzed, Unused code removed, Dependencies optimized, Code split, Improvements measured, Further optimized. Bundle optimization complete."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Mobile App Performance",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to mobile app performance optimization."
+        },
+        {
+          "title": "React Native Performance",
+          "source": "OpenStax",
+          "reason": "Covers performance optimization, rendering, and monitoring."
+        }
+      ],
+      "videos": [
+        {
+          "title": "React Native Performance Tutorial – Traversy Media",
+          "reason": "Complete guide to optimizing React Native app performance."
+        },
+        {
+          "title": "Mobile Performance – freeCodeCamp",
+          "reason": "Comprehensive tutorial on mobile app performance optimization."
+        }
+      ],
+      "summary": "Performance optimization improves mobile app speed and user experience. Image optimization (compression, lazy loading) reduces load times and memory usage. Rendering optimization (FlatList, memoization) makes UIs smoother and more responsive. State update optimization (batching, useMemo, useCallback) reduces unnecessary re-renders. Bundle size optimization (code splitting, removing unused code) reduces download times. Performance monitoring tracks metrics and identifies optimization opportunities. Performance is critical for user experience and battery life. Mastering performance optimization enables you to build fast, efficient mobile applications."
+    },
+    {
+      "course": "Mobile Development",
+      "level": "Basic",
+      "topic": "Building Your First Mobile App",
+      "description": "Put it all together! Build your first complete mobile application using all the concepts you've learned. This project combines React Native, navigation, state management, API integration, and deployment. Think of it like building your first house—you use all the skills you've learned to create something complete.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Building Your First App: A Complete Guide",
+          "content": "Step 1: Choose app idea (todo, weather, news). Step 2: Plan app structure (screens, navigation). Step 3: Set up React Native project. Step 4: Build UI components. Step 5: Implement navigation. Step 6: Add state management. Step 7: Integrate API. Step 8: Test app. Step 9: Deploy app. This guide helps you build your first app!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Complete App Architecture",
+          "content": "Draw architecture: UI Components → Navigation → State Management → API → Complete App. Show: All components, Data flow, App structure. Visual helps understand complete app."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build Complete Mobile App",
+          "content": "Activity: Build complete app. Combine: React Native, Navigation, State, API, Testing, Deployment. Practice: All concepts, Complete development, Production-ready app. This activity improves mobile development skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Planning Your App 📋",
+          "content": "Planning before building. **Steps:** Choose idea, Plan screens, Plan navigation, Plan features, Plan data. **How to understand it:** Like blueprint for app. **Real-world:** Developer plans app: Chooses todo app, Plans screens (list, add, detail), Plans navigation, Plans features, Plan complete. Planning enables success. **Best practice:** Plan thoroughly, Sketch screens, Plan navigation, Plan features, Practice planning."
+        },
+        {
+          "title": "Building UI Components 🎨",
+          "content": "Creating app interface. **Components:** Screens, Buttons, Inputs, Lists, Navigation. **How to understand it:** Like building app interface. **Real-world:** Developer builds UI: Creates screens, Adds buttons, Adds inputs, Creates lists, UI complete. UI building enables interaction. **Best practice:** Build components, Style components, Test components, Practice building."
+        },
+        {
+          "title": "Integrating Features 🔗",
+          "content": "Combining all features. **Features:** Navigation, State, API, Testing. **How to understand it:** Like connecting all parts. **Real-world:** Developer integrates: Adds navigation, Adds state, Integrates API, Tests app, Features working. Integration enables complete app. **Best practice:** Integrate features, Test integration, Fix issues, Practice integration."
+        },
+        {
+          "title": "Testing Your App 🧪",
+          "content": "Testing complete app. **Tests:** Unit tests, Component tests, Integration tests, Device tests. **How to understand it:** Like quality control. **Real-world:** Developer tests app: Writes tests, Runs tests, Tests on devices, Fixes issues, App tested. Testing ensures quality. **Best practice:** Write tests, Test thoroughly, Test on devices, Fix issues, Practice testing."
+        },
+        {
+          "title": "Deploying Your App 🚀",
+          "content": "Deploying app to app stores. **Steps:** Build app, Prepare assets, Submit to stores, Handle review. **How to understand it:** Like publishing app. **Real-world:** Developer deploys: Builds app, Prepares assets, Submits to stores, App approved, App live. Deployment enables sharing. **Best practice:** Build properly, Prepare assets, Submit correctly, Handle review, Practice deployment."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Todo App",
+          "explanation": "Developer builds todo app: Plans app, Builds UI, Adds navigation, Manages state, Integrates API, Tests app, Deploys app. Complete app built."
+        },
+        {
+          "scenario": "Weather App",
+          "explanation": "Developer builds weather app: Plans screens, Builds UI, Fetches weather data, Displays weather, Tests app, Deploys app. Complete app built."
+        },
+        {
+          "scenario": "News App",
+          "explanation": "Developer builds news app: Plans features, Builds UI, Fetches news, Displays articles, Tests app, Deploys app. Complete app built."
+        },
+        {
+          "scenario": "Complete Development",
+          "explanation": "Developer completes app: All features integrated, App tested, App deployed, Complete development cycle. App production-ready."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Plan Your App",
+          "instructions": "Step 1: Choose app idea. Step 2: Plan screens. Step 3: Plan navigation. Step 4: Plan features. Step 5: Plan data structure. Step 6: Create wireframes. Step 7: Document plan.",
+          "example_answer": "App planned: Idea chosen, Screens planned, Navigation planned, Features planned, Data structure planned, Wireframes created, Plan documented. Planning complete."
+        },
+        {
+          "title": "Build Complete App",
+          "instructions": "Step 1: Set up project. Step 2: Build UI components. Step 3: Implement navigation. Step 4: Add state management. Step 5: Integrate API. Step 6: Test app. Step 7: Deploy app.",
+          "example_answer": "Complete app built: Project set up, UI built, Navigation implemented, State managed, API integrated, Tested, Deployed. Complete app working."
+        },
+        {
+          "title": "Test and Deploy App",
+          "instructions": "Step 1: Write tests. Step 2: Test on devices. Step 3: Fix issues. Step 4: Build for production. Step 5: Prepare assets. Step 6: Submit to stores. Step 7: Monitor app.",
+          "example_answer": "App tested and deployed: Tests written, Device tested, Issues fixed, Production build, Assets prepared, Submitted, Monitored. App deployed successfully."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Mobile App Development Project",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to building complete mobile applications."
+        },
+        {
+          "title": "Building Production Mobile Apps",
+          "source": "OpenStax",
+          "reason": "Covers complete app development, from planning to deployment."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Build React Native App – Traversy Media",
+          "reason": "Complete guide to building a React Native app from scratch."
+        },
+        {
+          "title": "Mobile App Project – freeCodeCamp",
+          "reason": "Comprehensive tutorial on building complete mobile applications."
+        }
+      ],
+      "summary": "Building your first mobile app combines all learned concepts into a complete application. Planning your app (screens, navigation, features) creates a roadmap for development. Building UI components creates the app interface users interact with. Integrating features (navigation, state, API) combines all parts into a working app. Testing your app ensures it works correctly on devices. Deploying your app makes it available to users worldwide. Building your first app is a milestone in mobile development. Mastering complete app development enables you to build production-ready mobile applications."
+    }
+  ]
+}
+
+

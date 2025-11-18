@@ -1,0 +1,86 @@
+{
+  "topic": "Common Nouns and Articles (el, la, los, las)",
+  "detailedSummary": "Nouns in Spanish have gender (masculine or feminine) and number (singular or plural). Most nouns ending in 'o' are masculine, while most ending in 'a' are feminine, though there are exceptions. Articles must agree with the noun's gender and number. Definite articles: 'el' (masculine singular), 'la' (feminine singular), 'los' (masculine plural), 'las' (feminine plural). Indefinite articles: 'un' (masculine singular), 'una' (feminine singular), 'unos' (masculine plural), 'unas' (feminine plural). Common nouns include: family (familia), house (casa), book (libro), car (coche/carro), friend (amigo/amiga), food (comida), water (agua), school (escuela), work (trabajo). Some nouns are always masculine (el problema, el día) or always feminine (la mano, la foto). Plural formation: add 's' to vowels, 'es' to consonants. Articles are used more frequently in Spanish than English - 'Me gusta el café' (I like coffee) uses 'el', while English doesn't need 'the'. Understanding gender and articles is fundamental to Spanish grammar.",
+  "whyItMatters": "Articles and noun gender are fundamental to Spanish grammar - every noun requires a gender, and articles must match, making this essential for correct Spanish communication.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Common Nouns and Articles (el, la, los, las) | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Common Nouns and Articles (el, la, los, las) | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Common Nouns and Articles (el, la, los, las) | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Spanish Grammar: Articles Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Articles and Nouns Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Spanish Articles and Nouns",
+      "description": "Practice identifying noun gender and using correct articles in Spanish.",
+      "tasks": [
+        "Create a list of 50 common nouns with their correct articles (el/la/los/las)",
+        "Categorize nouns by gender and identify patterns",
+        "Write sentences using definite and indefinite articles correctly",
+        "Practice plural forms of nouns and their corresponding articles",
+        "Identify exceptions to gender rules (nouns that don't follow the -o/-a pattern)"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the correct article for 'casa' (house)?",
+      "type": "multiple-choice",
+      "options": [
+        "el",
+        "la",
+        "los",
+        "las"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Casa' is feminine (ends in 'a'), so it uses 'la' (la casa - the house)."
+    },
+    {
+      "question": "All Spanish nouns ending in 'o' are masculine and all ending in 'a' are feminine.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. While most nouns follow this pattern, there are exceptions like 'la mano' (hand, feminine) and 'el día' (day, masculine)."
+    },
+    {
+      "question": "What is the plural of 'el libro'?",
+      "type": "multiple-choice",
+      "options": [
+        "las libros",
+        "los libros",
+        "el libros",
+        "la libros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Libro' is masculine and plural, so it becomes 'los libros' (the books)."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

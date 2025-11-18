@@ -1,0 +1,259 @@
+{
+  "topic": "Differential Equations",
+  "detailedSummary": "A differential equation is an equation that relates a function with its derivatives. It describes how a quantity changes over time or space. Solving a differential equation means finding the function that satisfies the equation. Simple types include: 1) Separable Equations – can be written as dy/dx = g(x)h(y) and solved by integrating both sides, 2) First-Order Linear Equations – of the form dy/dx + P(x)y = Q(x), solved using an integrating factor. Applications include modeling population growth, cooling of objects, motion under gravity, and chemical reactions.",
+  "whyItMatters": "Differential equations model dynamic systems in physics, engineering, biology, and economics - essential for understanding how quantities change over time and predicting system behavior.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Introduction to Differential Equations | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=WUvTyaaNkzM"
+      },
+      {
+        "title": "Separable Differential Equations | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=C5-lz0chlzI"
+      },
+      {
+        "title": "First Order Linear Differential Equations | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=gd1FYn86P0c"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "NCERT Class 12 Mathematics - Differential Equations",
+        "url": "https://ncert.nic.in/textbook.php?jemh1=0-1"
+      },
+      {
+        "title": "Elementary Differential Equations and Boundary Value Problems by Boyce & DiPrima",
+        "url": "https://www.wiley.com/en-us/Elementary+Differential+Equations+and+Boundary+Value+Problems%2C+11th+Edition-p-9781119386054"
+      },
+      {
+        "title": "Khan Academy: Differential Equations",
+        "url": "https://www.khanacademy.org/math/differential-equations"
+      },
+      {
+        "title": "Paul's Online Notes: Differential Equations",
+        "url": "http://tutorial.math.lamar.edu/Classes/DE/DE.aspx"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Differential Equation Solver - Wolfram Alpha",
+        "url": "https://www.wolframalpha.com/"
+      },
+      {
+        "title": "Interactive DE Visualizations - GeoGebra",
+        "url": "https://www.geogebra.org/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Differential Equations",
+      "description": "Solve 3 separable differential equations. Solve 2 first-order linear differential equations. Apply a differential equation to a simple real-life problem (e.g., cooling or growth). Submit solutions with steps and explanations.",
+      "tasks": [
+        "Solve 5 separable differential equations of the form dy/dx = g(x)h(y)",
+        "Solve 5 first-order linear differential equations using integrating factors",
+        "Solve 3 homogeneous differential equations",
+        "Solve 3 exact differential equations",
+        "Apply the method of undetermined coefficients to solve 2 non-homogeneous linear equations",
+        "Model population growth using the logistic equation: dP/dt = rP(1 - P/K)",
+        "Model Newton's Law of Cooling: dT/dt = -k(T - T_env) and solve for temperature as a function of time",
+        "Model radioactive decay: dN/dt = -λN and solve for remaining quantity",
+        "Solve 2 second-order linear homogeneous differential equations with constant coefficients",
+        "Submit complete solutions with step-by-step explanations, including verification of solutions",
+        "Research the existence and uniqueness theorem for differential equations. Explain the conditions under which solutions exist and are unique",
+        "Investigate the phase portrait method for analyzing differential equations. Research how phase portraits visualize solution behavior and provide examples",
+        "Study the Laplace transform method for solving differential equations. Research how it converts differential equations to algebraic equations",
+        "Explore systems of differential equations. Research how to solve coupled differential equations and their applications in modeling interacting populations",
+        "Investigate partial differential equations (PDEs). Research the heat equation, wave equation, and Laplace's equation and their applications",
+        "Study numerical methods for solving differential equations (Euler's method, Runge-Kutta). Research when analytical solutions are unavailable",
+        "Research the application of differential equations in epidemiology. Study the SIR model and how it predicts disease spread",
+        "Investigate the use of differential equations in quantum mechanics. Research the Schrödinger equation and its significance",
+        "Explore stability analysis of differential equations. Research how to determine if equilibrium solutions are stable or unstable",
+        "Study the application of differential equations in control systems. Research how feedback control uses differential equations to stabilize systems"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Solve dy/dx = 3y/x.",
+      "type": "multiple-choice",
+      "options": [
+        "y = Cx^3",
+        "y = Ce^(3x)",
+        "y = Cx^3 + 1",
+        "y = 3x + C"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Separate variables: dy/y = 3dx/x. Integrate: ln|y| = 3ln|x| + C = ln|x³| + C. Exponentiate: y = e^C|x³| = Cx³ (where C > 0)."
+    },
+    {
+      "question": "Solve dy/dx + 2y = 4 using an integrating factor.",
+      "type": "multiple-choice",
+      "options": [
+        "y = 2 + Ce^(-2x)",
+        "y = 2x + C",
+        "y = 4x + Ce^(-2x)",
+        "y = 2 + Ce^(2x)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Integrating factor: μ = e^(∫2dx) = e^(2x). Multiply: e^(2x)dy/dx + 2e^(2x)y = 4e^(2x). Left side is d/dx(ye^(2x)). Integrate: ye^(2x) = 2e^(2x) + C. Solve: y = 2 + Ce^(-2x)."
+    },
+    {
+      "question": "Explain what a separable differential equation is.",
+      "type": "multiple-choice",
+      "options": [
+        "An equation that can be written as dy/dx = g(x)h(y), where variables can be separated",
+        "An equation where the derivative equals zero",
+        "An equation that is always linear",
+        "An equation that cannot be solved"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A separable differential equation can be written in the form dy/dx = g(x)h(y), allowing separation of variables: dy/h(y) = g(x)dx, which can then be integrated on both sides."
+    },
+    {
+      "question": "Model a simple population growth problem using dy/dt = ky.",
+      "type": "multiple-choice",
+      "options": [
+        "y(t) = y₀e^(kt), where y₀ is initial population and k is growth rate",
+        "y(t) = y₀ + kt",
+        "y(t) = y₀kt",
+        "y(t) = y₀/k + t"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Separate: dy/y = kdt. Integrate: ln|y| = kt + C. Exponentiate: y = e^(kt+C) = y₀e^(kt), where y₀ = e^C is the initial population."
+    },
+    {
+      "question": "Find the general solution of dy/dx = 5x^2.",
+      "type": "multiple-choice",
+      "options": [
+        "y = (5/3)x³ + C",
+        "y = 5x² + C",
+        "y = 10x + C",
+        "y = (5/2)x² + C"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Integrate both sides: y = ∫5x²dx = 5(x³/3) + C = (5/3)x³ + C."
+    },
+    {
+      "question": "What is the integrating factor for dy/dx + P(x)y = Q(x)?",
+      "type": "multiple-choice",
+      "options": [
+        "μ(x) = e^(∫P(x)dx)",
+        "μ(x) = e^(∫Q(x)dx)",
+        "μ(x) = P(x)",
+        "μ(x) = Q(x)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The integrating factor for a first-order linear equation dy/dx + P(x)y = Q(x) is μ(x) = e^(∫P(x)dx). Multiplying by this factor makes the left side an exact derivative."
+    },
+    {
+      "question": "Solve the separable equation dy/dx = y/x with initial condition y(1) = 2.",
+      "type": "multiple-choice",
+      "options": [
+        "y = 2x",
+        "y = 2x²",
+        "y = x + 1",
+        "y = 2/x"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Separate: dy/y = dx/x. Integrate: ln|y| = ln|x| + C. Exponentiate: y = Cx. Use y(1) = 2: 2 = C(1), so C = 2. Therefore y = 2x."
+    },
+    {
+      "question": "Newton's Law of Cooling is modeled by dT/dt = -k(T - T_env). What is the solution?",
+      "type": "multiple-choice",
+      "options": [
+        "T(t) = T_env + (T₀ - T_env)e^(-kt)",
+        "T(t) = T_env + kt",
+        "T(t) = T₀ - kt",
+        "T(t) = T_env + T₀e^(-kt)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Separate: dT/(T - T_env) = -kdt. Integrate: ln|T - T_env| = -kt + C. Exponentiate: T - T_env = Ce^(-kt). Use T(0) = T₀: T₀ - T_env = C. Therefore T(t) = T_env + (T₀ - T_env)e^(-kt)."
+    },
+    {
+      "question": "What is the order of the differential equation d²y/dx² + 3dy/dx + 2y = 0?",
+      "type": "multiple-choice",
+      "options": [
+        "Second order",
+        "First order",
+        "Third order",
+        "Zero order"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The order of a differential equation is the order of the highest derivative present. Here, d²y/dx² is the highest derivative, so it's a second-order equation."
+    },
+    {
+      "question": "A homogeneous differential equation has the form:",
+      "type": "multiple-choice",
+      "options": [
+        "dy/dx = f(y/x) or can be written in separable form after substitution",
+        "dy/dx = 0",
+        "dy/dx = constant",
+        "dy/dx = y"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A homogeneous first-order differential equation can be written as dy/dx = f(y/x). The substitution v = y/x transforms it into a separable equation."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/49/Separable_DE.svg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/28/First_Order_Linear_DE.svg",
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=800&q=80",
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Differential Equation": "An equation involving derivatives of one or more unknown functions. It describes how quantities change with respect to one or more independent variables.",
+      "Order of a Differential Equation": "The order of the highest derivative appearing in the equation. For example, d²y/dx² has order 2.",
+      "Degree of a Differential Equation": "The power of the highest order derivative after the equation is made rational and free from radicals.",
+      "Separable Differential Equation": "A first-order equation that can be written as dy/dx = g(x)h(y), allowing separation: dy/h(y) = g(x)dx, which can be integrated on both sides.",
+      "First-Order Linear Differential Equation": "An equation of the form dy/dx + P(x)y = Q(x), where P(x) and Q(x) are functions of x. Solved using an integrating factor μ(x) = e^(∫P(x)dx).",
+      "Homogeneous Differential Equation": "A first-order equation that can be written as dy/dx = f(y/x). Solved using the substitution v = y/x to transform it into a separable equation.",
+      "Exact Differential Equation": "An equation M(x,y)dx + N(x,y)dy = 0 where ∂M/∂y = ∂N/∂x. Can be solved by finding a function F(x,y) such that dF = Mdx + Ndy.",
+      "Integrating Factor": "A function μ(x) used to multiply a differential equation to make it exact or easier to solve. For dy/dx + P(x)y = Q(x), μ(x) = e^(∫P(x)dx).",
+      "General Solution": "A solution containing arbitrary constants that represents all possible solutions to a differential equation.",
+      "Particular Solution": "A solution obtained by assigning specific values to the arbitrary constants in the general solution, often using initial conditions."
+    },
+    "keyConcepts": [
+      "Differential equations model how quantities change over time or space",
+      "Separable equations can be solved by separating variables and integrating both sides",
+      "First-order linear equations are solved using integrating factors",
+      "Initial conditions determine particular solutions from general solutions",
+      "Differential equations have wide applications in modeling real-world phenomena"
+    ],
+    "stepByStepExplanations": [
+      "**Solving Separable Equation:** For dy/dx = 2xy: Step 1) Separate: dy/y = 2x dx. Step 2) Integrate both sides: ∫dy/y = ∫2x dx. Step 3) Evaluate: ln|y| = x² + C. Step 4) Exponentiate: y = e^(x²+C) = e^C e^(x²) = Ae^(x²), where A = e^C.",
+      "**Solving Linear Equation:** For dy/dx + y = x: Step 1) Identify P(x) = 1, Q(x) = x. Step 2) Integrating factor: μ = e^(∫1dx) = e^x. Step 3) Multiply: e^x dy/dx + e^x y = x e^x. Step 4) Left side is d/dx(ye^x). Step 5) Integrate: ye^x = ∫x e^x dx = x e^x - e^x + C (integration by parts). Step 6) Solve: y = x - 1 + Ce^(-x).",
+      "**Newton's Law of Cooling:** dT/dt = -k(T - T_env): Step 1) Separate: dT/(T - T_env) = -k dt. Step 2) Integrate: ln|T - T_env| = -kt + C. Step 3) Exponentiate: T - T_env = Ce^(-kt). Step 4) Use initial condition T(0) = T₀: T₀ - T_env = C. Step 5) Solution: T(t) = T_env + (T₀ - T_env)e^(-kt).",
+      "**Population Growth:** dy/dt = ky: Step 1) Separate: dy/y = k dt. Step 2) Integrate: ln|y| = kt + C. Step 3) Exponentiate: y = e^(kt+C) = y₀e^(kt), where y₀ = e^C is initial population."
+    ],
+    "examples": [
+      "**Separable Equation:** dy/dx = 3y/x\n   Separate: dy/y = 3dx/x\n   Integrate: ln|y| = 3ln|x| + C = ln|x³| + C\n   Exponentiate: y = Cx³ (where C > 0)",
+      "**Linear Equation:** dy/dx + 2y = 4\n   Integrating factor: μ = e^(∫2dx) = e^(2x)\n   Multiply: e^(2x)dy/dx + 2e^(2x)y = 4e^(2x)\n   Left side: d/dx(ye^(2x)) = 4e^(2x)\n   Integrate: ye^(2x) = 2e^(2x) + C\n   Solution: y = 2 + Ce^(-2x)",
+      "**Initial Value Problem:** dy/dx = y/x, y(1) = 2\n   Separate: dy/y = dx/x\n   Integrate: ln|y| = ln|x| + C\n   Exponentiate: y = Cx\n   Use y(1) = 2: 2 = C(1), so C = 2\n   Particular solution: y = 2x",
+      "**Exponential Growth/Decay:** dN/dt = -λN (radioactive decay)\n   Separate: dN/N = -λ dt\n   Integrate: ln|N| = -λt + C\n   Exponentiate: N = N₀e^(-λt), where N₀ is initial quantity\n   Half-life: t₁/₂ = ln(2)/λ"
+    ],
+    "realLifeApplications": [
+      "**Population Dynamics:** The logistic equation dP/dt = rP(1 - P/K) models population growth with carrying capacity K. Used in ecology, epidemiology, and resource management.",
+      "**Physics - Motion:** Second-order differential equations model motion under gravity: d²s/dt² = -g. Solving gives position s(t) = -½gt² + v₀t + s₀.",
+      "**Chemistry - Reaction Rates:** First-order reactions: d[A]/dt = -k[A] models concentration decay. Solution: [A](t) = [A]₀e^(-kt), where k is rate constant.",
+      "**Economics - Compound Interest:** dA/dt = rA models continuous compounding. Solution: A(t) = A₀e^(rt), where r is interest rate."
+    ],
+    "diagramsOrImageDescriptions": [
+      "Graph showing solution curves for dy/dx = y: Family of exponential curves y = Ce^x with different values of C, illustrating how initial conditions determine particular solutions.",
+      "Direction field for dy/dx = x - y: Grid of small line segments showing the slope at each point, helping visualize solution behavior without solving the equation.",
+      "Graph of Newton's Law of Cooling: Temperature T(t) decreasing exponentially from T₀ toward T_env, showing how objects cool to ambient temperature.",
+      "Population growth models: Exponential growth y = y₀e^(kt) vs. logistic growth y = K/(1 + Ae^(-rt)), showing unlimited vs. limited growth patterns."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Multiple-choice questions: 1 point each. Total: 10 points. Passing: 7/10 (70%). Questions require understanding of separable and linear differential equations, solution techniques, and ability to apply methods to solve various types of equations."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=WUvTyaaNkzM"
+}

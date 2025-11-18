@@ -1,0 +1,157 @@
+{
+  "topic": "Research Writing: Citations and Academic Format",
+  "detailedSummary": "Research writing requires gathering information from sources, synthesizing ideas, and presenting findings with proper attribution. The research process involves: choosing a topic, developing research questions, finding credible sources (academic journals, books, reputable websites), evaluating source quality (authority, accuracy, objectivity, currency), taking notes, organizing information, and writing with proper citations. Academic writing follows specific formats: MLA (Modern Language Association) for humanities, APA (American Psychological Association) for social sciences, and Chicago/Turabian for history and some humanities. Each style has rules for in-text citations, reference lists, formatting, and paper structure. In-text citations give credit within the text (author-page for MLA, author-date for APA). Works Cited (MLA) or References (APA) lists provide complete publication information. Plagiarism—using others' work without credit—is academic dishonesty. Proper citation includes: direct quotations (exact words in quotation marks), paraphrases (ideas in your own words), and summaries (condensed versions). Signal phrases introduce sources ('According to Smith...'). Parenthetical citations follow quoted or paraphrased material. Research papers typically include: title page, abstract (APA), introduction with thesis, body paragraphs with evidence, conclusion, and references. Understanding citation and format ensures academic integrity, gives credit to original authors, enables readers to verify sources, and demonstrates scholarly writing competence essential for academic success.",
+  "whyItMatters": "Proper research writing and citation ensure academic integrity and credibility - essential for academic success, avoiding plagiarism, and contributing to scholarly conversation.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Research Writing: Citations and Academic Format | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Research Writing: Citations and Academic Format | Crash Course Literature",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Research Writing: Citations and Academic Format | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Writing for Success - Research Writing Chapter - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/textbooks/writing-for-success"
+      },
+      {
+        "title": "Purdue Online Writing Lab (OWL) - Free Citation Guides",
+        "url": "https://owl.purdue.edu/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Citation Generators - EasyBib, Citation Machine",
+        "url": "https://www.easybib.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Research Writing: Citations and Academic Format",
+      "description": "Master research writing, source evaluation, and proper citation formats.",
+      "tasks": [
+        "Write a research paper using MLA format with proper citations",
+        "Write a research paper using APA format with proper citations",
+        "Evaluate 10 sources for credibility and relevance",
+        "Create Works Cited/References pages in correct format",
+        "Practice in-text citations for direct quotes and paraphrases",
+        "Avoid plagiarism by properly citing all sources",
+        "Use signal phrases to introduce sources",
+        "Synthesize information from multiple sources in writing",
+        "Format research papers according to style guidelines",
+        "Peer review research papers for citation accuracy"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "In MLA format, an in-text citation for a book typically includes:",
+      "type": "multiple-choice",
+      "options": [
+        "Author's last name and page number",
+        "Author's full name and publication date",
+        "Title and page number",
+        "URL and access date"
+      ],
+      "correctAnswer": 0,
+      "explanation": "MLA in-text citations typically include the author's last name and page number: (Smith 45)."
+    },
+    {
+      "question": "What is plagiarism?",
+      "type": "multiple-choice",
+      "options": [
+        "Using others' work without proper attribution",
+        "Quoting sources",
+        "Paraphrasing information",
+        "Citing sources"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Plagiarism is using others' words, ideas, or work without giving proper credit through citations."
+    },
+    {
+      "question": "Which format is typically used for social sciences?",
+      "type": "multiple-choice",
+      "options": [
+        "APA",
+        "MLA",
+        "Chicago",
+        "Harvard"
+      ],
+      "correctAnswer": 0,
+      "explanation": "APA (American Psychological Association) format is commonly used in social sciences, psychology, and education."
+    },
+    {
+      "question": "You only need to cite direct quotations, not paraphrased information.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. You must cite both direct quotations AND paraphrased information, as both use others' ideas."
+    },
+    {
+      "question": "A Works Cited page (MLA) or References page (APA) should:",
+      "type": "multiple-choice",
+      "options": [
+        "List all sources cited in the paper",
+        "Include only direct quotations",
+        "List sources you read but didn't use",
+        "Be in alphabetical order by title"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Works Cited/References pages list all sources actually cited in the paper, in alphabetical order by author's last name."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Primary Source": "Original materials such as texts, manuscripts, or historical documents.",
+      "Secondary Source": "Materials that analyze or interpret primary sources.",
+      "Citation": "A reference to a source used in research."
+    },
+    "keyConcepts": [
+      "Research writing requires gathering information from sources, synthesizing ideas, and presenting fin...",
+      "The research process involves: choosing a topic, developing research questions, finding credible sou...",
+      "Academic writing follows specific formats: MLA (Modern Language Association) for humanities, APA (Am...",
+      "Each style has rules for in-text citations, reference lists, formatting, and paper structure",
+      "In-text citations give credit within the text (author-page for MLA, author-date for APA)"
+    ],
+    "stepByStepExplanations": [
+      "**Understanding research:** Research writing requires gathering information from sources, synthesizing ideas, and presenting findings with proper attribution. The research proces...",
+      "**Applying concepts:** Practice with examples specific to Research Writing: Citations and Academic Format.",
+      "**Mastering skills:** Develop proficiency through structured exercises."
+    ],
+    "examples": [
+      "**Example 1:** A practical illustration of research in action.",
+      "**Example 2:** Another scenario demonstrating writing.",
+      "**Example 3:** A real-world application of citations."
+    ],
+    "realLifeApplications": [
+      "**Academic Context:** Research Writing: Citations and Academic Format is essential for academic success and scholarly work.",
+      "**Professional Use:** These skills apply directly to professional communication and analysis.",
+      "**Personal Development:** Understanding Research Writing: Citations and Academic Format enhances critical thinking and expression."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram illustrating key concepts of Research Writing: Citations and Academic Format.",
+      "A flowchart showing the process and relationships in Research Writing: Citations and Academic Format."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

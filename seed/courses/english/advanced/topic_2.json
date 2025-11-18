@@ -1,0 +1,157 @@
+{
+  "topic": "World Literature: Global Perspectives and Themes",
+  "detailedSummary": "World literature encompasses literary works from diverse cultures, languages, and regions, offering global perspectives on human experience. Studying world literature expands understanding beyond Western canon, revealing how different cultures express universal themes: love, loss, identity, conflict, and the search for meaning. Major world literary traditions include: Asian literature (Chinese classics like The Dream of the Red Chamber, Japanese works like The Tale of Genji, Indian epics like The Mahabharata), African literature (Chinua Achebe, Ngũgĩ wa Thiong'o, Chimamanda Ngozi Adichie), Latin American literature (Gabriel García Márquez's magical realism, Jorge Luis Borges, Isabel Allende), Middle Eastern literature (The Thousand and One Nights, contemporary authors), and literature from Oceania and other regions. Translation enables access but also raises questions about cultural context, linguistic nuance, and meaning preservation. Comparative literature examines connections, influences, and differences across cultures. Global themes emerge: migration and diaspora, cultural identity, colonialism and its aftermath, urbanization and modernization, and environmental concerns. Reading world literature develops cultural empathy, challenges ethnocentrism, and reveals both universal human experiences and culturally specific perspectives. It enables understanding of globalization, cultural exchange, and how literature functions in different societies. In our interconnected world, world literature is essential for global citizenship and cross-cultural understanding.",
+  "whyItMatters": "World literature provides global perspectives and cultural understanding - essential for global citizenship, cross-cultural empathy, and understanding diverse human experiences and expressions.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Literature Analysis | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Literature | Crash Course",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Shakespeare | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "World Literature - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/english"
+      },
+      {
+        "title": "Project Gutenberg - World Literature",
+        "url": "https://www.gutenberg.org/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "World Literature Resources - Library of Congress",
+        "url": "https://www.loc.gov/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "World Literature: Global Perspectives and Themes",
+      "description": "Read and analyze world literature from diverse cultures and regions.",
+      "tasks": [
+        "Read works from 5 different world literary traditions",
+        "Compare how different cultures address similar themes",
+        "Analyze how cultural context influences meaning",
+        "Examine issues of translation and cultural interpretation",
+        "Write comparative analyses of works from different regions",
+        "Research historical and cultural contexts of world literature",
+        "Analyze representations of cultural identity in global literature",
+        "Examine postcolonial themes in world literature",
+        "Create a world literature reading list with annotations",
+        "Write a research paper on a global literary theme or movement"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "World literature includes:",
+      "type": "multiple-choice",
+      "options": [
+        "Works from diverse cultures, languages, and regions",
+        "Only European literature",
+        "Only ancient texts",
+        "Only translated works"
+      ],
+      "correctAnswer": 0,
+      "explanation": "World literature encompasses literary works from all cultures, languages, and regions globally, not limited to any single tradition."
+    },
+    {
+      "question": "Magical realism is associated with:",
+      "type": "multiple-choice",
+      "options": [
+        "Latin American literature",
+        "Only European literature",
+        "Only Asian literature",
+        "Science fiction"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Magical realism, blending realistic narrative with magical elements, is particularly associated with Latin American authors like Gabriel García Márquez."
+    },
+    {
+      "question": "Reading world literature helps develop:",
+      "type": "multiple-choice",
+      "options": [
+        "Cultural empathy and global understanding",
+        "Only language skills",
+        "Only historical knowledge",
+        "Only grammar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "World literature develops cultural empathy, global understanding, and appreciation for diverse perspectives and human experiences."
+    },
+    {
+      "question": "All world literature must be read in translation.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. While translation makes many works accessible, reading in original languages provides deeper understanding. Many readers study languages to read literature in original form."
+    },
+    {
+      "question": "Comparative literature examines:",
+      "type": "multiple-choice",
+      "options": [
+        "Connections and differences across cultures",
+        "Only one culture",
+        "Only grammar",
+        "Only modern works"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Comparative literature studies connections, influences, and differences between literary works from different cultures, languages, and traditions."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Plot": "The sequence of events in a story.",
+      "Character": "A person, animal, or entity in a story.",
+      "Theme": "The central message or insight about life that the author conveys."
+    },
+    "keyConcepts": [
+      "World literature encompasses literary works from diverse cultures, languages, and regions, offering ...",
+      "Studying world literature expands understanding beyond Western canon, revealing how different cultur...",
+      "Major world literary traditions include: Asian literature (Chinese classics like The Dream of the Re...",
+      "Translation enables access but also raises questions about cultural context, linguistic nuance, and ...",
+      "Comparative literature examines connections, influences, and differences across cultures"
+    ],
+    "stepByStepExplanations": [
+      "**Understanding world:** World literature encompasses literary works from diverse cultures, languages, and regions, offering global perspectives on human experience. Studying ...",
+      "**Applying concepts:** Practice with examples specific to World Literature: Global Perspectives and Themes.",
+      "**Mastering skills:** Develop proficiency through structured exercises."
+    ],
+    "examples": [
+      "**Example 1:** A practical illustration of world in action.",
+      "**Example 2:** Another scenario demonstrating literature.",
+      "**Example 3:** A real-world application of global."
+    ],
+    "realLifeApplications": [
+      "**Academic Context:** World Literature: Global Perspectives and Themes is essential for academic success and scholarly work.",
+      "**Professional Use:** These skills apply directly to professional communication and analysis.",
+      "**Personal Development:** Understanding World Literature: Global Perspectives and Themes enhances critical thinking and expression."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram illustrating key concepts of World Literature: Global Perspectives and Themes.",
+      "A flowchart showing the process and relationships in World Literature: Global Perspectives and Themes."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

@@ -1,0 +1,157 @@
+{
+  "topic": "Academic Writing: Research Papers and Essays",
+  "detailedSummary": "Academic writing follows conventions that enable clear, credible communication in scholarly contexts. Research papers present original research or synthesize existing knowledge on a topic. The process involves: choosing a focused topic, developing research questions, conducting thorough research using academic sources, organizing findings, and presenting arguments with evidence. Academic essays analyze, interpret, or argue about topics using scholarly sources. Structure typically includes: introduction (hook, context, thesis), body paragraphs (topic sentences, evidence, analysis, transitions), and conclusion (synthesis, implications, future directions). The thesis statement presents the main argument or claim, guiding the entire paper. Evidence comes from credible sources: peer-reviewed articles, academic books, primary sources, and reputable databases. Analysis explains how evidence supports claims, going beyond summary to interpret and evaluate. Academic tone is formal, objective, and precise, avoiding contractions, slang, and personal opinions (unless writing personal reflection). Third-person perspective is standard (avoiding 'I' and 'you'). Citations follow specific formats (MLA, APA, Chicago) and must be accurate and complete. Revision focuses on: clarity, coherence, argument strength, evidence quality, and proper formatting. Academic writing demonstrates critical thinking, research skills, and ability to contribute to scholarly conversation. These skills are essential for college success, graduate study, and professional research.",
+  "whyItMatters": "Academic writing skills are essential for college and graduate study - mastering research papers and essays demonstrates critical thinking, research ability, and scholarly communication competence.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Academic Writing: Research Papers and Essays | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Academic Writing: Research Papers and Essays | Crash Course Literature",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Academic Writing: Research Papers and Essays | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Writing for Success - Academic Writing - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/textbooks/writing-for-success"
+      },
+      {
+        "title": "Purdue Online Writing Lab (OWL) - Academic Writing",
+        "url": "https://owl.purdue.edu/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Academic Writing Resources - Purdue OWL",
+        "url": "https://owl.purdue.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Academic Writing: Research Papers and Essays",
+      "description": "Write academic research papers and essays following scholarly conventions.",
+      "tasks": [
+        "Write a 10-page research paper with proper citations",
+        "Develop a strong thesis statement and support it with evidence",
+        "Synthesize information from 15+ academic sources",
+        "Write an argumentative essay with counterarguments",
+        "Write a literature review synthesizing research on a topic",
+        "Use academic databases to find peer-reviewed sources",
+        "Apply proper academic tone and style",
+        "Revise papers based on feedback",
+        "Format papers according to style guidelines (MLA/APA)",
+        "Present research findings in an academic presentation"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Academic writing typically uses:",
+      "type": "multiple-choice",
+      "options": [
+        "Formal tone and third-person perspective",
+        "Casual tone and first-person",
+        "Slang and contractions",
+        "Personal opinions without evidence"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Academic writing uses formal tone, objective language, and typically third-person perspective, avoiding casual language and unsupported personal opinions."
+    },
+    {
+      "question": "A thesis statement should:",
+      "type": "multiple-choice",
+      "options": [
+        "Present the main argument and guide the paper",
+        "Be a question",
+        "Summarize all evidence",
+        "Be as long as possible"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A thesis statement presents the main argument or claim, providing direction for the entire paper and indicating what will be proven or argued."
+    },
+    {
+      "question": "What makes a source credible for academic writing?",
+      "type": "multiple-choice",
+      "options": [
+        "Peer review, author expertise, reputable publication",
+        "Popularity on social media",
+        "Having many images",
+        "Being free"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Credible academic sources are peer-reviewed, written by experts, published by reputable academic publishers or journals, and based on research."
+    },
+    {
+      "question": "Academic writing should only summarize sources, not analyze them.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Academic writing goes beyond summary to analyze, interpret, evaluate, and synthesize sources to build arguments and contribute new insights."
+    },
+    {
+      "question": "The conclusion of an academic paper should:",
+      "type": "multiple-choice",
+      "options": [
+        "Synthesize main points and discuss implications",
+        "Introduce new information",
+        "Repeat the introduction word-for-word",
+        "List all sources used"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The conclusion synthesizes main points, restates the thesis (in different words), discusses implications, and may suggest future research directions."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Thesis Statement": "A sentence presenting the main argument of an essay.",
+      "Body Paragraph": "A paragraph that develops one aspect of the thesis.",
+      "Introduction": "The opening section of an essay that provides context and thesis."
+    },
+    "keyConcepts": [
+      "Academic writing follows conventions that enable clear, credible communication in scholarly contexts",
+      "Research papers present original research or synthesize existing knowledge on a topic",
+      "The process involves: choosing a focused topic, developing research questions, conducting thorough r...",
+      "Academic essays analyze, interpret, or argue about topics using scholarly sources",
+      "Structure typically includes: introduction (hook, context, thesis), body paragraphs (topic sentences..."
+    ],
+    "stepByStepExplanations": [
+      "**Understanding academic:** Academic writing follows conventions that enable clear, credible communication in scholarly contexts. Research papers present original research or syn...",
+      "**Applying concepts:** Practice with examples specific to Academic Writing: Research Papers and Essays.",
+      "**Mastering skills:** Develop proficiency through structured exercises."
+    ],
+    "examples": [
+      "**Example 1:** A practical illustration of academic in action.",
+      "**Example 2:** Another scenario demonstrating writing.",
+      "**Example 3:** A real-world application of research."
+    ],
+    "realLifeApplications": [
+      "**Academic Context:** Academic Writing: Research Papers and Essays is essential for academic success and scholarly work.",
+      "**Professional Use:** These skills apply directly to professional communication and analysis.",
+      "**Personal Development:** Understanding Academic Writing: Research Papers and Essays enhances critical thinking and expression."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram illustrating key concepts of Academic Writing: Research Papers and Essays.",
+      "A flowchart showing the process and relationships in Academic Writing: Research Papers and Essays."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

@@ -1,0 +1,86 @@
+{
+  "topic": "Telling Time and Dates",
+  "detailedSummary": "Telling time in Spanish uses '¿Qué hora es?' (What time is it?). For one o'clock: 'Es la una' (It's one o'clock). For other hours: 'Son las [number]' (It's [number] o'clock). Minutes are added with 'y' (and): 'Son las dos y cinco' (2:05), 'Son las tres y media' (3:30), 'Son las cuatro y cuarto' (4:15). To subtract minutes, use 'menos' (minus): 'Son las cinco menos diez' (4:50). Time periods: 'de la mañana' (in the morning), 'de la tarde' (in the afternoon), 'de la noche' (in the evening/night). Dates use ordinal numbers for the first of the month: 'el primero de enero' (January 1st). Other dates use cardinal numbers: 'el dos de febrero' (February 2nd). Format: '¿Cuál es la fecha?' (What's the date?) - 'Es el [day] de [month]' (It's [day] of [month]). Years: 'dos mil veinticuatro' (2024). Days of the week: '¿Qué día es hoy?' (What day is today?) - 'Hoy es lunes' (Today is Monday). Understanding time and dates enables scheduling, making appointments, and discussing when events occur.",
+  "whyItMatters": "Telling time and dates is essential for daily life - from scheduling appointments to making plans, mastering time expressions enables practical communication in Spanish.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Telling Time and Dates | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Telling Time and Dates | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Telling Time and Dates | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Time and Dates Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Time Practice Exercises",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Time and Dates in Spanish",
+      "description": "Practice telling time and expressing dates in Spanish.",
+      "tasks": [
+        "Write out 20 different times in Spanish (using both 'y' and 'menos')",
+        "Create a weekly schedule with times and activities in Spanish",
+        "Write your birthday and important dates in Spanish format",
+        "Practice asking and answering '¿Qué hora es?' with different times",
+        "Create a calendar for one month with all dates written in Spanish"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "How do you say 'It's 2:30' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "Son las dos y treinta",
+        "Son las dos y media",
+        "Es la dos y treinta",
+        "Son las dos menos treinta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Son las dos y media' means 'It's 2:30' - 'media' means half (30 minutes) in Spanish time expressions."
+    },
+    {
+      "question": "For one o'clock, you use 'Es la una' instead of 'Son las una'.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. One o'clock is singular, so it uses 'Es la una' (It's one o'clock). All other hours use 'Son las [number]'."
+    },
+    {
+      "question": "How do you say 'January 1st' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "el uno de enero",
+        "el primero de enero",
+        "la una de enero",
+        "el primer de enero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'El primero de enero' is January 1st - the first of the month uses the ordinal number 'primero', while other dates use cardinal numbers."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

@@ -1,0 +1,87 @@
+{
+  "topic": "DOM Manipulation: Selecting and Modifying Elements",
+  "detailedSummary": "The Document Object Model (DOM) is a programming interface that represents HTML documents as a tree of objects. JavaScript can access and manipulate the DOM to change page content dynamically. document.getElementById() selects an element by ID. document.querySelector() selects the first matching element using CSS selectors. document.querySelectorAll() selects all matching elements. Once selected, you can modify element properties: textContent and innerHTML change text content, setAttribute() modifies attributes, style property changes CSS, and classList manages CSS classes. Creating elements involves document.createElement(), then appending with appendChild() or append(). Removing elements uses remove() or removeChild(). Event listeners can be attached to respond to user interactions. Understanding DOM manipulation is essential for creating interactive web pages that respond to user actions and update dynamically without page reloads.",
+  "whyItMatters": "DOM manipulation is what makes web pages interactive - without it, JavaScript cannot change page content, respond to user actions, or create dynamic user experiences.",
+  "materials": {
+    "videos": [
+      {
+        "title": "DOM Manipulation: Selecting and Modifying Elements | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "DOM Manipulation: Selecting and Modifying Elements | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "DOM Manipulation: Selecting and Modifying Elements | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "DOM Manipulation Guide",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model"
+      }
+    ],
+    "labs": [
+      {
+        "title": "DOM Practice Exercises",
+        "url": "https://codepen.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Build an Interactive Web Page",
+      "description": "Create a web page with JavaScript that dynamically modifies content using DOM manipulation.",
+      "tasks": [
+        "Select elements using different DOM selection methods (getElementById, querySelector, etc.)",
+        "Modify element content, styles, and attributes using JavaScript",
+        "Create new elements dynamically and add them to the page",
+        "Remove elements from the page programmatically",
+        "Create an interactive feature (like a counter, color changer, or content toggler) that updates the page dynamically"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What does DOM stand for?",
+      "type": "multiple-choice",
+      "options": [
+        "Document Object Model",
+        "Data Object Management",
+        "Dynamic Object Manipulation",
+        "Document Order Method"
+      ],
+      "correctAnswer": 0,
+      "explanation": "DOM stands for Document Object Model, which represents HTML documents as a tree of objects that JavaScript can access and modify."
+    },
+    {
+      "question": "querySelector returns all elements that match a CSS selector.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. querySelector returns only the first matching element. querySelectorAll returns all matching elements as a NodeList."
+    },
+    {
+      "question": "Which method is used to add a new element to the DOM?",
+      "type": "multiple-choice",
+      "options": [
+        "createElement() only",
+        "appendChild() or append()",
+        "Both createElement() and then appendChild()/append()",
+        "removeChild()"
+      ],
+      "correctAnswer": 2,
+      "explanation": "You first create an element with createElement(), then add it to the DOM using appendChild() or append() to a parent element."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

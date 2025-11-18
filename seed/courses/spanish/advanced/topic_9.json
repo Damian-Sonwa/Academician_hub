@@ -1,0 +1,86 @@
+{
+  "topic": "Debate and Argumentation in Spanish",
+  "detailedSummary": "Debate requires structured argumentation, persuasive language, and respectful discourse. Debate structure: introducción (introduction with position), argumentos (arguments with evidence), contraargumentos (counterarguments), conclusión (conclusion reinforcing position). Persuasive phrases: 'En mi opinión' (In my opinion), 'Estoy convencido de que...' (I'm convinced that...), 'Los datos demuestran que...' (The data shows that...), 'Es evidente que...' (It's evident that...), 'No cabe duda de que...' (There's no doubt that...). Counterarguments: 'Por otro lado' (On the other hand), 'Sin embargo' (However), 'A pesar de que...' (Despite the fact that...), 'Aunque' (Although). Agreeing/disagreeing politely: 'Estoy de acuerdo en parte' (I partly agree), 'Respeto tu opinión, pero...' (I respect your opinion, but...), 'Tienes un punto válido, sin embargo...' (You have a valid point, however...). Evidence: 'Según estudios...' (According to studies...), 'Las estadísticas muestran...' (Statistics show...), 'Un ejemplo es...' (An example is...). Understanding debate enables participating in discussions, defending positions, and engaging in intellectual discourse.",
+  "whyItMatters": "Debate and argumentation skills are essential for advanced communication - they enable defending positions, engaging in intellectual discussions, and participating in academic and professional debates.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Debate and Argumentation in Spanish | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Debate and Argumentation in Spanish | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Debate and Argumentation in Spanish | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Debate and Argumentation Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Debate Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Debate and Argumentation",
+      "description": "Practice structured argumentation, persuasive language, and debate skills in Spanish.",
+      "tasks": [
+        "Write a structured argumentative essay with introduction, arguments, counterarguments, and conclusion",
+        "Practice using persuasive phrases and connectors in debates",
+        "Participate in or simulate a debate on a controversial topic",
+        "Write counterarguments to common positions on various topics",
+        "Analyze and critique arguments in Spanish media or texts"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is a good way to introduce a counterargument in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "Pero",
+        "Por otro lado",
+        "Y",
+        "También"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Por otro lado' (On the other hand) is a formal way to introduce counterarguments or alternative perspectives in debate."
+    },
+    {
+      "question": "Effective argumentation should include evidence, examples, and respectful acknowledgment of counterarguments.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Strong arguments include evidence, examples, and respectfully address counterarguments, showing understanding of multiple perspectives."
+    },
+    {
+      "question": "How do you say 'I'm convinced that...' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "Creo que...",
+        "Estoy convencido de que...",
+        "Pienso que...",
+        "Opino que..."
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Estoy convencido de que...' (I'm convinced that...) is a strong, persuasive phrase used in argumentation to express firm belief."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

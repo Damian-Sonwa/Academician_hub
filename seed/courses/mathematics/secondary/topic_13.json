@@ -1,0 +1,161 @@
+{
+  "topic": "Coordinate Geometry and Conic Sections",
+  "detailedSummary": "Coordinate geometry (analytic geometry) combines algebra and geometry by using coordinate systems to represent geometric figures algebraically. The Cartesian coordinate system uses perpendicular axes (x and y) to locate points as ordered pairs (x, y). The distance formula d = √[(x₂-x₁)² + (y₂-y₁)²] finds distances between points. The midpoint formula gives the center point: ((x₁+x₂)/2, (y₁+y₂)/2). The slope formula m = (y₂-y₁)/(x₂-x₁) measures steepness. Lines can be represented in various forms: slope-intercept (y = mx + b), point-slope (y - y₁ = m(x - x₁)), and standard form (Ax + By = C). Parallel lines have equal slopes; perpendicular lines have slopes that are negative reciprocals. Conic sections are curves formed by intersecting a plane with a double cone: circles (plane perpendicular to axis), ellipses (plane at an angle, creating oval shapes), parabolas (plane parallel to one side), and hyperbolas (plane cutting both cones). Each has standard equations: circle (x-h)² + (y-k)² = r²), ellipse (x²/a² + y²/b² = 1), parabola (y = ax² or x = ay²), and hyperbola (x²/a² - y²/b² = 1). These curves model many natural and man-made phenomena: planetary orbits (ellipses), satellite dishes (parabolas), and navigation systems (hyperbolas).",
+  "whyItMatters": "Coordinate geometry bridges algebra and geometry, enabling precise mathematical description of shapes and curves - essential for calculus, physics, engineering, and computer graphics.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Geometry | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Geometry Basics | Math Antics",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Geometry | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "College Algebra 2e - Chapter 8: Analytic Geometry - OpenStax",
+        "url": "https://openstax.org/details/books/college-algebra-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Coordinate Geometry - Desmos",
+        "url": "https://www.desmos.com/calculator"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Coordinate Geometry and Conic Sections",
+      "description": "Master coordinate geometry formulas and conic section equations.",
+      "tasks": [
+        "Find distances and midpoints for 15 pairs of points",
+        "Determine slopes and equations of 10 lines",
+        "Identify parallel and perpendicular lines",
+        "Graph and identify 5 circles from equations",
+        "Graph and identify 5 ellipses from equations",
+        "Graph and identify 5 parabolas from equations",
+        "Graph and identify 5 hyperbolas from equations",
+        "Convert between different forms of line equations",
+        "Solve problems involving conic sections in real-world contexts",
+        "Create geometric designs using coordinate geometry"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the distance between points (2, 3) and (5, 7)?",
+      "type": "multiple-choice",
+      "options": [
+        "5",
+        "√13",
+        "7",
+        "√29"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Distance = √[(5-2)² + (7-3)²] = √[3² + 4²] = √[9 + 16] = √25 = 5."
+    },
+    {
+      "question": "What is the equation of a circle with center (3, -2) and radius 4?",
+      "type": "multiple-choice",
+      "options": [
+        "(x-3)² + (y+2)² = 16",
+        "(x+3)² + (y-2)² = 16",
+        "(x-3)² + (y+2)² = 4",
+        "(x+3)² + (y-2)² = 4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Circle equation: (x-h)² + (y-k)² = r². With center (3, -2) and r = 4: (x-3)² + (y+2)² = 16."
+    },
+    {
+      "question": "What is the slope of a line perpendicular to y = 2x + 5?",
+      "type": "multiple-choice",
+      "options": [
+        "-1/2",
+        "1/2",
+        "-2",
+        "2"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The given line has slope 2. Perpendicular lines have negative reciprocal slopes, so the perpendicular slope is -1/2."
+    },
+    {
+      "question": "A parabola is a conic section formed when a plane intersects a cone parallel to one side.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. When the plane is parallel to one side of the cone, it creates a parabola."
+    },
+    {
+      "question": "What is the midpoint of the segment joining (1, 4) and (7, 10)?",
+      "type": "multiple-choice",
+      "options": [
+        "(4, 7)",
+        "(8, 14)",
+        "(3, 3)",
+        "(6, 6)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Midpoint = ((1+7)/2, (4+10)/2) = (8/2, 14/2) = (4, 7)."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1574170275470-a717198122c8?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Cartesian Coordinate System": "A system using perpendicular axes (x horizontal, y vertical) to locate points as ordered pairs (x, y). Origin is (0, 0).",
+      "Distance Formula": "Distance between points (x₁, y₁) and (x₂, y₂): d = √[(x₂-x₁)² + (y₂-y₁)²]. Derived from Pythagorean theorem.",
+      "Midpoint Formula": "Midpoint of segment from (x₁, y₁) to (x₂, y₂): M = ((x₁+x₂)/2, (y₁+y₂)/2). Averages the coordinates.",
+      "Slope": "Steepness of a line: m = (y₂-y₁)/(x₂-x₁) = rise/run. Positive = upward, negative = downward, zero = horizontal, undefined = vertical.",
+      "Circle": "Set of points equidistant from center (h, k). Equation: (x-h)² + (y-k)² = r². Standard form: x² + y² + Dx + Ey + F = 0.",
+      "Ellipse": "Set of points where sum of distances to two foci is constant. Equation: (x-h)²/a² + (y-k)²/b² = 1. a and b are semi-major and semi-minor axes.",
+      "Parabola": "Set of points equidistant from focus and directrix. Vertical: (x-h)² = 4p(y-k). Horizontal: (y-k)² = 4p(x-h). p is distance from vertex to focus.",
+      "Hyperbola": "Set of points where difference of distances to two foci is constant. Equation: (x-h)²/a² - (y-k)²/b² = 1 or (y-k)²/b² - (x-h)²/a² = 1."
+    },
+    "keyConcepts": [
+      "Coordinate geometry uses algebra to solve geometric problems",
+      "Distance formula comes from Pythagorean theorem applied to coordinate differences",
+      "Conic sections are curves formed by intersecting a plane with a double cone",
+      "Circle, ellipse, parabola, and hyperbola each have distinct equations and properties",
+      "Standard forms of conic equations reveal center, vertices, foci, and other key features"
+    ],
+    "stepByStepExplanations": [
+      "**Distance Formula:** Points (2, 3) and (5, 7): Step 1) Differences: Δx = 5-2 = 3, Δy = 7-3 = 4. Step 2) Apply formula: d = √(3² + 4²) = √(9 + 16) = √25 = 5.",
+      "**Midpoint:** Points (1, 4) and (7, 10): Step 1) Average x: (1+7)/2 = 4. Step 2) Average y: (4+10)/2 = 7. Step 3) Midpoint: (4, 7).",
+      "**Circle Equation:** Center (3, -2), radius 5: Step 1) Use (x-h)² + (y-k)² = r². Step 2) Substitute: (x-3)² + (y+2)² = 25. Step 3) Expand: x² - 6x + 9 + y² + 4y + 4 = 25, so x² + y² - 6x + 4y - 12 = 0.",
+      "**Parabola:** Focus (0, 2), vertex (0, 0): Step 1) p = distance from vertex to focus = 2. Step 2) Since vertical: x² = 4(2)y = 8y. Step 3) Standard form: x² = 8y or y = x²/8."
+    ],
+    "examples": [
+      "**Distance:** Points (0, 0) and (3, 4)\n   d = √[(3-0)² + (4-0)²] = √(9 + 16) = √25 = 5\n   This is a 3-4-5 right triangle",
+      "**Circle:** (x-2)² + (y+1)² = 9\n   Center: (2, -1)\n   Radius: r = √9 = 3\n   Graph: Circle centered at (2, -1) with radius 3",
+      "**Ellipse:** x²/16 + y²/9 = 1\n   Center: (0, 0)\n   a = 4 (horizontal), b = 3 (vertical)\n   Vertices: (±4, 0), co-vertices: (0, ±3)",
+      "**Parabola:** y = x² - 4x + 3\n   Complete square: y = (x-2)² - 1\n   Vertex: (2, -1)\n   Opens upward (a > 0)"
+    ],
+    "realLifeApplications": [
+      "**GPS Navigation:** Uses coordinate geometry to calculate distances and routes. Distance formula finds shortest path. Circles represent signal ranges from satellites.",
+      "**Satellite Dishes:** Parabolic shape focuses signals. Equation y = x²/(4f) where f is focal length. Engineering uses coordinate geometry to design optimal shapes.",
+      "**Planetary Orbits:** Ellipses model planetary motion. Earth's orbit: x²/a² + y²/b² = 1 where a and b are semi-major and semi-minor axes. Kepler's laws use conic sections.",
+      "**Architecture:** Arches use parabolic curves for strength. Bridges use catenary curves (hyperbolic cosine). Coordinate geometry helps design and construct these structures."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A coordinate plane showing a circle with center (h, k) and radius r, with the equation (x-h)² + (y-k)² = r² displayed, and a point (x, y) on the circle.",
+      "A diagram showing the four conic sections: circle (plane perpendicular to axis), ellipse (angled plane), parabola (plane parallel to side), and hyperbola (plane through both cones).",
+      "A coordinate plane with an ellipse centered at origin, showing major axis 2a, minor axis 2b, foci at (±c, 0) where c² = a² - b², and vertices marked."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

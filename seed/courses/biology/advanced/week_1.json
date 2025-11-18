@@ -1,0 +1,100 @@
+{
+  "course": "biology",
+  "level": "advanced",
+  "week": 1,
+  "topic": "Introduction to Life Science",
+  "summary": "Explore what defines life and the characteristics all living organisms share. Understanding the fundamental properties of life: organization, metabolism, growth, adaptation, response to stimuli, and reproduction.  We'll examine how these properties manifest across different kingdoms of life. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nLife science is the study of living organisms and their interactions with each other and their environment. All living things share certain fundamental characteristics that distinguish them from non-living matter. These include cellular organization, where all organisms are composed of one or more cells that carry out life processes. Metabolism refers to the chemical reactions that occur within cells to maintain life, including the conversion of nutrients into energy and the synthesis of complex molecules.\n\nGrowth and development are essential life processes where organisms increase in size and complexity over time. Adaptation allows organisms to adjust to their environment through evolutionary changes that enhance survival. Response to stimuli enables organisms to detect and react to changes in their surroundings, such as plants growing toward light or animals fleeing from danger. Reproduction ensures the continuation of species through the production of offspring, either sexually or asexually.\n\nThese characteristics work together to maintain homeostasis, the stable internal conditions necessary for life. Understanding these fundamental properties helps us classify organisms, study their relationships, and appreciate the diversity of life on Earth. From single-celled bacteria to complex multicellular organisms like humans, all life shares these core characteristics that define what it means to be alive.",
+  "why_it_matters": "Understanding the characteristics of life is fundamental to all biological studies and helps us distinguish living organisms from non-living matter, forming the foundation for advanced biological concepts.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Introduction to Life Science - Tutorial",
+        "url": "https://youtu.be/dQw4w9WgXcQ"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Characteristics of Life PDF",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Cell Explorer",
+        "url": "https://phet.colorado.edu/"
+      },
+      {
+        "title": "Life Properties",
+        "url": "https://phet.colorado.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Research Assignment: Introduction to Life Science",
+      "description": "Complete a research assignment exploring key concepts related to Introduction to Life Science.",
+      "tasks": [
+        "Read the assigned textbook chapters and online resources about Introduction to Life Science",
+        "Identify and explain at least three key concepts from the topic",
+        "Find one real-world example or application of these concepts",
+        "Write a 300-500 word summary explaining your findings",
+        "Include at least two credible sources in your research"
+      ]
+    },
+    {
+      "title": "Practical Exercise: Introduction to Life Science",
+      "description": "Apply your understanding of Introduction to Life Science through hands-on activities.",
+      "tasks": [
+        "Complete the lab exercises or simulations related to Introduction to Life Science",
+        "Document your observations and findings in a lab report",
+        "Answer the reflection questions about what you learned",
+        "Create a visual representation (diagram, chart, or model) of key concepts",
+        "Present your findings to the class or submit a written report"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary focus of Introduction to Life Science?",
+      "options": [
+        "Understanding fundamental concepts of Introduction to Life Science",
+        "Memorizing facts without context",
+        "Avoiding practical applications",
+        "Focusing only on advanced topics"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+    },
+    {
+      "question": "Which of the following best describes the importance of Introduction to Life Science?",
+      "options": [
+        "It provides essential knowledge for understanding science",
+        "It is only relevant for advanced students",
+        "It has no real-world applications",
+        "It is purely theoretical without practical value"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "This topic provides essential foundational knowledge that is crucial for understanding science and has practical applications in real-world contexts."
+    },
+    {
+      "question": "Introduction to Life Science is an important topic for understanding science at the Advanced level.",
+      "answer": true,
+      "type": "true-false",
+      "explanation": "This statement is true. Introduction to Life Science provides fundamental knowledge that is essential for building a strong understanding of science."
+    },
+    {
+      "question": "The concepts in Introduction to Life Science have no practical applications in real life.",
+      "answer": false,
+      "type": "true-false",
+      "explanation": "This statement is false. The concepts in Introduction to Life Science have numerous practical applications in various fields and everyday life."
+    },
+    {
+      "question": "The study of Introduction to Life Science helps students understand the fundamental principles of ______.",
+      "answer": "science",
+      "type": "fill-in-the-blank",
+      "explanation": "The correct answer is \"science\". Introduction to Life Science is a key component of science that helps students understand fundamental principles in this field."
+    }
+  ]
+}

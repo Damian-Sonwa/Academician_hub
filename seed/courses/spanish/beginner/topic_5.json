@@ -1,0 +1,86 @@
+{
+  "topic": "Present Tense of Regular Verbs (ar, er, ir)",
+  "detailedSummary": "Verbs are the action words that make sentences work. Spanish verbs are categorized by their infinitive endings: -ar, -er, and -ir. Regular verbs follow predictable patterns when conjugated. To conjugate, remove the infinitive ending and add the appropriate ending for each subject. For -ar verbs (like hablar - to speak): yo hablo, tú hablas, él/ella/usted habla, nosotros hablamos, vosotros habláis, ellos/ellas/ustedes hablan. For -er verbs (like comer - to eat): yo como, tú comes, él/ella/usted come, nosotros comemos, vosotros coméis, ellos/ellas/ustedes comen. For -ir verbs (like vivir - to live): yo vivo, tú vives, él/ella/usted vive, nosotros vivimos, vosotros vivís, ellos/ellas/ustedes viven. Common regular verbs include: trabajar (to work), estudiar (to study), beber (to drink), escribir (to write), leer (to read), and abrir (to open). The present tense describes current actions, habitual actions, and general truths. Mastering regular verb conjugation is the foundation for all Spanish verb tenses.",
+  "whyItMatters": "Present tense verbs are used constantly in Spanish - mastering regular verb conjugation enables you to express actions, describe routines, and communicate in the present moment.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Present Tense of Regular Verbs (ar, er, ir) | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Present Tense of Regular Verbs (ar, er, ir) | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Present Tense of Regular Verbs (ar, er, ir) | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Spanish Verb Conjugation Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Verb Conjugation Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Regular Verb Conjugation",
+      "description": "Practice conjugating regular -ar, -er, and -ir verbs in the present tense.",
+      "tasks": [
+        "Conjugate 10 -ar verbs, 10 -er verbs, and 10 -ir verbs in all six forms",
+        "Create sentences using conjugated verbs with different subjects",
+        "Write a paragraph describing your daily routine using present tense verbs",
+        "Practice identifying verb endings and matching them to subjects",
+        "Create flashcards for common regular verbs and practice daily"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "How do you conjugate 'hablar' (to speak) for 'yo'?",
+      "type": "multiple-choice",
+      "options": [
+        "hablo",
+        "hablas",
+        "habla",
+        "hablamos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Yo hablo' means 'I speak' - for -ar verbs, 'yo' takes the '-o' ending."
+    },
+    {
+      "question": "All -er and -ir verbs have the same conjugation endings.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. While -er and -ir verbs are similar, they differ in the 'nosotros' and 'vosotros' forms: -er uses -emos/-éis, while -ir uses -imos/-ís."
+    },
+    {
+      "question": "What is the correct conjugation of 'comer' (to eat) for 'nosotros'?",
+      "type": "multiple-choice",
+      "options": [
+        "comemos",
+        "comimos",
+        "comemos",
+        "comen"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Nosotros comemos' means 'we eat' - for -er verbs, 'nosotros' takes the '-emos' ending."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

@@ -1,0 +1,157 @@
+{
+  "topic": "Linguistics: Language Structure and Change",
+  "detailedSummary": "Linguistics is the scientific study of language, examining its structure, use, and change. Core areas include: phonetics (sound production), phonology (sound patterns), morphology (word structure), syntax (sentence structure), semantics (meaning), and pragmatics (language in context). Phonetics studies how sounds are produced physically. Phonology examines sound systems and patterns in languages. Morphology analyzes how words are formed from morphemes (smallest meaningful units). Syntax studies sentence structure and grammar rules. Semantics explores meaning at word and sentence levels. Pragmatics examines how context affects meaning. Historical linguistics traces language change over time: sound changes, grammatical evolution, and vocabulary shifts. Sociolinguistics studies language variation: dialects, registers (formal/informal), and language and identity. Psycholinguistics examines language processing and acquisition. Applied linguistics addresses language teaching, translation, and language policy. Key concepts include: prescriptive vs. descriptive grammar (rules vs. actual usage), language universals (features common to all languages), and language families (related languages). Understanding linguistics reveals how language works, how it changes, and how it shapes thought and society. It provides tools for analyzing texts, understanding language variation, and appreciating linguistic diversity. Linguistics connects to literature, education, psychology, anthropology, and computer science.",
+  "whyItMatters": "Linguistics provides scientific understanding of language - essential for language teaching, translation, understanding language change, and analyzing how language shapes thought and communication.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Linguistics: Language Structure and Change | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Linguistics: Language Structure and Change | Crash Course Literature",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Linguistics: Language Structure and Change | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Linguistics - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/linguistics"
+      },
+      {
+        "title": "Language Files - Available through libraries",
+        "url": "https://linguistics.osu.edu/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Linguistics Resources - Linguistic Society of America",
+        "url": "https://www.linguisticsociety.org/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Linguistics: Language Structure and Change",
+      "description": "Study language structure, variation, and change through linguistic analysis.",
+      "tasks": [
+        "Analyze phonetic and phonological features of English",
+        "Break down words into morphemes and analyze word formation",
+        "Analyze sentence structure using syntactic trees",
+        "Examine semantic relationships (synonymy, antonymy, hyponymy)",
+        "Study language change through historical texts",
+        "Analyze dialect variation in English",
+        "Research language acquisition processes",
+        "Examine how context affects meaning (pragmatics)",
+        "Compare features across different languages",
+        "Write a research paper on a linguistic topic"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Morphology studies:",
+      "type": "multiple-choice",
+      "options": [
+        "Word structure and formation",
+        "Only sounds",
+        "Only meaning",
+        "Only writing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Morphology analyzes how words are structured and formed from morphemes (smallest meaningful units like roots, prefixes, suffixes)."
+    },
+    {
+      "question": "Syntax examines:",
+      "type": "multiple-choice",
+      "options": [
+        "Sentence structure and grammar",
+        "Only word meaning",
+        "Only sounds",
+        "Only writing systems"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Syntax studies how words combine to form grammatical sentences, examining sentence structure and grammar rules."
+    },
+    {
+      "question": "Prescriptive grammar:",
+      "type": "multiple-choice",
+      "options": [
+        "Prescribes rules for 'correct' usage",
+        "Describes actual language use",
+        "Only studies ancient languages",
+        "Only analyzes sounds"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Prescriptive grammar prescribes rules for 'correct' or 'proper' language use, while descriptive grammar describes how language is actually used."
+    },
+    {
+      "question": "All languages have the same structure.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. While languages share some universal features, they vary significantly in structure (word order, grammatical systems, sound systems)."
+    },
+    {
+      "question": "Sociolinguistics studies:",
+      "type": "multiple-choice",
+      "options": [
+        "Language variation and social factors",
+        "Only grammar rules",
+        "Only ancient languages",
+        "Only sounds"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sociolinguistics examines how language varies based on social factors like region, class, age, gender, and how language relates to identity and society."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Phonetics": "The study of speech sounds and their production.",
+      "Syntax": "The study of sentence structure and grammar rules.",
+      "Semantics": "The study of meaning in language."
+    },
+    "keyConcepts": [
+      "Linguistics is the scientific study of language, examining its structure, use, and change",
+      "Core areas include: phonetics (sound production), phonology (sound patterns), morphology (word struc...",
+      "Phonetics studies how sounds are produced physically",
+      "Phonology examines sound systems and patterns in languages",
+      "Morphology analyzes how words are formed from morphemes (smallest meaningful units)"
+    ],
+    "stepByStepExplanations": [
+      "**Understanding linguistics:** Linguistics is the scientific study of language, examining its structure, use, and change. Core areas include: phonetics (sound production), phonology...",
+      "**Applying concepts:** Practice with examples specific to Linguistics: Language Structure and Change.",
+      "**Mastering skills:** Develop proficiency through structured exercises."
+    ],
+    "examples": [
+      "**Example 1:** A practical illustration of linguistics in action.",
+      "**Example 2:** Another scenario demonstrating language.",
+      "**Example 3:** A real-world application of structure."
+    ],
+    "realLifeApplications": [
+      "**Academic Context:** Linguistics: Language Structure and Change is essential for academic success and scholarly work.",
+      "**Professional Use:** These skills apply directly to professional communication and analysis.",
+      "**Personal Development:** Understanding Linguistics: Language Structure and Change enhances critical thinking and expression."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram illustrating key concepts of Linguistics: Language Structure and Change.",
+      "A flowchart showing the process and relationships in Linguistics: Language Structure and Change."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

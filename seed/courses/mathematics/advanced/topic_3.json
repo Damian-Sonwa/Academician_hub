@@ -1,0 +1,259 @@
+{
+  "topic": "Applications of Derivatives: Optimization and Related Rates",
+  "detailedSummary": "Derivatives provide powerful tools for solving optimization problems and analyzing rates of change in related quantities. Optimization involves finding maximum or minimum values of functions, which occur at critical points where f'(x) = 0 or f'(x) is undefined. The First Derivative Test determines if critical points are local maxima (f' changes from + to -) or minima (f' changes from - to +). The Second Derivative Test uses concavity: if f''(c) > 0, the point is a local minimum; if f''(c) < 0, it's a local maximum. Absolute extrema on closed intervals are found by evaluating the function at critical points and endpoints. Optimization problems require setting up functions, finding derivatives, and interpreting results in context—applications include maximizing profit, minimizing cost, optimizing area/volume with constraints, and finding optimal dimensions. Related rates problems involve quantities changing together, where one rate is known and another must be found. The chain rule connects these rates: if y = f(x) and x = g(t), then dy/dt = (dy/dx)(dx/dt). Common applications include: expanding/contracting shapes (balloons, shadows), sliding ladders, filling containers, and moving objects. These techniques are essential in engineering design, economics (marginal analysis), physics (motion analysis), and any field requiring optimal solutions or rate analysis.",
+  "whyItMatters": "Optimization and related rates solve real-world problems of maximizing efficiency, minimizing cost, and analyzing changing systems - essential for engineering, economics, physics, and business.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Optimization Problems | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=1Q3q7k7jJmc"
+      },
+      {
+        "title": "Related Rates | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=k2SGWtF2RYs"
+      },
+      {
+        "title": "Applications of Derivatives | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "NCERT Class 12 Mathematics - Applications of Derivatives",
+        "url": "https://ncert.nic.in/textbook.php?jemh1=0-1"
+      },
+      {
+        "title": "Calculus Volume 1 - Chapter 4: Applications of Derivatives - OpenStax",
+        "url": "https://openstax.org/details/books/calculus-volume-1"
+      },
+      {
+        "title": "Khan Academy: Applications of Derivatives",
+        "url": "https://www.khanacademy.org/math/calculus-1/cs1-applications-derivatives"
+      },
+      {
+        "title": "Paul's Online Notes: Applications of Derivatives",
+        "url": "http://tutorial.math.lamar.edu/Classes/CalcI/Optimization.aspx"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Optimization Visualizations - Desmos",
+        "url": "https://www.desmos.com/calculator"
+      },
+      {
+        "title": "Related Rates Interactive - GeoGebra",
+        "url": "https://www.geogebra.org/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Applications of Derivatives: Optimization and Related Rates",
+      "description": "Solve 3 optimization problems with geometric or business context. Solve 2 related rates problems involving distance, height, or speed. Draw diagrams showing the problem setup and label variables. Submit explanations and calculations.",
+      "tasks": [
+        "Solve 3 optimization problems with geometric context (e.g., maximizing area, minimizing perimeter, optimizing volume)",
+        "Solve 3 optimization problems with business context (e.g., maximizing profit, minimizing cost, optimizing revenue)",
+        "Apply the First Derivative Test to identify local maxima and minima for 5 functions",
+        "Apply the Second Derivative Test to identify concavity and inflection points for 5 functions",
+        "Find absolute extrema on closed intervals for 5 functions",
+        "Solve 2 related rates problems involving distance and time (e.g., moving objects, changing distances)",
+        "Solve 2 related rates problems involving height and volume (e.g., filling containers, expanding shapes)",
+        "Solve 2 related rates problems involving angles and rates (e.g., sliding ladders, rotating objects)",
+        "Draw detailed diagrams for each optimization and related rates problem, labeling all variables",
+        "Submit complete solutions with step-by-step explanations, showing all derivative calculations and interpretations",
+        "Research the method of Lagrange multipliers for constrained optimization. Explain how it extends optimization to problems with constraints and provide an example",
+        "Investigate the Karush-Kuhn-Tucker (KKT) conditions for optimization with inequality constraints. Research their applications in economics and engineering",
+        "Study the calculus of variations. Research how optimization extends to functionals (functions of functions) and provide examples from physics",
+        "Explore convex optimization. Research the properties of convex functions and why convex optimization problems have global optima",
+        "Investigate the relationship between optimization and machine learning. Research how gradient descent uses derivatives to minimize loss functions",
+        "Study the envelope theorem in economics. Research how it relates derivatives to optimization problems with parameters",
+        "Research the Weierstrass extreme value theorem. Explain how it guarantees the existence of absolute extrema on closed, bounded intervals",
+        "Investigate optimization in multiple variables. Research how partial derivatives extend optimization techniques to functions of several variables",
+        "Explore the connection between optimization and linear programming. Research how calculus-based optimization relates to linear programming methods",
+        "Study the application of optimization in control theory. Research how optimal control problems use calculus of variations and provide examples"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Define optimization in your own words.",
+      "type": "multiple-choice",
+      "options": [
+        "Finding the maximum or minimum value of a function",
+        "Finding the derivative of a function",
+        "Finding the integral of a function",
+        "Finding the limit of a function"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Optimization is the process of finding the maximum or minimum values of a function, typically subject to constraints."
+    },
+    {
+      "question": "Find the maximum value of f(x) = -2x^2 + 8x + 3.",
+      "type": "multiple-choice",
+      "options": [
+        "11",
+        "8",
+        "3",
+        "19"
+      ],
+      "correctAnswer": 0,
+      "explanation": "f'(x) = -4x + 8. Set f'(x) = 0: -4x + 8 = 0, so x = 2. f(2) = -2(4) + 8(2) + 3 = -8 + 16 + 3 = 11. Since f''(x) = -4 < 0, this is a maximum."
+    },
+    {
+      "question": "A water tank fills at 10 m³/min. If the tank is a cylinder with radius 2 m, find the rate of change of water height.",
+      "type": "multiple-choice",
+      "options": [
+        "5/(2π) m/min",
+        "10/(4π) m/min",
+        "10/(2π) m/min",
+        "5/π m/min"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Volume V = πr²h = 4πh. dV/dt = 4π(dh/dt). Given dV/dt = 10, so 10 = 4π(dh/dt), giving dh/dt = 10/(4π) = 5/(2π) m/min."
+    },
+    {
+      "question": "Identify when a function has maximum or minimum using derivative.",
+      "type": "multiple-choice",
+      "options": [
+        "At critical points where f'(x) = 0 or f'(x) is undefined",
+        "At all points where f'(x) exists",
+        "At endpoints only",
+        "At inflection points"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Local extrema occur at critical points where f'(x) = 0 or f'(x) is undefined. The First or Second Derivative Test determines if it's a maximum or minimum."
+    },
+    {
+      "question": "Explain why derivative = 0 helps find maxima or minima.",
+      "type": "multiple-choice",
+      "options": [
+        "At extrema, the tangent line is horizontal, so the slope (derivative) is zero",
+        "Derivative = 0 means the function is constant",
+        "Derivative = 0 means the function is undefined",
+        "Derivative = 0 means the function is increasing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "At local maxima or minima, the tangent line is horizontal (slope = 0), so f'(x) = 0. This is why we set the derivative equal to zero to find critical points."
+    },
+    {
+      "question": "A rectangle has perimeter 20. Find the dimensions that maximize area.",
+      "type": "multiple-choice",
+      "options": [
+        "5 by 5",
+        "4 by 6",
+        "3 by 7",
+        "6 by 4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Let sides be x and y. Perimeter: 2x + 2y = 20, so y = 10 - x. Area A = x(10-x) = 10x - x². dA/dx = 10 - 2x = 0, so x = 5, y = 5. Maximum area = 25."
+    },
+    {
+      "question": "A balloon rises at 5 m/s. A person walks away at 3 m/s. If initially the person is 4 m from the launch point and the balloon is 3 m high, find the rate of change of distance after 1 second.",
+      "type": "multiple-choice",
+      "options": [
+        "Approximately 4.6 m/s",
+        "5 m/s",
+        "3 m/s",
+        "8 m/s"
+      ],
+      "correctAnswer": 0,
+      "explanation": "After 1s: horizontal distance = 4 + 3 = 7m, height = 3 + 5 = 8m. Distance d = √(7² + 8²) = √113. Using d² = h² + x² and differentiating: 2d(dd/dt) = 2h(dh/dt) + 2x(dx/dt). At t=1: 2√113(dd/dt) = 2(8)(5) + 2(7)(3) = 80 + 42 = 122, so dd/dt ≈ 4.6 m/s."
+    },
+    {
+      "question": "The First Derivative Test states:",
+      "type": "multiple-choice",
+      "options": [
+        "If f' changes from + to - at c, then c is a local maximum; if f' changes from - to +, then c is a local minimum",
+        "If f'(c) = 0, then c is always an extremum",
+        "If f''(c) > 0, then c is a maximum",
+        "If f'(c) exists, then c is an extremum"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The First Derivative Test: If f' changes from positive to negative at c, then c is a local maximum. If f' changes from negative to positive, then c is a local minimum."
+    },
+    {
+      "question": "The Second Derivative Test states:",
+      "type": "multiple-choice",
+      "options": [
+        "If f'(c) = 0 and f''(c) > 0, then c is a local minimum; if f''(c) < 0, then c is a local maximum",
+        "If f''(c) = 0, then c is an extremum",
+        "If f'(c) = 0, then c is always an extremum",
+        "If f''(c) exists, then c is an extremum"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Second Derivative Test: If f'(c) = 0 and f''(c) > 0, then c is a local minimum. If f'(c) = 0 and f''(c) < 0, then c is a local maximum."
+    },
+    {
+      "question": "In a related rates problem, if y = x² and dx/dt = 3, find dy/dt when x = 2.",
+      "type": "multiple-choice",
+      "options": [
+        "12",
+        "6",
+        "9",
+        "4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "y = x², so dy/dx = 2x. Using chain rule: dy/dt = (dy/dx)(dx/dt) = 2x(3) = 6x. When x = 2: dy/dt = 6(2) = 12."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+    "additional": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/0c/Maxima_and_minima.svg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3a/Related_rates.svg",
+      "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=800&q=80",
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Optimization": "The process of finding the maximum or minimum value of a function, typically subject to constraints. Optimization problems involve setting up a function to optimize, finding its derivative, and solving for critical points.",
+      "Critical Point": "A point c where f'(c) = 0 or f'(c) is undefined. Critical points are candidates for local extrema.",
+      "Local Maximum": "A point where f(c) ≥ f(x) for all x near c. The function reaches its highest value in a neighborhood around c.",
+      "Local Minimum": "A point where f(c) ≤ f(x) for all x near c. The function reaches its lowest value in a neighborhood around c.",
+      "Absolute Maximum": "The highest value of f(x) on an interval. Found by comparing values at critical points and endpoints.",
+      "Absolute Minimum": "The lowest value of f(x) on an interval. Found by comparing values at critical points and endpoints.",
+      "First Derivative Test": "If f' changes from positive to negative at c, then c is a local maximum. If f' changes from negative to positive, then c is a local minimum.",
+      "Second Derivative Test": "If f'(c) = 0 and f''(c) > 0, then c is a local minimum. If f'(c) = 0 and f''(c) < 0, then c is a local maximum.",
+      "Related Rates": "Problems involving quantities that change together over time. One rate is known, and another rate must be found using the chain rule.",
+      "Chain Rule for Related Rates": "If y = f(x) and x = g(t), then dy/dt = (dy/dx)(dx/dt). This connects rates of change of related quantities."
+    },
+    "keyConcepts": [
+      "Optimization problems require setting up a function to optimize, finding its derivative, and solving for critical points",
+      "The First Derivative Test uses the sign change of f' to identify local extrema",
+      "The Second Derivative Test uses concavity (f'') to identify local extrema",
+      "Absolute extrema on closed intervals are found by comparing values at critical points and endpoints",
+      "Related rates problems use the chain rule to connect rates of change of related quantities"
+    ],
+    "stepByStepExplanations": [
+      "**Optimization Problem:** Find maximum area of rectangle with perimeter 20. Step 1) Let sides be x and y. Step 2) Constraint: 2x + 2y = 20, so y = 10 - x. Step 3) Area A = x(10-x) = 10x - x². Step 4) dA/dx = 10 - 2x. Step 5) Set dA/dx = 0: 10 - 2x = 0, so x = 5. Step 6) y = 10 - 5 = 5. Step 7) Maximum area = 5 × 5 = 25.",
+      "**Related Rates Problem:** Balloon rises at 5 m/s, person walks away at 3 m/s. Find rate of change of distance. Step 1) Let h = height, x = horizontal distance, d = distance. Step 2) d² = h² + x². Step 3) Differentiate: 2d(dd/dt) = 2h(dh/dt) + 2x(dx/dt). Step 4) Given: dh/dt = 5, dx/dt = 3. Step 5) At specific time, substitute values to find dd/dt.",
+      "**First Derivative Test:** For f(x) = x³ - 3x. Step 1) f'(x) = 3x² - 3 = 3(x² - 1) = 3(x-1)(x+1). Step 2) Critical points: x = -1, 1. Step 3) Test intervals: x < -1: f' > 0 (increasing), -1 < x < 1: f' < 0 (decreasing), x > 1: f' > 0 (increasing). Step 4) At x = -1: f' changes from + to -, so local maximum. Step 5) At x = 1: f' changes from - to +, so local minimum.",
+      "**Second Derivative Test:** For f(x) = x² - 4x + 3. Step 1) f'(x) = 2x - 4. Step 2) Critical point: x = 2. Step 3) f''(x) = 2 > 0. Step 4) Since f''(2) > 0, x = 2 is a local minimum."
+    ],
+    "examples": [
+      "**Optimization - Maximum Area:** Rectangle with perimeter 20\n   Let sides be x and y: 2x + 2y = 20, so y = 10 - x\n   Area A = x(10-x) = 10x - x²\n   dA/dx = 10 - 2x = 0 → x = 5, y = 5\n   Maximum area = 25 square units",
+      "**Optimization - Maximum Profit:** Profit P(x) = -2x² + 20x - 10\n   dP/dx = -4x + 20 = 0 → x = 5\n   P(5) = -2(25) + 20(5) - 10 = 40\n   Maximum profit = $40 at x = 5 units",
+      "**Related Rates - Filling Tank:** Cylindrical tank with radius 2 m fills at 10 m³/min\n   Volume V = πr²h = 4πh\n   dV/dt = 4π(dh/dt) = 10\n   dh/dt = 10/(4π) = 5/(2π) m/min",
+      "**Related Rates - Sliding Ladder:** 10 m ladder slides down wall\n   When bottom is 6 m from wall and moving at 2 m/s, find top's speed\n   x² + y² = 100, differentiate: 2x(dx/dt) + 2y(dy/dt) = 0\n   At x = 6, y = 8: 2(6)(2) + 2(8)(dy/dt) = 0 → dy/dt = -3 m/s (downward)"
+    ],
+    "realLifeApplications": [
+      "**Business Optimization:** Companies use derivatives to maximize profit or minimize cost. For example, finding the optimal production level where marginal revenue equals marginal cost maximizes profit.",
+      "**Engineering Design:** Engineers optimize dimensions to minimize material usage while meeting strength requirements. For example, designing a cylindrical can to minimize surface area for a given volume.",
+      "**Physics - Motion Analysis:** Related rates describe how quantities change together. For example, tracking the rate of change of distance between moving objects, or the rate of change of angle as objects move.",
+      "**Economics - Marginal Analysis:** Economists use derivatives to analyze marginal cost, marginal revenue, and marginal profit, helping businesses make optimal production and pricing decisions."
+    ],
+    "diagramsOrImageDescriptions": [
+      "Graph showing optimization: A function curve with a local maximum and minimum, with tangent lines at critical points showing where f'(x) = 0.",
+      "Diagram of related rates problem: A right triangle showing height, horizontal distance, and distance, with arrows indicating rates of change (dh/dt, dx/dt, dd/dt).",
+      "Graph illustrating First Derivative Test: Function with critical points, showing sign changes of f' (positive to negative = maximum, negative to positive = minimum).",
+      "Graph illustrating Second Derivative Test: Function with critical point, showing concavity (f'' > 0 = minimum, f'' < 0 = maximum)."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Multiple-choice questions: 1 point each. Total: 10 points. Passing: 7/10 (70%). Questions require understanding of optimization techniques, derivative tests, and related rates problem-solving."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=1Q3q7k7jJmc"
+}

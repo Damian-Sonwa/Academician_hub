@@ -1,0 +1,161 @@
+{
+  "topic": "Exponential and Logarithmic Functions",
+  "detailedSummary": "Exponential functions have the form f(x) = aˣ, where a > 0 and a ≠ 1. The base a determines the function's behavior: if a > 1, the function grows exponentially; if 0 < a < 1, it decays exponentially. The natural exponential function uses base e (approximately 2.718), written as eˣ, which has special properties in calculus. Exponential functions model phenomena with constant percentage rates of change: population growth, radioactive decay, compound interest, and viral spread. Key properties include: domain is all real numbers, range is (0, ∞), y-intercept is (0, 1), horizontal asymptote at y = 0, and the function is always increasing (if a > 1) or always decreasing (if 0 < a < 1). Logarithmic functions are the inverse of exponential functions: if y = aˣ, then x = logₐ(y). The common logarithm uses base 10 (log₁₀), and the natural logarithm uses base e (ln). Logarithms have properties that mirror exponentials: logₐ(1) = 0, logₐ(a) = 1, logₐ(xy) = logₐ(x) + logₐ(y), logₐ(x/y) = logₐ(x) - logₐ(y), and logₐ(xⁿ) = n·logₐ(x). These properties enable solving exponential equations by taking logarithms of both sides. Exponential and logarithmic functions are fundamental in modeling growth and decay, analyzing data on logarithmic scales, and solving equations in science, finance, and engineering.",
+  "whyItMatters": "Exponential and logarithmic functions model growth, decay, and relationships with constant percentage rates - essential for finance, biology, physics, and data analysis.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Functions - Domain, Range, and Composition | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=Uzt63oiMvvg"
+      },
+      {
+        "title": "What is a Function? | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=WUfTyaaNkzM"
+      },
+      {
+        "title": "Function Properties | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "College Algebra 2e - Chapter 6: Exponential and Logarithmic Functions - OpenStax",
+        "url": "https://openstax.org/details/books/college-algebra-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Exponential and Logarithmic Functions - Desmos",
+        "url": "https://www.desmos.com/calculator"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Exponential and Logarithmic Functions",
+      "description": "Master exponential and logarithmic functions, their properties, and applications.",
+      "tasks": [
+        "Graph 10 exponential functions with different bases",
+        "Graph 10 logarithmic functions with different bases",
+        "Solve 15 exponential equations using logarithms",
+        "Solve 15 logarithmic equations",
+        "Apply properties of logarithms to expand and condense expressions",
+        "Solve compound interest problems using exponential functions",
+        "Model population growth and decay using exponential functions",
+        "Convert between exponential and logarithmic forms",
+        "Find inverse functions of exponential and logarithmic functions",
+        "Create real-world scenarios modeled by exponential or logarithmic functions"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the value of log₂(8)?",
+      "type": "multiple-choice",
+      "options": [
+        "3",
+        "2",
+        "8",
+        "16"
+      ],
+      "correctAnswer": 0,
+      "explanation": "log₂(8) asks: 2 to what power equals 8? Since 2³ = 8, log₂(8) = 3."
+    },
+    {
+      "question": "Solve: 2ˣ = 16",
+      "type": "multiple-choice",
+      "options": [
+        "x = 4",
+        "x = 8",
+        "x = 2",
+        "x = 16"
+      ],
+      "correctAnswer": 0,
+      "explanation": "16 = 2⁴, so 2ˣ = 2⁴, therefore x = 4."
+    },
+    {
+      "question": "What is the domain of f(x) = log(x - 3)?",
+      "type": "multiple-choice",
+      "options": [
+        "x > 3",
+        "x ≥ 3",
+        "All real numbers",
+        "x < 3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The argument of a logarithm must be positive, so x - 3 > 0, which means x > 3."
+    },
+    {
+      "question": "The exponential function f(x) = 2ˣ and the logarithmic function g(x) = log₂(x) are inverse functions.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Exponential and logarithmic functions with the same base are inverses of each other."
+    },
+    {
+      "question": "Using properties of logarithms, what is log(100) + log(1000)?",
+      "type": "multiple-choice",
+      "options": [
+        "log(100,000)",
+        "log(1,100)",
+        "5",
+        "Cannot be simplified"
+      ],
+      "correctAnswer": 0,
+      "explanation": "log(100) + log(1000) = log(100 × 1000) = log(100,000) using the product property."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1574170275470-a717198122c8?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Exponential Function": "A function of the form f(x) = aˣ where a > 0, a ≠ 1, and x is any real number. The base a is constant, x is the exponent.",
+      "Base": "The constant a in aˣ. If a > 1, function grows; if 0 < a < 1, function decays. Common bases: 2, 10, e.",
+      "Natural Base (e)": "An irrational number approximately 2.718. The function eˣ has special properties in calculus and models continuous growth.",
+      "Logarithm": "The inverse of exponential. If aˣ = y, then logₐ(y) = x. Answers: 'To what power must I raise a to get y?'",
+      "Common Logarithm": "Logarithm with base 10, written log(x) or log₁₀(x). Used in scientific notation and pH calculations.",
+      "Natural Logarithm": "Logarithm with base e, written ln(x) or logₑ(x). Used extensively in calculus and natural sciences.",
+      "Logarithmic Properties": "Product: log(ab) = log(a) + log(b). Quotient: log(a/b) = log(a) - log(b). Power: log(aⁿ) = n·log(a).",
+      "Exponential Growth/Decay": "Models with form A(t) = A₀·e^(rt) or A(t) = A₀·(1+r)ᵗ, where A₀ is initial amount, r is rate, t is time."
+    },
+    "keyConcepts": [
+      "Exponential functions have constant percentage rates of change, not constant absolute change",
+      "Logarithms are the inverse of exponentials: if y = aˣ, then x = logₐ(y)",
+      "Exponential growth: a > 1 (increasing). Exponential decay: 0 < a < 1 (decreasing)",
+      "Logarithmic properties allow simplifying complex expressions and solving exponential equations",
+      "The number e (≈2.718) is special because the derivative of eˣ is itself"
+    ],
+    "stepByStepExplanations": [
+      "**Evaluating Exponentials:** For 2³: Multiply 2 × 2 × 2 = 8. For 2⁻³: Use negative exponent rule: 1/2³ = 1/8. For 2^(1/2): This is √2 ≈ 1.414.",
+      "**Solving Exponential Equations:** For 3ˣ = 81: Step 1) Recognize 81 = 3⁴. Step 2) Since bases equal, exponents equal: x = 4. For 2ˣ = 10: Take log of both sides: x·log(2) = log(10), so x = log(10)/log(2) ≈ 3.32.",
+      "**Using Logarithm Properties:** Simplify log(100) + log(1000): Step 1) Apply product property: log(100 × 1000) = log(100,000). Step 2) Since 100,000 = 10⁵, log(100,000) = 5.",
+      "**Exponential Growth Model:** Population doubles every 5 years. If initial is 1000: A(t) = 1000·2^(t/5). After 10 years: A(10) = 1000·2² = 4000. After 15 years: A(15) = 1000·2³ = 8000."
+    ],
+    "examples": [
+      "**Exponential Growth:** f(x) = 2ˣ\n   f(0) = 1, f(1) = 2, f(2) = 4, f(3) = 8\n   Doubles each time x increases by 1\n   Graph: Rapidly increasing curve",
+      "**Exponential Decay:** f(x) = (1/2)ˣ = 2⁻ˣ\n   f(0) = 1, f(1) = 0.5, f(2) = 0.25, f(3) = 0.125\n   Halves each time x increases by 1\n   Graph: Rapidly decreasing curve approaching 0",
+      "**Logarithmic Function:** g(x) = log₂(x)\n   g(1) = 0, g(2) = 1, g(4) = 2, g(8) = 3\n   Inverse of 2ˣ\n   Graph: Slowly increasing curve",
+      "**Solving with Logarithms:** 5ˣ = 125\n   Take log of both sides: x·log(5) = log(125)\n   x = log(125)/log(5) = 3\n   Check: 5³ = 125 ✓"
+    ],
+    "realLifeApplications": [
+      "**Compound Interest:** A = P(1 + r/n)^(nt) models investment growth. If $1000 at 5% compounded monthly for 10 years: A = 1000(1 + 0.05/12)^(120) ≈ $1647. Logarithms help find time to double: t = ln(2)/(n·ln(1+r/n)).",
+      "**Radioactive Decay:** Half-life problems use A(t) = A₀·(1/2)^(t/h) where h is half-life. If half-life is 5 years and initial is 100g, after 10 years: A = 100·(1/2)² = 25g remains.",
+      "**Population Growth:** Bacteria doubling every hour: P(t) = P₀·2ᵗ. If start with 100, after 6 hours: P = 100·2⁶ = 6,400 bacteria. Logarithms find doubling time.",
+      "**pH Scale:** pH = -log₁₀[H⁺] measures acidity. If [H⁺] = 0.001, pH = -log(0.001) = 3 (acidic). If pH = 7, [H⁺] = 10⁻⁷ (neutral)."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A graph showing exponential growth (y = 2ˣ) as a rapidly increasing curve and exponential decay (y = (1/2)ˣ) as a rapidly decreasing curve, both passing through (0, 1).",
+      "A graph showing logarithmic function y = log(x) as a slowly increasing curve with vertical asymptote at x = 0, demonstrating it's the inverse of exponential.",
+      "A comparison diagram showing exponential vs. linear growth: exponential curve rises much faster than a straight line, illustrating the power of exponential growth."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uzt63oiMvvg"
+}

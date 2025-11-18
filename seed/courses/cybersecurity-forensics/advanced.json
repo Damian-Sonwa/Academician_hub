@@ -1,0 +1,398 @@
+[
+  {
+    "title": "Digital Forensics",
+    "summary": "Disk imaging, memory forensics, file system analysis, and forensic toolkits. Master digital forensics techniques for investigating cyber incidents.  Learn about disk imaging and preservation, memory forensics, file system analysis (NTFS, ext4, HFS+), forensic toolkits (Autopsy, Volatility, FTK), timeline analysis, and evidence collection. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Digital Forensics",
+          "url": "https://youtu.be/YcY4iYx0Zxo"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Digital Forensics with Autopsy",
+          "url": "https://owasp.org/www-project-top-ten/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Memory Forensics Lab - TryHackMe",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    },
+    "detailedSummary": "Disk imaging, memory forensics, file system analysis, and forensic toolkits. Master digital forensics techniques for investigating cyber incidents.  Learn about disk imaging and preservation, memory forensics, file system analysis (NTFS, ext4, HFS+), forensic toolkits (Autopsy, Volatility, FTK), timeline analysis, and evidence collection. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Advanced level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Digital Forensics. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Digital Forensics",
+        "description": "Complete a research assignment exploring key concepts related to Digital Forensics.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Digital Forensics",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Digital Forensics",
+        "description": "Apply your understanding of Digital Forensics through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Digital Forensics",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Digital Forensics?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Digital Forensics",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Digital Forensics?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding cybersecurity",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Digital Forensics is an important topic for understanding cybersecurity at the Advanced level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Digital Forensics provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+        },
+        {
+          "question": "The concepts in Digital Forensics have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Digital Forensics have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Digital Forensics helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "cybersecurity",
+          "explanation": "The correct answer is \"cybersecurity\". Digital Forensics is a key component of cybersecurity that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Disk Imaging and Preservation",
+    "summary": "Create and preserve forensic disk images. Learn disk imaging techniques, write blockers, hash verification, and chain of custody procedures.  Understand different image formats and tools. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Disk Imaging and Preservation",
+          "url": "https://youtu.be/YcY4iYx0Zxo"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Cybersecurity Textbook - Advanced Level",
+          "url": "https://owasp.org/www-project-top-ten/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Disk Imaging Tools",
+          "url": "https://tryhackme.com/"
+        },
+        {
+          "title": "Chain of Custody",
+          "url": "https://tryhackme.com/"
+        },
+        {
+          "title": "Disk Imaging",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    },
+    "detailedSummary": "Create and preserve forensic disk images. Learn disk imaging techniques, write blockers, hash verification, and chain of custody procedures.  Understand different image formats and tools. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Advanced level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Disk Imaging and Preservation. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Disk Imaging and Preservation",
+        "description": "Complete a research assignment exploring key concepts related to Disk Imaging and Preservation.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Disk Imaging and Preservation",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Disk Imaging and Preservation",
+        "description": "Apply your understanding of Disk Imaging and Preservation through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Disk Imaging and Preservation",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Disk Imaging and Preservation?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Disk Imaging and Preservation",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Disk Imaging and Preservation?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding cybersecurity",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Disk Imaging and Preservation is an important topic for understanding cybersecurity at the Advanced level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Disk Imaging and Preservation provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+        },
+        {
+          "question": "The concepts in Disk Imaging and Preservation have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Disk Imaging and Preservation have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Disk Imaging and Preservation helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "cybersecurity",
+          "explanation": "The correct answer is \"cybersecurity\". Disk Imaging and Preservation is a key component of cybersecurity that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "File System Analysis",
+    "summary": "Analyze file systems to recover evidence. Study NTFS, ext4, and HFS+ file systems.  Learn to recover deleted files, analyze file metadata, and trace file access patterns. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "File System Analysis",
+          "url": "https://youtu.be/YcY4iYx0Zxo"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "File System Guide",
+          "url": "https://owasp.org/www-project-top-ten/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Recovery Techniques",
+          "url": "https://tryhackme.com/"
+        },
+        {
+          "title": "File Analysis",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    },
+    "detailedSummary": "Analyze file systems to recover evidence. Study NTFS, ext4, and HFS+ file systems.  Learn to recover deleted files, analyze file metadata, and trace file access patterns. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Advanced level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to File System Analysis. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: File System Analysis",
+        "description": "Complete a research assignment exploring key concepts related to File System Analysis.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about File System Analysis",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: File System Analysis",
+        "description": "Apply your understanding of File System Analysis through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to File System Analysis",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of File System Analysis?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of File System Analysis",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of File System Analysis?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding cybersecurity",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+        },
+        {
+          "question": "File System Analysis is an important topic for understanding cybersecurity at the Advanced level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. File System Analysis provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+        },
+        {
+          "question": "The concepts in File System Analysis have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in File System Analysis have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of File System Analysis helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "cybersecurity",
+          "explanation": "The correct answer is \"cybersecurity\". File System Analysis is a key component of cybersecurity that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Timeline Analysis and Reporting",
+    "summary": "Create timelines and forensic reports. Learn to build event timelines, correlate evidence, and write comprehensive forensic reports.  Understand legal requirements and presentation techniques. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Timeline Analysis and Reporting",
+          "url": "https://youtu.be/YcY4iYx0Zxo"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Report Writing Guide",
+          "url": "https://owasp.org/www-project-top-ten/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Timeline Tools",
+          "url": "https://tryhackme.com/"
+        },
+        {
+          "title": "Report Creation",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    },
+    "detailedSummary": "Create timelines and forensic reports. Learn to build event timelines, correlate evidence, and write comprehensive forensic reports.  Understand legal requirements and presentation techniques. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Advanced level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Timeline Analysis and Reporting. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Timeline Analysis and Reporting",
+        "description": "Complete a research assignment exploring key concepts related to Timeline Analysis and Reporting.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Timeline Analysis and Reporting",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Timeline Analysis and Reporting",
+        "description": "Apply your understanding of Timeline Analysis and Reporting through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Timeline Analysis and Reporting",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Timeline Analysis and Reporting?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Timeline Analysis and Reporting",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Timeline Analysis and Reporting?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding cybersecurity",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Timeline Analysis and Reporting is an important topic for understanding cybersecurity at the Advanced level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Timeline Analysis and Reporting provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+        },
+        {
+          "question": "The concepts in Timeline Analysis and Reporting have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Timeline Analysis and Reporting have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Timeline Analysis and Reporting helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "cybersecurity",
+          "explanation": "The correct answer is \"cybersecurity\". Timeline Analysis and Reporting is a key component of cybersecurity that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  }
+]

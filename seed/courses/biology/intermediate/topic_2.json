@@ -1,0 +1,80 @@
+{
+  "topic": "Cell Structure and Function",
+  "detailedSummary": "Cells are the fundamental units of life, serving as the building blocks for all living organisms. There are two main types of cells: prokaryotic cells, found in bacteria and archaea, which lack a nucleus and membrane-bound organelles, and eukaryotic cells, found in plants, animals, fungi, and protists, which contain a nucleus and various specialized organelles. The cell membrane, or plasma membrane, is a selectively permeable barrier that controls what enters and exits the cell. It consists of a phospholipid bilayer with embedded proteins that facilitate transport and communication. The nucleus houses the cell's genetic material (DNA) and controls cellular activities through gene expression. Mitochondria are the powerhouses of the cell, producing ATP through cellular respiration. Other important organelles include the endoplasmic reticulum (ER), which synthesizes proteins and lipids; the Golgi apparatus, which modifies and packages molecules for transport; lysosomes, which break down waste materials; and ribosomes, which synthesize proteins. Plant cells also contain chloroplasts for photosynthesis, a large central vacuole for storage, and a rigid cell wall for structural support. Cells maintain homeostasis through various mechanisms, including active and passive transport, enzyme regulation, and feedback systems. Understanding cell structure and function is crucial for comprehending how organisms grow, develop, and respond to their environment.",
+  "whyItMatters": "Understanding cell structure and function is essential because cells are the basic units of all living things, and knowledge of how they work forms the foundation for understanding health, disease, genetics, and biotechnology.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Cell Structure | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=URUJD5NEXC8"
+      },
+      {
+        "title": "Introduction to Cells | Crash Course Biology",
+        "url": "https://www.youtube.com/watch?v=8IlzKri08kk"
+      },
+      {
+        "title": "Cell Biology | Bozeman Science",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Cell Biology Textbook Chapter",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Lab Activity: Microscope Basics",
+        "url": "https://phet.colorado.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Cell Organelle Model and Presentation",
+      "description": "Create a detailed model of a plant or animal cell and explain the function of each major organelle.",
+      "tasks": [
+        "Choose either a plant or animal cell to model",
+        "Create a 3D model using materials of your choice (clay, cardboard, or digital tools)",
+        "Label all major organelles including nucleus, mitochondria, ER, Golgi apparatus, and cell membrane",
+        "Write a brief explanation (2-3 sentences) for each organelle's function",
+        "Present your model to the class or create a video presentation explaining your cell model"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the main difference between prokaryotic and eukaryotic cells?",
+      "type": "multiple-choice",
+      "options": [
+        "Prokaryotic cells are larger than eukaryotic cells",
+        "Eukaryotic cells lack a nucleus, while prokaryotic cells have one",
+        "Prokaryotic cells lack a nucleus and membrane-bound organelles, while eukaryotic cells have both",
+        "There is no significant difference between them"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Prokaryotic cells are simpler and lack a nucleus and membrane-bound organelles, while eukaryotic cells have a nucleus and various specialized organelles enclosed in membranes."
+    },
+    {
+      "question": "The mitochondria is often called the 'powerhouse of the cell' because it produces ATP through cellular respiration.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Mitochondria are responsible for producing ATP (adenosine triphosphate), which is the primary energy currency of the cell, through the process of cellular respiration."
+    },
+    {
+      "question": "Which organelle is responsible for protein synthesis in cells?",
+      "type": "multiple-choice",
+      "options": [
+        "Golgi apparatus",
+        "Ribosomes",
+        "Lysosomes",
+        "Endoplasmic reticulum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ribosomes are the cellular structures responsible for protein synthesis. They can be found free in the cytoplasm or attached to the rough endoplasmic reticulum."
+    }
+  ],
+  "videoUrl": "https://www.youtube.com/watch?v=URUJD5NEXC8"
+}
+

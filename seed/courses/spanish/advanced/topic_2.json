@@ -1,0 +1,86 @@
+{
+  "topic": "Perfect Tenses: Present Perfect, Past Perfect, Future Perfect",
+  "detailedSummary": "Perfect tenses combine 'haber' (to have) with past participles to express completed actions relative to different time frames. Present perfect (pretérito perfecto): 'He comido' (I have eaten) - actions completed recently or with present relevance. Formation: present of 'haber' (he, has, ha, hemos, habéis, han) + past participle. Past participles: -ar verbs → -ado (hablado), -er/-ir verbs → -ido (comido, vivido). Irregular participles: abrir → abierto, escribir → escrito, hacer → hecho, ver → visto, volver → vuelto. Past perfect (pluscuamperfecto): 'Había comido' (I had eaten) - actions completed before another past action. Formation: imperfect of 'haber' (había, habías, había, habíamos, habíais, habían) + past participle. Future perfect: 'Habré comido' (I will have eaten) - actions that will be completed by a future time. Formation: future of 'haber' (habré, habrás, habrá, habremos, habréis, habrán) + past participle. Conditional perfect: 'Habría comido' (I would have eaten). Uses: present perfect for recent past, past perfect for 'had done', future perfect for 'will have done'. Mastering perfect tenses enables precise time expression.",
+  "whyItMatters": "Perfect tenses are essential for expressing completed actions relative to different time frames - they're used constantly in conversation and are crucial for advanced Spanish communication.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Perfect Tenses: Present Perfect, Past Perfect, Future Perfect | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Perfect Tenses: Present Perfect, Past Perfect, Future Perfect | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Perfect Tenses: Present Perfect, Past Perfect, Future Perfect | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Perfect Tenses Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Perfect Tenses Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Perfect Tenses",
+      "description": "Practice using all perfect tenses to express completed actions in different time contexts.",
+      "tasks": [
+        "Conjugate 'haber' in present, imperfect, and future tenses",
+        "Form past participles for regular and irregular verbs",
+        "Write sentences using present perfect for recent actions",
+        "Use past perfect to show actions completed before other past actions",
+        "Practice future perfect to express actions that will be completed by future times"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the present perfect form of 'comer' for 'yo'?",
+      "type": "multiple-choice",
+      "options": [
+        "comí",
+        "he comido",
+        "había comido",
+        "comeré"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'He comido' is present perfect (I have eaten) - formed with present of 'haber' (he) + past participle (comido)."
+    },
+    {
+      "question": "Past participles ending in '-ado' are for -ar verbs, while '-ido' is for -er and -ir verbs.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Regular past participles: -ar verbs → -ado (hablado), -er/-ir verbs → -ido (comido, vivido)."
+    },
+    {
+      "question": "What does 'había comido' mean?",
+      "type": "multiple-choice",
+      "options": [
+        "I have eaten",
+        "I had eaten",
+        "I will have eaten",
+        "I eat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Había comido' is past perfect (I had eaten) - an action completed before another past action."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

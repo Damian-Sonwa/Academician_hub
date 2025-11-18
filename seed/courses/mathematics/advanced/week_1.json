@@ -1,0 +1,100 @@
+{
+  "course": "mathematics",
+  "level": "advanced",
+  "week": 1,
+  "topic": "Functions and Their Properties",
+  "summary": "Review functions essential for calculus. Study function notation, domain and range, composition of functions, and inverse functions. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding math at the Advanced level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Functions and Their Properties. The material is designed to build a strong foundation for further learning and practical application in real-world contexts. This topic provides comprehensive coverage essential for understanding math at the advanced level. Through detailed study, students will gain deep insights into the concepts, principles, and real-world applications. The material is designed to build a strong foundation for further learning and practical application in various contexts.",
+  "why_it_matters": "This mathematical concept is fundamental for problem-solving in science, engineering, economics, and daily life, providing tools for logical thinking and quantitative analysis.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Functions and Their Properties - Tutorial",
+        "url": "https://youtu.be/dQw4w9WgXcQ"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Inverse Functions Guide",
+        "url": "https://openstax.org/books/algebra-and-trigonometry"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Function Reference Sheet",
+        "url": "https://www.desmos.com/calculator"
+      },
+      {
+        "title": "Composition Practice",
+        "url": "https://www.desmos.com/calculator"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Research Assignment: Functions and Their Properties",
+      "description": "Complete a research assignment exploring key concepts related to Functions and Their Properties.",
+      "tasks": [
+        "Read the assigned textbook chapters and online resources about Functions and Their Properties",
+        "Identify and explain at least three key concepts from the topic",
+        "Find one real-world example or application of these concepts",
+        "Write a 300-500 word summary explaining your findings",
+        "Include at least two credible sources in your research"
+      ]
+    },
+    {
+      "title": "Practical Exercise: Functions and Their Properties",
+      "description": "Apply your understanding of Functions and Their Properties through hands-on activities.",
+      "tasks": [
+        "Complete the lab exercises or simulations related to Functions and Their Properties",
+        "Document your observations and findings in a lab report",
+        "Answer the reflection questions about what you learned",
+        "Create a visual representation (diagram, chart, or model) of key concepts",
+        "Present your findings to the class or submit a written report"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary focus of Functions and Their Properties?",
+      "options": [
+        "Understanding fundamental concepts of Functions and Their Properties",
+        "Memorizing facts without context",
+        "Avoiding practical applications",
+        "Focusing only on advanced topics"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+    },
+    {
+      "question": "Which of the following best describes the importance of Functions and Their Properties?",
+      "options": [
+        "It provides essential knowledge for understanding math",
+        "It is only relevant for advanced students",
+        "It has no real-world applications",
+        "It is purely theoretical without practical value"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "This topic provides essential foundational knowledge that is crucial for understanding math and has practical applications in real-world contexts."
+    },
+    {
+      "question": "Functions and Their Properties is an important topic for understanding math at the Advanced level.",
+      "answer": true,
+      "type": "true-false",
+      "explanation": "This statement is true. Functions and Their Properties provides fundamental knowledge that is essential for building a strong understanding of math."
+    },
+    {
+      "question": "The concepts in Functions and Their Properties have no practical applications in real life.",
+      "answer": false,
+      "type": "true-false",
+      "explanation": "This statement is false. The concepts in Functions and Their Properties have numerous practical applications in various fields and everyday life."
+    },
+    {
+      "question": "The study of Functions and Their Properties helps students understand the fundamental principles of ______.",
+      "answer": "math",
+      "type": "fill-in-the-blank",
+      "explanation": "The correct answer is \"math\". Functions and Their Properties is a key component of math that helps students understand fundamental principles in this field."
+    }
+  ]
+}

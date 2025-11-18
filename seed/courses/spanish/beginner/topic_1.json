@@ -1,0 +1,86 @@
+{
+  "topic": "Introduction to Spanish and Basic Greetings",
+  "detailedSummary": "Spanish is one of the world's most spoken languages, with over 500 million speakers across 21 countries. This introductory lesson covers the fundamentals of Spanish communication, starting with essential greetings and polite expressions. You'll learn how to greet people at different times of day: 'Buenos días' (good morning), 'Buenas tardes' (good afternoon), and 'Buenas noches' (good evening/night). Basic introductions include 'Me llamo...' (My name is...) and 'Mucho gusto' (Nice to meet you). Polite expressions like 'Por favor' (please), 'Gracias' (thank you), and 'De nada' (you're welcome) are essential for everyday interactions. You'll also learn how to ask '¿Cómo estás?' (How are you?) and respond with 'Estoy bien' (I'm fine) or 'Estoy mal' (I'm not well). Understanding formal vs informal address is crucial: 'tú' for friends and 'usted' for formal situations. This foundation sets the stage for all future Spanish learning.",
+  "whyItMatters": "Mastering basic greetings and polite expressions is essential for any Spanish conversation - these are the first words you'll use in real-world interactions and establish rapport with Spanish speakers.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Introduction to Spanish and Basic Greetings | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Introduction to Spanish and Basic Greetings | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Introduction to Spanish and Basic Greetings | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Spanish for Beginners - Greetings Chapter",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Interactive Greetings Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Practice Spanish Greetings",
+      "description": "Practice and demonstrate understanding of Spanish greetings and basic introductions.",
+      "tasks": [
+        "Create a dialogue script using at least 10 different greetings and polite expressions",
+        "Record yourself pronouncing each greeting correctly",
+        "Write a short paragraph introducing yourself in Spanish using 'Me llamo...' and basic phrases",
+        "Practice the difference between formal (usted) and informal (tú) greetings",
+        "Create flashcards for all greetings learned and practice daily for one week"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the correct way to say 'Good morning' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "Buenas noches",
+        "Buenos días",
+        "Buenas tardes",
+        "Buen día"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Buenos días' is the correct greeting for good morning in Spanish, used from early morning until around noon."
+    },
+    {
+      "question": "'Usted' is used for formal situations, while 'tú' is used for informal situations with friends and family.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. 'Usted' shows respect and formality (used with elders, strangers, or in professional settings), while 'tú' is casual and used with friends, family, or peers."
+    },
+    {
+      "question": "How do you say 'Nice to meet you' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "Mucho gusto",
+        "Por favor",
+        "De nada",
+        "Gracias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Mucho gusto' means 'Nice to meet you' or 'Pleased to meet you' and is used when introducing yourself to someone new."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+}

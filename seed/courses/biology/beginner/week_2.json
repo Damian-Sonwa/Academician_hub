@@ -1,0 +1,100 @@
+{
+  "course": "biology",
+  "level": "beginner",
+  "week": 2,
+  "topic": "Cell Structure and Function",
+  "summary": "Discover the building blocks of life: prokaryotic and eukaryotic cells. Deep dive into cellular organelles, their functions, and how cells maintain homeostasis.  Compare plant and animal cells, explore the cell membrane, nucleus, mitochondria, and other essential structures. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nCells are the fundamental units of life, serving as the building blocks for all living organisms. There are two main types of cells: prokaryotic cells, found in bacteria and archaea, which lack a nucleus and membrane-bound organelles, and eukaryotic cells, found in plants, animals, fungi, and protists, which contain a nucleus and various specialized organelles.\n\nThe cell membrane, or plasma membrane, is a selectively permeable barrier that controls what enters and exits the cell. It consists of a phospholipid bilayer with embedded proteins that facilitate transport and communication. The nucleus houses the cell's genetic material (DNA) and controls cellular activities through gene expression. Mitochondria are the powerhouses of the cell, producing ATP through cellular respiration.\n\nOther important organelles include the endoplasmic reticulum (ER), which synthesizes proteins and lipids; the Golgi apparatus, which modifies and packages molecules for transport; lysosomes, which break down waste materials; and ribosomes, which synthesize proteins. Plant cells also contain chloroplasts for photosynthesis, a large central vacuole for storage, and a rigid cell wall for structural support.\n\nCells maintain homeostasis through various mechanisms, including active and passive transport, enzyme regulation, and feedback systems. Understanding cell structure and function is crucial for comprehending how organisms grow, develop, and respond to their environment. This knowledge forms the foundation for studying genetics, disease, biotechnology, and many other biological concepts.",
+  "why_it_matters": "Cell structure and function knowledge is essential for understanding how organisms work, how diseases develop, and how medical treatments target specific cellular processes.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Cell Structure and Function - Tutorial",
+        "url": "https://youtu.be/dQw4w9WgXcQ"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Science Textbook - Junior Level",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Lab Activity: Microscope Basics",
+        "url": "https://phet.colorado.edu/"
+      },
+      {
+        "title": "Cell Diagram Worksheet",
+        "url": "https://phet.colorado.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Research Assignment: Cell Structure and Function",
+      "description": "Complete a research assignment exploring key concepts related to Cell Structure and Function.",
+      "tasks": [
+        "Read the assigned textbook chapters and online resources about Cell Structure and Function",
+        "Identify and explain at least three key concepts from the topic",
+        "Find one real-world example or application of these concepts",
+        "Write a 300-500 word summary explaining your findings",
+        "Include at least two credible sources in your research"
+      ]
+    },
+    {
+      "title": "Practical Exercise: Cell Structure and Function",
+      "description": "Apply your understanding of Cell Structure and Function through hands-on activities.",
+      "tasks": [
+        "Complete the lab exercises or simulations related to Cell Structure and Function",
+        "Document your observations and findings in a lab report",
+        "Answer the reflection questions about what you learned",
+        "Create a visual representation (diagram, chart, or model) of key concepts",
+        "Present your findings to the class or submit a written report"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary focus of Cell Structure and Function?",
+      "options": [
+        "Understanding fundamental concepts of Cell Structure and Function",
+        "Memorizing facts without context",
+        "Avoiding practical applications",
+        "Focusing only on advanced topics"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+    },
+    {
+      "question": "Which of the following best describes the importance of Cell Structure and Function?",
+      "options": [
+        "It provides essential knowledge for understanding science",
+        "It is only relevant for advanced students",
+        "It has no real-world applications",
+        "It is purely theoretical without practical value"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "This topic provides essential foundational knowledge that is crucial for understanding science and has practical applications in real-world contexts."
+    },
+    {
+      "question": "Cell Structure and Function is an important topic for understanding science at the beginner level.",
+      "answer": true,
+      "type": "true-false",
+      "explanation": "This statement is true. Cell Structure and Function provides fundamental knowledge that is essential for building a strong understanding of science."
+    },
+    {
+      "question": "The concepts in Cell Structure and Function have no practical applications in real life.",
+      "answer": false,
+      "type": "true-false",
+      "explanation": "This statement is false. The concepts in Cell Structure and Function have numerous practical applications in various fields and everyday life."
+    },
+    {
+      "question": "The study of Cell Structure and Function helps students understand the fundamental principles of ______.",
+      "answer": "science",
+      "type": "fill-in-the-blank",
+      "explanation": "The correct answer is \"science\". Cell Structure and Function is a key component of science that helps students understand fundamental principles in this field."
+    }
+  ]
+}

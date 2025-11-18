@@ -1,0 +1,161 @@
+{
+  "topic": "Rational Expressions and Equations",
+  "detailedSummary": "Rational expressions are fractions where both the numerator and denominator are polynomials. Like numerical fractions, rational expressions can be simplified, added, subtracted, multiplied, and divided using similar rules. To simplify a rational expression, factor both numerator and denominator completely, then cancel common factors (but never cancel terms that are added or subtracted). The domain of a rational expression excludes values that make the denominator zero, as division by zero is undefined. Operations with rational expressions follow fraction rules: to add or subtract, find a common denominator (often the least common multiple of the denominators), rewrite each fraction with that denominator, then combine numerators. To multiply, multiply numerators and denominators separately, then simplify. To divide, multiply by the reciprocal of the divisor. Rational equations are equations containing rational expressions. To solve them, multiply both sides by the least common denominator to eliminate fractions, solve the resulting polynomial equation, then check that solutions don't make any denominator zero (extraneous solutions). Rational expressions and equations model many real-world situations including rates (speed = distance/time), work problems, mixture problems, and proportional relationships. They're essential in calculus for understanding limits, derivatives of rational functions, and integration techniques.",
+  "whyItMatters": "Rational expressions model rates, proportions, and relationships with restrictions - essential for solving real-world problems involving work, mixtures, and proportional reasoning.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Rational Expressions and Equations | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Rational Expressions and Equations | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Rational Expressions and Equations | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Intermediate Algebra 2e - Chapter 7: Rational Expressions and Functions - OpenStax",
+        "url": "https://openstax.org/details/books/intermediate-algebra-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Rational Functions - Desmos",
+        "url": "https://www.desmos.com/calculator"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Rational Expressions and Equations",
+      "description": "Master operations with rational expressions and solving rational equations.",
+      "tasks": [
+        "Simplify 15 rational expressions by factoring and canceling",
+        "Find the domain of 10 rational expressions",
+        "Add and subtract 10 pairs of rational expressions",
+        "Multiply and divide 10 pairs of rational expressions",
+        "Solve 15 rational equations, checking for extraneous solutions",
+        "Solve word problems involving rational equations (work, rate, mixture problems)",
+        "Graph 5 rational functions, identifying asymptotes and intercepts",
+        "Simplify complex fractions",
+        "Perform operations with rational expressions with different denominators",
+        "Create a real-world problem that requires solving a rational equation"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the domain of the rational expression (x + 2)/(x - 3)?",
+      "type": "multiple-choice",
+      "options": [
+        "All real numbers except x = 3",
+        "All real numbers except x = -2",
+        "All real numbers except x = 3 and x = -2",
+        "All real numbers"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The domain excludes values that make the denominator zero. x - 3 = 0 when x = 3, so x ≠ 3."
+    },
+    {
+      "question": "Simplify: (x² - 4)/(x + 2)",
+      "type": "multiple-choice",
+      "options": [
+        "x - 2",
+        "x + 2",
+        "x² - 2",
+        "Cannot be simplified"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Factor numerator: x² - 4 = (x + 2)(x - 2). Cancel (x + 2): (x + 2)(x - 2)/(x + 2) = x - 2, where x ≠ -2."
+    },
+    {
+      "question": "Solve: (x + 1)/(x - 2) = 3",
+      "type": "multiple-choice",
+      "options": [
+        "x = 7/2",
+        "x = 5/2",
+        "x = 2",
+        "x = -1"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Multiply both sides by (x - 2): x + 1 = 3(x - 2). So x + 1 = 3x - 6, thus 2x = 7, so x = 7/2. Check: 7/2 ≠ 2, so it's valid."
+    },
+    {
+      "question": "You can cancel terms that are added or subtracted in a rational expression.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. You can only cancel factors that are multiplied, not terms that are added or subtracted."
+    },
+    {
+      "question": "What is the least common denominator of 1/(x - 1) and 1/(x + 1)?",
+      "type": "multiple-choice",
+      "options": [
+        "(x - 1)(x + 1)",
+        "x² - 1",
+        "x - 1",
+        "x + 1"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The LCD is the product of the distinct factors: (x - 1)(x + 1), which equals x² - 1."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1574170275470-a717198122c8?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Rational Expression": "A fraction where both numerator and denominator are polynomials. Example: (x² - 4)/(x + 2).",
+      "Domain": "All real numbers except those making the denominator zero. For (x+1)/(x-3), domain is all real numbers except x = 3.",
+      "Simplified Form": "A rational expression with no common factors between numerator and denominator (except ±1).",
+      "Least Common Denominator (LCD)": "The smallest expression that all denominators divide into. For 1/(x-1) and 1/(x+1), LCD is (x-1)(x+1).",
+      "Extraneous Solution": "A solution that makes any denominator zero, which must be excluded. Always check solutions in original equation.",
+      "Complex Fraction": "A fraction where numerator or denominator (or both) contains fractions. Example: (1/x)/(1 + 1/x).",
+      "Asymptote": "A line that a rational function's graph approaches but never touches. Vertical asymptotes occur at domain exclusions.",
+      "Rational Equation": "An equation containing one or more rational expressions. Solved by eliminating denominators."
+    },
+    "keyConcepts": [
+      "Rational expressions follow the same rules as numerical fractions: simplify, find common denominators, combine",
+      "Always factor completely before canceling - you can only cancel factors, never terms",
+      "The domain excludes values making denominators zero - critical for validity",
+      "When solving rational equations, multiply by LCD to eliminate fractions, then check for extraneous solutions",
+      "Rational functions have vertical asymptotes where denominators equal zero (if not canceled by numerator)"
+    ],
+    "stepByStepExplanations": [
+      "**Simplifying Rational Expressions:** For (x² - 9)/(x + 3): Step 1) Factor numerator: (x + 3)(x - 3). Step 2) Cancel common factor (x + 3): x - 3, where x ≠ -3. Step 3) Domain: all real numbers except x = -3.",
+      "**Adding Rational Expressions:** For 1/(x-2) + 3/(x+1): Step 1) Find LCD: (x-2)(x+1). Step 2) Rewrite: [(x+1) + 3(x-2)]/[(x-2)(x+1)]. Step 3) Simplify numerator: (4x - 5)/[(x-2)(x+1)].",
+      "**Solving Rational Equations:** For (x+1)/(x-2) = 3: Step 1) Multiply both sides by (x-2): x + 1 = 3(x - 2). Step 2) Solve: x + 1 = 3x - 6, so 2x = 7, x = 7/2. Step 3) Check: 7/2 ≠ 2, so valid solution.",
+      "**Finding Domain:** For (x+5)/(x²-4): Step 1) Set denominator = 0: x² - 4 = 0. Step 2) Solve: x = ±2. Step 3) Domain: all real numbers except x = 2 and x = -2."
+    ],
+    "examples": [
+      "**Simplifying:** (x² - 5x + 6)/(x - 2)\n   Factor numerator: (x - 2)(x - 3)\n   Cancel (x - 2): x - 3, where x ≠ 2",
+      "**Multiplying:** [(x+1)/(x-3)] × [(x-3)/(x+2)]\n   Multiply numerators and denominators: (x+1)(x-3)/[(x-3)(x+2)]\n   Cancel (x-3): (x+1)/(x+2), where x ≠ 3 and x ≠ -2",
+      "**Solving Equation:** (2x)/(x-1) = 4\n   Multiply by (x-1): 2x = 4(x-1)\n   Solve: 2x = 4x - 4, so x = 2\n   Check: 2 ≠ 1, so x = 2 is valid",
+      "**Work Problem:** 'Pipe A fills pool in 3 hours, Pipe B in 6 hours. Together?'\n   Rates: A = 1/3 pool/hr, B = 1/6 pool/hr\n   Combined: 1/3 + 1/6 = 1/2 pool/hr\n   Time together: 2 hours"
+    ],
+    "realLifeApplications": [
+      "**Rates and Speed:** Speed = distance/time is a rational expression. If d = 120 miles and t = 2.5 hours, speed = 120/2.5 = 48 mph.",
+      "**Work Problems:** If person A completes work in 'a' hours, rate is 1/a. Combined rate is sum of individual rates. Time together = 1/(combined rate).",
+      "**Mixture Problems:** Concentration = (amount of solute)/(total amount). Mixing solutions with different concentrations creates rational expressions.",
+      "**Economics:** Average cost = total cost/quantity. As quantity increases, average cost approaches variable cost (horizontal asymptote)."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A number line showing the domain of a rational expression, with excluded values marked as open circles and the valid domain as a continuous line.",
+      "A graph of a rational function showing vertical asymptote at x = 2 (where denominator is zero) and horizontal asymptote as x approaches infinity.",
+      "A visual representation of adding rational expressions: showing two fractions being rewritten with common denominator before combining."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

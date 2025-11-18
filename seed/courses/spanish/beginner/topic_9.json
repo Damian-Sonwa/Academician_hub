@@ -1,0 +1,86 @@
+{
+  "topic": "Basic Adjectives and Descriptions",
+  "detailedSummary": "Adjectives describe nouns and must agree with them in gender and number. Most adjectives ending in 'o' are masculine and change to 'a' for feminine: 'alto' (tall, masc.) becomes 'alta' (tall, fem.). Adjectives ending in 'e' or consonants typically don't change for gender but do change for number: 'inteligente' (intelligent) becomes 'inteligentes' (intelligent, plural). Common descriptive adjectives: grande/pequeño (big/small), bueno/malo (good/bad), nuevo/viejo (new/old), bonito/feo (pretty/ugly), fácil/difícil (easy/difficult), rico/pobre (rich/poor), joven/viejo (young/old), alto/bajo (tall/short), gordo/delgado (fat/thin), guapo/feo (handsome/ugly). Adjectives usually follow nouns in Spanish (un coche rojo - a red car), though some common ones precede (buen día - good day). To describe people: 'Soy alto' (I'm tall), 'Eres inteligente' (You're intelligent), 'Es guapa' (She's pretty). Using adjectives enables you to describe people, objects, and situations, making your Spanish more expressive and detailed.",
+  "whyItMatters": "Adjectives are essential for description and expression - mastering adjective agreement and usage enables you to describe people, objects, and express opinions in Spanish.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Basic Adjectives and Descriptions | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Basic Adjectives and Descriptions | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Basic Adjectives and Descriptions | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Spanish Adjectives Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Adjectives Practice Exercises",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Spanish Adjectives",
+      "description": "Practice using adjectives with correct gender and number agreement.",
+      "tasks": [
+        "Create a list of 30 adjectives with their masculine, feminine, singular, and plural forms",
+        "Write descriptions of family members using adjectives with correct agreement",
+        "Describe objects in your room using color and size adjectives",
+        "Practice adjective placement (before vs after nouns)",
+        "Write a paragraph describing yourself and your personality using various adjectives"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "How do you say 'tall' (feminine) in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "alto",
+        "alta",
+        "altos",
+        "altas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Alta' is the feminine form of 'alto' (tall). Adjectives ending in 'o' change to 'a' for feminine."
+    },
+    {
+      "question": "All adjectives in Spanish must agree with the noun in gender and number.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Spanish adjectives must match the noun's gender (masculine/feminine) and number (singular/plural) - this is a fundamental rule of Spanish grammar."
+    },
+    {
+      "question": "Where do most adjectives go in relation to the noun in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "Before the noun",
+        "After the noun",
+        "It doesn't matter",
+        "Adjectives don't exist in Spanish"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Most adjectives follow the noun in Spanish (e.g., 'un coche rojo' - a red car), though some common ones like 'bueno' can precede the noun."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+      "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

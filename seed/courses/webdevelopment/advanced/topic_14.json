@@ -1,0 +1,87 @@
+{
+  "topic": "Authentication and Authorization",
+  "detailedSummary": "Authentication verifies user identity, while authorization determines what users can access. Common authentication methods include sessions (server-stored) and JWT (JSON Web Tokens, stateless). Password hashing uses bcrypt to store secure hashes, never plain text. JWT tokens contain user data and are signed for security. Token-based auth is stateless and scalable. Session-based auth stores session IDs server-side. Registration creates user accounts with validation. Login verifies credentials and issues tokens/sessions. Logout invalidates sessions/tokens. Password reset uses secure tokens. Authorization checks user permissions (roles, ownership). Protected routes require authentication. Middleware verifies tokens/sessions. OAuth enables third-party login (Google, GitHub). Understanding authentication and authorization is essential for securing applications and protecting user data.",
+  "whyItMatters": "Authentication and authorization are critical for application security - they protect user data, enable personalized experiences, and control access to resources.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Authentication and Authorization | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Authentication and Authorization | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Authentication and Authorization | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Authentication Guide",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/Security"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Auth Practice",
+        "url": "https://codesandbox.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Implement Authentication System",
+      "description": "Build a complete authentication system with registration, login, and protected routes.",
+      "tasks": [
+        "Implement user registration with password hashing using bcrypt",
+        "Create login functionality that verifies credentials and issues JWT tokens",
+        "Build middleware to protect routes and verify authentication",
+        "Implement authorization to control access based on user roles",
+        "Create a complete authentication system with secure password handling and token management"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the main difference between authentication and authorization?",
+      "type": "multiple-choice",
+      "options": [
+        "They are the same",
+        "Authentication verifies identity, authorization determines access permissions",
+        "Authorization verifies identity",
+        "Authentication is for databases"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Authentication verifies who a user is (login), while authorization determines what that user can access (permissions, roles)."
+    },
+    {
+      "question": "Passwords should be stored as plain text in the database for easy retrieval.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Passwords must be hashed (using bcrypt or similar) before storage. Plain text passwords are a severe security vulnerability."
+    },
+    {
+      "question": "What is JWT (JSON Web Token)?",
+      "type": "multiple-choice",
+      "options": [
+        "A database",
+        "A stateless authentication token that contains user data and is cryptographically signed",
+        "A CSS framework",
+        "A server"
+      ],
+      "correctAnswer": 1,
+      "explanation": "JWT is a stateless authentication token format that contains user information and is cryptographically signed, enabling secure, scalable authentication."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

@@ -1,0 +1,87 @@
+{
+  "topic": "Progressive Web Apps (PWAs)",
+  "detailedSummary": "Progressive Web Apps (PWAs) combine web and native app features. PWAs work offline using service workers that cache resources. Service workers are JavaScript files that run in the background, intercepting network requests. Caching strategies include: cache-first, network-first, stale-while-revalidate. Web App Manifests provide metadata (name, icons, theme) for app-like installation. PWAs are installable on devices. Push notifications engage users. Background sync updates data when online. Responsive design ensures mobile compatibility. HTTPS is required for service workers. Lighthouse audits PWA features. PWAs provide native-like experiences: fast loading, offline functionality, home screen installation. Understanding PWAs enables building modern web applications that compete with native apps.",
+  "whyItMatters": "PWAs are the future of web applications - they provide native app experiences with web technologies, improving user engagement and enabling offline functionality.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Progressive Web Apps (PWAs) | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Progressive Web Apps (PWAs) | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Progressive Web Apps (PWAs) | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "PWA Guide",
+        "url": "https://web.dev/progressive-web-apps/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "PWA Practice",
+        "url": "https://codesandbox.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Build a Progressive Web App",
+      "description": "Convert a web application into a PWA with offline functionality and app-like features.",
+      "tasks": [
+        "Create a service worker to cache application resources",
+        "Implement caching strategies for offline functionality",
+        "Create a web app manifest for installation",
+        "Make the app installable and test on mobile devices",
+        "Build a complete PWA with offline support and document the PWA features"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is a service worker in PWAs?",
+      "type": "multiple-choice",
+      "options": [
+        "A database",
+        "A JavaScript file that runs in the background, intercepting network requests and enabling offline functionality",
+        "A CSS framework",
+        "A server"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Service workers are JavaScript files that run in the background, intercepting network requests and enabling features like offline functionality and push notifications."
+    },
+    {
+      "question": "PWAs require HTTPS to work because service workers only function over secure connections.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Service workers require HTTPS (except on localhost) for security reasons, as they can intercept and modify network requests."
+    },
+    {
+      "question": "What is the purpose of a web app manifest?",
+      "type": "multiple-choice",
+      "options": [
+        "To store data",
+        "To provide metadata (name, icons, theme) that enables app-like installation",
+        "To write code",
+        "To style pages"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The web app manifest provides metadata like app name, icons, and theme colors, enabling the app to be installed on devices like a native app."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

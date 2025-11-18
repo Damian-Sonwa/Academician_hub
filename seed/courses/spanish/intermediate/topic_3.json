@@ -1,0 +1,86 @@
+{
+  "topic": "Future Tense and Conditional",
+  "detailedSummary": "The future tense expresses actions that will happen. Regular future endings are added to the infinitive: -é, -ás, -á, -emos, -éis, -án. Examples: 'hablaré' (I will speak), 'comerás' (you will eat), 'viviremos' (we will live). Irregular futures have stem changes: tener → tendré, hacer → haré, decir → diré, poder → podré, querer → querré, saber → sabré, venir → vendré, salir → saldré, poner → pondré. The conditional expresses 'would' actions and polite requests. Regular conditional endings: -ía, -ías, -ía, -íamos, -íais, -ían. Examples: 'hablaría' (I would speak), 'comerías' (you would eat). Irregular conditionals use the same stems as irregular futures: tendría, haría, diría, etc. Uses: future for predictions ('Lloverá mañana' - It will rain tomorrow), plans ('Viajaré a España' - I will travel to Spain); conditional for hypotheticals ('Comería pizza si tuviera hambre' - I would eat pizza if I were hungry), polite requests ('¿Podrías ayudarme?' - Could you help me?). Both tenses enable expressing future plans and hypothetical situations.",
+  "whyItMatters": "Future and conditional tenses are essential for expressing plans, predictions, and hypothetical situations - mastering them enables advanced communication about possibilities and future events.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Future Tense and Conditional | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Future Tense and Conditional | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Future Tense and Conditional | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Future and Conditional Tenses Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Future and Conditional Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Future and Conditional",
+      "description": "Practice using future and conditional tenses to express plans and hypothetical situations.",
+      "tasks": [
+        "Conjugate regular verbs in future and conditional tenses",
+        "Memorize and practice irregular future and conditional forms",
+        "Write 15 sentences about your future plans using future tense",
+        "Write 15 sentences expressing hypothetical situations using conditional",
+        "Practice polite requests using conditional ('¿Podrías...?', '¿Te importaría...?')"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "How do you form the future tense for regular verbs?",
+      "type": "multiple-choice",
+      "options": [
+        "Add endings to the stem",
+        "Add endings directly to the infinitive",
+        "Change the verb completely",
+        "Use 'will' like in English"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For regular verbs, you add future endings (-é, -ás, -á, etc.) directly to the infinitive form (hablar → hablaré, comer → comerás)."
+    },
+    {
+      "question": "The conditional tense is used for polite requests, like '¿Podrías ayudarme?' (Could you help me?).",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. The conditional is commonly used for polite requests and hypothetical situations, making it essential for courteous communication."
+    },
+    {
+      "question": "What is the future form of 'tener' (to have) for 'yo'?",
+      "type": "multiple-choice",
+      "options": [
+        "teneré",
+        "tendré",
+        "tengo",
+        "tenía"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Tendré' is the irregular future form of 'tener' for 'yo' (I will have). Many common verbs have irregular future stems."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

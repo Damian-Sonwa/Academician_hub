@@ -1,0 +1,86 @@
+{
+  "topic": "Passive Voice and Impersonal Expressions",
+  "detailedSummary": "Passive voice emphasizes the action or object rather than the doer. Formation: 'ser' + past participle + 'por' (by): 'El libro fue escrito por Cervantes' (The book was written by Cervantes). Passive can be in any tense: 'Es escrito' (is written), 'Fue escrito' (was written), 'Será escrito' (will be written). Past participles agree with subject in gender/number. Se passive (impersonal): 'Se venden casas' (Houses are sold) - more common in Spanish. 'Se' constructions: 'Se habla español' (Spanish is spoken), 'Se prohíbe fumar' (Smoking is prohibited). Impersonal expressions: 'Se dice que...' (It's said that...), 'Se cree que...' (It's believed that...), 'Se sabe que...' (It's known that...). Other impersonal: 'Es importante que...' (It's important that...), 'Es necesario que...' (It's necessary that...), 'Es posible que...' (It's possible that...). Weather: 'Hace frío' (It's cold), 'Llueve' (It rains). Time: 'Es la una' (It's one o'clock). Understanding passive and impersonal constructions enables formal, academic expression and natural Spanish usage.",
+  "whyItMatters": "Passive voice and impersonal expressions are essential for formal and academic Spanish - they're used in writing, news, and professional contexts, enabling sophisticated expression.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Passive Voice and Impersonal Expressions | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Passive Voice and Impersonal Expressions | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Passive Voice and Impersonal Expressions | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Passive Voice Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Passive Voice Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Passive Voice",
+      "description": "Practice using passive voice and impersonal expressions in formal and academic contexts.",
+      "tasks": [
+        "Convert active sentences to passive voice using 'ser' + past participle",
+        "Practice 'se' passive constructions (se vende, se habla)",
+        "Write sentences using impersonal expressions (se dice, es importante)",
+        "Use passive voice in different tenses (present, past, future)",
+        "Write a formal paragraph using passive voice and impersonal expressions"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "How is passive voice formed in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "Using 'estar' + past participle",
+        "Using 'ser' + past participle + 'por'",
+        "Using only past participle",
+        "Using 'tener' + past participle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Passive voice: 'ser' + past participle + 'por' (by). Example: 'El libro fue escrito por el autor' (The book was written by the author)."
+    },
+    {
+      "question": "'Se' passive constructions like 'Se venden casas' are more common in Spanish than 'ser' passive.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. 'Se' passive (se vende, se habla) is more natural and common in Spanish than the 'ser' passive, especially in everyday speech."
+    },
+    {
+      "question": "What does 'Se prohíbe fumar' mean?",
+      "type": "multiple-choice",
+      "options": [
+        "I prohibit smoking",
+        "Smoking is prohibited",
+        "They prohibit smoking",
+        "We prohibit smoking"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Se prohíbe fumar' is an impersonal 'se' construction meaning 'Smoking is prohibited' - a common sign in Spanish-speaking countries."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

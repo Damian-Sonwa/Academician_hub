@@ -1,0 +1,161 @@
+{
+  "topic": "Probability Theory and Statistical Inference",
+  "detailedSummary": "Advanced probability theory provides rigorous mathematical foundations for uncertainty. Probability spaces consist of sample spaces (all possible outcomes), events (subsets of outcomes), and probability measures P satisfying: P(Ω) = 1, P(∅) = 0, and P(A ∪ B) = P(A) + P(B) for disjoint events. Conditional probability P(A|B) = P(A ∩ B)/P(B) represents probability of A given B occurred. Bayes' Theorem relates conditional probabilities: P(A|B) = P(B|A)P(A)/P(B). Random variables map outcomes to numbers. Discrete random variables take countable values with probability mass functions. Continuous random variables have probability density functions where probabilities are areas under curves. Expected value E[X] is the average, and variance Var(X) = E[(X - μ)²] measures spread. Important distributions include: binomial (n trials, probability p), Poisson (rare events), normal (bell curve), exponential (waiting times), and uniform. The Central Limit Theorem states: sums of independent random variables approach normal distribution as sample size increases. Statistical inference draws conclusions about populations from samples. Point estimation uses sample statistics (mean, proportion) to estimate population parameters. Confidence intervals provide ranges likely containing true parameters. Hypothesis testing evaluates claims using test statistics and p-values. Type I error (rejecting true null) and Type II error (failing to reject false null) are fundamental concepts. These methods are essential for scientific research, data analysis, quality control, medical trials, and making decisions under uncertainty.",
+  "whyItMatters": "Probability theory and statistical inference enable data-driven decision making and scientific conclusions - essential for research, medicine, quality control, and understanding uncertainty.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Probability and Statistics | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Statistics | Crash Course",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Probability | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Introductory Statistics 2e - OpenStax",
+        "url": "https://openstax.org/details/books/introductory-statistics-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Statistical Analysis Tools - R or Python",
+        "url": "https://www.r-project.org/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Probability Theory and Statistical Inference",
+      "description": "Master probability theory, random variables, and statistical inference methods.",
+      "tasks": [
+        "Calculate probabilities using probability rules for 15 problems",
+        "Apply Bayes' Theorem to solve 10 problems",
+        "Find expected values and variances for 10 random variables",
+        "Work with binomial, Poisson, and normal distributions",
+        "Apply Central Limit Theorem to solve problems",
+        "Construct confidence intervals for means and proportions",
+        "Perform hypothesis tests (z-tests, t-tests) for 10 problems",
+        "Calculate p-values and interpret results",
+        "Analyze Type I and Type II errors",
+        "Design and analyze statistical studies"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "If P(A) = 0.3, P(B) = 0.5, and P(A ∩ B) = 0.1, what is P(A ∪ B)?",
+      "type": "multiple-choice",
+      "options": [
+        "0.7",
+        "0.8",
+        "0.9",
+        "1.0"
+      ],
+      "correctAnswer": 0,
+      "explanation": "P(A ∪ B) = P(A) + P(B) - P(A ∩ B) = 0.3 + 0.5 - 0.1 = 0.7."
+    },
+    {
+      "question": "What is the expected value of a fair six-sided die?",
+      "type": "multiple-choice",
+      "options": [
+        "3.5",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctAnswer": 0,
+      "explanation": "E[X] = (1 + 2 + 3 + 4 + 5 + 6)/6 = 21/6 = 3.5."
+    },
+    {
+      "question": "A 95% confidence interval means:",
+      "type": "multiple-choice",
+      "options": [
+        "95% of such intervals contain the true parameter",
+        "The parameter has 95% probability of being in the interval",
+        "95% of the data is in the interval",
+        "The interval is 95% wide"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A 95% confidence interval means that 95% of intervals constructed this way would contain the true parameter value."
+    },
+    {
+      "question": "The Central Limit Theorem applies only to normal distributions.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. The CLT states that sums of independent random variables (from any distribution) approach normal distribution as sample size increases."
+    },
+    {
+      "question": "A p-value of 0.03 in a hypothesis test means:",
+      "type": "multiple-choice",
+      "options": [
+        "There is 3% probability of observing such extreme data if null is true",
+        "The null hypothesis is 3% likely to be true",
+        "The alternative hypothesis is 97% likely to be true",
+        "The test is 3% accurate"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The p-value is the probability of observing data as extreme (or more) if the null hypothesis is true. p = 0.03 means 3% chance."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1574170275470-a717198122c8?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Probability Space": "(Ω, F, P) where Ω is sample space, F is σ-algebra of events, P is probability measure. Rigorous foundation for probability.",
+      "Conditional Probability": "P(A|B) = P(A ∩ B)/P(B) when P(B) > 0. Probability of A given B occurred. Updates beliefs based on evidence.",
+      "Bayes' Theorem": "P(A|B) = P(B|A)P(A)/P(B). Updates prior probability P(A) to posterior P(A|B) using likelihood P(B|A). Foundation of Bayesian statistics.",
+      "Random Variable": "Function X: Ω → ℝ mapping outcomes to numbers. Discrete: takes countable values. Continuous: takes uncountable range.",
+      "Probability Distribution": "For discrete X: p(x) = P(X = x). For continuous X: f(x) is probability density function (PDF). Cumulative: F(x) = P(X ≤ x).",
+      "Expected Value": "E[X] = Σ x·p(x) (discrete) or E[X] = ∫ x·f(x)dx (continuous). Average or mean value. Linear: E[aX + b] = aE[X] + b.",
+      "Variance": "Var(X) = E[(X - μ)²] = E[X²] - (E[X])². Measures spread. Standard deviation: σ = √Var(X).",
+      "Central Limit Theorem": "Sum of independent random variables approaches normal distribution as n → ∞. Enables statistical inference."
+    },
+    "keyConcepts": [
+      "Probability spaces provide rigorous foundation: sample space, events, probability measure",
+      "Conditional probability updates beliefs: P(A|B) incorporates evidence B",
+      "Bayes' theorem reverses conditioning: from P(B|A) to P(A|B)",
+      "Random variables quantify outcomes: discrete (countable) vs. continuous (uncountable)",
+      "Central limit theorem enables statistical inference: sample means are approximately normal"
+    ],
+    "stepByStepExplanations": [
+      "**Bayes' Theorem:** Disease test: P(disease) = 0.01, P(positive|disease) = 0.95, P(positive|no disease) = 0.05. Find P(disease|positive): Step 1) P(positive) = 0.01(0.95) + 0.99(0.05) = 0.059. Step 2) P(disease|positive) = 0.95(0.01)/0.059 ≈ 0.161. Step 3) Only 16% chance despite 95% test accuracy!",
+      "**Expected Value:** Discrete X with p(1) = 0.3, p(2) = 0.5, p(3) = 0.2: Step 1) E[X] = 1(0.3) + 2(0.5) + 3(0.2) = 0.3 + 1.0 + 0.6 = 1.9. Step 2) E[X²] = 1²(0.3) + 2²(0.5) + 3²(0.2) = 0.3 + 2.0 + 1.8 = 4.1. Step 3) Var(X) = 4.1 - 1.9² = 0.49.",
+      "**Continuous Distribution:** X ~ Uniform[0,2]: Step 1) PDF: f(x) = 1/2 for 0 ≤ x ≤ 2, 0 otherwise. Step 2) E[X] = ∫[0 to 2] x(1/2)dx = [x²/4]₀² = 1. Step 3) Var(X) = E[X²] - 1² = ∫[0 to 2] x²(1/2)dx - 1 = [x³/6]₀² - 1 = 4/3 - 1 = 1/3.",
+      "**Central Limit Theorem:** Sample mean of 100 observations from any distribution: Step 1) X̄ = (X₁ + ... + X₁₀₀)/100. Step 2) E[X̄] = μ (population mean). Step 3) Var(X̄) = σ²/100. Step 4) By CLT, X̄ approximately N(μ, σ²/100) for large n."
+    ],
+    "examples": [
+      "**Bayes' Theorem:** Medical test\n   P(disease) = 0.02, P(+|disease) = 0.98, P(+|healthy) = 0.05\n   P(disease|+) = 0.98(0.02) / [0.98(0.02) + 0.05(0.98)]\n   = 0.0196 / 0.0686 ≈ 0.286\n   Despite high sensitivity, only 29% chance if positive",
+      "**Discrete Distribution:** X = number of heads in 3 coin flips\n   p(0) = 1/8, p(1) = 3/8, p(2) = 3/8, p(3) = 1/8\n   E[X] = 0(1/8) + 1(3/8) + 2(3/8) + 3(1/8) = 1.5\n   Var(X) = 0.75",
+      "**Normal Distribution:** X ~ N(μ, σ²)\n   PDF: f(x) = (1/σ√(2π))e^(-(x-μ)²/(2σ²))\n   E[X] = μ, Var(X) = σ²\n   68% within μ ± σ, 95% within μ ± 2σ",
+      "**Central Limit Theorem:** Sample of 50 from any distribution\n   Sample mean X̄ approximately normal\n   E[X̄] = μ, SD(X̄) = σ/√50\n   Enables confidence intervals and hypothesis tests"
+    ],
+    "realLifeApplications": [
+      "**Medical Diagnosis:** Bayes' theorem interprets test results. Low disease prevalence means even accurate tests have many false positives. P(disease|positive) often lower than expected. Critical for medical decision-making.",
+      "**Quality Control:** Manufacturing uses probability distributions. Defect rates follow binomial. Sample means follow normal (CLT). Statistical process control monitors quality. Used in Six Sigma.",
+      "**Finance:** Risk modeling uses probability distributions. Stock returns modeled as normal (approximation). Value at Risk (VaR) uses probability theory. Portfolio optimization uses expected values and variances.",
+      "**Machine Learning:** Bayesian methods update probabilities with data. Naive Bayes classifiers use Bayes' theorem. Probabilistic models quantify uncertainty. Essential for AI and data science."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A probability tree diagram showing conditional probabilities, with branches labeled P(A|B), P(B), etc., demonstrating how Bayes' theorem updates probabilities.",
+      "A graph showing probability density function (PDF) of normal distribution, with mean μ and standard deviation σ marked, and 68-95-99.7 rule regions shaded.",
+      "A diagram illustrating Central Limit Theorem: showing distribution of sample means from various population distributions converging to normal distribution as sample size increases."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

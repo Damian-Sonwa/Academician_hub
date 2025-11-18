@@ -1,0 +1,87 @@
+{
+  "topic": "Version Control with Git Basics",
+  "detailedSummary": "Version control tracks changes to files over time, allowing you to revert to previous versions and collaborate effectively. Git is the most popular version control system. A repository (repo) stores project files and their history. Basic Git workflow involves: git init (initialize repository), git add (stage changes), git commit (save changes with a message), and git status (check repository state). git log shows commit history. Branches allow parallel development - the main branch is typically the production code. git branch creates branches, git checkout switches branches, and git merge combines branches. Remote repositories (like GitHub) store code online for backup and collaboration. git remote connects to remote repos, git push uploads changes, and git pull downloads changes. .gitignore excludes files from version control. Understanding Git is essential for professional web development, enabling collaboration, backup, and organized project management.",
+  "whyItMatters": "Version control with Git is essential for professional development - it enables collaboration, tracks changes, allows experimentation without risk, and is required in all modern development workflows.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Version Control with Git Basics | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Version Control with Git Basics | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Version Control with Git Basics | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Git Documentation",
+        "url": "https://git-scm.com/doc"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Git Practice Repository",
+        "url": "https://github.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Git Workflow Practice",
+      "description": "Set up a Git repository and practice basic version control workflows.",
+      "tasks": [
+        "Initialize a Git repository in a project folder",
+        "Make changes to files and commit them with descriptive messages",
+        "Create a branch, make changes, and merge it back to main",
+        "Set up a GitHub account and push your repository online",
+        "Create a .gitignore file and explain what files should not be version controlled"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the purpose of 'git commit'?",
+      "type": "multiple-choice",
+      "options": [
+        "To initialize a repository",
+        "To save staged changes with a message",
+        "To download changes from remote",
+        "To create a new branch"
+      ],
+      "correctAnswer": 1,
+      "explanation": "git commit saves staged changes to the repository with a descriptive message, creating a snapshot of the project at that point."
+    },
+    {
+      "question": "Git branches allow you to work on different features simultaneously without affecting the main code.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Branches create separate lines of development, allowing you to work on features independently and merge them when ready."
+    },
+    {
+      "question": "What does 'git push' do?",
+      "type": "multiple-choice",
+      "options": [
+        "Downloads changes from remote repository",
+        "Uploads local commits to remote repository",
+        "Creates a new branch",
+        "Deletes a repository"
+      ],
+      "correctAnswer": 1,
+      "explanation": "git push uploads your local commits to a remote repository (like GitHub), making your changes available to others."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

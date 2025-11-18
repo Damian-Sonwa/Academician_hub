@@ -1,0 +1,115 @@
+{
+  "topic": "Months of the Year",
+  "detailedSummary": "Months in French: janvier (January), février (February), mars (March), avril (April), mai (May), juin (June), juillet (July), août (August), septembre (September), octobre (October), novembre (November), décembre (December).",
+  "whyItMatters": "Mastering Months of the Year is essential for building a strong foundation in french - these basic concepts are the first building blocks for all future language learning.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Months of the Year | Learn French with Alexa",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Months of the Year | French Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Months of the Year | FrenchPod101",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "french for Beginners - Months of the Year",
+        "url": "https://www.languageguide.org/"
+      }
+    ],
+    "images": [
+      {
+        "title": "Months of the Year - Visual Aid",
+        "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Practice Months of the Year",
+      "description": "Practice and demonstrate understanding of Months of the Year in french.",
+      "tasks": [
+        "Create flashcards for all vocabulary related to Months of the Year",
+        "Practice pronunciation daily for one week",
+        "Write simple sentences using the vocabulary from Months of the Year",
+        "Record yourself speaking the vocabulary correctly",
+        "Create a simple dialogue or conversation using Months of the Year concepts"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the main focus of Months of the Year?",
+      "type": "multiple-choice",
+      "options": [
+        "Learning basic french vocabulary and concepts",
+        "Advanced grammar structures",
+        "Literary analysis",
+        "Historical context"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Months of the Year focuses on learning basic french vocabulary and fundamental concepts."
+    },
+    {
+      "question": "Why is Months of the Year important for french learners?",
+      "type": "multiple-choice",
+      "options": [
+        "It provides essential foundational knowledge",
+        "It is only useful for advanced learners",
+        "It has no practical application",
+        "It is outdated information"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Months of the Year provides essential foundational knowledge that all french learners need."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+    "additional": [
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=5MJbHmgaeDM",
+  "fullTopicLesson": {
+    "introduction": "Months of the Year is a fundamental aspect of learning french. This lesson introduces essential vocabulary and concepts.",
+    "keyConcepts": [
+      "Basic vocabulary and pronunciation",
+      "Fundamental language concepts",
+      "Simple phrases and expressions",
+      "Cultural context and usage"
+    ],
+    "detailedExplanations": [
+      {
+        "concept": "Vocabulary",
+        "explanation": "This topic introduces essential french vocabulary that forms the foundation for communication."
+      },
+      {
+        "concept": "Pronunciation",
+        "explanation": "Proper pronunciation is crucial for being understood and understanding spoken french."
+      }
+    ],
+    "examples": [
+      {
+        "description": "Basic examples",
+        "content": "Examples demonstrate how to use the vocabulary and concepts from Months of the Year in simple sentences."
+      }
+    ],
+    "realWorldApplications": [
+      "Basic communication",
+      "Daily interactions",
+      "Building language foundation",
+      "Cultural understanding"
+    ]
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth equal points. Correct answers demonstrate understanding of basic concepts.",
+    "assignmentGrading": "Assignments are graded based on vocabulary accuracy, pronunciation, effort, and understanding of basic concepts."
+  }
+}

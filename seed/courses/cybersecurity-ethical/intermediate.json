@@ -1,0 +1,287 @@
+[
+  {
+    "title": "Network Security",
+    "summary": "Firewalls, IDS/IPS, VPN, proxy servers, port scanning, and packet analysis. Dive deep into network security technologies and practices.  Learn about firewalls, IDS/IPS, VPN, proxy servers, port scanning, and packet analysis. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Network Security",
+          "url": "https://youtu.be/2_lswM1S264"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Network Security Essentials",
+          "url": "https://owasp.org/www-project-top-ten/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Packet Sniffing with Wireshark - TryHackMe",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    },
+    "detailedSummary": "Firewalls, IDS/IPS, VPN, proxy servers, port scanning, and packet analysis. Dive deep into network security technologies and practices.  Learn about firewalls, IDS/IPS, VPN, proxy servers, port scanning, and packet analysis. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Secondary level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Network Security. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Network Security",
+        "description": "Complete a research assignment exploring key concepts related to Network Security.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Network Security",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Network Security",
+        "description": "Apply your understanding of Network Security through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Network Security",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Network Security?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Network Security",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Network Security?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding cybersecurity",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Network Security is an important topic for understanding cybersecurity at the Secondary level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Network Security provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+        },
+        {
+          "question": "The concepts in Network Security have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Network Security have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Network Security helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "cybersecurity",
+          "explanation": "The correct answer is \"cybersecurity\". Network Security is a key component of cybersecurity that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Web Application Security",
+    "summary": "Covers SQL injection, XSS, CSRF, authentication flaws, and OWASP Top 10. Master web application security vulnerabilities and defenses.  Learn about SQL injection, XSS, CSRF, authentication flaws, and OWASP Top 10. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Web Application Security",
+          "url": "https://youtu.be/5tJvaYq8jK4"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "OWASP Web Security Testing Guide",
+          "url": "https://owasp.org/www-project-top-ten/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "OWASP Juice Shop - TryHackMe",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    },
+    "detailedSummary": "Covers SQL injection, XSS, CSRF, authentication flaws, and OWASP Top 10. Master web application security vulnerabilities and defenses.  Learn about SQL injection, XSS, CSRF, authentication flaws, and OWASP Top 10. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Secondary level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Web Application Security. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Web Application Security",
+        "description": "Complete a research assignment exploring key concepts related to Web Application Security.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Web Application Security",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Web Application Security",
+        "description": "Apply your understanding of Web Application Security through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Web Application Security",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Web Application Security?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Web Application Security",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Web Application Security?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding cybersecurity",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Web Application Security is an important topic for understanding cybersecurity at the Secondary level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Web Application Security provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+        },
+        {
+          "question": "The concepts in Web Application Security have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Web Application Security have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Web Application Security helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "cybersecurity",
+          "explanation": "The correct answer is \"cybersecurity\". Web Application Security is a key component of cybersecurity that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Ethical Hacking Basics",
+    "summary": "Introduction to penetration testing phases, recon, scanning, exploitation, and reporting. Learn the fundamentals of ethical hacking and penetration testing.  Understand the penetration testing methodology including reconnaissance, scanning, enumeration, exploitation, post-exploitation, and reporting. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Ethical Hacking Basics",
+          "url": "https://youtu.be/3Kq1MIfTWCE"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "CEH Notes PDF",
+          "url": "https://owasp.org/www-project-top-ten/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Basic Pentesting - TryHackMe",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    },
+    "detailedSummary": "Introduction to penetration testing phases, recon, scanning, exploitation, and reporting. Learn the fundamentals of ethical hacking and penetration testing.  Understand the penetration testing methodology including reconnaissance, scanning, enumeration, exploitation, post-exploitation, and reporting. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Secondary level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Ethical Hacking Basics. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Ethical Hacking Basics",
+        "description": "Complete a research assignment exploring key concepts related to Ethical Hacking Basics.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Ethical Hacking Basics",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Ethical Hacking Basics",
+        "description": "Apply your understanding of Ethical Hacking Basics through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Ethical Hacking Basics",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Ethical Hacking Basics?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Ethical Hacking Basics",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Ethical Hacking Basics?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding cybersecurity",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Ethical Hacking Basics is an important topic for understanding cybersecurity at the Secondary level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Ethical Hacking Basics provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+        },
+        {
+          "question": "The concepts in Ethical Hacking Basics have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Ethical Hacking Basics have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Ethical Hacking Basics helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "cybersecurity",
+          "explanation": "The correct answer is \"cybersecurity\". Ethical Hacking Basics is a key component of cybersecurity that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  }
+]

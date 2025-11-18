@@ -1,0 +1,383 @@
+[
+  {
+    "title": "Introduction to Cybersecurity",
+    "summary": "Overview of cybersecurity, why it matters, types of cyber threats, and common security principles. Learn the fundamentals of cybersecurity including what cybersecurity is, why it's important in today's digital world, the different types of cyber threats organizations face, and the basic security principles that protect systems and data.  Understand the CIA triad (Confidentiality, Integrity, Availability) and how it applies to information security. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Introduction to Cybersecurity",
+          "url": "https://youtu.be/inWWhr5tnEA"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Cybersecurity for Beginners (Free PDF)",
+          "url": "https://owasp.org/www-project-top-ten/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Intro to Cybersecurity Hands-On - TryHackMe",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    },
+    "detailedSummary": "Overview of cybersecurity, why it matters, types of cyber threats, and common security principles. Learn the fundamentals of cybersecurity including what cybersecurity is, why it's important in today's digital world, the different types of cyber threats organizations face, and the basic security principles that protect systems and data.  Understand the CIA triad (Confidentiality, Integrity, Availability) and how it applies to information security. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Junior level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Introduction to Cybersecurity. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Introduction to Cybersecurity",
+        "description": "Complete a research assignment exploring key concepts related to Introduction to Cybersecurity.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Introduction to Cybersecurity",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Introduction to Cybersecurity",
+        "description": "Apply your understanding of Introduction to Cybersecurity through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Introduction to Cybersecurity",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Introduction to Cybersecurity?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Introduction to Cybersecurity",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Introduction to Cybersecurity?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding cybersecurity",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Introduction to Cybersecurity is an important topic for understanding cybersecurity at the Junior level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Introduction to Cybersecurity provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+        },
+        {
+          "question": "The concepts in Introduction to Cybersecurity have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Introduction to Cybersecurity have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Introduction to Cybersecurity helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "cybersecurity",
+          "explanation": "The correct answer is \"cybersecurity\". Introduction to Cybersecurity is a key component of cybersecurity that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Types of Cyber Attacks",
+    "summary": "Covers malware, phishing, ransomware, DDoS, social engineering, and password attacks. Explore the various types of cyber attacks that threaten organizations and individuals.  Learn about malware (viruses, worms, trojans), phishing attacks, ransomware, DDoS attacks, social engineering techniques, and password-based attacks. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Types of Cyber Attacks",
+          "url": "https://youtu.be/GLcNPpG9fJQ"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "OWASP Top 10",
+          "url": "https://owasp.org/www-project-top-ten/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Phishing Attack Basics - TryHackMe",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    },
+    "detailedSummary": "Covers malware, phishing, ransomware, DDoS, social engineering, and password attacks. Explore the various types of cyber attacks that threaten organizations and individuals.  Learn about malware (viruses, worms, trojans), phishing attacks, ransomware, DDoS attacks, social engineering techniques, and password-based attacks. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Junior level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Types of Cyber Attacks. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Types of Cyber Attacks",
+        "description": "Complete a research assignment exploring key concepts related to Types of Cyber Attacks.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Types of Cyber Attacks",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Types of Cyber Attacks",
+        "description": "Apply your understanding of Types of Cyber Attacks through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Types of Cyber Attacks",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Types of Cyber Attacks?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Types of Cyber Attacks",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Types of Cyber Attacks?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding cybersecurity",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Types of Cyber Attacks is an important topic for understanding cybersecurity at the Junior level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Types of Cyber Attacks provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+        },
+        {
+          "question": "The concepts in Types of Cyber Attacks have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Types of Cyber Attacks have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Types of Cyber Attacks helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "cybersecurity",
+          "explanation": "The correct answer is \"cybersecurity\". Types of Cyber Attacks is a key component of cybersecurity that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Basic Networking for Cybersecurity",
+    "summary": "Explains IP addresses, ports, protocols, routers, firewalls, DNS, and how the internet works. Build a foundation in networking concepts essential for cybersecurity.  Learn about IP addresses (IPv4 and IPv6), ports and protocols (TCP, UDP, HTTP, HTTPS), network devices (routers, switches, firewalls), DNS (Domain Name System), and how data travels across the internet. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Basic Networking for Cybersecurity",
+          "url": "https://youtu.be/qiQR5rTSshw"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "TCP/IP Illustrated",
+          "url": "https://owasp.org/www-project-top-ten/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Networking Basics Lab - TryHackMe",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    },
+    "detailedSummary": "Explains IP addresses, ports, protocols, routers, firewalls, DNS, and how the internet works. Build a foundation in networking concepts essential for cybersecurity.  Learn about IP addresses (IPv4 and IPv6), ports and protocols (TCP, UDP, HTTP, HTTPS), network devices (routers, switches, firewalls), DNS (Domain Name System), and how data travels across the internet. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Junior level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Basic Networking for Cybersecurity. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Basic Networking for Cybersecurity",
+        "description": "Complete a research assignment exploring key concepts related to Basic Networking for Cybersecurity.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Basic Networking for Cybersecurity",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Basic Networking for Cybersecurity",
+        "description": "Apply your understanding of Basic Networking for Cybersecurity through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Basic Networking for Cybersecurity",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Basic Networking for Cybersecurity?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Basic Networking for Cybersecurity",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Basic Networking for Cybersecurity?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding cybersecurity",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Basic Networking for Cybersecurity is an important topic for understanding cybersecurity at the Junior level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Basic Networking for Cybersecurity provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+        },
+        {
+          "question": "The concepts in Basic Networking for Cybersecurity have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Basic Networking for Cybersecurity have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Basic Networking for Cybersecurity helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "cybersecurity",
+          "explanation": "The correct answer is \"cybersecurity\". Basic Networking for Cybersecurity is a key component of cybersecurity that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Operating Systems Basics",
+    "summary": "Introduction to Windows, Linux, and MacOS from a cybersecurity perspective. Learn the fundamentals of major operating systems (Windows, Linux, macOS) from a security perspective.  Understand file systems, user permissions, command-line interfaces, system processes, and security features. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Operating Systems Basics",
+          "url": "https://youtu.be/sWbUDq4S6Y8"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "The Linux Command Line (Free)",
+          "url": "https://owasp.org/www-project-top-ten/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Linux Fundamentals - TryHackMe",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    },
+    "detailedSummary": "Introduction to Windows, Linux, and MacOS from a cybersecurity perspective. Learn the fundamentals of major operating systems (Windows, Linux, macOS) from a security perspective.  Understand file systems, user permissions, command-line interfaces, system processes, and security features. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Junior level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Operating Systems Basics. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Operating Systems Basics",
+        "description": "Complete a research assignment exploring key concepts related to Operating Systems Basics.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Operating Systems Basics",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Operating Systems Basics",
+        "description": "Apply your understanding of Operating Systems Basics through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Operating Systems Basics",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Operating Systems Basics?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Operating Systems Basics",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Operating Systems Basics?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding cybersecurity",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Operating Systems Basics is an important topic for understanding cybersecurity at the Junior level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Operating Systems Basics provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+        },
+        {
+          "question": "The concepts in Operating Systems Basics have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Operating Systems Basics have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Operating Systems Basics helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "cybersecurity",
+          "explanation": "The correct answer is \"cybersecurity\". Operating Systems Basics is a key component of cybersecurity that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  }
+]
+

@@ -1,0 +1,398 @@
+[
+  {
+    "title": "Network Security",
+    "summary": "Firewalls, IDS/IPS, VPN, proxy servers, port scanning, and packet analysis. Dive deep into network security technologies and practices.  Learn about firewalls (stateful and stateless), Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS), Virtual Private Networks (VPN), proxy servers, port scanning techniques, and packet analysis using tools like Wireshark. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Network Security",
+          "url": "https://youtu.be/2_lswM1S264"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Network Security Essentials",
+          "url": "https://owasp.org/www-project-top-ten/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Packet Sniffing with Wireshark - TryHackMe",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    },
+    "detailedSummary": "Firewalls, IDS/IPS, VPN, proxy servers, port scanning, and packet analysis. Dive deep into network security technologies and practices.  Learn about firewalls (stateful and stateless), Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS), Virtual Private Networks (VPN), proxy servers, port scanning techniques, and packet analysis using tools like Wireshark. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Secondary level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Network Security. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Network Security",
+        "description": "Complete a research assignment exploring key concepts related to Network Security.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Network Security",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Network Security",
+        "description": "Apply your understanding of Network Security through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Network Security",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Network Security?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Network Security",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Network Security?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding cybersecurity",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Network Security is an important topic for understanding cybersecurity at the Secondary level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Network Security provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+        },
+        {
+          "question": "The concepts in Network Security have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Network Security have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Network Security helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "cybersecurity",
+          "explanation": "The correct answer is \"cybersecurity\". Network Security is a key component of cybersecurity that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Firewall Configuration",
+    "summary": "Learn to configure and manage firewalls effectively. Master firewall rules, access control lists, and security policies.  Understand stateful vs stateless firewalls and how to implement proper network segmentation. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Firewall Configuration",
+          "url": "https://youtu.be/2_lswM1S264"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Firewall Configuration Guide",
+          "url": "https://owasp.org/www-project-top-ten/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "ACL Best Practices",
+          "url": "https://tryhackme.com/"
+        },
+        {
+          "title": "Firewall Setup",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    },
+    "detailedSummary": "Learn to configure and manage firewalls effectively. Master firewall rules, access control lists, and security policies.  Understand stateful vs stateless firewalls and how to implement proper network segmentation. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Secondary level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Firewall Configuration. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Firewall Configuration",
+        "description": "Complete a research assignment exploring key concepts related to Firewall Configuration.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Firewall Configuration",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Firewall Configuration",
+        "description": "Apply your understanding of Firewall Configuration through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Firewall Configuration",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Firewall Configuration?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Firewall Configuration",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Firewall Configuration?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding cybersecurity",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Firewall Configuration is an important topic for understanding cybersecurity at the Secondary level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Firewall Configuration provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+        },
+        {
+          "question": "The concepts in Firewall Configuration have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Firewall Configuration have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Firewall Configuration helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "cybersecurity",
+          "explanation": "The correct answer is \"cybersecurity\". Firewall Configuration is a key component of cybersecurity that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Intrusion Detection and Prevention",
+    "summary": "Implement IDS/IPS systems to monitor and protect networks. Learn about signature-based and anomaly-based detection.  Understand how to configure IDS/IPS rules and respond to security alerts. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Intrusion Detection and Prevention",
+          "url": "https://youtu.be/2_lswM1S264"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Cybersecurity Textbook - Secondary Level",
+          "url": "https://owasp.org/www-project-top-ten/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "IDS/IPS Configuration",
+          "url": "https://tryhackme.com/"
+        },
+        {
+          "title": "Alert Management",
+          "url": "https://tryhackme.com/"
+        },
+        {
+          "title": "IDS Setup",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    },
+    "detailedSummary": "Implement IDS/IPS systems to monitor and protect networks. Learn about signature-based and anomaly-based detection.  Understand how to configure IDS/IPS rules and respond to security alerts. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Secondary level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Intrusion Detection and Prevention. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Intrusion Detection and Prevention",
+        "description": "Complete a research assignment exploring key concepts related to Intrusion Detection and Prevention.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Intrusion Detection and Prevention",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Intrusion Detection and Prevention",
+        "description": "Apply your understanding of Intrusion Detection and Prevention through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Intrusion Detection and Prevention",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Intrusion Detection and Prevention?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Intrusion Detection and Prevention",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Intrusion Detection and Prevention?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding cybersecurity",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Intrusion Detection and Prevention is an important topic for understanding cybersecurity at the Secondary level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Intrusion Detection and Prevention provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+        },
+        {
+          "question": "The concepts in Intrusion Detection and Prevention have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Intrusion Detection and Prevention have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Intrusion Detection and Prevention helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "cybersecurity",
+          "explanation": "The correct answer is \"cybersecurity\". Intrusion Detection and Prevention is a key component of cybersecurity that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "VPN and Secure Communications",
+    "summary": "Implement VPNs and secure communication channels. Study VPN protocols (IPSec, SSL/TLS), remote access solutions, and secure tunneling.  Learn to configure and troubleshoot VPN connections. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "VPN and Secure Communications",
+          "url": "https://youtu.be/2_lswM1S264"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "VPN Setup Guide",
+          "url": "https://owasp.org/www-project-top-ten/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Protocol Comparison",
+          "url": "https://tryhackme.com/"
+        },
+        {
+          "title": "VPN Configuration",
+          "url": "https://tryhackme.com/"
+        }
+      ]
+    },
+    "detailedSummary": "Implement VPNs and secure communication channels. Study VPN protocols (IPSec, SSL/TLS), remote access solutions, and secure tunneling.  Learn to configure and troubleshoot VPN connections. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Secondary level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to VPN and Secure Communications. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: VPN and Secure Communications",
+        "description": "Complete a research assignment exploring key concepts related to VPN and Secure Communications.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about VPN and Secure Communications",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: VPN and Secure Communications",
+        "description": "Apply your understanding of VPN and Secure Communications through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to VPN and Secure Communications",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of VPN and Secure Communications?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of VPN and Secure Communications",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of VPN and Secure Communications?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding cybersecurity",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+        },
+        {
+          "question": "VPN and Secure Communications is an important topic for understanding cybersecurity at the Secondary level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. VPN and Secure Communications provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+        },
+        {
+          "question": "The concepts in VPN and Secure Communications have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in VPN and Secure Communications have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of VPN and Secure Communications helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "cybersecurity",
+          "explanation": "The correct answer is \"cybersecurity\". VPN and Secure Communications is a key component of cybersecurity that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  }
+]

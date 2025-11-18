@@ -1,0 +1,113 @@
+{
+  "course": "french",
+  "level": "intermediate",
+  "week": 2,
+  "topic": "Subjunctive Mood",
+  "summary": "Learn the subjunctive mood and when to use it in French. Understand the difference between indicative and subjunctive moods. Study subjunctive triggers including expressions of emotion, doubt, and desire. Learn subjunctive conjugation patterns.\n\nThis topic provides essential knowledge for understanding languages at the Secondary level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Subjunctive Mood. The material is designed to build a strong foundation for further learning and practical application in real-world contexts. This topic provides comprehensive coverage essential for understanding languages at the intermediate level. Through detailed study, students will gain deep insights into the concepts, principles, and real-world applications. The material is designed to build a strong foundation for further learning and practical application in various contexts.",
+  "why_it_matters": "Mastering this intermediate level language topic builds essential communication skills, opens cultural understanding, and enhances career opportunities in our globalized world.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Subjunctive Mood | Learn French with Alexa",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Subjunctive Mood | French Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Subjunctive Mood | FrenchPod101",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Subjunctive Guide - Lawless French",
+        "url": "https://www.lawlessfrench.com/grammar/subjunctive/"
+      },
+      {
+        "title": "Subjunctive Mood - French Today",
+        "url": "https://www.frenchtoday.com/blog/french-grammar/subjunctive/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Subjunctive Practice",
+        "url": "https://conjuguemos.com/verb/133"
+      },
+      {
+        "title": "Subjunctive Quiz",
+        "url": "https://www.lawlessfrench.com/quizzes-and-tests/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Research Assignment: Subjunctive Mood",
+      "description": "Complete a research assignment exploring key concepts related to Subjunctive Mood.",
+      "tasks": [
+        "Read the assigned textbook chapters and online resources about Subjunctive Mood",
+        "Identify and explain at least three key concepts from the topic",
+        "Find one real-world example or application of these concepts",
+        "Write a 300-500 word summary explaining your findings",
+        "Include at least two credible sources in your research"
+      ]
+    },
+    {
+      "title": "Practical Exercise: Subjunctive Mood",
+      "description": "Apply your understanding of Subjunctive Mood through hands-on activities.",
+      "tasks": [
+        "Complete the lab exercises or simulations related to Subjunctive Mood",
+        "Document your observations and findings in a lab report",
+        "Answer the reflection questions about what you learned",
+        "Create a visual representation (diagram, chart, or model) of key concepts",
+        "Present your findings to the class or submit a written report"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary focus of Subjunctive Mood?",
+      "options": [
+        "Understanding fundamental concepts of Subjunctive Mood",
+        "Memorizing facts without context",
+        "Avoiding practical applications",
+        "Focusing only on advanced topics"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+    },
+    {
+      "question": "Which of the following best describes the importance of Subjunctive Mood?",
+      "options": [
+        "It provides essential knowledge for understanding languages",
+        "It is only relevant for advanced students",
+        "It has no real-world applications",
+        "It is purely theoretical without practical value"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "This topic provides essential foundational knowledge that is crucial for understanding languages and has practical applications in real-world contexts."
+    },
+    {
+      "question": "Subjunctive Mood is an important topic for understanding languages at the Secondary level.",
+      "answer": true,
+      "type": "true-false",
+      "explanation": "This statement is true. Subjunctive Mood provides fundamental knowledge that is essential for building a strong understanding of languages."
+    },
+    {
+      "question": "The concepts in Subjunctive Mood have no practical applications in real life.",
+      "answer": false,
+      "type": "true-false",
+      "explanation": "This statement is false. The concepts in Subjunctive Mood have numerous practical applications in various fields and everyday life."
+    },
+    {
+      "question": "The study of Subjunctive Mood helps students understand the fundamental principles of ______.",
+      "answer": "languages",
+      "type": "fill-in-the-blank",
+      "explanation": "The correct answer is \"languages\". Subjunctive Mood is a key component of languages that helps students understand fundamental principles in this field."
+    }
+  ],
+  "videoUrl": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+}

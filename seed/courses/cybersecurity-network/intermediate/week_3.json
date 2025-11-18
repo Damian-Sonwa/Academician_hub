@@ -1,0 +1,104 @@
+{
+  "course": "cybersecurity-network",
+  "level": "intermediate",
+  "week": 3,
+  "topic": "Intrusion Detection and Prevention",
+  "summary": "Implement IDS/IPS systems to monitor and protect networks. Learn about signature-based and anomaly-based detection.  Understand how to configure IDS/IPS rules and respond to security alerts. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Secondary level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Intrusion Detection and Prevention. The material is designed to build a strong foundation for further learning and practical application in real-world contexts. This topic provides comprehensive coverage essential for understanding cybersecurity at the intermediate level. Through detailed study, students will gain deep insights into the concepts, principles, and real-world applications. The material is designed to build a strong foundation for further learning and practical application in various contexts.",
+  "why_it_matters": "This programming/technology topic provides practical skills highly sought after in the job market and enables you to build real-world applications and solve technical problems.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Intrusion Detection and Prevention",
+        "url": "https://youtu.be/2_lswM1S264"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Cybersecurity Textbook - Secondary Level",
+        "url": "https://owasp.org/www-project-top-ten/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "IDS/IPS Configuration",
+        "url": "https://tryhackme.com/"
+      },
+      {
+        "title": "Alert Management",
+        "url": "https://tryhackme.com/"
+      },
+      {
+        "title": "IDS Setup",
+        "url": "https://tryhackme.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Research Assignment: Intrusion Detection and Prevention",
+      "description": "Complete a research assignment exploring key concepts related to Intrusion Detection and Prevention.",
+      "tasks": [
+        "Read the assigned textbook chapters and online resources about Intrusion Detection and Prevention",
+        "Identify and explain at least three key concepts from the topic",
+        "Find one real-world example or application of these concepts",
+        "Write a 300-500 word summary explaining your findings",
+        "Include at least two credible sources in your research"
+      ]
+    },
+    {
+      "title": "Practical Exercise: Intrusion Detection and Prevention",
+      "description": "Apply your understanding of Intrusion Detection and Prevention through hands-on activities.",
+      "tasks": [
+        "Complete the lab exercises or simulations related to Intrusion Detection and Prevention",
+        "Document your observations and findings in a lab report",
+        "Answer the reflection questions about what you learned",
+        "Create a visual representation (diagram, chart, or model) of key concepts",
+        "Present your findings to the class or submit a written report"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary focus of Intrusion Detection and Prevention?",
+      "options": [
+        "Understanding fundamental concepts of Intrusion Detection and Prevention",
+        "Memorizing facts without context",
+        "Avoiding practical applications",
+        "Focusing only on advanced topics"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+    },
+    {
+      "question": "Which of the following best describes the importance of Intrusion Detection and Prevention?",
+      "options": [
+        "It provides essential knowledge for understanding cybersecurity",
+        "It is only relevant for advanced students",
+        "It has no real-world applications",
+        "It is purely theoretical without practical value"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+    },
+    {
+      "question": "Intrusion Detection and Prevention is an important topic for understanding cybersecurity at the Secondary level.",
+      "answer": true,
+      "type": "true-false",
+      "explanation": "This statement is true. Intrusion Detection and Prevention provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+    },
+    {
+      "question": "The concepts in Intrusion Detection and Prevention have no practical applications in real life.",
+      "answer": false,
+      "type": "true-false",
+      "explanation": "This statement is false. The concepts in Intrusion Detection and Prevention have numerous practical applications in various fields and everyday life."
+    },
+    {
+      "question": "The study of Intrusion Detection and Prevention helps students understand the fundamental principles of ______.",
+      "answer": "cybersecurity",
+      "type": "fill-in-the-blank",
+      "explanation": "The correct answer is \"cybersecurity\". Intrusion Detection and Prevention is a key component of cybersecurity that helps students understand fundamental principles in this field."
+    }
+  ]
+}

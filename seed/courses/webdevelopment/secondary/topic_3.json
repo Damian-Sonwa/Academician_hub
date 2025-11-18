@@ -1,0 +1,87 @@
+{
+  "topic": "CSS Basics: Selectors, Properties, and Styling",
+  "detailedSummary": "CSS (Cascading Style Sheets) controls the visual appearance and layout of web pages. CSS works by selecting HTML elements and applying styles to them. Selectors target elements using type selectors (element names), class selectors (.classname), ID selectors (#idname), and attribute selectors. The CSS box model describes how elements are rendered: content, padding (space inside), border, and margin (space outside). Common CSS properties include color (text color), background-color, font-family, font-size, width, height, padding, margin, and border. The cascade determines which styles apply when multiple rules target the same element, based on specificity and source order. CSS can be written inline, in a style tag, or in external stylesheets. Understanding CSS fundamentals enables you to create visually appealing, well-styled web pages that enhance user experience and communicate information effectively.",
+  "whyItMatters": "CSS is essential for creating visually appealing and professional websites - without CSS, web pages would be plain, unstyled text with no visual hierarchy or design.",
+  "materials": {
+    "videos": [
+      {
+        "title": "CSS Tutorial | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "CSS Basics | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "CSS | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "CSS Properties Reference",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+      }
+    ],
+    "labs": [
+      {
+        "title": "CSS Styling Practice",
+        "url": "https://codepen.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Style a Web Page with CSS",
+      "description": "Apply CSS styling to an HTML page, demonstrating understanding of selectors, properties, and the box model.",
+      "tasks": [
+        "Create an external CSS stylesheet and link it to an HTML page",
+        "Use different types of selectors (element, class, ID) to style various elements",
+        "Apply colors, fonts, spacing (padding and margin), and borders",
+        "Demonstrate understanding of the box model by styling elements with visible borders",
+        "Write a brief explanation of your styling choices and how the box model affects layout"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What does CSS stand for?",
+      "type": "multiple-choice",
+      "options": [
+        "Computer Style Sheets",
+        "Cascading Style Sheets",
+        "Creative Style System",
+        "Content Style Syntax"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CSS stands for Cascading Style Sheets, referring to how styles cascade and can be overridden based on specificity and order."
+    },
+    {
+      "question": "In the CSS box model, padding is the space outside the element's border.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Padding is the space inside the element, between the content and the border. Margin is the space outside the border."
+    },
+    {
+      "question": "Which CSS selector targets an element with a specific class?",
+      "type": "multiple-choice",
+      "options": [
+        "#classname",
+        ".classname",
+        "*classname",
+        "classname"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Class selectors use a dot (.) followed by the class name, like .classname, to target elements with that class attribute."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

@@ -1,0 +1,86 @@
+{
+  "topic": "Evolutionary Biology and Phylogenetics",
+  "detailedSummary": "Advanced evolutionary biology examines the mechanisms and patterns of evolution at multiple levels. Natural selection acts on variation within populations, but other mechanisms also drive evolution: genetic drift causes random changes in allele frequencies, especially in small populations; gene flow introduces new alleles through migration; mutation provides the raw material for evolution. Speciation occurs when populations become reproductively isolated through mechanisms like geographic isolation, behavioral differences, or genetic incompatibilities. Phylogenetics reconstructs evolutionary relationships using molecular and morphological data, creating phylogenetic trees that show common ancestry. Molecular clocks use mutation rates to estimate when species diverged. Comparative genomics reveals how genomes evolve and how gene duplications, losses, and rearrangements shape diversity. Coevolution describes how species evolve in response to each other, such as predator-prey arms races or mutualistic relationships. Evolutionary developmental biology (evo-devo) studies how changes in developmental processes drive evolutionary change. Understanding evolution is essential for conservation biology, understanding antibiotic resistance, and predicting how species will respond to environmental change.",
+  "whyItMatters": "Understanding evolutionary biology is essential for conservation, understanding disease evolution, predicting species responses to climate change, and developing strategies to combat antibiotic resistance.",
+  "materials": {
+    "videos": [
+      {
+        "title": "DNA Structure | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "DNA and Genetics | Crash Course Biology",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Genetics | Bozeman Science",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Evolution - Advanced Textbook",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Phylogenetic Tree Construction and Analysis",
+        "url": "https://phet.colorado.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Phylogenetic Analysis Project",
+      "description": "Construct and analyze a phylogenetic tree for a group of related species, explaining evolutionary relationships and patterns.",
+      "tasks": [
+        "Choose a group of related species to study (e.g., primates, birds, or plants)",
+        "Gather molecular or morphological data for phylogenetic analysis",
+        "Construct a phylogenetic tree showing evolutionary relationships",
+        "Identify key evolutionary events (speciations, adaptations, extinctions)",
+        "Write a 500-600 word report with your phylogenetic tree explaining evolutionary relationships and patterns, citing at least three scientific sources"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary difference between natural selection and genetic drift?",
+      "type": "multiple-choice",
+      "options": [
+        "Natural selection is random while genetic drift is non-random",
+        "Natural selection is non-random and adaptive, while genetic drift is random and non-adaptive",
+        "Both are random processes",
+        "Both are non-random and adaptive"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Natural selection is non-random and favors traits that increase survival and reproduction, while genetic drift is random changes in allele frequencies due to chance events."
+    },
+    {
+      "question": "Phylogenetic trees show the exact time when species diverged from common ancestors.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Phylogenetic trees show evolutionary relationships and relative timing, but absolute dates require additional data like fossils or molecular clocks."
+    },
+    {
+      "question": "What is speciation?",
+      "type": "multiple-choice",
+      "options": [
+        "The process of natural selection",
+        "The formation of new species from existing ones",
+        "The extinction of species",
+        "The migration of populations"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speciation is the evolutionary process by which new species arise from existing species, typically through reproductive isolation and genetic divergence."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=800&q=80",
+      "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

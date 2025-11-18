@@ -1,0 +1,54 @@
+{
+  "subject": "Italian",
+  "levels": {
+    "Basic": [
+      "Italian Alphabet and Sounds",
+      "Basic Greetings: Ciao, Arrivederci, Grazie",
+      "Numbers 1-20",
+      "Colors: Rosso, Blu, Verde, Giallo",
+      "Basic Body Parts: Testa, Mano, Piede",
+      "Simple Questions: Cosa? Chi? Dove?",
+      "Yes and No: Sì and No",
+      "Please and Thank You: Per favore, Grazie",
+      "Days of the Week",
+      "Months of the Year"
+    ],
+    "Beginner": [
+      "Introduction to Italian and Basic Greetings",
+      "The Italian Alphabet and Pronunciation",
+      "Numbers 0-100 and Basic Counting",
+      "Common Nouns and Articles (il, la, lo, gli, le)",
+      "Present Tense of Regular Verbs (-are, -ere, -ire)",
+      "Essential Vocabulary: Family, Colors, and Days of the Week",
+      "Asking Questions and Basic Conversation",
+      "Telling Time and Dates",
+      "Basic Adjectives and Descriptions",
+      "Common Phrases and Survival Italian"
+    ],
+    "Intermediate": [
+      "Irregular Verbs in Present Tense (essere, avere, fare, andare)",
+      "Past Tenses: Passato Prossimo and Imperfetto",
+      "Future Tense and Conditional",
+      "Reflexive Verbs and Daily Routines",
+      "Direct and Indirect Object Pronouns",
+      "Subjunctive Mood: Introduction and Basic Uses",
+      "Comparatives and Superlatives",
+      "Expressing Opinions and Preferences",
+      "Travel and Transportation Vocabulary",
+      "Reading Comprehension and Writing Practice"
+    ],
+    "Advanced": [
+      "Advanced Subjunctive: Complex Uses and Expressions",
+      "Perfect Tenses: Trapassato Prossimo and Future Perfect",
+      "Passive Voice and Impersonal Expressions",
+      "Advanced Grammar: Prepositions and Complex Structures",
+      "Idiomatic Expressions and Colloquialisms",
+      "Formal Writing and Academic Italian",
+      "Literary Analysis and Cultural Texts",
+      "Business and Professional Italian",
+      "Debate and Argumentation in Italian",
+      "Advanced Conversation: Nuances and Regional Variations"
+    ]
+  }
+}
+

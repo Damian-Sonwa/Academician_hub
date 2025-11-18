@@ -1,0 +1,161 @@
+{
+  "topic": "Systems of Equations and Inequalities",
+  "detailedSummary": "A system of equations is a collection of two or more equations with the same variables. The solution to a system is the set of values that satisfies all equations simultaneously, representing the point(s) where the graphs intersect. Systems can have one solution (consistent and independent), no solution (inconsistent - parallel lines), or infinitely many solutions (consistent and dependent - same line). For linear systems, common solution methods include: graphing (visual but less precise), substitution (solve one equation for a variable, substitute into the other), elimination (add/subtract equations to eliminate a variable), and matrix methods (for larger systems). Systems of inequalities involve multiple inequalities, with solutions represented as overlapping shaded regions on a graph. The solution region is where all inequalities are satisfied simultaneously. Systems model countless real-world scenarios: mixing solutions with different concentrations, finding break-even points in business, determining optimal resource allocation, solving distance-rate-time problems with multiple vehicles, and analyzing supply and demand in economics. In three dimensions, systems can represent planes intersecting at points, lines, or having no intersection. Understanding systems is crucial for linear algebra, optimization problems, and modeling complex relationships in science and engineering.",
+  "whyItMatters": "Systems model situations with multiple constraints and variables - essential for optimization, economics, engineering design, and solving complex real-world problems.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Systems of Equations and Inequalities | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Systems of Equations and Inequalities | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Systems of Equations and Inequalities | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Elementary Algebra 2e - Chapter 5: Systems of Linear Equations - OpenStax",
+        "url": "https://openstax.org/details/books/elementary-algebra-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "System Solver - Desmos",
+        "url": "https://www.desmos.com/calculator"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Systems of Equations and Inequalities",
+      "description": "Solve systems using multiple methods and graph systems of inequalities.",
+      "tasks": [
+        "Solve 10 systems of linear equations using substitution",
+        "Solve 10 systems of linear equations using elimination",
+        "Graph 5 systems and verify solutions visually",
+        "Solve 5 word problems using systems of equations",
+        "Graph 5 systems of linear inequalities and identify solution regions",
+        "Solve 3 systems with three variables",
+        "Determine if systems are consistent, inconsistent, or dependent",
+        "Find break-even points using systems",
+        "Solve mixture problems using systems",
+        "Create a real-world scenario requiring a system of equations"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the solution to the system: 2x + y = 7 and x - y = 2?",
+      "type": "multiple-choice",
+      "options": [
+        "(3, 1)",
+        "(1, 5)",
+        "(3, -1)",
+        "No solution"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Add equations: 3x = 9, so x = 3. Substitute: 3 - y = 2, so y = 1. Solution: (3, 1)."
+    },
+    {
+      "question": "How many solutions does a system of two parallel lines have?",
+      "type": "multiple-choice",
+      "options": [
+        "One solution",
+        "No solution",
+        "Infinitely many solutions",
+        "Two solutions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Parallel lines never intersect, so there is no solution. This is an inconsistent system."
+    },
+    {
+      "question": "Which method is best for solving: y = 2x + 1 and 3x + y = 10?",
+      "type": "multiple-choice",
+      "options": [
+        "Substitution",
+        "Elimination",
+        "Graphing",
+        "All methods work equally well"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Substitution is easiest since the first equation is already solved for y: substitute 2x + 1 into the second equation."
+    },
+    {
+      "question": "A system of equations always has exactly one solution.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Systems can have one solution, no solution (inconsistent), or infinitely many solutions (dependent)."
+    },
+    {
+      "question": "What is the solution region for the system: x ≥ 0, y ≥ 0, x + y ≤ 5?",
+      "type": "multiple-choice",
+      "options": [
+        "A triangle in the first quadrant",
+        "A rectangle",
+        "The entire first quadrant",
+        "No solution"
+      ],
+      "correctAnswer": 0,
+      "explanation": "x ≥ 0 and y ≥ 0 restrict to first quadrant. x + y ≤ 5 creates a triangle bounded by the axes and the line x + y = 5."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1574170275470-a717198122c8?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "System of Equations": "Two or more equations with the same variables. The solution satisfies all equations simultaneously.",
+      "Consistent System": "A system with at least one solution. Can be independent (one solution) or dependent (infinitely many).",
+      "Inconsistent System": "A system with no solution. Graphically, parallel lines that never intersect.",
+      "Substitution Method": "Solve one equation for a variable, then substitute that expression into the other equation(s).",
+      "Elimination Method": "Add or subtract equations to eliminate a variable, creating a simpler system to solve.",
+      "Solution Region": "For systems of inequalities, the overlapping area where all inequalities are satisfied simultaneously.",
+      "Feasible Region": "In optimization, the solution region of a system of inequalities representing constraints.",
+      "Break-Even Point": "Where revenue equals cost, found by solving the system: revenue = cost."
+    },
+    "keyConcepts": [
+      "Systems can have one solution (intersecting lines), no solution (parallel lines), or infinitely many (same line)",
+      "Substitution works best when one equation is already solved for a variable",
+      "Elimination works well when coefficients are easily manipulated to cancel a variable",
+      "Systems of inequalities have solution regions (shaded areas) rather than single points",
+      "The solution to a system represents the intersection point(s) of the graphs"
+    ],
+    "stepByStepExplanations": [
+      "**Substitution Method:** System: y = 2x + 1 and 3x + y = 10. Step 1) Substitute first into second: 3x + (2x + 1) = 10. Step 2) Solve: 5x + 1 = 10, so x = 9/5. Step 3) Find y: y = 2(9/5) + 1 = 23/5. Solution: (9/5, 23/5).",
+      "**Elimination Method:** System: 2x + 3y = 7 and x - 3y = 2. Step 1) Add equations (y terms cancel): 3x = 9, so x = 3. Step 2) Substitute: 3 - 3y = 2, so y = 1/3. Solution: (3, 1/3).",
+      "**Graphing System of Inequalities:** For x ≥ 0, y ≥ 0, x + y ≤ 5: Step 1) Graph each inequality. Step 2) Shade appropriate side. Step 3) Solution region is where all three shadings overlap (triangle in first quadrant).",
+      "**Word Problem - Mixture:** 'Mix 20% acid and 50% acid to get 30% acid. Use 10L total.' Let x = liters of 20%, y = liters of 50%. System: x + y = 10 and 0.20x + 0.50y = 0.30(10). Solve: x = 6.67L, y = 3.33L."
+    ],
+    "examples": [
+      "**One Solution:** 2x + y = 7 and x - y = 2\n   Add: 3x = 9, so x = 3\n   Substitute: 3 - y = 2, so y = 1\n   Solution: (3, 1) - lines intersect at one point",
+      "**No Solution:** y = 2x + 1 and y = 2x + 5\n   Both have slope 2, different y-intercepts\n   Parallel lines, no intersection\n   System is inconsistent",
+      "**Infinitely Many:** 2x + 4y = 8 and x + 2y = 4\n   Second equation × 2 equals first\n   Same line, infinite solutions\n   System is dependent",
+      "**Inequality System:** x + y ≤ 6, x ≥ 0, y ≥ 0\n   Graph: triangle with vertices (0,0), (6,0), (0,6)\n   Solution region: all points in this triangle"
+    ],
+    "realLifeApplications": [
+      "**Business Break-Even:** Revenue R = 50x and Cost C = 30x + 1000. Break-even: 50x = 30x + 1000, so x = 50 units. System shows profit zone (R > C).",
+      "**Mixture Problems:** Mixing solutions with different concentrations. System: x + y = total volume, (concentration₁)(x) + (concentration₂)(y) = (desired concentration)(total).",
+      "**Distance-Rate-Time:** Two vehicles traveling: d₁ = r₁t and d₂ = r₂t. If they meet, d₁ + d₂ = total distance. System finds meeting time and location.",
+      "**Resource Allocation:** Constraints: x + y ≤ 100 (budget), x ≥ 20, y ≥ 30. Solution region shows all feasible combinations. Optimization finds best point."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A coordinate plane showing two lines intersecting at point (3, 1), representing a system with one solution.",
+      "A graph showing two parallel lines with the same slope but different y-intercepts, representing an inconsistent system with no solution.",
+      "A coordinate plane with three inequalities graphed and shaded, showing the overlapping solution region (feasible region) where all constraints are satisfied."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

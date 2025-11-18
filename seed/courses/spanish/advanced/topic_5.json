@@ -1,0 +1,86 @@
+{
+  "topic": "Idiomatic Expressions and Colloquialisms",
+  "detailedSummary": "Idiomatic expressions are phrases with meanings different from literal translations. Common idioms: 'Estar en las nubes' (To be in the clouds - daydreaming), 'Costar un ojo de la cara' (To cost an arm and a leg), 'Echar de menos' (To miss someone), 'Tener ganas de' (To feel like/to want to), 'Dar igual' (To not matter), 'Estar hecho polvo' (To be exhausted), 'Ser pan comido' (To be a piece of cake/easy), 'Ponerse las pilas' (To get one's act together), 'Estar en el séptimo cielo' (To be on cloud nine), 'Tomar el pelo' (To pull someone's leg). Colloquialisms vary by region: Spain uses 'tío/tía' (dude), 'guay' (cool), 'flipar' (to be amazed). Latin America: 'chévere' (cool), 'bacán' (awesome), 'pibe' (kid/guy). Slang: 'joder' (damn - Spain), 'qué padre' (how cool - Mexico), 'está chévere' (it's cool - various). Understanding idioms and colloquialisms enables natural, native-like communication and cultural understanding. Context is crucial - some expressions are informal and region-specific.",
+  "whyItMatters": "Idiomatic expressions and colloquialisms are essential for natural, native-like Spanish - they're used constantly in everyday conversation and understanding them is crucial for cultural fluency.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Idiomatic Expressions and Colloquialisms | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Idiomatic Expressions and Colloquialisms | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Idiomatic Expressions and Colloquialisms | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Idiomatic Expressions Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Idioms Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Idiomatic Expressions",
+      "description": "Learn and practice using idiomatic expressions and colloquialisms in context.",
+      "tasks": [
+        "Create flashcards for 50 common Spanish idioms with meanings and examples",
+        "Identify regional variations of common expressions",
+        "Write dialogues using idiomatic expressions naturally",
+        "Practice understanding idioms in context from Spanish media",
+        "Write a story or dialogue incorporating various idioms and colloquialisms"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What does 'Estar en las nubes' mean?",
+      "type": "multiple-choice",
+      "options": [
+        "To be in the clouds literally",
+        "To be daydreaming or not paying attention",
+        "To be flying",
+        "To be happy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Estar en las nubes' is an idiom meaning 'to be daydreaming' or 'to have one's head in the clouds' - not paying attention."
+    },
+    {
+      "question": "Idiomatic expressions can have completely different meanings from their literal translations.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Idioms often have meanings unrelated to literal translations - 'costar un ojo de la cara' (to cost an arm and a leg) has nothing to do with eyes or faces."
+    },
+    {
+      "question": "What does 'Tener ganas de' mean?",
+      "type": "multiple-choice",
+      "options": [
+        "To have hands of",
+        "To feel like/to want to",
+        "To be tired",
+        "To be hungry"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Tener ganas de' means 'to feel like' or 'to want to' - 'Tengo ganas de comer' (I feel like eating/I want to eat)."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

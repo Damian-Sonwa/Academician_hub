@@ -1,0 +1,42 @@
+{
+  "subject": "Geography",
+  "levels": {
+    "Secondary": [
+      "Introduction to Geography: Physical and Human Geography",
+      "Earth's Structure: Plate Tectonics and Landforms",
+      "Weather and Climate: Atmospheric Processes",
+      "Biomes and Ecosystems: Global Distribution",
+      "Water Systems: Oceans, Rivers, and Water Cycle",
+      "Population Geography: Distribution and Migration",
+      "Urban Geography: Cities and Urbanization",
+      "Economic Geography: Agriculture, Industry, and Trade",
+      "Political Geography: Borders, States, and Geopolitics",
+      "Cultural Geography: Language, Religion, and Identity",
+      "Regional Geography: North America",
+      "Regional Geography: Europe and Asia",
+      "Regional Geography: Africa, Latin America, and Oceania",
+      "Environmental Geography: Resources and Sustainability",
+      "Geographic Information Systems (GIS) Basics"
+    ],
+    "Advanced": [
+      "Physical Geography: Geomorphology and Landform Processes",
+      "Climatology: Climate Systems and Change",
+      "Biogeography: Species Distribution and Evolution",
+      "Hydrology: Water Resources and Management",
+      "Human Geography: Space, Place, and Scale",
+      "Urban Geography: Planning, Development, and Sustainability",
+      "Economic Geography: Globalization and Development",
+      "Political Geography: Territory, Power, and Conflict",
+      "Cultural Geography: Identity, Representation, and Space",
+      "Environmental Geography: Sustainability and Resource Management",
+      "Geographic Information Systems (GIS) and Remote Sensing",
+      "Regional Analysis: Advanced Case Studies",
+      "Research Methods in Geography",
+      "Geographic Thought and Theory",
+      "Capstone: Geographic Research Project"
+    ]
+  }
+}
+
+
+

@@ -1,0 +1,86 @@
+{
+  "topic": "Direct and Indirect Object Pronouns",
+  "detailedSummary": "Object pronouns replace nouns to avoid repetition. Direct object pronouns answer 'what?' or 'whom?': me, te, lo/la, nos, os, los/las. They replace direct objects: 'Veo el libro' → 'Lo veo' (I see it). Indirect object pronouns answer 'to/for whom?': me, te, le, nos, os, les. They replace indirect objects: 'Doy el libro a María' → 'Le doy el libro' (I give the book to her). Placement: pronouns go before conjugated verbs ('Te veo' - I see you) or attached to infinitives ('Quiero verte' - I want to see you). When both direct and indirect pronouns appear, indirect comes first: 'Te lo doy' (I give it to you). 'Le' and 'les' change to 'se' before 'lo/la/los/las': 'Se lo doy' (I give it to him/her/them). Common verbs with indirect objects: dar (to give), decir (to tell), escribir (to write), enviar (to send), mostrar (to show), prestar (to lend). Understanding object pronouns makes Spanish more natural and concise.",
+  "whyItMatters": "Object pronouns are essential for natural, fluent Spanish - they eliminate repetition and make speech more concise and native-like.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Direct and Indirect Object Pronouns | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Direct and Indirect Object Pronouns | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Direct and Indirect Object Pronouns | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Object Pronouns Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Object Pronouns Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Object Pronouns",
+      "description": "Practice using direct and indirect object pronouns correctly in sentences.",
+      "tasks": [
+        "Identify direct and indirect objects in 20 sentences and replace them with pronouns",
+        "Practice pronoun placement with conjugated verbs and infinitives",
+        "Write sentences using both direct and indirect object pronouns together",
+        "Practice the 'se' replacement rule (le/les → se before lo/la/los/las)",
+        "Rewrite a paragraph replacing all objects with pronouns"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the direct object pronoun for 'el libro' (masculine, singular)?",
+      "type": "multiple-choice",
+      "options": [
+        "la",
+        "lo",
+        "le",
+        "se"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Lo' is the direct object pronoun for masculine singular nouns like 'el libro' (the book → it)."
+    },
+    {
+      "question": "When both direct and indirect object pronouns are used, the indirect object pronoun comes first.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. When both pronouns appear, the indirect object pronoun comes first: 'Te lo doy' (I give it to you), not 'Lo te doy'."
+    },
+    {
+      "question": "What happens to 'le' or 'les' when followed by 'lo', 'la', 'los', or 'las'?",
+      "type": "multiple-choice",
+      "options": [
+        "Nothing changes",
+        "They become 'se'",
+        "They are deleted",
+        "They switch places"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Le' and 'les' change to 'se' before direct object pronouns: 'Le doy el libro' → 'Se lo doy' (I give it to him/her)."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

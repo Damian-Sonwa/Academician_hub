@@ -1,0 +1,119 @@
+{
+  "topic": "Biomes and Ecosystems: Global Distribution",
+  "detailedSummary": "Biomes are large-scale ecosystems with similar climate, vegetation, and wildlife. Major terrestrial biomes: tropical rainforests, deserts, grasslands, temperate forests, taiga, tundra. Aquatic biomes: freshwater (lakes, rivers, wetlands) and marine (oceans, coral reefs). Each biome has characteristic plants, animals, and adaptations. Biome distribution depends on climate, latitude, altitude, and geography. Ecosystems include biotic (living) and abiotic (non-living) components interacting through energy flow and nutrient cycles. Understanding biomes helps explain biodiversity, conservation, and environmental management.",
+  "whyItMatters": "Understanding biomes and ecosystems is essential for biodiversity conservation, environmental management, and understanding global environmental patterns.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Biomes and Ecosystems: Global Distribution | Crash Course Geography",
+        "url": "https://www.youtube.com/watch?v=3PKzJdXhWqk"
+      },
+      {
+        "title": "Biomes and Ecosystems: Global Distribution | National Geographic",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Biomes and Ecosystems: Global Distribution | Geography Realm",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Introduction to Human Geography - OpenStax",
+        "url": "https://openstax.org/details/books/introduction-human-geography"
+      },
+      {
+        "title": "Physical Geography - LibreTexts",
+        "url": "https://geo.libretexts.org/"
+      }
+    ],
+    "images": [
+      {
+        "title": "Biomes and Ecosystems: Global Distribution - Visual Aid",
+        "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Research Assignment: Biomes and Ecosystems: Global Distribution",
+      "description": "Conduct research on Biomes and Ecosystems: Global Distribution and write a comprehensive report analyzing key concepts, examples, and real-world applications.",
+      "tasks": [
+        "Research the main concepts and theories related to this topic",
+        "Identify and analyze at least 3 real-world examples",
+        "Create maps, diagrams, or visual aids to illustrate key points",
+        "Write a 1000-word report with proper citations",
+        "Present your findings to the class"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the main focus of Biomes and Ecosystems: Global Distribution?",
+      "options": [
+        "Geographic patterns and processes",
+        "Historical events",
+        "Mathematical calculations",
+        "Literary analysis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Biomes and Ecosystems: Global Distribution focuses on geographic patterns, processes, and spatial relationships.",
+      "type": "multiple-choice"
+    },
+    {
+      "question": "Why is understanding Biomes and Ecosystems: Global Distribution important?",
+      "options": [
+        "It helps understand spatial patterns and global issues",
+        "It is only useful for academic purposes",
+        "It has no real-world applications",
+        "It is outdated information"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Understanding Biomes and Ecosystems: Global Distribution is essential for geographic literacy and addressing global challenges.",
+      "type": "multiple-choice"
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+    "additional": [
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=3PKzJdXhWqk",
+  "fullTopicLesson": {
+    "introduction": "Biomes and Ecosystems: Global Distribution is a fundamental aspect of geography that explores spatial patterns, processes, and relationships.",
+    "keyConcepts": [
+      "Spatial patterns and distributions",
+      "Geographic processes and interactions",
+      "Human-environment relationships",
+      "Regional characteristics and variations"
+    ],
+    "detailedExplanations": [
+      {
+        "concept": "Spatial Patterns",
+        "explanation": "Spatial patterns describe how geographic features are distributed across space, including clustering, dispersion, and linear arrangements."
+      },
+      {
+        "concept": "Geographic Processes",
+        "explanation": "Geographic processes are the mechanisms that create, modify, and maintain spatial patterns over time."
+      }
+    ],
+    "examples": [
+      {
+        "description": "Real-world example",
+        "content": "Examples illustrate how geographic concepts apply to actual places and situations."
+      }
+    ],
+    "realWorldApplications": [
+      "Urban planning and development",
+      "Environmental management",
+      "Resource allocation",
+      "Disaster preparedness"
+    ]
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth equal points. Correct answers demonstrate understanding of key concepts.",
+    "assignmentGrading": "Assignments are graded based on research quality, analysis depth, clarity of writing, and proper use of geographic concepts."
+  }
+}

@@ -1,0 +1,217 @@
+[
+  {
+    "title": "Object-Oriented Programming",
+    "summary": "Master classes, objects, inheritance, and polymorphism in Python. Learn to define classes and create objects. Understand instance variables, class variables, and methods. Study inheritance and how to create class hierarchies. Learn about polymorphism and method overriding. Practice designing object-oriented solutions to problems.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Python OOP - freeCodeCamp",
+          "url": "https://youtu.be/Ej_02ICOIgs"
+        },
+        {
+          "title": "OOP in Python - Programming with Mosh",
+          "url": "https://youtu.be/Ej_02ICOIgs"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Python OOP - Real Python",
+          "url": "https://realpython.com/python3-object-oriented-programming/"
+        },
+        {
+          "title": "Classes - Python Docs",
+          "url": "https://docs.python.org/3/tutorial/classes.html"
+        }
+      ],
+      "labs": [
+        {
+          "title": "OOP Practice - Replit",
+          "url": "https://replit.com/"
+        },
+        {
+          "title": "OOP Exercises",
+          "url": "https://www.practicepython.org/"
+        }
+      ]
+    },
+    "detailedSummary": "Master classes, objects, inheritance, and polymorphism in Python. Learn to define classes and create objects. Understand instance variables, class variables, and methods. Study inheritance and how to create class hierarchies. Learn about polymorphism and method overriding. Practice designing object-oriented solutions to problems.\n\nThis topic provides essential knowledge for understanding python at the Secondary level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Object-Oriented Programming. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Object-Oriented Programming",
+        "description": "Complete a research assignment exploring key concepts related to Object-Oriented Programming.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Object-Oriented Programming",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Object-Oriented Programming",
+        "description": "Apply your understanding of Object-Oriented Programming through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Object-Oriented Programming",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Object-Oriented Programming?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Object-Oriented Programming",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Object-Oriented Programming?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding python",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding python and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Object-Oriented Programming is an important topic for understanding python at the Secondary level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Object-Oriented Programming provides fundamental knowledge that is essential for building a strong understanding of python."
+        },
+        {
+          "question": "The concepts in Object-Oriented Programming have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Object-Oriented Programming have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Object-Oriented Programming helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "python",
+          "explanation": "The correct answer is \"python\". Object-Oriented Programming is a key component of python that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Modules and Packages",
+    "summary": "Organize code with modules and packages. Learn to create and import modules. Understand Python's module search path. Study packages and how to structure larger projects. Learn about the standard library and third-party packages. Practice using pip to install packages and manage dependencies.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Python Modules - freeCodeCamp",
+          "url": "https://youtu.be/kqtD5dpn9C8"
+        },
+        {
+          "title": "Modules and Packages - Programming with Mosh",
+          "url": "https://youtu.be/kqtD5dpn9C8"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Python Modules - Real Python",
+          "url": "https://realpython.com/python-modules-packages/"
+        },
+        {
+          "title": "Modules - Python Docs",
+          "url": "https://docs.python.org/3/tutorial/modules.html"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Modules Practice - Replit",
+          "url": "https://replit.com/"
+        },
+        {
+          "title": "Package Management",
+          "url": "https://pypi.org/"
+        }
+      ]
+    },
+    "detailedSummary": "Organize code with modules and packages. Learn to create and import modules. Understand Python's module search path. Study packages and how to structure larger projects. Learn about the standard library and third-party packages. Practice using pip to install packages and manage dependencies.\n\nThis topic provides essential knowledge for understanding python at the Secondary level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Modules and Packages. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Modules and Packages",
+        "description": "Complete a research assignment exploring key concepts related to Modules and Packages.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Modules and Packages",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Modules and Packages",
+        "description": "Apply your understanding of Modules and Packages through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Modules and Packages",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Modules and Packages?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Modules and Packages",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Modules and Packages?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding python",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding python and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Modules and Packages is an important topic for understanding python at the Secondary level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Modules and Packages provides fundamental knowledge that is essential for building a strong understanding of python."
+        },
+        {
+          "question": "The concepts in Modules and Packages have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Modules and Packages have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Modules and Packages helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "python",
+          "explanation": "The correct answer is \"python\". Modules and Packages is a key component of python that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  }
+]
+

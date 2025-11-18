@@ -1,0 +1,86 @@
+{
+  "topic": "Biochemistry and Metabolic Pathways",
+  "detailedSummary": "Biochemistry explores the chemical processes that occur within living organisms at the molecular level. Metabolic pathways are series of chemical reactions that convert substrates into products, often involving enzymes as catalysts. Central metabolism includes glycolysis, the citric acid cycle (Krebs cycle), and oxidative phosphorylation, which together extract energy from glucose. Glycolysis occurs in the cytoplasm and breaks down glucose into pyruvate, producing ATP and NADH. The citric acid cycle takes place in the mitochondrial matrix and completes the oxidation of glucose-derived molecules, producing more ATP, NADH, and FADH2. Oxidative phosphorylation in the inner mitochondrial membrane uses the electron transport chain to create a proton gradient that drives ATP synthesis through chemiosmosis. Anabolic pathways build complex molecules from simpler ones, requiring energy input. Catabolic pathways break down complex molecules, releasing energy. Enzyme kinetics studies how enzymes catalyze reactions, including concepts like Michaelis-Menten kinetics, enzyme inhibition, and allosteric regulation. Metabolic regulation ensures that pathways operate efficiently and respond to cellular needs. Understanding biochemistry is crucial for medicine, nutrition, biotechnology, and understanding metabolic diseases like diabetes and inborn errors of metabolism.",
+  "whyItMatters": "Understanding biochemistry and metabolic pathways is fundamental for medicine, pharmacology, nutrition science, and biotechnology, as it explains how organisms obtain and use energy and how metabolic diseases occur.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Biochemistry and Metabolic Pathways | Khan Academy Biology",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Biochemistry and Metabolic Pathways | Crash Course Biology",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Biochemistry and Metabolic Pathways | Bozeman Science",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Lehninger Principles of Biochemistry",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Enzyme Kinetics Virtual Laboratory",
+        "url": "https://phet.colorado.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Metabolic Pathway Integration Project",
+      "description": "Create a comprehensive diagram and analysis showing how different metabolic pathways interconnect and are regulated.",
+      "tasks": [
+        "Choose a metabolic scenario (e.g., exercise, fasting, or high-carbohydrate meal)",
+        "Diagram how glycolysis, citric acid cycle, and oxidative phosphorylation connect",
+        "Explain how energy production changes in your chosen scenario",
+        "Describe regulatory mechanisms that control these pathways",
+        "Write a 500-600 word report with diagrams explaining metabolic integration and regulation, citing at least three scientific sources"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Where does the citric acid cycle occur in eukaryotic cells?",
+      "type": "multiple-choice",
+      "options": [
+        "Cytoplasm",
+        "Mitochondrial matrix",
+        "Nucleus",
+        "Endoplasmic reticulum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The citric acid cycle occurs in the mitochondrial matrix, where it completes the oxidation of acetyl-CoA derived from pyruvate."
+    },
+    {
+      "question": "ATP is produced directly in the electron transport chain through substrate-level phosphorylation.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. ATP in oxidative phosphorylation is produced through chemiosmosis, where the proton gradient drives ATP synthase. Substrate-level phosphorylation occurs in glycolysis and the citric acid cycle."
+    },
+    {
+      "question": "What is the primary function of NADH and FADH2 in cellular respiration?",
+      "type": "multiple-choice",
+      "options": [
+        "To directly produce ATP",
+        "To donate electrons to the electron transport chain",
+        "To break down glucose",
+        "To store genetic information"
+      ],
+      "correctAnswer": 1,
+      "explanation": "NADH and FADH2 are electron carriers that donate electrons to the electron transport chain, which creates the proton gradient used to synthesize ATP."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

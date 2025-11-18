@@ -1,0 +1,54 @@
+{
+  "subject": "Japanese",
+  "levels": {
+    "Basic": [
+      "Hiragana: Basic Characters and Sounds",
+      "Basic Greetings: こんにちは, さようなら, ありがとう",
+      "Numbers 1-20",
+      "Colors: 赤, 青, 緑, 黄",
+      "Basic Body Parts: 頭, 手, 足",
+      "Simple Questions: 何? 誰? どこ?",
+      "Yes and No: はい and いいえ",
+      "Please and Thank You: お願いします, ありがとう",
+      "Days of the Week",
+      "Months of the Year"
+    ],
+    "Beginner": [
+      "Introduction to Japanese: Hiragana and Katakana",
+      "Basic Kanji: Common Characters and Stroke Order",
+      "Numbers 0-100 and Basic Counting",
+      "Greetings and Polite Expressions",
+      "Particles: は, が, を, に, で",
+      "Essential Vocabulary: Family, Colors, and Days",
+      "Asking Questions: Question Words and Patterns",
+      "Telling Time and Dates",
+      "Basic Verbs: Present and Past Tense",
+      "Common Phrases and Survival Japanese"
+    ],
+    "Intermediate": [
+      "Kanji: Intermediate Characters and Compounds",
+      "Verb Conjugation: Te-form, Ta-form, and Conditional",
+      "Honorifics: Keigo (Polite, Humble, Honorific)",
+      "Aspect Markers: ている, てある, ておく",
+      "Modal Expressions: Ability, Permission, and Necessity",
+      "Comparatives and Superlatives",
+      "Expressing Opinions and Preferences",
+      "Travel and Transportation Vocabulary",
+      "Reading Comprehension: Short Texts",
+      "Writing Practice: Paragraphs and Essays"
+    ],
+    "Advanced": [
+      "Advanced Kanji: Complex Characters and Readings",
+      "Advanced Grammar: Complex Sentence Structures",
+      "Literary Japanese: Classical and Modern Texts",
+      "Business Japanese: Keigo and Professional Communication",
+      "Idiomatic Expressions and Colloquialisms",
+      "Formal Writing: Academic and Business Documents",
+      "Cultural Texts: Literature, History, and Media",
+      "Debate and Argumentation in Japanese",
+      "Regional Variations: Dialects and Standard Japanese",
+      "Advanced Conversation: Nuances and Subtleties"
+    ]
+  }
+}
+

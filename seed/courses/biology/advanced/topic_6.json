@@ -1,0 +1,86 @@
+{
+  "topic": "Neurobiology and Neural Signaling",
+  "detailedSummary": "Neurobiology explores the structure and function of the nervous system at molecular, cellular, and systems levels. Neurons are specialized cells that transmit electrical and chemical signals. The neuron consists of a cell body (soma), dendrites that receive signals, and an axon that transmits signals. The resting membrane potential is maintained by ion pumps and channels, creating an electrical gradient. Action potentials are rapid, all-or-nothing electrical signals that propagate along axons. Synaptic transmission involves neurotransmitters released from presynaptic neurons binding to receptors on postsynaptic neurons. Neurotransmitters include excitatory (glutamate) and inhibitory (GABA) types. The central nervous system (brain and spinal cord) processes information, while the peripheral nervous system connects to the body. Different brain regions have specialized functions: the cerebral cortex handles higher cognition, the cerebellum coordinates movement, and the brainstem controls vital functions. Neuroplasticity refers to the brain's ability to reorganize and form new connections. Understanding neurobiology is essential for treating neurological disorders, developing brain-computer interfaces, and understanding cognition and behavior.",
+  "whyItMatters": "Understanding neurobiology is crucial for treating neurological and psychiatric disorders, developing brain-computer interfaces, understanding learning and memory, and advancing neuroscience research.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Neurobiology and Neural Signaling | Khan Academy Biology",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Neurobiology and Neural Signaling | Crash Course Biology",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Neurobiology and Neural Signaling | Bozeman Science",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Principles of Neural Science - Advanced Textbook",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Neural Signaling and Action Potential Simulation",
+        "url": "https://phet.colorado.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Neural Circuit Analysis",
+      "description": "Research and analyze a specific neural circuit or brain region, explaining its structure, function, and role in behavior.",
+      "tasks": [
+        "Choose a specific neural circuit or brain region (e.g., visual system, motor cortex, or hippocampus)",
+        "Describe the types of neurons and their connections",
+        "Explain how information flows through the circuit",
+        "Discuss the circuit's role in behavior or cognition",
+        "Write a 500-600 word report with diagrams explaining the neural circuit, citing at least three scientific sources"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary mechanism by which action potentials are generated?",
+      "type": "multiple-choice",
+      "options": [
+        "Passive diffusion of ions",
+        "Active transport of neurotransmitters",
+        "Voltage-gated ion channels opening in response to depolarization",
+        "Direct transfer of electrical charge between cells"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Action potentials are generated when voltage-gated sodium channels open in response to membrane depolarization, allowing sodium ions to rush in and create the electrical signal."
+    },
+    {
+      "question": "Neuroplasticity means the brain's structure and function are fixed and cannot change after development.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Neuroplasticity refers to the brain's ability to reorganize, form new connections, and change throughout life in response to experience, learning, and injury."
+    },
+    {
+      "question": "What is the primary function of neurotransmitters at synapses?",
+      "type": "multiple-choice",
+      "options": [
+        "To generate action potentials directly",
+        "To transmit signals from one neuron to another",
+        "To maintain the resting membrane potential",
+        "To provide energy to neurons"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neurotransmitters are chemical messengers released from presynaptic neurons that bind to receptors on postsynaptic neurons, transmitting signals across the synaptic cleft."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1628595351029-c2bf17511435?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

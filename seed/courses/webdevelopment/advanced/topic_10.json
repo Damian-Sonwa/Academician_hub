@@ -1,0 +1,87 @@
+{
+  "topic": "State Management: Context API and Redux",
+  "detailedSummary": "State management handles application data across components. Prop drilling passes data through multiple component layers, which becomes unwieldy. Context API provides a way to share data globally without prop drilling. createContext creates a context, Provider supplies values, and useContext consumes them. Context is ideal for theme, authentication, or language preferences. Redux is a predictable state container for complex applications. Redux uses a single store containing all state. Actions describe state changes. Reducers are pure functions that update state. The store dispatches actions to reducers. useSelector accesses state, useDispatch dispatches actions. Redux Toolkit simplifies Redux setup. Middleware like Redux Thunk handles async operations. When to use Context vs Redux: Context for simple global state, Redux for complex state with time-travel debugging. Understanding state management enables building scalable applications with organized data flow.",
+  "whyItMatters": "State management is crucial for complex applications - proper state management prevents prop drilling, organizes data flow, and enables scalable, maintainable applications.",
+  "materials": {
+    "videos": [
+      {
+        "title": "State Management: Context API and Redux | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "State Management: Context API and Redux | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "State Management: Context API and Redux | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Redux Documentation",
+        "url": "https://redux.js.org/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "State Management Practice",
+        "url": "https://codesandbox.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Implement State Management Solutions",
+      "description": "Build applications using Context API and Redux to manage global application state.",
+      "tasks": [
+        "Use Context API to share global state (like theme or user data) across components",
+        "Set up Redux store with actions and reducers",
+        "Connect React components to Redux using hooks (useSelector, useDispatch)",
+        "Handle async operations with Redux Thunk",
+        "Build an application comparing Context API and Redux for different use cases"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the main problem that Context API and Redux solve?",
+      "type": "multiple-choice",
+      "options": [
+        "Component styling",
+        "Prop drilling - passing data through many component layers",
+        "Performance issues",
+        "Routing problems"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Context API and Redux solve prop drilling by providing ways to share state globally without passing props through every component layer."
+    },
+    {
+      "question": "Redux uses multiple stores to manage different parts of application state.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Redux uses a single store containing all application state, providing a single source of truth and predictable state updates."
+    },
+    {
+      "question": "What is a reducer in Redux?",
+      "type": "multiple-choice",
+      "options": [
+        "A component",
+        "A pure function that takes current state and an action, returns new state",
+        "An API call",
+        "A styling tool"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A reducer is a pure function that takes the current state and an action, and returns a new state based on the action type."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

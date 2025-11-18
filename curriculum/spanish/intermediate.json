@@ -1,0 +1,1036 @@
+{
+  "level": "Intermediate",
+  "topics": [
+    {
+      "course": "Spanish",
+      "level": "Intermediate",
+      "topic": "Tiempos Pasados: Pretérito e Imperfecto",
+      "description": "Aprende a usar los tiempos pasados en español: pretérito (acciones completadas) e imperfecto (acciones continuas o descripciones en el pasado). Dominar estos tiempos te permite hablar sobre eventos pasados con precisión. Piensa en el pretérito como acciones completadas y el imperfecto como el contexto o descripciones en el pasado.",
+      "instructional_materials": [
+        {
+          "type": "Guía Paso a Paso",
+          "title": "Aprendiendo Tiempos Pasados: Una Guía Completa",
+          "content": "Paso 1: Aprende pretérito regular (-ar, -er, -ir). Paso 2: Aprende pretérito irregular. Paso 3: Aprende imperfecto regular. Paso 4: Aprende imperfecto irregular. Paso 5: Aprende cuándo usar cada tiempo. Paso 6: Practica con ambos tiempos. Paso 7: Practica tiempos pasados. Esta guía te ayuda a dominar tiempos pasados."
+        },
+        {
+          "type": "Guía Visual",
+          "title": "Tiempos Pasados",
+          "content": "Dibuja tiempos: Pretérito (acciones completadas) → Imperfecto (contexto/descripciones). Muestra: Conjugaciones, Usos, Diferencias. La guía visual ayuda a entender tiempos pasados."
+        },
+        {
+          "type": "Ejercicio Interactivo",
+          "title": "Practica Tiempos Pasados",
+          "content": "Actividad: Practica tiempos pasados en español. Practica: Pretérito, Imperfecto, Uso correcto, Oraciones. Practica: Fluidez, Precisión. Esta actividad mejora tu conocimiento de tiempos pasados."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Pretérito Regular 📝",
+          "content": "El pretérito describe acciones completadas. **Conjugación -ar:** -é, -aste, -ó, -amos, -asteis, -aron. **Conjugación -er/-ir:** -í, -iste, -ió, -imos, -isteis, -ieron. **Cómo entenderlo:** Como acciones que terminaron. **Mundo real:** Estudiante usa pretérito: Dice 'Ayer comí pizza', Describe acción completada, Pretérito usado correctamente. El pretérito es esencial. **Mejor práctica:** Aprende conjugaciones, Usa para acciones completadas, Practica pretérito, Practica pretérito regular."
+        },
+        {
+          "title": "Pretérito Irregular 🔄",
+          "content": "Algunos verbos tienen pretérito irregular. **Verbos comunes:** Ser/Ir (fui, fuiste, fue, fuimos, fuisteis, fueron), Hacer (hice, hiciste, hizo, hicimos, hicisteis, hicieron), Tener (tuve, tuviste, tuvo, tuvimos, tuvisteis, tuvieron). **Cómo entenderlo:** Como verbos que cambian en pretérito. **Mundo real:** Estudiante usa pretérito irregular: Dice 'Fui a España', Usa verbos irregulares, Pretérito irregular usado. Los irregulares son importantes. **Mejor práctica:** Aprende verbos irregulares, Memoriza conjugaciones, Practica pretérito irregular, Practica pretérito irregular."
+        },
+        {
+          "title": "Imperfecto Regular 📄",
+          "content": "El imperfecto describe contexto o acciones continuas. **Conjugación -ar:** -aba, -abas, -aba, -ábamos, -abais, -aban. **Conjugación -er/-ir:** -ía, -ías, -ía, -íamos, -íais, -ían. **Cómo entenderlo:** Como descripciones o acciones continuas. **Mundo real:** Estudiante usa imperfecto: Dice 'Cuando era niño, jugaba', Describe contexto, Imperfecto usado correctamente. El imperfecto es importante. **Mejor práctica:** Aprende conjugaciones, Usa para contexto, Practica imperfecto, Practica imperfecto regular."
+        },
+        {
+          "title": "Imperfecto Irregular ⚠️",
+          "content": "Solo tres verbos son irregulares en imperfecto. **Verbos:** Ser (era, eras, era, éramos, erais, eran), Ir (iba, ibas, iba, íbamos, ibais, iban), Ver (veía, veías, veía, veíamos, veíais, veían). **Cómo entenderlo:** Como verbos especiales. **Mundo real:** Estudiante usa imperfecto irregular: Dice 'Era estudiante', Usa verbos irregulares, Imperfecto irregular usado. Los irregulares son pocos. **Mejor práctica:** Aprende tres verbos, Memoriza conjugaciones, Practica imperfecto irregular, Practica imperfecto irregular."
+        },
+        {
+          "title": "Uso: Pretérito vs Imperfecto 🎯",
+          "content": "Saber cuándo usar cada tiempo es crucial. **Pretérito:** Acciones completadas, Eventos específicos, Cambios. **Imperfecto:** Descripciones, Acciones continuas, Contexto, Hábitos pasados. **Cómo entenderlo:** Como elegir el tiempo correcto. **Mundo real:** Estudiante elige tiempo: Usa pretérito para acción, Usa imperfecto para contexto, Tiempo elegido correctamente, Uso dominado. La elección es importante. **Mejor práctica:** Aprende diferencias, Practica elección, Usa correctamente, Practica uso de tiempos."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Pretérito Regular",
+          "explanation": "Estudiante usa pretérito: Dice 'Ayer comí pizza', Describe acción completada, Pretérito usado correctamente."
+        },
+        {
+          "scenario": "Pretérito Irregular",
+          "explanation": "Estudiante usa pretérito irregular: Dice 'Fui a España', Usa verbo irregular, Pretérito irregular usado."
+        },
+        {
+          "scenario": "Imperfecto",
+          "explanation": "Estudiante usa imperfecto: Dice 'Cuando era niño, jugaba', Describe contexto, Imperfecto usado correctamente."
+        },
+        {
+          "scenario": "Uso Correcto",
+          "explanation": "Estudiante elige tiempo: Usa pretérito para 'comí' (acción), Usa imperfecto para 'era' (descripción), Tiempo elegido correctamente."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Practica Pretérito Regular",
+          "instructions": "Paso 1: Aprende conjugaciones pretérito -ar. Paso 2: Aprende conjugaciones pretérito -er/-ir. Paso 3: Practica conjugar verbos regulares. Paso 4: Usa pretérito en oraciones. Paso 5: Practica con acciones completadas. Paso 6: Crea oraciones con pretérito. Paso 7: Practica pretérito regular.",
+          "example_answer": "Pretérito regular practicado: Conjugaciones -ar aprendidas, Conjugaciones -er/-ir aprendidas, Verbos conjugados, Oraciones con pretérito, Acciones completadas practicadas, Oraciones creadas, Pretérito regular dominado."
+        },
+        {
+          "title": "Practica Imperfecto",
+          "instructions": "Paso 1: Aprende conjugaciones imperfecto -ar. Paso 2: Aprende conjugaciones imperfecto -er/-ir. Paso 3: Aprende verbos irregulares (ser, ir, ver). Paso 4: Practica conjugar verbos. Paso 5: Usa imperfecto en oraciones. Paso 6: Practica con descripciones. Paso 7: Practica imperfecto.",
+          "example_answer": "Imperfecto practicado: Conjugaciones -ar aprendidas, Conjugaciones -er/-ir aprendidas, Verbos irregulares aprendidos, Verbos conjugados, Oraciones con imperfecto, Descripciones practicadas, Imperfecto dominado."
+        },
+        {
+          "title": "Practica Uso Correcto",
+          "instructions": "Paso 1: Aprende diferencias entre pretérito e imperfecto. Paso 2: Practica identificar cuándo usar cada tiempo. Paso 3: Crea oraciones usando ambos tiempos. Paso 4: Practica con narraciones. Paso 5: Identifica errores de uso. Paso 6: Corrige errores. Paso 7: Practica uso correcto.",
+          "example_answer": "Uso correcto practicado: Diferencias aprendidas, Uso identificado, Oraciones con ambos tiempos, Narraciones practicadas, Errores identificados, Errores corregidos, Uso correcto dominado."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Tiempos Pasados en Español",
+          "source": "Open Textbook Library",
+          "reason": "Proporciona una guía completa de pretérito e imperfecto en español."
+        },
+        {
+          "title": "Gramática Española: Tiempos Pasados",
+          "source": "OpenStax",
+          "reason": "Cubre pretérito, imperfecto y su uso correcto."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Pretérito e Imperfecto Tutorial – Traversy Media",
+          "reason": "Guía completa de tiempos pasados en español."
+        },
+        {
+          "title": "Tiempos Pasados en Español – freeCodeCamp",
+          "reason": "Tutorial completo sobre pretérito e imperfecto."
+        }
+      ],
+      "summary": "El pretérito describe acciones completadas en el pasado (Ayer comí pizza). El imperfecto describe contexto, descripciones o acciones continuas (Cuando era niño, jugaba). Los verbos regulares siguen patrones predecibles, mientras que algunos verbos comunes (ser, ir, hacer, tener) son irregulares en pretérito. Solo tres verbos (ser, ir, ver) son irregulares en imperfecto. Saber cuándo usar cada tiempo es crucial para hablar sobre el pasado con precisión. Dominar pretérito e imperfecto es fundamental para narrar eventos pasados en español."
+    },
+    {
+      "course": "Spanish",
+      "level": "Intermediate",
+      "topic": "Futuro y Condicional",
+      "description": "Aprende a expresar el futuro y condiciones en español. El futuro simple describe acciones que ocurrirán, mientras que el condicional expresa cortesía, probabilidad o condiciones hipotéticas. Dominar estos tiempos te permite hablar sobre planes futuros y situaciones hipotéticas. Piensa en el futuro como lo que pasará y el condicional como lo que pasaría.",
+      "instructional_materials": [
+        {
+          "type": "Guía Paso a Paso",
+          "title": "Aprendiendo Futuro y Condicional: Una Guía Completa",
+          "content": "Paso 1: Aprende futuro regular (infinitivo + terminaciones). Paso 2: Aprende futuro irregular. Paso 3: Aprende condicional regular (infinitivo + terminaciones). Paso 4: Aprende condicional irregular. Paso 5: Aprende usos del futuro. Paso 6: Aprende usos del condicional. Paso 7: Practica futuro y condicional. Esta guía te ayuda a dominar futuro y condicional."
+        },
+        {
+          "type": "Guía Visual",
+          "title": "Futuro y Condicional",
+          "content": "Dibuja tiempos: Futuro (acciones futuras) → Condicional (hipotético/cortesía). Muestra: Conjugaciones, Usos, Diferencias. La guía visual ayuda a entender futuro y condicional."
+        },
+        {
+          "type": "Ejercicio Interactivo",
+          "title": "Practica Futuro y Condicional",
+          "content": "Actividad: Practica futuro y condicional en español. Practica: Futuro, Condicional, Uso correcto, Oraciones. Practica: Fluidez, Precisión. Esta actividad mejora tu conocimiento de futuro y condicional."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Futuro Regular 🔮",
+          "content": "El futuro describe acciones futuras. **Formación:** Infinitivo + terminaciones (-é, -ás, -á, -emos, -éis, -án). **Ejemplos:** Hablaré, Comerás, Vivirá. **Cómo entenderlo:** Como agregar terminaciones al infinitivo. **Mundo real:** Estudiante usa futuro: Dice 'Mañana viajaré', Describe acción futura, Futuro usado correctamente. El futuro es esencial. **Mejor práctica:** Aprende formación, Usa para futuro, Practica futuro, Practica futuro regular."
+        },
+        {
+          "title": "Futuro Irregular ⚠️",
+          "content": "Algunos verbos cambian el infinitivo en futuro. **Verbos comunes:** Tener (tendré), Poder (podré), Querer (querré), Saber (sabré), Venir (vendré), Hacer (haré), Decir (diré). **Cómo entenderlo:** Como verbos que cambian antes de agregar terminaciones. **Mundo real:** Estudiante usa futuro irregular: Dice 'Tendré tiempo', Usa verbo irregular, Futuro irregular usado. Los irregulares son importantes. **Mejor práctica:** Aprende verbos irregulares, Memoriza cambios, Practica futuro irregular, Practica futuro irregular."
+        },
+        {
+          "title": "Condicional Regular 💭",
+          "content": "El condicional expresa cortesía o hipótesis. **Formación:** Infinitivo + terminaciones (-ía, -ías, -ía, -íamos, -íais, -ían). **Ejemplos:** Hablaría, Comerías, Viviría. **Cómo entenderlo:** Como agregar terminaciones -ía al infinitivo. **Mundo real:** Estudiante usa condicional: Dice 'Me gustaría...', Expresa cortesía, Condicional usado correctamente. El condicional es útil. **Mejor práctica:** Aprende formación, Usa para cortesía, Practica condicional, Practica condicional regular."
+        },
+        {
+          "title": "Condicional Irregular 🔄",
+          "content": "Los mismos verbos irregulares del futuro son irregulares en condicional. **Verbos:** Tendría, Podría, Querría, Sabría, Vendría, Haría, Diría. **Cómo entenderlo:** Como los mismos cambios del futuro pero con terminaciones -ía. **Mundo real:** Estudiante usa condicional irregular: Dice 'Podría ayudarte', Usa verbo irregular, Condicional irregular usado. Los irregulares son los mismos. **Mejor práctica:** Aprende verbos irregulares, Memoriza cambios, Practica condicional irregular, Practica condicional irregular."
+        },
+        {
+          "title": "Usos del Futuro y Condicional 🎯",
+          "content": "Cada tiempo tiene usos específicos. **Futuro:** Acciones futuras, Probabilidad en presente, Promesas. **Condicional:** Cortesía (Me gustaría), Hipotético (Si tuviera tiempo, viajaría), Probabilidad en pasado. **Cómo entenderlo:** Como elegir el tiempo correcto. **Mundo real:** Estudiante elige tiempo: Usa futuro para planes, Usa condicional para cortesía, Tiempo elegido correctamente, Uso dominado. La elección es importante. **Mejor práctica:** Aprende usos, Practica elección, Usa correctamente, Practica usos de futuro y condicional."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Futuro Regular",
+          "explanation": "Estudiante usa futuro: Dice 'Mañana viajaré a España', Describe acción futura, Futuro usado correctamente."
+        },
+        {
+          "scenario": "Futuro Irregular",
+          "explanation": "Estudiante usa futuro irregular: Dice 'Tendré tiempo mañana', Usa verbo irregular, Futuro irregular usado."
+        },
+        {
+          "scenario": "Condicional",
+          "explanation": "Estudiante usa condicional: Dice 'Me gustaría un café', Expresa cortesía, Condicional usado correctamente."
+        },
+        {
+          "scenario": "Uso Correcto",
+          "explanation": "Estudiante elige tiempo: Usa futuro para 'viajaré' (plan), Usa condicional para 'me gustaría' (cortesía), Tiempo elegido correctamente."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Practica Futuro Regular",
+          "instructions": "Paso 1: Aprende formación del futuro. Paso 2: Practica agregar terminaciones al infinitivo. Paso 3: Practica conjugar verbos regulares. Paso 4: Usa futuro en oraciones. Paso 5: Practica con planes futuros. Paso 6: Crea oraciones con futuro. Paso 7: Practica futuro regular.",
+          "example_answer": "Futuro regular practicado: Formación aprendida, Terminaciones agregadas, Verbos conjugados, Oraciones con futuro, Planes futuros practicados, Oraciones creadas, Futuro regular dominado."
+        },
+        {
+          "title": "Practica Condicional",
+          "instructions": "Paso 1: Aprende formación del condicional. Paso 2: Practica agregar terminaciones -ía. Paso 3: Aprende verbos irregulares. Paso 4: Practica conjugar verbos. Paso 5: Usa condicional en oraciones. Paso 6: Practica con cortesía. Paso 7: Practica condicional.",
+          "example_answer": "Condicional practicado: Formación aprendida, Terminaciones agregadas, Verbos irregulares aprendidos, Verbos conjugados, Oraciones con condicional, Cortesía practicada, Condicional dominado."
+        },
+        {
+          "title": "Practica Uso Correcto",
+          "instructions": "Paso 1: Aprende usos del futuro. Paso 2: Aprende usos del condicional. Paso 3: Practica identificar cuándo usar cada tiempo. Paso 4: Crea oraciones usando ambos tiempos. Paso 5: Practica con situaciones reales. Paso 6: Identifica errores de uso. Paso 7: Practica uso correcto.",
+          "example_answer": "Uso correcto practicado: Usos del futuro aprendidos, Usos del condicional aprendidos, Uso identificado, Oraciones con ambos tiempos, Situaciones reales practicadas, Errores identificados, Uso correcto dominado."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Futuro y Condicional en Español",
+          "source": "Open Textbook Library",
+          "reason": "Proporciona una guía completa de futuro y condicional en español."
+        },
+        {
+          "title": "Gramática Española: Tiempos Futuros",
+          "source": "OpenStax",
+          "reason": "Cubre futuro, condicional y sus usos."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Futuro y Condicional Tutorial – Traversy Media",
+          "reason": "Guía completa de futuro y condicional en español."
+        },
+        {
+          "title": "Tiempos Futuros en Español – freeCodeCamp",
+          "reason": "Tutorial completo sobre futuro y condicional."
+        }
+      ],
+      "summary": "El futuro simple se forma agregando terminaciones (-é, -ás, -á, -emos, -éis, -án) al infinitivo y se usa para acciones futuras, probabilidad en presente y promesas. El condicional se forma agregando terminaciones (-ía, -ías, -ía, -íamos, -íais, -ían) al infinitivo y se usa para cortesía (Me gustaría), situaciones hipotéticas y probabilidad en pasado. Los mismos verbos que son irregulares en futuro también lo son en condicional (tener, poder, querer, saber, venir, hacer, decir). Dominar futuro y condicional es fundamental para expresar planes futuros y situaciones hipotéticas en español."
+    },
+    {
+      "course": "Spanish",
+      "level": "Intermediate",
+      "topic": "Pronombres de Objeto Directo e Indirecto",
+      "description": "Aprende a usar pronombres de objeto directo (lo, la, los, las) e indirecto (me, te, le, nos, os, les) en español. Los pronombres reemplazan sustantivos para evitar repetición y hacer el lenguaje más fluido. Dominar los pronombres te permite hablar de manera más natural y eficiente. Piensa en los pronombres como sustitutos de sustantivos.",
+      "instructional_materials": [
+        {
+          "type": "Guía Paso a Paso",
+          "title": "Aprendiendo Pronombres: Una Guía Completa",
+          "content": "Paso 1: Aprende pronombres de objeto directo (lo, la, los, las). Paso 2: Aprende pronombres de objeto indirecto (me, te, le, nos, os, les). Paso 3: Aprende posición de pronombres. Paso 4: Aprende uso de ambos pronombres juntos. Paso 5: Practica con pronombres. Paso 6: Usa pronombres en oraciones. Paso 7: Practica pronombres. Esta guía te ayuda a dominar pronombres."
+        },
+        {
+          "type": "Guía Visual",
+          "title": "Pronombres de Objeto",
+          "content": "Dibuja pronombres: Directo (lo, la, los, las) → Indirecto (me, te, le, nos, os, les). Muestra: Posición, Uso, Combinaciones. La guía visual ayuda a entender pronombres."
+        },
+        {
+          "type": "Ejercicio Interactivo",
+          "title": "Practica Pronombres",
+          "content": "Actividad: Practica pronombres en español. Practica: Objeto directo, Objeto indirecto, Posición, Combinaciones. Practica: Oraciones, Fluidez. Esta actividad mejora tu conocimiento de pronombres."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Pronombres de Objeto Directo 📝",
+          "content": "Los pronombres directos reemplazan el objeto directo. **Pronombres:** Me, Te, Lo (masculino), La (femenino), Nos, Os, Los (masculino plural), Las (femenino plural). **Cómo entenderlo:** Como reemplazar 'el libro' con 'lo'. **Mundo real:** Estudiante usa pronombres: Dice 'Lo compré' en vez de 'Compré el libro', Evita repetición, Pronombres usados correctamente. Los pronombres directos son útiles. **Mejor práctica:** Aprende pronombres, Usa para evitar repetición, Practica pronombres, Practica pronombres de objeto directo."
+        },
+        {
+          "title": "Pronombres de Objeto Indirecto 📄",
+          "content": "Los pronombres indirectos reemplazan el objeto indirecto. **Pronombres:** Me, Te, Le (a él/ella/usted), Nos, Os, Les (a ellos/ellas/ustedes). **Cómo entenderlo:** Como reemplazar 'a María' con 'le'. **Mundo real:** Estudiante usa pronombres: Dice 'Le di el libro' en vez de 'Di el libro a María', Evita repetición, Pronombres usados correctamente. Los pronombres indirectos son útiles. **Mejor práctica:** Aprende pronombres, Usa para evitar repetición, Practica pronombres, Practica pronombres de objeto indirecto."
+        },
+        {
+          "title": "Posición de Pronombres 📍",
+          "content": "Los pronombres van antes del verbo conjugado o después del infinitivo. **Reglas:** Antes del verbo conjugado (Lo compré), Después del infinitivo (Quiero comprarlo), Después del gerundio (Estoy comprándolo). **Cómo entenderlo:** Como dónde colocar el pronombre. **Mundo real:** Estudiante coloca pronombres: Coloca 'lo' antes de 'compré', Coloca 'lo' después de 'comprar', Posición correcta, Posición dominada. La posición es importante. **Mejor práctica:** Aprende reglas de posición, Practica posición, Usa correctamente, Practica posición de pronombres."
+        },
+        {
+          "title": "Pronombres Juntos 🔗",
+          "content": "Cuando hay objeto directo e indirecto, el indirecto va primero. **Orden:** Indirecto + Directo (Se lo di). **Cambio:** Le/Les se cambia a 'se' antes de lo/la/los/las. **Cómo entenderlo:** Como combinar pronombres. **Mundo real:** Estudiante usa pronombres juntos: Dice 'Se lo di' (no 'Le lo di'), Usa orden correcto, Pronombres juntos usados. El orden es importante. **Mejor práctica:** Aprende orden, Practica combinaciones, Usa 'se' correctamente, Practica pronombres juntos."
+        },
+        {
+          "title": "Uso de 'Se' 🔄",
+          "content": "Se reemplaza le/les antes de lo/la/los/las. **Regla:** Le/Les + Lo/La/Los/Las = Se + Lo/La/Los/Las. **Ejemplos:** Se lo di, Se las compré. **Cómo entenderlo:** Como evitar 'le lo'. **Mundo real:** Estudiante usa 'se': Dice 'Se lo di' (no 'Le lo di'), Evita combinación incorrecta, 'Se' usado correctamente. El uso de 'se' es esencial. **Mejor práctica:** Aprende regla, Practica con 'se', Usa correctamente, Practica uso de 'se'."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Pronombre Directo",
+          "explanation": "Estudiante usa pronombre: Dice 'Lo compré' en vez de 'Compré el libro', Pronombre usado correctamente."
+        },
+        {
+          "scenario": "Pronombre Indirecto",
+          "explanation": "Estudiante usa pronombre: Dice 'Le di el libro' en vez de 'Di el libro a María', Pronombre usado correctamente."
+        },
+        {
+          "scenario": "Posición",
+          "explanation": "Estudiante coloca pronombre: Coloca 'lo' antes de 'compré', Coloca 'lo' después de 'comprar', Posición correcta."
+        },
+        {
+          "scenario": "Pronombres Juntos",
+          "explanation": "Estudiante usa pronombres juntos: Dice 'Se lo di' (indirecto + directo), Usa orden correcto, Pronombres juntos usados."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Practica Pronombres Directos",
+          "instructions": "Paso 1: Aprende pronombres de objeto directo. Paso 2: Practica identificar objeto directo. Paso 3: Practica reemplazar con pronombres. Paso 4: Usa pronombres en oraciones. Paso 5: Practica con diferentes verbos. Paso 6: Crea oraciones con pronombres. Paso 7: Practica pronombres directos.",
+          "example_answer": "Pronombres directos practicados: Pronombres aprendidos, Objeto directo identificado, Reemplazados con pronombres, Oraciones con pronombres, Diferentes verbos practicados, Oraciones creadas, Pronombres directos dominados."
+        },
+        {
+          "title": "Practica Pronombres Indirectos",
+          "instructions": "Paso 1: Aprende pronombres de objeto indirecto. Paso 2: Practica identificar objeto indirecto. Paso 3: Practica reemplazar con pronombres. Paso 4: Usa pronombres en oraciones. Paso 5: Practica con diferentes verbos. Paso 6: Crea oraciones con pronombres. Paso 7: Practica pronombres indirectos.",
+          "example_answer": "Pronombres indirectos practicados: Pronombres aprendidos, Objeto indirecto identificado, Reemplazados con pronombres, Oraciones con pronombres, Diferentes verbos practicados, Oraciones creadas, Pronombres indirectos dominados."
+        },
+        {
+          "title": "Practica Pronombres Juntos",
+          "instructions": "Paso 1: Aprende orden de pronombres (indirecto + directo). Paso 2: Aprende cambio de le/les a se. Paso 3: Practica combinar pronombres. Paso 4: Usa pronombres juntos en oraciones. Paso 5: Practica con diferentes combinaciones. Paso 6: Identifica errores. Paso 7: Practica pronombres juntos.",
+          "example_answer": "Pronombres juntos practicados: Orden aprendido, Cambio a 'se' aprendido, Pronombres combinados, Oraciones con pronombres juntos, Diferentes combinaciones practicadas, Errores identificados, Pronombres juntos dominados."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Pronombres en Español",
+          "source": "Open Textbook Library",
+          "reason": "Proporciona una guía completa de pronombres de objeto directo e indirecto."
+        },
+        {
+          "title": "Gramática Española: Pronombres",
+          "source": "OpenStax",
+          "reason": "Cubre pronombres de objeto, posición y uso."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Pronombres Tutorial – Traversy Media",
+          "reason": "Guía completa de pronombres en español."
+        },
+        {
+          "title": "Objeto Directo e Indirecto en Español – freeCodeCamp",
+          "reason": "Tutorial completo sobre pronombres de objeto."
+        }
+      ],
+      "summary": "Los pronombres de objeto directo (lo, la, los, las) reemplazan el objeto directo para evitar repetición. Los pronombres de objeto indirecto (me, te, le, nos, os, les) reemplazan el objeto indirecto. Los pronombres van antes del verbo conjugado o después del infinitivo/gerundio. Cuando hay objeto directo e indirecto, el indirecto va primero y le/les se cambia a 'se' antes de lo/la/los/las (Se lo di). Dominar pronombres de objeto te permite hablar de manera más natural y eficiente en español."
+    },
+    {
+      "course": "Spanish",
+      "level": "Intermediate",
+      "topic": "Verbos Reflexivos y Rutinas Diarias",
+      "description": "Aprende a usar verbos reflexivos para describir rutinas diarias y acciones que haces a ti mismo. Los verbos reflexivos usan pronombres reflexivos (me, te, se, nos, os, se) y son esenciales para hablar sobre actividades cotidianas. Dominar verbos reflexivos te permite describir tu rutina diaria con naturalidad. Piensa en verbos reflexivos como acciones que haces a ti mismo.",
+      "instructional_materials": [
+        {
+          "type": "Guía Paso a Paso",
+          "title": "Aprendiendo Verbos Reflexivos: Una Guía Completa",
+          "content": "Paso 1: Aprende pronombres reflexivos (me, te, se, nos, os, se). Paso 2: Aprende verbos reflexivos comunes (levantarse, ducharse, vestirse). Paso 3: Aprende conjugación de verbos reflexivos. Paso 4: Aprende posición de pronombres reflexivos. Paso 5: Practica con rutinas diarias. Paso 6: Usa verbos reflexivos en oraciones. Paso 7: Practica verbos reflexivos. Esta guía te ayuda a dominar verbos reflexivos."
+        },
+        {
+          "type": "Guía Visual",
+          "title": "Verbos Reflexivos",
+          "content": "Dibuja verbos: Levantarse → Ducharse → Vestirse. Muestra: Pronombres, Conjugación, Rutinas. La guía visual ayuda a entender verbos reflexivos."
+        },
+        {
+          "type": "Ejercicio Interactivo",
+          "title": "Practica Verbos Reflexivos",
+          "content": "Actividad: Practica verbos reflexivos en español. Practica: Pronombres reflexivos, Verbos comunes, Rutinas, Oraciones. Practica: Fluidez, Naturalidad. Esta actividad mejora tu conocimiento de verbos reflexivos."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Pronombres Reflexivos 🔄",
+          "content": "Los pronombres reflexivos indican acción sobre uno mismo. **Pronombres:** Me (yo), Te (tú), Se (él/ella/usted), Nos (nosotros), Os (vosotros), Se (ellos/ellas/ustedes). **Cómo entenderlo:** Como indicar que la acción es sobre ti mismo. **Mundo real:** Estudiante usa pronombres: Dice 'Me levanto', Indica acción sobre sí mismo, Pronombres usados correctamente. Los pronombres reflexivos son esenciales. **Mejor práctica:** Aprende pronombres, Usa con verbos reflexivos, Practica pronombres, Practica pronombres reflexivos."
+        },
+        {
+          "title": "Verbos Reflexivos Comunes 🛁",
+          "content": "Muchos verbos de rutina son reflexivos. **Verbos:** Levantarse (to get up), Ducharse (to shower), Vestirse (to get dressed), Despertarse (to wake up), Acostarse (to go to bed). **Cómo entenderlo:** Como verbos que indican acción sobre uno mismo. **Mundo real:** Estudiante usa verbos: Dice 'Me levanto a las 7', Describe rutina, Verbos reflexivos usados. Los verbos reflexivos son comunes. **Mejor práctica:** Aprende verbos comunes, Usa en rutinas, Practica verbos, Practica verbos reflexivos comunes."
+        },
+        {
+          "title": "Conjugación de Verbos Reflexivos 📝",
+          "content": "Los verbos reflexivos se conjugan normalmente pero con pronombre. **Formación:** Pronombre reflexivo + Verbo conjugado (Me levanto, Te levantas, Se levanta). **Cómo entenderlo:** Como agregar pronombre al verbo. **Mundo real:** Estudiante conjuga: Conjuga 'levantarse' con pronombres, Usa todas las personas, Conjugación correcta. La conjugación es importante. **Mejor práctica:** Aprende formación, Practica conjugación, Usa pronombres, Practica conjugación de verbos reflexivos."
+        },
+        {
+          "title": "Posición de Pronombres 📍",
+          "content": "Los pronombres reflexivos van antes del verbo o después del infinitivo. **Reglas:** Antes del verbo (Me levanto), Después del infinitivo (Quiero levantarme), Después del gerundio (Estoy levantándome). **Cómo entenderlo:** Como dónde colocar el pronombre. **Mundo real:** Estudiante coloca pronombres: Coloca 'me' antes de 'levanto', Coloca 'me' después de 'levantar', Posición correcta. La posición es importante. **Mejor práctica:** Aprende reglas, Practica posición, Usa correctamente, Practica posición de pronombres reflexivos."
+        },
+        {
+          "title": "Rutinas Diarias 📅",
+          "content": "Los verbos reflexivos son esenciales para rutinas. **Rutina:** Me levanto, Me ducho, Me visto, Desayuno, Voy al trabajo. **Cómo entenderlo:** Como describir tu día. **Mundo real:** Estudiante describe rutina: Describe 'Me levanto a las 7', Usa verbos reflexivos, Rutina descrita. Las rutinas son importantes. **Mejor práctica:** Aprende verbos de rutina, Practica describir rutina, Usa verbos reflexivos, Practica rutinas diarias."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Verbo Reflexivo",
+          "explanation": "Estudiante usa verbo: Dice 'Me levanto a las 7', Indica acción sobre sí mismo, Verbo reflexivo usado correctamente."
+        },
+        {
+          "scenario": "Rutina Diaria",
+          "explanation": "Estudiante describe rutina: Dice 'Me levanto, me ducho, me visto', Describe rutina completa, Rutina descrita."
+        },
+        {
+          "scenario": "Posición",
+          "explanation": "Estudiante coloca pronombre: Coloca 'me' antes de 'levanto', Coloca 'me' después de 'levantar', Posición correcta."
+        },
+        {
+          "scenario": "Conjugación",
+          "explanation": "Estudiante conjuga: Conjuga 'levantarse' (me levanto, te levantas, se levanta), Usa todas las personas, Conjugación correcta."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Practica Pronombres Reflexivos",
+          "instructions": "Paso 1: Aprende pronombres reflexivos. Paso 2: Practica usar pronombres con verbos. Paso 3: Practica con diferentes personas. Paso 4: Usa pronombres en oraciones. Paso 5: Practica posición de pronombres. Paso 6: Crea oraciones con pronombres. Paso 7: Practica pronombres reflexivos.",
+          "example_answer": "Pronombres reflexivos practicados: Pronombres aprendidos, Usados con verbos, Diferentes personas practicadas, Oraciones con pronombres, Posición practicada, Oraciones creadas, Pronombres reflexivos dominados."
+        },
+        {
+          "title": "Practica Verbos Reflexivos",
+          "instructions": "Paso 1: Aprende verbos reflexivos comunes. Paso 2: Practica conjugación de verbos. Paso 3: Usa verbos en oraciones. Paso 4: Practica con rutinas. Paso 5: Crea descripciones de rutina. Paso 6: Practica con diferentes verbos. Paso 7: Practica verbos reflexivos.",
+          "example_answer": "Verbos reflexivos practicados: Verbos comunes aprendidos, Conjugación practicada, Oraciones con verbos, Rutinas practicadas, Descripciones creadas, Diferentes verbos practicados, Verbos reflexivos dominados."
+        },
+        {
+          "title": "Practica Rutinas Diarias",
+          "instructions": "Paso 1: Repasa verbos reflexivos de rutina. Paso 2: Aprende vocabulario de tiempo. Paso 3: Crea descripción completa de rutina. Paso 4: Practica describir tu rutina. Paso 5: Practica preguntar sobre rutinas. Paso 6: Practica con diferentes horas. Paso 7: Practica rutinas diarias.",
+          "example_answer": "Rutinas diarias practicadas: Verbos repasados, Vocabulario de tiempo aprendido, Descripción completa creada, Tu rutina descrita, Preguntas practicadas, Diferentes horas practicadas, Rutinas diarias dominadas."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Verbos Reflexivos en Español",
+          "source": "Open Textbook Library",
+          "reason": "Proporciona una guía completa de verbos reflexivos y rutinas."
+        },
+        {
+          "title": "Gramática Española: Verbos Reflexivos",
+          "source": "OpenStax",
+          "reason": "Cubre verbos reflexivos, pronombres y rutinas diarias."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Verbos Reflexivos Tutorial – Traversy Media",
+          "reason": "Guía completa de verbos reflexivos en español."
+        },
+        {
+          "title": "Rutinas Diarias en Español – freeCodeCamp",
+          "reason": "Tutorial completo sobre verbos reflexivos y rutinas."
+        }
+      ],
+      "summary": "Los verbos reflexivos usan pronombres reflexivos (me, te, se, nos, os, se) para indicar que la acción es sobre uno mismo. Verbos comunes incluyen levantarse, ducharse, vestirse, despertarse y acostarse. Los pronombres reflexivos van antes del verbo conjugado o después del infinitivo/gerundio. Los verbos reflexivos son esenciales para describir rutinas diarias (Me levanto a las 7, Me ducho, Me visto). Dominar verbos reflexivos te permite describir tu rutina diaria con naturalidad en español."
+    },
+    {
+      "course": "Spanish",
+      "level": "Intermediate",
+      "topic": "Introducción al Subjuntivo",
+      "description": "Aprende los conceptos básicos del subjuntivo en español. El subjuntivo expresa deseos, dudas, emociones y situaciones hipotéticas. Es uno de los aspectos más desafiantes pero importantes del español. Piensa en el subjuntivo como el modo de la subjetividad y la incertidumbre.",
+      "instructional_materials": [
+        {
+          "type": "Guía Paso a Paso",
+          "title": "Aprendiendo Subjuntivo: Una Guía Completa",
+          "content": "Paso 1: Aprende qué es el subjuntivo. Paso 2: Aprende conjugación presente de subjuntivo. Paso 3: Aprende verbos irregulares en subjuntivo. Paso 4: Aprende cuándo usar subjuntivo. Paso 5: Aprende expresiones que requieren subjuntivo. Paso 6: Practica con subjuntivo. Paso 7: Practica subjuntivo. Esta guía te ayuda a dominar subjuntivo."
+        },
+        {
+          "type": "Guía Visual",
+          "title": "Subjuntivo en Español",
+          "content": "Dibuja subjuntivo: Deseos → Dudas → Emociones → Hipotético. Muestra: Conjugación, Usos, Expresiones. La guía visual ayuda a entender subjuntivo."
+        },
+        {
+          "type": "Ejercicio Interactivo",
+          "title": "Practica Subjuntivo",
+          "content": "Actividad: Practica subjuntivo en español. Practica: Conjugación, Usos, Expresiones, Oraciones. Practica: Fluidez, Precisión. Esta actividad mejora tu conocimiento de subjuntivo."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "¿Qué es el Subjuntivo? ❓",
+          "content": "El subjuntivo expresa subjetividad e incertidumbre. **Usos:** Deseos, Dudas, Emociones, Recomendaciones, Situaciones hipotéticas. **Cómo entenderlo:** Como el modo de la subjetividad. **Mundo real:** Estudiante usa subjuntivo: Dice 'Espero que vengas', Expresa deseo, Subjuntivo usado correctamente. El subjuntivo es importante. **Mejor práctica:** Aprende concepto, Identifica usos, Practica subjuntivo, Practica concepto de subjuntivo."
+        },
+        {
+          "title": "Conjugación Presente de Subjuntivo 📝",
+          "content": "El subjuntivo presente tiene terminaciones especiales. **Terminaciones -ar:** -e, -es, -e, -emos, -éis, -en. **Terminaciones -er/-ir:** -a, -as, -a, -amos, -áis, -an. **Cómo entenderlo:** Como cambiar terminaciones del presente. **Mundo real:** Estudiante conjuga: Conjuga 'hablar' (hable, hables, hable), Usa terminaciones correctas, Conjugación correcta. La conjugación es esencial. **Mejor práctica:** Aprende terminaciones, Practica conjugación, Usa correctamente, Practica conjugación de subjuntivo."
+        },
+        {
+          "title": "Verbos Irregulares en Subjuntivo ⚠️",
+          "content": "Algunos verbos son irregulares en subjuntivo. **Verbos comunes:** Ser (sea, seas, sea), Estar (esté, estés, esté), Ir (vaya, vayas, vaya), Saber (sepa, sepas, sepa), Dar (dé, des, dé). **Cómo entenderlo:** Como verbos que cambian en subjuntivo. **Mundo real:** Estudiante usa irregulares: Conjuga 'ser' (sea, seas, sea), Usa verbos irregulares, Irregulares usados. Los irregulares son importantes. **Mejor práctica:** Aprende verbos irregulares, Memoriza conjugaciones, Practica irregulares, Practica verbos irregulares en subjuntivo."
+        },
+        {
+          "title": "Cuándo Usar Subjuntivo 🎯",
+          "content": "El subjuntivo se usa en situaciones específicas. **Situaciones:** Después de 'que' con expresiones de deseo/duda/emoción, En cláusulas adverbiales (aunque, para que), Después de ciertos verbos (querer, esperar, dudar). **Cómo entenderlo:** Como identificar cuándo usar subjuntivo. **Mundo real:** Estudiante identifica uso: Identifica 'Espero que vengas', Usa subjuntivo correctamente, Uso identificado. La identificación es importante. **Mejor práctica:** Aprende situaciones, Practica identificación, Usa correctamente, Practica cuándo usar subjuntivo."
+        },
+        {
+          "title": "Expresiones que Requieren Subjuntivo 💡",
+          "content": "Ciertas expresiones siempre requieren subjuntivo. **Expresiones:** Es importante que, Es necesario que, Es posible que, Ojalá que, A menos que. **Cómo entenderlo:** Como expresiones que siempre usan subjuntivo. **Mundo real:** Estudiante usa expresiones: Dice 'Es importante que estudies', Usa subjuntivo, Expresiones usadas correctamente. Las expresiones son útiles. **Mejor práctica:** Aprende expresiones, Memoriza usos, Practica expresiones, Practica expresiones que requieren subjuntivo."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Deseo",
+          "explanation": "Estudiante usa subjuntivo: Dice 'Espero que vengas', Expresa deseo, Subjuntivo usado correctamente."
+        },
+        {
+          "scenario": "Duda",
+          "explanation": "Estudiante usa subjuntivo: Dice 'Dudo que sea verdad', Expresa duda, Subjuntivo usado correctamente."
+        },
+        {
+          "scenario": "Emoción",
+          "explanation": "Estudiante usa subjuntivo: Dice 'Me alegra que estés aquí', Expresa emoción, Subjuntivo usado correctamente."
+        },
+        {
+          "scenario": "Expresión",
+          "explanation": "Estudiante usa expresión: Dice 'Es importante que estudies', Usa subjuntivo, Expresión usada correctamente."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Practica Conjugación de Subjuntivo",
+          "instructions": "Paso 1: Aprende terminaciones de subjuntivo. Paso 2: Practica conjugar verbos regulares. Paso 3: Aprende verbos irregulares. Paso 4: Practica conjugar irregulares. Paso 5: Usa subjuntivo en oraciones. Paso 6: Crea oraciones con subjuntivo. Paso 7: Practica conjugación de subjuntivo.",
+          "example_answer": "Conjugación de subjuntivo practicada: Terminaciones aprendidas, Verbos regulares conjugados, Verbos irregulares aprendidos, Irregulares conjugados, Oraciones con subjuntivo, Oraciones creadas, Conjugación de subjuntivo dominada."
+        },
+        {
+          "title": "Practica Identificar Uso",
+          "instructions": "Paso 1: Aprende cuándo usar subjuntivo. Paso 2: Practica identificar situaciones. Paso 3: Practica con expresiones de deseo. Paso 4: Practica con expresiones de duda. Paso 5: Practica con expresiones de emoción. Paso 6: Identifica errores de uso. Paso 7: Practica identificar uso.",
+          "example_answer": "Identificar uso practicado: Uso aprendido, Situaciones identificadas, Deseos practicados, Dudas practicadas, Emociones practicadas, Errores identificados, Identificar uso dominado."
+        },
+        {
+          "title": "Practica Expresiones",
+          "instructions": "Paso 1: Aprende expresiones que requieren subjuntivo. Paso 2: Practica usar expresiones. Paso 3: Usa expresiones en oraciones. Paso 4: Practica con diferentes expresiones. Paso 5: Crea oraciones con expresiones. Paso 6: Practica expresiones. Paso 7: Practica expresiones que requieren subjuntivo.",
+          "example_answer": "Expresiones practicadas: Expresiones aprendidas, Usadas, Oraciones con expresiones, Diferentes expresiones practicadas, Oraciones creadas, Expresiones dominadas."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Subjuntivo en Español",
+          "source": "Open Textbook Library",
+          "reason": "Proporciona una guía completa de subjuntivo en español."
+        },
+        {
+          "title": "Gramática Española: Subjuntivo",
+          "source": "OpenStax",
+          "reason": "Cubre subjuntivo, conjugación y usos."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Subjuntivo Tutorial – Traversy Media",
+          "reason": "Guía completa de subjuntivo en español."
+        },
+        {
+          "title": "Introducción al Subjuntivo en Español – freeCodeCamp",
+          "reason": "Tutorial completo sobre subjuntivo."
+        }
+      ],
+      "summary": "El subjuntivo expresa subjetividad, deseos, dudas, emociones y situaciones hipotéticas. El subjuntivo presente tiene terminaciones especiales: -ar usa -e/-es/-e, mientras que -er/-ir usa -a/-as/-a. Algunos verbos comunes (ser, estar, ir, saber, dar) son irregulares en subjuntivo. El subjuntivo se usa después de 'que' con expresiones de deseo/duda/emoción, en cláusulas adverbiales y después de ciertos verbos. Expresiones como 'Es importante que', 'Es necesario que' y 'Ojalá que' siempre requieren subjuntivo. Dominar el subjuntivo es fundamental para expresar subjetividad y situaciones hipotéticas en español."
+    },
+    {
+      "course": "Spanish",
+      "level": "Intermediate",
+      "topic": "Comparativos y Superlativos",
+      "description": "Aprende a hacer comparaciones y expresar el grado máximo en español. Los comparativos te permiten comparar dos cosas, mientras que los superlativos expresan el grado más alto. Dominar comparativos y superlativos te permite hacer descripciones más precisas y expresivas. Piensa en comparativos como 'más que' y superlativos como 'el más'.",
+      "instructional_materials": [
+        {
+          "type": "Guía Paso a Paso",
+          "title": "Aprendiendo Comparativos y Superlativos: Una Guía Completa",
+          "content": "Paso 1: Aprende comparativos de igualdad (tan...como). Paso 2: Aprende comparativos de superioridad (más...que). Paso 3: Aprende comparativos de inferioridad (menos...que). Paso 4: Aprende superlativos (el más, el menos). Paso 5: Aprende comparativos irregulares (mejor, peor, mayor, menor). Paso 6: Practica con comparaciones. Paso 7: Practica comparativos y superlativos. Esta guía te ayuda a dominar comparativos y superlativos."
+        },
+        {
+          "type": "Guía Visual",
+          "title": "Comparativos y Superlativos",
+          "content": "Dibuja comparaciones: Igualdad → Superioridad → Inferioridad → Superlativo. Muestra: Formación, Uso, Irregulares. La guía visual ayuda a entender comparativos y superlativos."
+        },
+        {
+          "type": "Ejercicio Interactivo",
+          "title": "Practica Comparativos y Superlativos",
+          "content": "Actividad: Practica comparativos y superlativos en español. Practica: Comparativos, Superlativos, Irregulares, Oraciones. Practica: Fluidez, Precisión. Esta actividad mejora tu conocimiento de comparativos y superlativos."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Comparativos de Igualdad ⚖️",
+          "content": "Los comparativos de igualdad comparan cosas iguales. **Formación:** Tan + adjetivo + como (Tan alto como), Tanto/a/os/as + sustantivo + como (Tantos libros como). **Cómo entenderlo:** Como decir que algo es igual. **Mundo real:** Estudiante usa comparativo: Dice 'Soy tan alto como tú', Compara igualdad, Comparativo usado correctamente. Los comparativos de igualdad son útiles. **Mejor práctica:** Aprende formación, Usa para igualdad, Practica comparativos, Practica comparativos de igualdad."
+        },
+        {
+          "title": "Comparativos de Superioridad 📈",
+          "content": "Los comparativos de superioridad comparan algo mejor. **Formación:** Más + adjetivo/sustantivo + que (Más alto que, Más libros que). **Cómo entenderlo:** Como decir que algo es más. **Mundo real:** Estudiante usa comparativo: Dice 'Soy más alto que tú', Compara superioridad, Comparativo usado correctamente. Los comparativos de superioridad son comunes. **Mejor práctica:** Aprende formación, Usa para superioridad, Practica comparativos, Practica comparativos de superioridad."
+        },
+        {
+          "title": "Comparativos de Inferioridad 📉",
+          "content": "Los comparativos de inferioridad comparan algo menor. **Formación:** Menos + adjetivo/sustantivo + que (Menos alto que, Menos libros que). **Cómo entenderlo:** Como decir que algo es menos. **Mundo real:** Estudiante usa comparativo: Dice 'Soy menos alto que tú', Compara inferioridad, Comparativo usado correctamente. Los comparativos de inferioridad son útiles. **Mejor práctica:** Aprende formación, Usa para inferioridad, Practica comparativos, Practica comparativos de inferioridad."
+        },
+        {
+          "title": "Superlativos 🏆",
+          "content": "Los superlativos expresan el grado máximo. **Formación:** El/La/Los/Las + más/menos + adjetivo (El más alto, La más bonita). **Cómo entenderlo:** Como decir que algo es el más. **Mundo real:** Estudiante usa superlativo: Dice 'Es el más alto', Expresa grado máximo, Superlativo usado correctamente. Los superlativos son importantes. **Mejor práctica:** Aprende formación, Usa para grado máximo, Practica superlativos, Practica superlativos."
+        },
+        {
+          "title": "Comparativos Irregulares ⚠️",
+          "content": "Algunos adjetivos tienen comparativos irregulares. **Irregulares:** Bueno → Mejor (better), Malo → Peor (worse), Grande → Mayor (older/bigger), Pequeño → Menor (younger/smaller). **Cómo entenderlo:** Como adjetivos que cambian completamente. **Mundo real:** Estudiante usa irregulares: Dice 'Es mejor que...', Usa comparativo irregular, Irregulares usados. Los irregulares son importantes. **Mejor práctica:** Aprende irregulares, Memoriza formas, Practica irregulares, Practica comparativos irregulares."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Comparativo de Igualdad",
+          "explanation": "Estudiante usa comparativo: Dice 'Soy tan alto como tú', Compara igualdad, Comparativo usado correctamente."
+        },
+        {
+          "scenario": "Comparativo de Superioridad",
+          "explanation": "Estudiante usa comparativo: Dice 'Soy más alto que tú', Compara superioridad, Comparativo usado correctamente."
+        },
+        {
+          "scenario": "Superlativo",
+          "explanation": "Estudiante usa superlativo: Dice 'Es el más alto', Expresa grado máximo, Superlativo usado correctamente."
+        },
+        {
+          "scenario": "Comparativo Irregular",
+          "explanation": "Estudiante usa irregular: Dice 'Es mejor que...', Usa comparativo irregular, Irregular usado correctamente."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Practica Comparativos",
+          "instructions": "Paso 1: Aprende comparativos de igualdad. Paso 2: Aprende comparativos de superioridad. Paso 3: Aprende comparativos de inferioridad. Paso 4: Practica formar comparativos. Paso 5: Usa comparativos en oraciones. Paso 6: Practica con diferentes adjetivos. Paso 7: Practica comparativos.",
+          "example_answer": "Comparativos practicados: Igualdad aprendida, Superioridad aprendida, Inferioridad aprendida, Comparativos formados, Oraciones con comparativos, Diferentes adjetivos practicados, Comparativos dominados."
+        },
+        {
+          "title": "Practica Superlativos",
+          "instructions": "Paso 1: Aprende formación de superlativos. Paso 2: Practica formar superlativos. Paso 3: Usa superlativos en oraciones. Paso 4: Practica con diferentes adjetivos. Paso 5: Practica con artículos (el, la, los, las). Paso 6: Crea oraciones con superlativos. Paso 7: Practica superlativos.",
+          "example_answer": "Superlativos practicados: Formación aprendida, Superlativos formados, Oraciones con superlativos, Diferentes adjetivos practicados, Artículos practicados, Oraciones creadas, Superlativos dominados."
+        },
+        {
+          "title": "Practica Comparativos Irregulares",
+          "instructions": "Paso 1: Aprende comparativos irregulares (mejor, peor, mayor, menor). Paso 2: Memoriza formas irregulares. Paso 3: Practica usar irregulares. Paso 4: Usa irregulares en oraciones. Paso 5: Practica con diferentes contextos. Paso 6: Identifica cuándo usar irregulares. Paso 7: Practica comparativos irregulares.",
+          "example_answer": "Comparativos irregulares practicados: Irregulares aprendidos, Formas memorizadas, Irregulares usados, Oraciones con irregulares, Diferentes contextos practicados, Uso identificado, Comparativos irregulares dominados."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Comparativos y Superlativos en Español",
+          "source": "Open Textbook Library",
+          "reason": "Proporciona una guía completa de comparativos y superlativos en español."
+        },
+        {
+          "title": "Gramática Española: Comparaciones",
+          "source": "OpenStax",
+          "reason": "Cubre comparativos, superlativos y sus usos."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Comparativos y Superlativos Tutorial – Traversy Media",
+          "reason": "Guía completa de comparativos y superlativos en español."
+        },
+        {
+          "title": "Comparaciones en Español – freeCodeCamp",
+          "reason": "Tutorial completo sobre comparativos y superlativos."
+        }
+      ],
+      "summary": "Los comparativos de igualdad usan 'tan...como' o 'tanto/a/os/as...como' para comparar cosas iguales. Los comparativos de superioridad usan 'más...que' para comparar algo mejor. Los comparativos de inferioridad usan 'menos...que' para comparar algo menor. Los superlativos usan 'el/la/los/las + más/menos + adjetivo' para expresar el grado máximo. Algunos adjetivos tienen comparativos irregulares: mejor (bueno), peor (malo), mayor (grande), menor (pequeño). Dominar comparativos y superlativos te permite hacer descripciones más precisas y expresivas en español."
+    },
+    {
+      "course": "Spanish",
+      "level": "Intermediate",
+      "topic": "Por vs Para",
+      "description": "Aprende a distinguir entre 'por' y 'para', dos preposiciones que causan confusión en español. Cada una tiene usos específicos y entender la diferencia es crucial para hablar correctamente. Dominar por y para te permite expresar propósito, causa, destino y tiempo con precisión. Piensa en 'por' como causa/motivo y 'para' como propósito/destino.",
+      "instructional_materials": [
+        {
+          "type": "Guía Paso a Paso",
+          "title": "Aprendiendo Por vs Para: Una Guía Completa",
+          "content": "Paso 1: Aprende usos de 'por' (causa, motivo, intercambio). Paso 2: Aprende usos de 'para' (propósito, destino, tiempo límite). Paso 3: Aprende diferencias clave. Paso 4: Practica identificar cuándo usar cada una. Paso 5: Practica con ejemplos comunes. Paso 6: Usa por y para en oraciones. Paso 7: Practica por vs para. Esta guía te ayuda a dominar por y para."
+        },
+        {
+          "type": "Guía Visual",
+          "title": "Por vs Para",
+          "content": "Dibuja diferencias: Por (causa/motivo) → Para (propósito/destino). Muestra: Usos, Ejemplos, Diferencias. La guía visual ayuda a entender por vs para."
+        },
+        {
+          "type": "Ejercicio Interactivo",
+          "title": "Practica Por vs Para",
+          "content": "Actividad: Practica por y para en español. Practica: Identificar uso, Crear oraciones, Diferencias, Contextos. Practica: Fluidez, Precisión. Esta actividad mejora tu conocimiento de por vs para."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Usos de 'Por' 📝",
+          "content": "Por se usa para causa, motivo e intercambio. **Usos:** Causa (Por la lluvia), Motivo (Por ti), Intercambio (Pagué 10 euros por el libro), Tiempo aproximado (Por la mañana), Medio (Por teléfono). **Cómo entenderlo:** Como 'because of' o 'for the sake of'. **Mundo real:** Estudiante usa por: Dice 'Lo hice por ti', Indica motivo, Por usado correctamente. Por es importante. **Mejor práctica:** Aprende usos, Identifica causa/motivo, Practica por, Practica usos de por."
+        },
+        {
+          "title": "Usos de 'Para' 📄",
+          "content": "Para se usa para propósito, destino y tiempo límite. **Usos:** Propósito (Estudio para aprender), Destino (Voy para Madrid), Tiempo límite (Para mañana), Opinión (Para mí), Comparación (Para su edad). **Cómo entenderlo:** Como 'in order to' o 'toward'. **Mundo real:** Estudiante usa para: Dice 'Estudio para aprender', Indica propósito, Para usado correctamente. Para es importante. **Mejor práctica:** Aprende usos, Identifica propósito/destino, Practica para, Practica usos de para."
+        },
+        {
+          "title": "Diferencias Clave 🔑",
+          "content": "La diferencia principal es propósito vs causa. **Por:** Causa, Motivo, Intercambio. **Para:** Propósito, Destino, Tiempo límite. **Cómo entenderlo:** Como causa (por) vs propósito (para). **Mundo real:** Estudiante diferencia: Usa 'por' para causa, Usa 'para' para propósito, Diferencia entendida, Diferencias dominadas. Las diferencias son cruciales. **Mejor práctica:** Aprende diferencias, Practica identificación, Usa correctamente, Practica diferencias clave."
+        },
+        {
+          "title": "Expresiones Comunes con 'Por' 💬",
+          "content": "Hay expresiones fijas con por. **Expresiones:** Por favor (please), Por supuesto (of course), Por ejemplo (for example), Por fin (finally), Por eso (that's why). **Cómo entenderlo:** Como expresiones que siempre usan por. **Mundo real:** Estudiante usa expresiones: Dice 'Por favor', Usa expresión fija, Expresiones usadas. Las expresiones son útiles. **Mejor práctica:** Aprende expresiones, Memoriza usos, Practica expresiones, Practica expresiones con por."
+        },
+        {
+          "title": "Expresiones Comunes con 'Para' 💡",
+          "content": "Hay expresiones fijas con para. **Expresiones:** Para siempre (forever), Para nada (not at all), Para variar (for a change), Estar para (to be about to). **Cómo entenderlo:** Como expresiones que siempre usan para. **Mundo real:** Estudiante usa expresiones: Dice 'Para siempre', Usa expresión fija, Expresiones usadas. Las expresiones son útiles. **Mejor práctica:** Aprende expresiones, Memoriza usos, Practica expresiones, Practica expresiones con para."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Uso de Por",
+          "explanation": "Estudiante usa por: Dice 'Lo hice por ti', Indica motivo, Por usado correctamente."
+        },
+        {
+          "scenario": "Uso de Para",
+          "explanation": "Estudiante usa para: Dice 'Estudio para aprender', Indica propósito, Para usado correctamente."
+        },
+        {
+          "scenario": "Diferencia",
+          "explanation": "Estudiante diferencia: Usa 'por' para causa (Por la lluvia), Usa 'para' para propósito (Para aprender), Diferencia entendida."
+        },
+        {
+          "scenario": "Expresiones",
+          "explanation": "Estudiante usa expresiones: Dice 'Por favor', Dice 'Para siempre', Expresiones usadas correctamente."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Practica Usos de Por",
+          "instructions": "Paso 1: Aprende usos de por. Paso 2: Practica identificar cuándo usar por. Paso 3: Usa por en oraciones. Paso 4: Practica con causa. Paso 5: Practica con motivo. Paso 6: Practica con intercambio. Paso 7: Practica usos de por.",
+          "example_answer": "Usos de por practicados: Usos aprendidos, Uso identificado, Oraciones con por, Causa practicada, Motivo practicado, Intercambio practicado, Usos de por dominados."
+        },
+        {
+          "title": "Practica Usos de Para",
+          "instructions": "Paso 1: Aprende usos de para. Paso 2: Practica identificar cuándo usar para. Paso 3: Usa para en oraciones. Paso 4: Practica con propósito. Paso 5: Practica con destino. Paso 6: Practica con tiempo límite. Paso 7: Practica usos de para.",
+          "example_answer": "Usos de para practicados: Usos aprendidos, Uso identificado, Oraciones con para, Propósito practicado, Destino practicado, Tiempo límite practicado, Usos de para dominados."
+        },
+        {
+          "title": "Practica Diferencias",
+          "instructions": "Paso 1: Repasa diferencias entre por y para. Paso 2: Practica identificar cuándo usar cada una. Paso 3: Crea oraciones usando por. Paso 4: Crea oraciones usando para. Paso 5: Practica con situaciones reales. Paso 6: Identifica errores de uso. Paso 7: Practica diferencias.",
+          "example_answer": "Diferencias practicadas: Diferencias repasadas, Uso identificado, Oraciones con por creadas, Oraciones con para creadas, Situaciones reales practicadas, Errores identificados, Diferencias dominadas."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Por vs Para en Español",
+          "source": "Open Textbook Library",
+          "reason": "Proporciona una guía completa de por y para en español."
+        },
+        {
+          "title": "Gramática Española: Preposiciones",
+          "source": "OpenStax",
+          "reason": "Cubre por, para y sus usos."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Por vs Para Tutorial – Traversy Media",
+          "reason": "Guía completa de por y para en español."
+        },
+        {
+          "title": "Preposiciones en Español – freeCodeCamp",
+          "reason": "Tutorial completo sobre por vs para."
+        }
+      ],
+      "summary": "Por se usa para causa (Por la lluvia), motivo (Por ti), intercambio (Pagué 10 euros por el libro) y tiempo aproximado (Por la mañana). Para se usa para propósito (Estudio para aprender), destino (Voy para Madrid), tiempo límite (Para mañana) y opinión (Para mí). La diferencia principal es que 'por' indica causa/motivo mientras que 'para' indica propósito/destino. Hay expresiones fijas con cada una: 'Por favor', 'Por supuesto' (por) y 'Para siempre', 'Para nada' (para). Dominar por vs para es fundamental para expresar causa, propósito y destino correctamente en español."
+    },
+    {
+      "course": "Spanish",
+      "level": "Intermediate",
+      "topic": "Vocabulario de Viajes y Transporte",
+      "description": "Aprende vocabulario relacionado con viajes y transporte en español. Saber hablar sobre viajes te permite planificar viajes, hacer reservas y navegar en países de habla hispana. Piensa en el vocabulario de viajes como herramientas esenciales para explorar el mundo en español.",
+      "instructional_materials": [
+        {
+          "type": "Guía Paso a Paso",
+          "title": "Aprendiendo Vocabulario de Viajes: Una Guía Completa",
+          "content": "Paso 1: Aprende medios de transporte (avión, tren, autobús). Paso 2: Aprende vocabulario de aeropuerto. Paso 3: Aprende vocabulario de hotel. Paso 4: Aprende frases de viaje. Paso 5: Practica hacer reservas. Paso 6: Practica preguntar direcciones. Paso 7: Practica vocabulario de viajes. Esta guía te ayuda a dominar vocabulario de viajes."
+        },
+        {
+          "type": "Guía Visual",
+          "title": "Viajes y Transporte",
+          "content": "Dibuja viajes: Transporte → Aeropuerto → Hotel → Direcciones. Muestra: Vocabulario, Frases, Situaciones. La guía visual ayuda a entender vocabulario de viajes."
+        },
+        {
+          "type": "Ejercicio Interactivo",
+          "title": "Practica Vocabulario de Viajes",
+          "content": "Actividad: Practica vocabulario de viajes en español. Practica: Transporte, Aeropuerto, Hotel, Direcciones. Practica: Reservas, Conversaciones. Esta actividad mejora tu vocabulario de viajes."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Medios de Transporte 🚗",
+          "content": "Los medios de transporte son esenciales para viajar. **Transporte:** Avión (airplane), Tren (train), Autobús (bus), Coche (car), Taxi (taxi), Metro (subway). **Cómo entenderlo:** Como formas de moverse. **Mundo real:** Estudiante usa transporte: Dice 'Voy en avión', Habla de transporte, Vocabulario usado. El transporte es importante. **Mejor práctica:** Aprende medios, Usa en oraciones, Practica transporte, Practica medios de transporte."
+        },
+        {
+          "title": "Vocabulario de Aeropuerto ✈️",
+          "content": "El vocabulario de aeropuerto es esencial. **Vocabulario:** Pasaporte (passport), Equipaje (luggage), Facturación (check-in), Puerta de embarque (boarding gate), Vuelo (flight). **Cómo entenderlo:** Como palabras del aeropuerto. **Mundo real:** Estudiante usa vocabulario: Dice 'Necesito facturar', Habla en aeropuerto, Vocabulario usado. El vocabulario es importante. **Mejor práctica:** Aprende vocabulario, Usa en situaciones, Practica aeropuerto, Practica vocabulario de aeropuerto."
+        },
+        {
+          "title": "Vocabulario de Hotel 🏨",
+          "content": "El vocabulario de hotel es útil. **Vocabulario:** Habitación (room), Recepción (reception), Reserva (reservation), Llave (key), Desayuno (breakfast). **Cómo entenderlo:** Como palabras del hotel. **Mundo real:** Estudiante usa vocabulario: Dice 'Tengo una reserva', Habla en hotel, Vocabulario usado. El vocabulario es útil. **Mejor práctica:** Aprende vocabulario, Usa en situaciones, Practica hotel, Practica vocabulario de hotel."
+        },
+        {
+          "title": "Frases de Viaje 🗺️",
+          "content": "Las frases de viaje son esenciales. **Frases:** ¿Dónde está...? (Where is...?), ¿Cómo llego a...? (How do I get to...?), ¿Cuánto cuesta? (How much does it cost?), Necesito ayuda (I need help). **Cómo entenderlo:** Como frases útiles para viajar. **Mundo real:** Estudiante usa frases: Pregunta direcciones, Pide ayuda, Frases usadas. Las frases son esenciales. **Mejor práctica:** Aprende frases, Usa en situaciones, Practica frases, Practica frases de viaje."
+        },
+        {
+          "title": "Hacer Reservas 📞",
+          "content": "Saber hacer reservas es importante. **Frases:** Quisiera hacer una reserva (I would like to make a reservation), ¿Tiene habitaciones disponibles? (Do you have rooms available?), ¿Cuál es el precio? (What is the price?). **Cómo entenderlo:** Como reservar en español. **Mundo real:** Estudiante hace reserva: Llama al hotel, Hace reserva, Reserva hecha. Hacer reservas es útil. **Mejor práctica:** Aprende frases, Practica hacer reservas, Usa en situaciones, Practica hacer reservas."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Medio de Transporte",
+          "explanation": "Estudiante usa transporte: Dice 'Voy en avión a Madrid', Habla de transporte, Transporte usado correctamente."
+        },
+        {
+          "scenario": "Aeropuerto",
+          "explanation": "Estudiante usa vocabulario: Dice 'Necesito facturar mi equipaje', Habla en aeropuerto, Vocabulario usado."
+        },
+        {
+          "scenario": "Hotel",
+          "explanation": "Estudiante usa vocabulario: Dice 'Tengo una reserva para dos noches', Habla en hotel, Vocabulario usado."
+        },
+        {
+          "scenario": "Preguntar Direcciones",
+          "explanation": "Estudiante pregunta: Dice '¿Dónde está el hotel?', Pide direcciones, Direcciones pedidas."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Practica Vocabulario de Transporte",
+          "instructions": "Paso 1: Aprende medios de transporte. Paso 2: Practica pronunciar vocabulario. Paso 3: Usa vocabulario en oraciones. Paso 4: Practica con diferentes medios. Paso 5: Crea oraciones sobre viajes. Paso 6: Practica vocabulario. Paso 7: Practica vocabulario de transporte.",
+          "example_answer": "Vocabulario de transporte practicado: Medios aprendidos, Pronunciado, Oraciones con vocabulario, Diferentes medios practicados, Oraciones sobre viajes creadas, Vocabulario dominado."
+        },
+        {
+          "title": "Practica Vocabulario de Aeropuerto y Hotel",
+          "instructions": "Paso 1: Aprende vocabulario de aeropuerto. Paso 2: Aprende vocabulario de hotel. Paso 3: Practica pronunciar vocabulario. Paso 4: Usa vocabulario en situaciones. Paso 5: Practica hacer reservas. Paso 6: Practica en aeropuerto. Paso 7: Practica vocabulario de aeropuerto y hotel.",
+          "example_answer": "Vocabulario de aeropuerto y hotel practicado: Aeropuerto aprendido, Hotel aprendido, Pronunciado, Situaciones practicadas, Reservas practicadas, Aeropuerto practicado, Vocabulario dominado."
+        },
+        {
+          "title": "Practica Frases de Viaje",
+          "instructions": "Paso 1: Aprende frases de viaje. Paso 2: Practica preguntar direcciones. Paso 3: Practica hacer reservas. Paso 4: Practica pedir ayuda. Paso 5: Crea diálogos de viaje. Paso 6: Practica con situaciones reales. Paso 7: Practica frases de viaje.",
+          "example_answer": "Frases de viaje practicadas: Frases aprendidas, Preguntar direcciones practicado, Hacer reservas practicado, Pedir ayuda practicado, Diálogos creados, Situaciones reales practicadas, Frases de viaje dominadas."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Vocabulario de Viajes en Español",
+          "source": "Open Textbook Library",
+          "reason": "Proporciona una guía completa de vocabulario de viajes y transporte."
+        },
+        {
+          "title": "Comunicación en Viajes",
+          "source": "OpenStax",
+          "reason": "Cubre vocabulario de viajes, transporte y situaciones de viaje."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Vocabulario de Viajes Tutorial – Traversy Media",
+          "reason": "Guía completa de vocabulario de viajes en español."
+        },
+        {
+          "title": "Viajes y Transporte en Español – freeCodeCamp",
+          "reason": "Tutorial completo sobre vocabulario de viajes y transporte."
+        }
+      ],
+      "summary": "El vocabulario de viajes incluye medios de transporte (avión, tren, autobús, coche, taxi, metro), vocabulario de aeropuerto (pasaporte, equipaje, facturación, vuelo) y vocabulario de hotel (habitación, recepción, reserva, llave). Las frases de viaje como '¿Dónde está...?', '¿Cómo llego a...?' y 'Necesito ayuda' son esenciales. Saber hacer reservas y preguntar direcciones te permite viajar con confianza. Dominar vocabulario de viajes y transporte es fundamental para explorar países de habla hispana en español."
+    },
+    {
+      "course": "Spanish",
+      "level": "Intermediate",
+      "topic": "Expresiones Idiomáticas y Modismos",
+      "description": "Aprende expresiones idiomáticas y modismos comunes en español. Los modismos son frases que tienen un significado diferente al literal y son esenciales para sonar natural. Dominar modismos te permite entender mejor el español coloquial y expresarte de manera más auténtica. Piensa en modismos como frases con significado especial.",
+      "instructional_materials": [
+        {
+          "type": "Guía Paso a Paso",
+          "title": "Aprendiendo Modismos: Una Guía Completa",
+          "content": "Paso 1: Aprende modismos comunes. Paso 2: Aprende significado de modismos. Paso 3: Aprende cuándo usar modismos. Paso 4: Practica con modismos. Paso 5: Usa modismos en oraciones. Paso 6: Practica con conversaciones. Paso 7: Practica modismos. Esta guía te ayuda a dominar modismos."
+        },
+        {
+          "type": "Guía Visual",
+          "title": "Modismos en Español",
+          "content": "Dibuja modismos: Comunes → Significados → Uso. Muestra: Modismos, Contextos, Ejemplos. La guía visual ayuda a entender modismos."
+        },
+        {
+          "type": "Ejercicio Interactivo",
+          "title": "Practica Modismos",
+          "content": "Actividad: Practica modismos en español. Practica: Modismos comunes, Significados, Uso, Oraciones. Practica: Conversaciones, Naturalidad. Esta actividad mejora tu conocimiento de modismos."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Modismos Comunes 💬",
+          "content": "Los modismos son frases con significado especial. **Modismos:** Estar en las nubes (to be daydreaming), Costar un ojo de la cara (to cost an arm and a leg), Echar agua al mar (to do something pointless), Ser pan comido (to be a piece of cake). **Cómo entenderlo:** Como frases con significado no literal. **Mundo real:** Estudiante usa modismos: Dice 'Es pan comido', Usa modismo, Modismo usado correctamente. Los modismos son importantes. **Mejor práctica:** Aprende modismos, Entiende significados, Practica modismos, Practica modismos comunes."
+        },
+        {
+          "title": "Modismos con 'Estar' 🔄",
+          "content": "Muchos modismos usan el verbo estar. **Modismos:** Estar en las nubes (daydreaming), Estar hecho polvo (to be exhausted), Estar como una cabra (to be crazy), Estar en las últimas (to be at the end). **Cómo entenderlo:** Como modismos con estar. **Mundo real:** Estudiante usa modismos: Dice 'Estoy hecho polvo', Usa modismo con estar, Modismo usado. Los modismos con estar son comunes. **Mejor práctica:** Aprende modismos, Usa con estar, Practica modismos, Practica modismos con estar."
+        },
+        {
+          "title": "Modismos con 'Tener' 💰",
+          "content": "Muchos modismos usan el verbo tener. **Modismos:** Tener ganas de (to feel like), Tener en cuenta (to take into account), Tener lugar (to take place), Tener razón (to be right). **Cómo entenderlo:** Como modismos con tener. **Mundo real:** Estudiante usa modismos: Dice 'Tengo ganas de...', Usa modismo con tener, Modismo usado. Los modismos con tener son comunes. **Mejor práctica:** Aprende modismos, Usa con tener, Practica modismos, Practica modismos con tener."
+        },
+        {
+          "title": "Modismos de Comida 🍽️",
+          "content": "Hay muchos modismos relacionados con comida. **Modismos:** Ser pan comido (to be easy), Estar como un queso (to be very attractive), No tener ni un duro (to be broke), Ser la leche (to be amazing). **Cómo entenderlo:** Como modismos sobre comida. **Mundo real:** Estudiante usa modismos: Dice 'Es pan comido', Usa modismo de comida, Modismo usado. Los modismos de comida son divertidos. **Mejor práctica:** Aprende modismos, Usa en contextos, Practica modismos, Practica modismos de comida."
+        },
+        {
+          "title": "Uso de Modismos 🎯",
+          "content": "Los modismos se usan en contextos informales. **Contextos:** Conversaciones casuales, Situaciones informales, Expresar emociones. **Cómo entenderlo:** Como usar modismos apropiadamente. **Mundo real:** Estudiante usa modismos: Usa en conversación casual, Expresa naturalidad, Modismos usados apropiadamente. El uso es importante. **Mejor práctica:** Aprende contextos, Usa apropiadamente, Practica uso, Practica uso de modismos."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Modismo Común",
+          "explanation": "Estudiante usa modismo: Dice 'Es pan comido', Usa modismo, Modismo usado correctamente."
+        },
+        {
+          "scenario": "Modismo con Estar",
+          "explanation": "Estudiante usa modismo: Dice 'Estoy hecho polvo', Usa modismo con estar, Modismo usado."
+        },
+        {
+          "scenario": "Modismo con Tener",
+          "explanation": "Estudiante usa modismo: Dice 'Tengo ganas de...', Usa modismo con tener, Modismo usado."
+        },
+        {
+          "scenario": "Uso Apropiado",
+          "explanation": "Estudiante usa modismo: Usa en conversación casual, Expresa naturalidad, Modismo usado apropiadamente."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Practica Modismos Comunes",
+          "instructions": "Paso 1: Aprende modismos comunes. Paso 2: Aprende significados de modismos. Paso 3: Practica usar modismos. Paso 4: Usa modismos en oraciones. Paso 5: Practica con diferentes modismos. Paso 6: Crea oraciones con modismos. Paso 7: Practica modismos comunes.",
+          "example_answer": "Modismos comunes practicados: Modismos aprendidos, Significados aprendidos, Modismos usados, Oraciones con modismos, Diferentes modismos practicados, Oraciones creadas, Modismos comunes dominados."
+        },
+        {
+          "title": "Practica Modismos con Verbos",
+          "instructions": "Paso 1: Aprende modismos con estar. Paso 2: Aprende modismos con tener. Paso 3: Practica usar modismos con estar. Paso 4: Practica usar modismos con tener. Paso 5: Usa modismos en oraciones. Paso 6: Practica con diferentes verbos. Paso 7: Practica modismos con verbos.",
+          "example_answer": "Modismos con verbos practicados: Modismos con estar aprendidos, Modismos con tener aprendidos, Modismos con estar usados, Modismos con tener usados, Oraciones con modismos, Diferentes verbos practicados, Modismos con verbos dominados."
+        },
+        {
+          "title": "Practica Uso de Modismos",
+          "instructions": "Paso 1: Aprende contextos apropiados. Paso 2: Practica identificar cuándo usar modismos. Paso 3: Practica en conversaciones casuales. Paso 4: Practica expresar emociones. Paso 5: Crea diálogos con modismos. Paso 6: Practica con situaciones reales. Paso 7: Practica uso de modismos.",
+          "example_answer": "Uso de modismos practicado: Contextos aprendidos, Uso identificado, Conversaciones casuales practicadas, Emociones expresadas, Diálogos creados, Situaciones reales practicadas, Uso de modismos dominado."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Modismos en Español",
+          "source": "Open Textbook Library",
+          "reason": "Proporciona una guía completa de expresiones idiomáticas y modismos."
+        },
+        {
+          "title": "Español Coloquial",
+          "source": "OpenStax",
+          "reason": "Cubre modismos, expresiones idiomáticas y español coloquial."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Modismos Tutorial – Traversy Media",
+          "reason": "Guía completa de modismos en español."
+        },
+        {
+          "title": "Expresiones Idiomáticas en Español – freeCodeCamp",
+          "reason": "Tutorial completo sobre modismos y expresiones idiomáticas."
+        }
+      ],
+      "summary": "Los modismos son frases con significado no literal que son esenciales para sonar natural en español. Modismos comunes incluyen 'Estar en las nubes' (daydreaming), 'Costar un ojo de la cara' (very expensive), 'Ser pan comido' (to be easy) y 'Estar hecho polvo' (to be exhausted). Muchos modismos usan verbos como estar y tener. Los modismos de comida como 'Ser pan comido' y 'No tener ni un duro' son comunes. Los modismos se usan en contextos informales y conversaciones casuales. Dominar modismos y expresiones idiomáticas te permite entender mejor el español coloquial y expresarte de manera más auténtica."
+    },
+    {
+      "course": "Spanish",
+      "level": "Intermediate",
+      "topic": "Lectura y Comprensión de Textos",
+      "description": "Desarrolla habilidades de lectura y comprensión en español. Saber leer y entender textos te permite acceder a literatura, noticias y contenido en español. Dominar la comprensión lectora es esencial para avanzar en el aprendizaje del español. Piensa en la lectura como una puerta a la cultura hispanohablante.",
+      "instructional_materials": [
+        {
+          "type": "Guía Paso a Paso",
+          "title": "Aprendiendo Lectura: Una Guía Completa",
+          "content": "Paso 1: Aprende estrategias de lectura. Paso 2: Aprende vocabulario de contexto. Paso 3: Practica lectura de textos cortos. Paso 4: Practica identificar ideas principales. Paso 5: Practica comprensión de detalles. Paso 6: Practica con diferentes tipos de textos. Paso 7: Practica lectura y comprensión. Esta guía te ayuda a dominar lectura y comprensión."
+        },
+        {
+          "type": "Guía Visual",
+          "title": "Lectura y Comprensión",
+          "content": "Dibuja lectura: Estrategias → Vocabulario → Comprensión. Muestra: Técnicas, Tipos de textos, Ejercicios. La guía visual ayuda a entender lectura y comprensión."
+        },
+        {
+          "type": "Ejercicio Interactivo",
+          "title": "Practica Lectura",
+          "content": "Actividad: Practica lectura en español. Practica: Estrategias, Vocabulario, Comprensión, Análisis. Practica: Fluidez, Comprensión. Esta actividad mejora tus habilidades de lectura."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Estrategias de Lectura 📖",
+          "content": "Las estrategias mejoran la comprensión. **Estrategias:** Leer el título primero, Identificar palabras clave, Leer párrafos completos, Hacer preguntas sobre el texto. **Cómo entenderlo:** Como técnicas para entender mejor. **Mundo real:** Estudiante usa estrategias: Lee título primero, Identifica palabras clave, Comprensión mejorada, Estrategias usadas. Las estrategias son útiles. **Mejor práctica:** Aprende estrategias, Usa al leer, Practica estrategias, Practica estrategias de lectura."
+        },
+        {
+          "title": "Vocabulario de Contexto 📝",
+          "content": "El contexto ayuda a entender vocabulario desconocido. **Técnicas:** Usar contexto para adivinar significado, Identificar raíces de palabras, Buscar palabras relacionadas. **Cómo entenderlo:** Como usar contexto para entender. **Mundo real:** Estudiante usa contexto: Adivina significado, Usa contexto, Vocabulario entendido. El contexto es importante. **Mejor práctica:** Aprende técnicas, Usa contexto, Practica vocabulario, Practica vocabulario de contexto."
+        },
+        {
+          "title": "Identificar Ideas Principales 🎯",
+          "content": "Identificar ideas principales es esencial. **Técnicas:** Buscar oración principal, Identificar tema del párrafo, Resumir ideas. **Cómo entenderlo:** Como encontrar lo más importante. **Mundo real:** Estudiante identifica: Encuentra idea principal, Identifica tema, Ideas identificadas. La identificación es importante. **Mejor práctica:** Aprende técnicas, Practica identificación, Usa técnicas, Practica identificar ideas principales."
+        },
+        {
+          "title": "Comprensión de Detalles 📄",
+          "content": "Entender detalles completa la comprensión. **Técnicas:** Leer cuidadosamente, Tomar notas, Hacer preguntas sobre detalles. **Cómo entenderlo:** Como entender información específica. **Mundo real:** Estudiante comprende: Lee cuidadosamente, Toma notas, Detalles comprendidos. La comprensión es importante. **Mejor práctica:** Aprende técnicas, Practica comprensión, Usa técnicas, Practica comprensión de detalles."
+        },
+        {
+          "title": "Tipos de Textos 📚",
+          "content": "Diferentes textos requieren diferentes enfoques. **Tipos:** Noticias, Artículos, Historias, Cartas, Instrucciones. **Cómo entenderlo:** Como adaptar estrategias al tipo de texto. **Mundo real:** Estudiante lee: Lee diferentes tipos, Adapta estrategias, Textos comprendidos. Los tipos son importantes. **Mejor práctica:** Aprende tipos, Adapta estrategias, Practica tipos, Practica diferentes tipos de textos."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Estrategias",
+          "explanation": "Estudiante usa estrategias: Lee título primero, Identifica palabras clave, Comprensión mejorada."
+        },
+        {
+          "scenario": "Vocabulario",
+          "explanation": "Estudiante usa contexto: Adivina significado de palabra desconocida, Usa contexto, Vocabulario entendido."
+        },
+        {
+          "scenario": "Ideas Principales",
+          "explanation": "Estudiante identifica: Encuentra idea principal del párrafo, Identifica tema, Ideas identificadas."
+        },
+        {
+          "scenario": "Comprensión",
+          "explanation": "Estudiante comprende: Lee texto cuidadosamente, Toma notas, Detalles comprendidos."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Practica Estrategias de Lectura",
+          "instructions": "Paso 1: Aprende estrategias de lectura. Paso 2: Practica leer títulos primero. Paso 3: Practica identificar palabras clave. Paso 4: Practica leer párrafos completos. Paso 5: Practica hacer preguntas. Paso 6: Usa estrategias con textos. Paso 7: Practica estrategias de lectura.",
+          "example_answer": "Estrategias de lectura practicadas: Estrategias aprendidas, Títulos leídos primero, Palabras clave identificadas, Párrafos leídos, Preguntas hechas, Estrategias usadas, Estrategias de lectura dominadas."
+        },
+        {
+          "title": "Practica Comprensión",
+          "instructions": "Paso 1: Practica identificar ideas principales. Paso 2: Practica comprender detalles. Paso 3: Practica usar vocabulario de contexto. Paso 4: Practica resumir textos. Paso 5: Practica con diferentes textos. Paso 6: Crea resúmenes. Paso 7: Practica comprensión.",
+          "example_answer": "Comprensión practicada: Ideas principales identificadas, Detalles comprendidos, Vocabulario de contexto usado, Textos resumidos, Diferentes textos practicados, Resúmenes creados, Comprensión dominada."
+        },
+        {
+          "title": "Practica Diferentes Tipos de Textos",
+          "instructions": "Paso 1: Aprende diferentes tipos de textos. Paso 2: Practica leer noticias. Paso 3: Practica leer artículos. Paso 4: Practica leer historias. Paso 5: Practica leer instrucciones. Paso 6: Adapta estrategias a cada tipo. Paso 7: Practica diferentes tipos de textos.",
+          "example_answer": "Diferentes tipos de textos practicados: Tipos aprendidos, Noticias leídas, Artículos leídos, Historias leídas, Instrucciones leídas, Estrategias adaptadas, Diferentes tipos de textos dominados."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Lectura y Comprensión en Español",
+          "source": "Open Textbook Library",
+          "reason": "Proporciona una guía completa de lectura y comprensión en español."
+        },
+        {
+          "title": "Estrategias de Lectura en Español",
+          "source": "OpenStax",
+          "reason": "Cubre estrategias de lectura, comprensión y análisis de textos."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Lectura en Español Tutorial – Traversy Media",
+          "reason": "Guía completa de lectura y comprensión en español."
+        },
+        {
+          "title": "Comprensión de Textos en Español – freeCodeCamp",
+          "reason": "Tutorial completo sobre lectura y comprensión."
+        }
+      ],
+      "summary": "Las estrategias de lectura como leer el título primero, identificar palabras clave y leer párrafos completos mejoran la comprensión. El vocabulario de contexto ayuda a entender palabras desconocidas usando el contexto del texto. Identificar ideas principales y comprender detalles son habilidades esenciales. Diferentes tipos de textos (noticias, artículos, historias, instrucciones) requieren diferentes enfoques. Dominar lectura y comprensión te permite acceder a literatura, noticias y contenido en español, abriendo una puerta a la cultura hispanohablante."
+    }
+  ]
+}
+

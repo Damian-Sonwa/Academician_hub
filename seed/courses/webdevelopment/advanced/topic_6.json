@@ -1,0 +1,87 @@
+{
+  "topic": "Web APIs and Browser APIs",
+  "detailedSummary": "Web APIs provide interfaces for browser features and external services. The Geolocation API accesses device location. The Canvas API enables drawing graphics and animations. The Web Storage API (localStorage, sessionStorage) stores data in the browser. The History API manipulates browser history for single-page applications. The Fetch API makes HTTP requests. The File API reads file contents. The Web Audio API processes audio. The WebRTC API enables real-time communication. The Intersection Observer API detects element visibility efficiently. The ResizeObserver watches element size changes. The Clipboard API accesses the clipboard. Browser APIs extend functionality: Notification API for browser notifications, Battery API for device battery status, and Device Orientation API for device movement. Understanding Web APIs enables building rich, interactive web applications that leverage browser capabilities and integrate with external services.",
+  "whyItMatters": "Web APIs enable powerful browser features and integrations - understanding them allows you to build rich, interactive applications that leverage device capabilities and external services.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Web APIs and Browser APIs | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Web APIs and Browser APIs | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Web APIs and Browser APIs | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Web APIs Reference",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Web APIs Practice",
+        "url": "https://codepen.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Build Applications with Web APIs",
+      "description": "Create applications using various Web APIs to demonstrate understanding of browser capabilities.",
+      "tasks": [
+        "Use the Geolocation API to get and display user location",
+        "Implement localStorage or sessionStorage to persist data",
+        "Use the Canvas API to create graphics or animations",
+        "Integrate the Fetch API to consume external APIs",
+        "Build a small application combining multiple Web APIs and document their usage"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the main difference between localStorage and sessionStorage?",
+      "type": "multiple-choice",
+      "options": [
+        "localStorage is faster",
+        "localStorage persists until cleared, sessionStorage clears when the tab closes",
+        "sessionStorage stores more data",
+        "There is no difference"
+      ],
+      "correctAnswer": 1,
+      "explanation": "localStorage persists data until explicitly cleared, while sessionStorage data is cleared when the browser tab/window closes."
+    },
+    {
+      "question": "The Fetch API can only make GET requests.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. The Fetch API supports all HTTP methods (GET, POST, PUT, DELETE, etc.) by configuring the request options."
+    },
+    {
+      "question": "What does the Intersection Observer API do?",
+      "type": "multiple-choice",
+      "options": [
+        "Observes network requests",
+        "Efficiently detects when elements enter or leave the viewport",
+        "Monitors mouse movements",
+        "Tracks user clicks"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Intersection Observer API efficiently detects when elements intersect with the viewport, useful for lazy loading, infinite scroll, and animations."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

@@ -1,0 +1,163 @@
+{
+  "topic": "Poetry Analysis: Form, Meter, and Figurative Language",
+  "detailedSummary": "Poetry analysis examines how poets use form, sound, and language to create meaning and emotion. Poetic form refers to structure: stanzas (groups of lines), line length, rhyme schemes (patterns of end rhymes like ABAB, AABB), and overall organization (sonnets, haikus, free verse). Meter is the rhythmic pattern of stressed and unstressed syllables. Common meters include iambic (unstressed-stressed, like 'to-DAY'), trochaic (stressed-unstressed), anapestic (two unstressed-stressed), and dactylic (stressed-two unstressed). Scansion analyzes meter by marking stressed (/) and unstressed (u) syllables. Figurative language uses words in non-literal ways to create vivid images and deeper meanings. Similes compare using 'like' or 'as' ('as brave as a lion'). Metaphors make direct comparisons ('time is a thief'). Personification gives human qualities to non-human things ('the wind whispered'). Hyperbole uses exaggeration ('I've told you a million times'). Alliteration repeats initial consonant sounds ('silly snake'). Assonance repeats vowel sounds ('fleet feet sweep'). Onomatopoeia uses words that sound like what they mean ('buzz', 'hiss'). Symbolism uses objects to represent abstract ideas (dove = peace). Imagery appeals to senses, creating vivid mental pictures. Analyzing these elements reveals how poets craft meaning, evoke emotions, and create aesthetic experiences. Understanding poetry enhances appreciation of language, develops analytical skills, and connects readers to universal human experiences expressed through artistic language.",
+  "whyItMatters": "Poetry analysis develops appreciation for language artistry and deeper meaning - essential for understanding literature, developing analytical skills, and appreciating artistic expression.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Poetry Analysis: Form, Meter, and Figurative Language | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Poetry Analysis: Form, Meter, and Figurative Language | Crash Course Literature",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Poetry Analysis: Form, Meter, and Figurative Language | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Writing About Literature - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/english"
+      },
+      {
+        "title": "Introduction to Poetry - Lumen Learning",
+        "url": "https://courses.lumenlearning.com/introliterature/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Poetry Analysis Tools - Poetry Foundation",
+        "url": "https://www.poetryfoundation.org/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Poetry Analysis: Form, Meter, and Figurative Language",
+      "description": "Analyze poetic elements and write poetry analysis essays.",
+      "tasks": [
+        "Identify rhyme schemes in 10 poems",
+        "Scan meter in 10 poems, marking stressed and unstressed syllables",
+        "Identify and analyze figurative language in 15 poems",
+        "Write a poetry analysis essay examining form and meaning",
+        "Compare how different poets use the same poetic devices",
+        "Analyze how imagery creates meaning in 5 poems",
+        "Identify symbols and their meanings in poetry",
+        "Write original poems using specific forms (sonnet, haiku, free verse)",
+        "Perform scansion on poems with different meters",
+        "Write a comprehensive analysis of a poem's use of sound and meaning"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the rhyme scheme of a poem with lines ending in: cat, hat, dog, log?",
+      "type": "multiple-choice",
+      "options": [
+        "AABB",
+        "ABAB",
+        "ABBA",
+        "ABCD"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lines 1-2 rhyme (cat/hat = A), lines 3-4 rhyme (dog/log = B), so the scheme is AABB."
+    },
+    {
+      "question": "What type of figurative language is 'The stars danced in the sky'?",
+      "type": "multiple-choice",
+      "options": [
+        "Personification",
+        "Metaphor",
+        "Simile",
+        "Hyperbole"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Personification gives human qualities (dancing) to non-human things (stars)."
+    },
+    {
+      "question": "Iambic pentameter has:",
+      "type": "multiple-choice",
+      "options": [
+        "Five iambs per line (unstressed-stressed pattern)",
+        "Five trochees per line",
+        "Ten syllables total",
+        "Five lines per stanza"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Iambic pentameter has five iambs (unstressed-stressed feet) per line, totaling ten syllables."
+    },
+    {
+      "question": "All poetry must rhyme.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Free verse poetry doesn't use regular rhyme or meter. Many modern poems are written in free verse."
+    },
+    {
+      "question": "What is a metaphor?",
+      "type": "multiple-choice",
+      "options": [
+        "A direct comparison without 'like' or 'as'",
+        "A comparison using 'like' or 'as'",
+        "Giving human qualities to non-human things",
+        "Using exaggeration for effect"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A metaphor makes a direct comparison (e.g., 'time is money'), while a simile uses 'like' or 'as' (e.g., 'time is like money')."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+      "https://images.unsplash.com/photo-1512820790803-83ca750da1c7?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Stanza": "A group of lines in a poem, separated by blank lines, functioning like a paragraph in prose.",
+      "Rhyme Scheme": "The pattern of end rhymes in a poem, indicated by letters (e.g., ABAB means lines 1 and 3 rhyme, lines 2 and 4 rhyme).",
+      "Meter": "The rhythmic pattern of stressed and unstressed syllables in a line of poetry.",
+      "Iambic Pentameter": "A meter with five iambs (unstressed-stressed pairs) per line, totaling ten syllables.",
+      "Scansion": "The analysis of meter by marking stressed (/) and unstressed (u) syllables.",
+      "Simile": "A comparison using 'like' or 'as' (e.g., 'as brave as a lion').",
+      "Metaphor": "A direct comparison without 'like' or 'as' (e.g., 'time is a thief').",
+      "Personification": "Giving human qualities to non-human things (e.g., 'the wind whispered').",
+      "Alliteration": "Repetition of initial consonant sounds (e.g., 'silly snake').",
+      "Imagery": "Language that appeals to the senses, creating vivid mental pictures."
+    },
+    "keyConcepts": [
+      "Poetic form includes stanzas, line length, and rhyme schemes",
+      "Meter creates rhythm through patterns of stressed and unstressed syllables",
+      "Figurative language uses words non-literally to create meaning",
+      "Sound devices (alliteration, assonance) enhance musicality",
+      "Imagery appeals to senses to create vivid experiences"
+    ],
+    "stepByStepExplanations": [
+      "**Scanning Meter:** Mark stressed (/) and unstressed (u) syllables. For 'Shall I compare thee to a summer's day?': u / u / u / u / u / (iambic pentameter).",
+      "**Identifying Rhyme Scheme:** Label first line 'A'. If second line rhymes, also 'A'; if not, 'B'. Continue: ABAB means alternating rhyme, AABB means couplets.",
+      "**Analyzing Figurative Language:** Identify type (simile uses 'like'/'as', metaphor is direct, personification gives human traits). Determine what is being compared and why."
+    ],
+    "examples": [
+      "**Rhyme Scheme:** 'Roses are red (A), Violets are blue (B), Sugar is sweet (C), And so are you (B).' Scheme: ABCB.",
+      "**Meter Analysis:** 'To be or not to be, that is the question'\n   u / u / u / u / u / u / u /\n   Iambic (mostly), seven feet",
+      "**Figurative Language:** 'My love is like a red, red rose' (simile). 'My love is a red, red rose' (metaphor). 'The rose danced in the breeze' (personification)."
+    ],
+    "realLifeApplications": [
+      "**Song Lyrics:** Understanding rhyme schemes and meter helps analyze song lyrics and appreciate how musicians use poetic techniques.",
+      "**Advertising:** Figurative language in advertisements creates memorable messages: 'Red Bull gives you wings' (metaphor).",
+      "**Creative Writing:** Mastering poetic form and figurative language enhances creative writing skills in poetry and prose."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram showing different rhyme schemes (ABAB, AABB, ABBA) with color-coded rhyming lines.",
+      "A scansion diagram showing stressed (/) and unstressed (u) marks above words in a line of poetry."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Questions about rhyme schemes, meter, or figurative language require accurate identification. Total: 5 points. Passing: 3.5/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

@@ -1,0 +1,218 @@
+{
+  "topic": "Algebra Fundamentals: Variables, Expressions, and Equations",
+  "detailedSummary": "Variables, expressions, and equations form the foundational language of algebra. A variable is a symbol (typically x, y, z, or other letters) representing an unknown or changing quantity. Unlike constants which have fixed values (like 5 or -3), variables can take different values. An algebraic expression combines variables, constants, and operations without an equals sign: examples include 3x + 7, 2a² - 5b + 1, or (x + y)/2. Expressions contain terms (parts separated by + or -), coefficients (numbers multiplying variables, like 3 in 3x), and constants (standalone numbers). An equation is a mathematical statement asserting equality between two expressions, indicated by an equals sign (=). The equation 2x + 5 = 13 means 'twice some number plus five equals thirteen.' Solving equations requires finding the specific value(s) of the variable(s) that make the statement true. The solution process uses inverse operations: addition undoes subtraction, multiplication undoes division. For 2x + 5 = 13, subtract 5 from both sides (2x = 8), then divide by 2 (x = 4). Verification involves substituting the solution back: 2(4) + 5 = 13 confirms correctness. These three concepts—variables representing unknowns, expressions showing relationships, and equations stating equality—are the building blocks enabling all algebraic problem-solving.",
+  "whyItMatters": "Algebra is the language of mathematics and science - mastering variables, expressions, and equations is essential for solving real-world problems in science, engineering, economics, and everyday life.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Algebra Fundamentals | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Algebra Basics | Math Antics",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Algebra | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Elementary Algebra 2e - OpenStax",
+        "url": "https://openstax.org/details/books/elementary-algebra-2e"
+      },
+      {
+        "title": "Intermediate Algebra 2e - OpenStax",
+        "url": "https://openstax.org/details/books/intermediate-algebra-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Algebra Practice - Khan Academy",
+        "url": "https://www.khanacademy.org/math/algebra"
+      },
+      {
+        "title": "Desmos Graphing Calculator - Practice Expressions",
+        "url": "https://www.desmos.com/calculator"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Algebra Fundamentals Practice",
+      "description": "Complete exercises demonstrating understanding of variables, expressions, and equations.",
+      "tasks": [
+        "Write 10 algebraic expressions using different variables and operations",
+        "Evaluate expressions for given variable values (e.g., if x = 5, find 3x + 7)",
+        "Solve 15 linear equations of varying difficulty (one-step, two-step, multi-step)",
+        "Create word problems that can be represented by algebraic equations",
+        "Translate verbal expressions into algebraic expressions (e.g., 'five more than twice a number' → 2x + 5)",
+        "Solve equations with variables on both sides",
+        "Check your solutions by substituting back into the original equations",
+        "Create a real-world scenario that requires solving an algebraic equation",
+        "Write a reflection on how algebra is used in your daily life",
+        "Complete a practice quiz with 20 problems covering all concepts"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the value of x in the equation 3x + 7 = 22?",
+      "type": "multiple-choice",
+      "options": [
+        "x = 3",
+        "x = 5",
+        "x = 7",
+        "x = 15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "To solve 3x + 7 = 22, subtract 7 from both sides: 3x = 15. Then divide by 3: x = 5."
+    },
+    {
+      "question": "Which expression represents 'three times a number decreased by 8'?",
+      "type": "multiple-choice",
+      "options": [
+        "3x - 8",
+        "3(x - 8)",
+        "8 - 3x",
+        "3x + 8"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Three times a number' is 3x, and 'decreased by 8' means subtract 8, so the expression is 3x - 8."
+    },
+    {
+      "question": "If x = 4, what is the value of 2x² - 3x + 1?",
+      "type": "multiple-choice",
+      "options": [
+        "15",
+        "21",
+        "25",
+        "33"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Substitute x = 4: 2(4)² - 3(4) + 1 = 2(16) - 12 + 1 = 32 - 12 + 1 = 21."
+    },
+    {
+      "question": "A variable is a symbol that represents a fixed, unchanging value.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. A variable represents an unknown or changing value, not a fixed value. Constants represent fixed values."
+    },
+    {
+      "question": "Solve for y: 5y - 12 = 3y + 8",
+      "type": "multiple-choice",
+      "options": [
+        "y = 2",
+        "y = 10",
+        "y = 20",
+        "y = -2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Subtract 3y from both sides: 2y - 12 = 8. Add 12 to both sides: 2y = 20. Divide by 2: y = 10."
+    },
+    {
+      "question": "What is the coefficient in the expression 7x + 3?",
+      "type": "multiple-choice",
+      "options": [
+        "7",
+        "x",
+        "3",
+        "7x"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The coefficient is the numerical factor multiplied by the variable. In 7x + 3, the coefficient of x is 7."
+    },
+    {
+      "question": "Which of the following is an algebraic expression?",
+      "type": "multiple-choice",
+      "options": [
+        "3x + 5 = 11",
+        "3x + 5",
+        "x = 2",
+        "2 + 3 = 5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An algebraic expression contains variables, numbers, and operations but no equals sign. 3x + 5 is an expression, while the others are equations."
+    },
+    {
+      "question": "To solve an equation, you must perform the same operation on both sides to maintain equality.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. This is the fundamental principle of solving equations - whatever you do to one side, you must do to the other to keep the equation balanced."
+    },
+    {
+      "question": "Evaluate the expression 4a - 2b when a = 5 and b = 3.",
+      "type": "multiple-choice",
+      "options": [
+        "14",
+        "16",
+        "18",
+        "20"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Substitute a = 5 and b = 3: 4(5) - 2(3) = 20 - 6 = 14."
+    },
+    {
+      "question": "What is the first step in solving the equation 2(x + 3) = 14?",
+      "type": "multiple-choice",
+      "options": [
+        "Divide both sides by 2",
+        "Subtract 3 from both sides",
+        "Distribute the 2",
+        "Add 3 to both sides"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The first step is to distribute the 2: 2x + 6 = 14. Then you can proceed with other operations."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1574170275470-a717198122c8?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Variable": "A symbol (typically a letter) representing an unknown or changing quantity that can take different numerical values.",
+      "Algebraic Expression": "A mathematical phrase combining variables, constants, and operations (+, -, ×, ÷, exponents) without an equals sign.",
+      "Equation": "A mathematical statement asserting that two expressions are equal, indicated by an equals sign (=).",
+      "Coefficient": "The numerical factor multiplying a variable in a term (e.g., in 5x, 5 is the coefficient).",
+      "Constant": "A fixed numerical value in an expression or equation that does not change.",
+      "Term": "A single number, variable, or product/quotient of numbers and variables in an expression, separated by + or - signs."
+    },
+    "keyConcepts": [
+      "Variables represent unknown quantities and can take different values",
+      "Expressions show mathematical relationships without stating equality",
+      "Equations state that two expressions are equal",
+      "Solving equations means finding variable values that make the equation true",
+      "Inverse operations (opposite operations) are used to isolate variables"
+    ],
+    "stepByStepExplanations": [
+      "**Identifying Components:** In the expression 4x - 7 + 2y, identify: variables (x, y), coefficients (4, 2), constant (-7), and terms (4x, -7, 2y).",
+      "**Evaluating Expressions:** To evaluate 3a + 5 when a = 2: substitute 2 for a, then calculate 3(2) + 5 = 6 + 5 = 11.",
+      "**Solving One-Step Equations:** For x + 8 = 15, use inverse operation: subtract 8 from both sides, giving x = 7. Verify: 7 + 8 = 15 ✓.",
+      "**Solving Two-Step Equations:** For 3x - 5 = 10, first add 5 to both sides (3x = 15), then divide by 3 (x = 5). Verify: 3(5) - 5 = 10 ✓."
+    ],
+    "examples": [
+      "**Expression:** 2x + 3y - 7\n   Variables: x, y\n   Coefficients: 2, 3\n   Constant: -7\n   Terms: 2x, 3y, -7",
+      "**Equation:** 5x - 12 = 18\n   Solution: Add 12 to both sides → 5x = 30, divide by 5 → x = 6\n   Check: 5(6) - 12 = 30 - 12 = 18 ✓",
+      "**Word Problem:** 'Three times a number decreased by 4 equals 11'\n   Expression: 3x - 4 = 11\n   Solution: x = 5"
+    ],
+    "realLifeApplications": [
+      "**Budgeting:** If you have $50 and spend x dollars, remaining money = 50 - x. If remaining is $23, solve 50 - x = 23 to find x = $27 spent.",
+      "**Temperature Conversion:** Converting Celsius to Fahrenheit: F = (9/5)C + 32. If C = 20, then F = (9/5)(20) + 32 = 36 + 32 = 68°F.",
+      "**Distance Problems:** If you travel at 60 mph for t hours, distance = 60t. To travel 180 miles: 60t = 180, so t = 3 hours."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A balance scale diagram showing an equation: left side has '2x + 3' blocks, right side has '11' blocks, demonstrating that both sides must remain equal when solving.",
+      "A flowchart showing the process: Start with equation → Apply inverse operation → Simplify → Check solution → End."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require exact answers: 'x = 5' format for equations, simplified expressions for algebra problems. Partial credit (0.5 points) may be given for correct process with minor calculation errors. Total: 10 points. Passing: 7/10 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

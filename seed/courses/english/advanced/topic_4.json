@@ -1,0 +1,157 @@
+{
+  "topic": "Modernist and Postmodernist Literature",
+  "detailedSummary": "Modernism (roughly 1900-1945) and Postmodernism (mid-20th century to present) represent major shifts in literary form and philosophy. Modernism reacted against Victorian realism, experimenting with form to reflect fragmented modern experience. Characteristics include: stream-of-consciousness (interior monologue showing thoughts), fragmentation (disjointed narratives), allusiveness (references requiring knowledge), and experimentation with time and perspective. Major Modernist works: James Joyce's Ulysses (stream-of-consciousness, complex allusions), Virginia Woolf's Mrs. Dalloway (interior consciousness), T.S. Eliot's The Waste Land (fragmented, allusive poetry), and William Faulkner's The Sound and the Fury (multiple perspectives, nonlinear time). Themes include: alienation, loss of meaning, search for order, and critique of modern society. Postmodernism further challenges traditional narrative, questioning reality, truth, and authority. Characteristics include: metafiction (fiction about fiction), pastiche (mixing styles), intertextuality (references to other texts), playfulness, and skepticism about grand narratives. Major Postmodernist works: Thomas Pynchon's Gravity's Rainbow, Don DeLillo's White Noise, and Italo Calvino's experimental fiction. Postmodernism blurs boundaries between high and low culture, questions authorial authority, and emphasizes that meaning is constructed rather than discovered. Both movements reflect cultural crises: Modernism responding to World War I and industrialization; Postmodernism to World War II, consumerism, and media saturation. Understanding these movements reveals how literature responds to cultural change and experiments with form to represent complex modern experience.",
+  "whyItMatters": "Modernist and Postmodernist literature revolutionized literary form and philosophy - understanding these movements reveals how literature responds to cultural crises and experiments with representing modern experience.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Literature Analysis | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Literature | Crash Course",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Shakespeare | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Modern and Postmodern Literature - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/english"
+      },
+      {
+        "title": "Project Gutenberg - Modernist Works",
+        "url": "https://www.gutenberg.org/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Modernist Literature Resources - Modernist Journals Project",
+        "url": "https://modjourn.org/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Modernist and Postmodernist Literature",
+      "description": "Analyze Modernist and Postmodernist works and their experimental techniques.",
+      "tasks": [
+        "Read major Modernist and Postmodernist works",
+        "Analyze stream-of-consciousness technique in Modernist texts",
+        "Examine fragmentation and nonlinear narrative",
+        "Identify and analyze intertextuality in Postmodernist works",
+        "Compare Modernist and Postmodernist approaches to reality",
+        "Write analyses of experimental narrative techniques",
+        "Research cultural contexts that influenced these movements",
+        "Examine how these movements challenge traditional narrative",
+        "Analyze themes of alienation and meaning in Modernist works",
+        "Write a research paper comparing Modernist and Postmodernist literature"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Stream-of-consciousness is a technique associated with:",
+      "type": "multiple-choice",
+      "options": [
+        "Modernism",
+        "Romanticism",
+        "Victorian literature",
+        "Classical literature"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Stream-of-consciousness, presenting characters' thoughts in flowing, unbroken narrative, is a key Modernist technique used by authors like Joyce and Woolf."
+    },
+    {
+      "question": "Postmodernism is characterized by:",
+      "type": "multiple-choice",
+      "options": [
+        "Questioning reality, truth, and grand narratives",
+        "Belief in absolute truth",
+        "Traditional linear narratives only",
+        "Rejecting all experimentation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Postmodernism questions fixed meanings, truth, and grand narratives, emphasizing that meaning is constructed and reality is uncertain."
+    },
+    {
+      "question": "Metafiction is:",
+      "type": "multiple-choice",
+      "options": [
+        "Fiction that draws attention to its own fictionality",
+        "Non-fiction",
+        "Only poetry",
+        "Historical fiction"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Metafiction is fiction that self-consciously draws attention to its status as fiction, blurring boundaries between reality and artifice."
+    },
+    {
+      "question": "Modernist literature always follows traditional linear narratives.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Modernist literature often experiments with nonlinear narratives, fragmented structures, and disrupted chronology to reflect modern experience."
+    },
+    {
+      "question": "The Waste Land by T.S. Eliot is known for:",
+      "type": "multiple-choice",
+      "options": [
+        "Fragmentation and complex allusions",
+        "Simple, clear narrative",
+        "Only love themes",
+        "Traditional rhyme schemes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Waste Land is a fragmented, allusive Modernist poem that requires extensive knowledge to fully understand its references and structure."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Plot": "The sequence of events in a story.",
+      "Character": "A person, animal, or entity in a story.",
+      "Theme": "The central message or insight about life that the author conveys."
+    },
+    "keyConcepts": [
+      "Modernism (roughly 1900-1945) and Postmodernism (mid-20th century to present) represent major shifts...",
+      "Modernism reacted against Victorian realism, experimenting with form to reflect fragmented modern ex...",
+      "Characteristics include: stream-of-consciousness (interior monologue showing thoughts), fragmentatio...",
+      "Major Modernist works: James Joyce's Ulysses (stream-of-consciousness, complex allusions), Virginia ...",
+      "Dalloway (interior consciousness), T"
+    ],
+    "stepByStepExplanations": [
+      "**Understanding modernist:** Modernism (roughly 1900-1945) and Postmodernism (mid-20th century to present) represent major shifts in literary form and philosophy. Modernism reacte...",
+      "**Applying concepts:** Practice with examples specific to Modernist and Postmodernist Literature.",
+      "**Mastering skills:** Develop proficiency through structured exercises."
+    ],
+    "examples": [
+      "**Example 1:** A practical illustration of modernist in action.",
+      "**Example 2:** Another scenario demonstrating postmodernist.",
+      "**Example 3:** A real-world application of literature."
+    ],
+    "realLifeApplications": [
+      "**Academic Context:** Modernist and Postmodernist Literature is essential for academic success and scholarly work.",
+      "**Professional Use:** These skills apply directly to professional communication and analysis.",
+      "**Personal Development:** Understanding Modernist and Postmodernist Literature enhances critical thinking and expression."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram illustrating key concepts of Modernist and Postmodernist Literature.",
+      "A flowchart showing the process and relationships in Modernist and Postmodernist Literature."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

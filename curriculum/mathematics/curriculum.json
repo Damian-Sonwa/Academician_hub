@@ -1,0 +1,42 @@
+{
+  "subject": "Mathematics",
+  "levels": {
+    "Secondary": [
+      "Algebra Fundamentals: Variables, Expressions, and Equations",
+      "Linear Equations and Inequalities",
+      "Quadratic Equations and Functions",
+      "Polynomials and Factoring",
+      "Rational Expressions and Equations",
+      "Systems of Equations and Inequalities",
+      "Exponential and Logarithmic Functions",
+      "Trigonometry: Right Triangles and Unit Circle",
+      "Trigonometric Functions and Identities",
+      "Sequences and Series",
+      "Probability and Statistics",
+      "Geometry: Triangles, Circles, and Polygons",
+      "Coordinate Geometry and Conic Sections",
+      "Functions and Their Graphs",
+      "Introduction to Calculus: Limits and Derivatives"
+    ],
+    "Advanced": [
+      "Functions and Their Properties",
+      "Limits and Continuity",
+      "Applications of Derivatives: Optimization and Related Rates",
+      "Differential Equations",
+      "Multivariable Calculus: Partial Derivatives and Multiple Integrals",
+      "Linear Algebra: Vectors, Matrices, and Systems",
+      "Eigenvalues, Eigenvectors, and Matrix Decompositions",
+      "Discrete Mathematics: Sets, Logic, and Proofs",
+      "Graph Theory and Combinatorics",
+      "Calculus: Limits, Continuity, and Derivatives",
+      "Integration Techniques and Applications",
+      "Number Theory: Prime Numbers and Modular Arithmetic",
+      "Real Analysis: Sequences, Series, and Continuity",
+      "Complex Analysis: Complex Numbers and Functions",
+      "Probability Theory and Statistical Inference",
+      "Mathematical Modeling and Applications",
+      "Abstract Algebra: Groups, Rings, and Fields"
+    ]
+  }
+}
+

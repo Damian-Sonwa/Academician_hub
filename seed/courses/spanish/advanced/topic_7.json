@@ -1,0 +1,86 @@
+{
+  "topic": "Literary Analysis and Cultural Texts",
+  "detailedSummary": "Literary analysis examines themes, style, symbolism, and cultural context in Spanish literature. Key literary terms: 'tema' (theme), 'personaje' (character), 'trama' (plot), 'símbolo' (symbol), 'metáfora' (metaphor), 'ironía' (irony), 'narrador' (narrator), 'punto de vista' (point of view). Analysis structure: identify literary elements, analyze author's techniques, interpret meaning, connect to cultural/historical context. Famous authors: Cervantes (Don Quijote), García Márquez (magical realism), Borges (fantasy/philosophy), Neruda (poetry), Lorca (drama/poetry). Cultural texts include: newspapers, historical documents, speeches, poetry, short stories, novels. Reading strategies: identify main themes, analyze figurative language, understand cultural references, recognize historical context, interpret symbolism. Writing analysis: thesis statement, textual evidence, interpretation, cultural connections. Understanding literary analysis enables appreciating Spanish literature and culture deeply.",
+  "whyItMatters": "Literary analysis skills enable deep understanding of Spanish culture and literature - they're essential for advanced Spanish studies and cultural appreciation.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Literary Analysis and Cultural Texts | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Literary Analysis and Cultural Texts | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Literary Analysis and Cultural Texts | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Literary Analysis Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Literary Analysis Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Analyze Spanish Literature",
+      "description": "Practice literary analysis by reading and analyzing Spanish texts.",
+      "tasks": [
+        "Read a Spanish short story or poem and identify literary elements",
+        "Write a literary analysis essay analyzing themes and techniques",
+        "Analyze cultural and historical context of a literary work",
+        "Compare themes across different Spanish literary works",
+        "Write an analysis connecting a text to broader cultural movements"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What does 'tema' mean in literary analysis?",
+      "type": "multiple-choice",
+      "options": [
+        "Character",
+        "Theme",
+        "Plot",
+        "Symbol"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Tema' means theme - the main idea or message of a literary work."
+    },
+    {
+      "question": "Literary analysis should consider both the text itself and its cultural and historical context.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Effective literary analysis examines the text's literary elements and connects them to cultural, historical, and social contexts."
+    },
+    {
+      "question": "Who wrote 'Don Quijote', considered one of the greatest works of Spanish literature?",
+      "type": "multiple-choice",
+      "options": [
+        "García Márquez",
+        "Miguel de Cervantes",
+        "Borges",
+        "Neruda"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Miguel de Cervantes wrote 'Don Quijote de la Mancha', considered the first modern novel and a masterpiece of Spanish literature."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

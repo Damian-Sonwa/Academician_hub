@@ -1,0 +1,1036 @@
+{
+  "level": "Basic",
+  "topics": [
+    {
+      "course": "Cybersecurity",
+      "level": "Basic",
+      "topic": "Introduction to Cybersecurity",
+      "description": "Cybersecurity is the practice of protecting computers, networks, programs, and data from digital attacks, damage, or unauthorized access. It's like having locks on your doors, but for your digital life. In today's connected world, everyone needs basic cybersecurity knowledge to protect their personal information, devices, and online accounts from hackers and cybercriminals.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Understanding Cybersecurity: A Beginner's Walkthrough",
+          "content": "Step 1: Think of cybersecurity like home security—you lock your doors to protect your belongings. Step 2: In the digital world, you need to protect your data (photos, passwords, bank info) from cybercriminals. Step 3: Common threats include viruses (malicious software), hackers (people trying to break in), and phishing (fake emails trying to steal your info). Step 4: Basic protection includes strong passwords, antivirus software, and being careful online. Step 5: Just like you learn to lock your door, learning cybersecurity helps you protect your digital life!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Cybersecurity vs Physical Security Comparison",
+          "content": "Physical Security: Lock your door → Protect your home → Keep valuables safe. Cybersecurity: Use passwords → Protect your accounts → Keep data safe. Visual: Draw two columns showing how physical security concepts apply to digital security. For example: Door lock = Password, Security camera = Antivirus, Safe = Encrypted files."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Identify Cybersecurity Risks in Your Daily Life",
+          "content": "Activity: List 5 things you do online daily (email, social media, online shopping, banking, etc.). For each activity, identify: What information could be stolen? How could someone hack into it? What would happen if your account was compromised? This helps you understand why cybersecurity matters in your everyday life."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "What is Cybersecurity? 🔒",
+          "content": "Cybersecurity protects digital systems, networks, and data from cyber attacks. **How to understand it:** Like a security guard for your computer and online accounts. **Why it matters:** Every day, millions of cyber attacks happen worldwide. Without protection, your personal information, money, and identity are at risk. **Real-world:** A person's email gets hacked, and the hacker accesses their bank account. Good cybersecurity prevents this."
+        },
+        {
+          "title": "Common Cyber Threats 🚨",
+          "content": "Malware (viruses, ransomware), phishing (fake emails), hacking (unauthorized access), and identity theft. **How to understand it:** Malware is like a digital virus that can damage your computer. Phishing is like a fake phone call trying to trick you. **Examples:** Clicking a suspicious email link can install malware. A fake bank email asking for your password is phishing. **Real-world:** You receive an email saying 'Your account will be closed' with a link. This is likely phishing—don't click!"
+        },
+        {
+          "title": "The CIA Triad (Confidentiality, Integrity, Availability) 🛡️",
+          "content": "Three core principles of cybersecurity. **Confidentiality:** Keep information private (like passwords). **Integrity:** Ensure data isn't changed or corrupted. **Availability:** Make sure systems are accessible when needed. **How to understand it:** Confidentiality = Only you can see your diary. Integrity = No one can change your diary entries. Availability = Your diary is always where you left it. **Real-world:** Your bank account uses all three: Only you can access it (confidentiality), transactions can't be altered (integrity), and it's always available online (availability)."
+        },
+        {
+          "title": "Why Everyone Needs Cybersecurity 👥",
+          "content": "Not just for companies—individuals face cyber threats daily. **Personal risks:** Identity theft, financial loss, privacy invasion, device damage. **How to understand it:** Just like you lock your car, you need to protect your digital life. **Statistics:** Over 4 billion records were exposed in data breaches in 2023. **Real-world:** A student's social media account gets hacked, and the hacker posts embarrassing content. Basic cybersecurity knowledge could have prevented this."
+        },
+        {
+          "title": "Basic Protection Steps 🛠️",
+          "content": "Use strong passwords, enable two-factor authentication, keep software updated, be cautious with emails and links, and use antivirus software. **How to understand it:** These are like basic safety habits—wear a seatbelt, look both ways before crossing. **Priority:** Start with strong passwords and two-factor authentication—these two steps prevent 80% of attacks. **Real-world:** Using a strong password and two-factor authentication on your email account makes it nearly impossible for hackers to break in."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Strong Password Protection",
+          "explanation": "Instead of using 'password123', you use 'MyDog@2024!Blue'. This strong password is much harder for hackers to guess. Combined with two-factor authentication, your account becomes very secure. This is basic cybersecurity in action."
+        },
+        {
+          "scenario": "Recognizing Phishing Emails",
+          "explanation": "You receive an email saying 'Your account will be closed—click here immediately!' A cybersecurity-aware person checks: Is the sender's email address correct? Does it have spelling errors? Is it asking for personal information? Recognizing these red flags prevents falling for phishing scams."
+        },
+        {
+          "scenario": "Software Updates",
+          "explanation": "Your phone or computer asks to update software. Many people ignore it, but updates often include security patches that fix vulnerabilities hackers could exploit. Keeping software updated is a simple but crucial cybersecurity practice."
+        },
+        {
+          "scenario": "Public Wi-Fi Caution",
+          "explanation": "You're at a coffee shop and connect to free Wi-Fi. A cybersecurity-aware person knows that public Wi-Fi can be insecure. They avoid accessing bank accounts or entering passwords on public networks, or use a VPN for protection. This prevents hackers from intercepting your data."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Create Your Cybersecurity Checklist",
+          "instructions": "Step 1: List all your online accounts (email, social media, banking, shopping). Step 2: For each account, check: Do you have a strong password? Is two-factor authentication enabled? When did you last update your password? Step 3: Create a checklist of security improvements needed. Step 4: Prioritize the most important accounts (banking, email) and secure them first.",
+          "example_answer": "I have 8 online accounts. My email and bank account have strong passwords and two-factor authentication. My social media accounts need stronger passwords. My priority is to update my bank password (it's been 2 years) and enable two-factor authentication on my shopping accounts."
+        },
+        {
+          "title": "Identify Phishing Attempts",
+          "instructions": "Step 1: Look at 5 emails in your inbox (or use examples). Step 2: For each email, identify: Is the sender's email address suspicious? Are there spelling or grammar errors? Is it asking for personal information or urgent action? Step 3: Classify each as 'Safe' or 'Suspicious'. Step 4: Explain why suspicious emails are dangerous and what you should do with them.",
+          "example_answer": "Email 1: From 'noreply@bank.com' asking to 'verify account immediately' - Suspicious (urgent language, asking for verification). Email 2: From 'newsletter@legitcompany.com' with unsubscribe link - Safe (normal newsletter). I should delete suspicious emails and never click links or provide information."
+        },
+        {
+          "title": "Password Strength Analysis",
+          "instructions": "Step 1: Create 5 passwords: 'password', 'Password123', 'MyDog2024', 'MyDog@2024!Blue', 'Tr0ub@dor&3'. Step 2: Rate each password's strength (Weak, Medium, Strong). Step 3: Explain what makes a password strong: length, complexity (uppercase, lowercase, numbers, symbols), and unpredictability. Step 4: Create your own strong password following these rules.",
+          "example_answer": "Weak: 'password' (too common, no complexity). Medium: 'Password123' (has complexity but predictable pattern). Strong: 'Tr0ub@dor&3' (long, complex, unpredictable). A strong password should be at least 12 characters, include mixed case, numbers, and symbols, and not contain dictionary words or personal information."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Introduction to Cybersecurity",
+          "source": "Open Textbook Library",
+          "reason": "Provides a beginner-friendly overview of cybersecurity concepts with simple explanations and real-world examples."
+        },
+        {
+          "title": "Cybersecurity Essentials",
+          "source": "OpenStax",
+          "reason": "Covers fundamental cybersecurity principles, threats, and protection methods in an accessible format."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Cybersecurity Explained – Simplilearn",
+          "reason": "Simple explanation of what cybersecurity is and why it matters, perfect for beginners."
+        },
+        {
+          "title": "Introduction to Cybersecurity – IBM",
+          "reason": "Comprehensive beginner-friendly introduction to cybersecurity concepts and practices."
+        }
+      ],
+      "summary": "Cybersecurity is the practice of protecting digital systems and data from cyber attacks. Everyone needs basic cybersecurity knowledge to protect their personal information, accounts, and devices. Key practices include using strong passwords, enabling two-factor authentication, keeping software updated, and being cautious online. Understanding common threats like malware, phishing, and hacking helps you stay safe in the digital world."
+    },
+    {
+      "course": "Cybersecurity",
+      "level": "Basic",
+      "topic": "Common Cyber Threats and Attacks",
+      "description": "Learn about the most common cyber threats that target individuals and organizations. Understanding these threats helps you recognize and avoid them. Cyber threats include malware, phishing, hacking, denial-of-service attacks, and more. Think of it like learning about different types of criminals—once you know what to look for, you can protect yourself better.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Understanding Cyber Threats: A Beginner's Guide",
+          "content": "Step 1: Malware = Bad software that damages your computer (like a virus). Step 2: Phishing = Fake emails/websites trying to steal your info (like a con artist). Step 3: Hacking = Unauthorized access to your accounts (like a burglar). Step 4: Ransomware = Malware that locks your files until you pay (like a kidnapper). Step 5: DDoS = Overwhelming a website with traffic (like blocking a store entrance). Understanding these threats helps you recognize and avoid them."
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Cyber Threat Types Comparison Chart",
+          "content": "Create a chart with 5 columns: Threat Type | What It Does | How It Spreads | Impact | Prevention. Malware: Damages computer | Email attachments, downloads | Data loss, system damage | Antivirus, careful downloads. Phishing: Steals information | Fake emails, websites | Identity theft, account takeover | Verify senders, don't click suspicious links. Hacking: Unauthorized access | Weak passwords, vulnerabilities | Data breach, privacy invasion | Strong passwords, updates. Visual representation helps understand each threat."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Identify Real-World Cyber Threats",
+          "content": "Activity: Read 5 news headlines about cyber attacks. For each: Identify the threat type (malware, phishing, hacking, etc.). Explain what happened. Identify who was affected. Suggest how it could have been prevented. This activity helps you recognize real cyber threats and understand their impact."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Malware (Malicious Software) 🦠",
+          "content": "Software designed to harm computers, steal data, or disrupt operations. **Types:** Viruses (spread and damage), Worms (self-replicate), Trojans (disguised as legitimate), Ransomware (locks files for payment). **How to understand it:** Like a biological virus, but for computers. It spreads and causes damage. **How it spreads:** Email attachments, downloads, USB drives, infected websites. **Real-world:** You download a 'free game' that installs malware, which then steals your passwords. **Prevention:** Use antivirus, don't download suspicious files, keep software updated."
+        },
+        {
+          "title": "Phishing Attacks 🎣",
+          "content": "Fake emails, messages, or websites designed to trick you into giving away personal information. **How to understand it:** Like fishing—hackers 'bait' you with fake emails, hoping you 'bite' and give them your info. **Common tactics:** Urgent language ('Your account will be closed!'), fake sender addresses, links to fake websites. **Real-world:** You receive an email from 'your bank' asking to verify your account. It looks real, but it's actually a hacker trying to steal your login. **Prevention:** Verify sender addresses, don't click suspicious links, check for spelling errors."
+        },
+        {
+          "title": "Hacking and Unauthorized Access 🔓",
+          "content": "Gaining unauthorized access to computer systems, networks, or accounts. **How to understand it:** Like a burglar breaking into your house, but digitally. **Common methods:** Weak passwords, unpatched software, social engineering. **Real-world:** A hacker guesses your weak password 'password123' and accesses your email account, then uses it to reset passwords for other accounts. **Prevention:** Strong passwords, two-factor authentication, keep software updated, be cautious online."
+        },
+        {
+          "title": "Ransomware 💰",
+          "content": "Malware that encrypts (locks) your files and demands payment to unlock them. **How to understand it:** Like a kidnapper who locks your files and demands ransom. **How it works:** Infects your computer, encrypts your files, displays a message demanding payment (usually in cryptocurrency). **Real-world:** You click a malicious email attachment, and suddenly all your files are locked with a message saying 'Pay $500 in Bitcoin to unlock.' **Prevention:** Regular backups, don't open suspicious attachments, use antivirus, keep software updated."
+        },
+        {
+          "title": "Denial-of-Service (DoS) Attacks 🚫",
+          "content": "Overwhelming a website or service with traffic to make it unavailable. **How to understand it:** Like thousands of people blocking a store entrance so customers can't get in. **How it works:** Sends massive amounts of traffic to a website, overwhelming its servers. **Real-world:** A hacker sends millions of requests to a company's website, making it crash so customers can't access it. **Impact:** Website downtime, lost business, reputation damage. **Prevention:** (For individuals) Use reputable services with good security. (For companies) DDoS protection services."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Email Virus Attack",
+          "explanation": "You receive an email with subject 'Invoice attached' from an unknown sender. You open the attachment, and it installs malware on your computer. The malware then steals your saved passwords and sends spam emails to your contacts. This is a common malware attack vector."
+        },
+        {
+          "scenario": "Phishing Bank Email",
+          "explanation": "You receive an email that looks like it's from your bank, saying 'Your account has been locked—click here to verify.' The email looks official with bank logos, but the sender address is 'noreply@bank-security.com' (not your real bank). Clicking the link takes you to a fake website that steals your login credentials."
+        },
+        {
+          "scenario": "Ransomware Attack",
+          "explanation": "A student downloads a 'free software' from an untrusted website. The software installs ransomware that encrypts all their school documents, photos, and files. A message appears demanding $300 in Bitcoin to unlock the files. Without backups, they lose all their work."
+        },
+        {
+          "scenario": "Weak Password Hacking",
+          "explanation": "A person uses the password 'password123' for their social media account. A hacker uses a password list (common passwords) and easily guesses it. The hacker then accesses the account, posts embarrassing content, and changes the password, locking the owner out."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Classify Cyber Threats",
+          "instructions": "Step 1: Read 5 cyber attack scenarios. Step 2: For each scenario, identify: What type of threat is it? (Malware, Phishing, Hacking, Ransomware, DoS). Step 3: Explain how the attack works. Step 4: Suggest 3 ways to prevent this type of attack. Step 5: Rank the threats by severity (most dangerous to least dangerous).",
+          "example_answer": "Scenario 1: Email with virus attachment = Malware. It works by tricking you to open an infected file. Prevention: Don't open attachments from unknown senders, use antivirus, scan files before opening. Scenario 2: Fake bank website = Phishing. It works by creating a fake website that looks real. Prevention: Check website URLs, verify sender, don't click suspicious links. Malware and Phishing are most dangerous for individuals."
+        },
+        {
+          "title": "Create a Threat Prevention Plan",
+          "instructions": "Step 1: List 5 cyber threats you learned about. Step 2: For each threat, create a prevention checklist with 3-5 specific actions. Step 3: Prioritize the threats based on how likely you are to encounter them. Step 4: Create a daily/weekly/monthly security routine based on your prevention checklists. Step 5: Write a 200-word summary of your personal cybersecurity threat prevention plan.",
+          "example_answer": "My prevention plan: Daily: Check emails carefully, don't click suspicious links. Weekly: Update software, scan for malware, review account activity. Monthly: Change important passwords, backup files, review security settings. Priority threats: Phishing (most common), Malware (high impact), Weak passwords (easy to prevent). This routine helps me stay protected from common cyber threats."
+        },
+        {
+          "title": "Analyze a Real Cyber Attack",
+          "instructions": "Step 1: Find a news article about a recent cyber attack (data breach, ransomware, etc.). Step 2: Identify: What type of attack was it? Who was affected? What was stolen or damaged? Step 3: Research how the attack happened (weak passwords, unpatched software, etc.). Step 4: Suggest 5 ways the attack could have been prevented. Step 5: Write a 300-word analysis explaining the attack and prevention methods.",
+          "example_answer": "Article: 'Company X data breach affects 1 million users.' Type: Hacking/Data breach. Affected: 1 million customers. Stolen: Names, emails, passwords. How it happened: Weak database security, unpatched software vulnerability. Prevention: 1) Strong encryption for stored passwords, 2) Regular security updates, 3) Two-factor authentication, 4) Security audits, 5) Employee training. This attack could have been prevented with basic security measures."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Cybersecurity Threats and Attacks",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to common cyber threats with detailed explanations and real-world examples."
+        },
+        {
+          "title": "Introduction to Information Security",
+          "source": "OpenStax",
+          "reason": "Covers various types of cyber attacks, their mechanisms, and prevention strategies."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Top 10 Cyber Threats Explained – Simplilearn",
+          "reason": "Clear explanation of the most common cyber threats with visual examples."
+        },
+        {
+          "title": "Understanding Cyber Attacks – IBM Security",
+          "reason": "Comprehensive overview of different types of cyber attacks and how they work."
+        }
+      ],
+      "summary": "Common cyber threats include malware (viruses, ransomware), phishing (fake emails), hacking (unauthorized access), and denial-of-service attacks. Understanding these threats helps you recognize and avoid them. Key prevention methods include using antivirus software, being cautious with emails and links, using strong passwords, keeping software updated, and backing up data regularly. Awareness and basic security practices protect you from most cyber threats."
+    },
+    {
+      "course": "Cybersecurity",
+      "level": "Basic",
+      "topic": "Password Security and Authentication",
+      "description": "Passwords are your first line of defense against cyber attacks. Learn how to create strong passwords, use password managers, and enable two-factor authentication. Weak passwords are like leaving your house key under the doormat—anyone can find it. Strong passwords and authentication methods protect your accounts from hackers.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Creating Strong Passwords: A Practical Guide",
+          "content": "Step 1: Use at least 12 characters (longer is better). Step 2: Mix uppercase, lowercase, numbers, and symbols. Step 3: Avoid dictionary words, personal information, or common patterns. Step 4: Use a passphrase: 'MyDog@2024!LovesBlue' is better than 'password123'. Step 5: Use a password manager to remember complex passwords. Step 6: Enable two-factor authentication (2FA) for important accounts. This step-by-step approach helps you create and manage strong passwords."
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Password Strength Comparison",
+          "content": "Create a visual showing password strength: Weak (red): 'password' - 8 characters, common word, no complexity. Medium (yellow): 'Password123' - Has complexity but predictable. Strong (green): 'Tr0ub@dor&3' - Long, complex, unpredictable. Very Strong (dark green): 'MyDog@2024!LovesBlue' - Passphrase, easy to remember, hard to crack. Visual representation helps understand password strength levels."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Password Audit and Improvement",
+          "content": "Activity: List 5 of your online accounts. For each: Rate your current password strength (Weak/Medium/Strong). Identify weaknesses (too short, common word, personal info, reused). Create a new strong password following best practices. Enable two-factor authentication if available. This hands-on activity helps you improve your password security."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Strong Password Characteristics 🔐",
+          "content": "Length (12+ characters), complexity (mixed case, numbers, symbols), unpredictability (no dictionary words or personal info). **How to understand it:** Like a combination lock—more numbers and complexity make it harder to crack. **Password vs Passphrase:** 'P@ssw0rd123' (password) vs 'MyDog@2024!LovesBlue' (passphrase). Passphrases are easier to remember but harder to crack. **Real-world:** A 12-character complex password takes millions of years to crack, while 'password123' takes seconds. **Tip:** Use a password manager to generate and store strong passwords."
+        },
+        {
+          "title": "Password Managers 📱",
+          "content": "Software that securely stores and manages your passwords. **How to understand it:** Like a digital safe for all your passwords. You only need to remember one master password. **Benefits:** Generate strong passwords, store them securely, auto-fill login forms, sync across devices. **Popular options:** LastPass, 1Password, Bitwarden (free), built-in browser password managers. **Real-world:** Instead of remembering 20 different passwords, you remember one master password, and the manager handles the rest securely. **Security:** Password managers encrypt your passwords, so even if hacked, your passwords are protected."
+        },
+        {
+          "title": "Two-Factor Authentication (2FA) 🔒",
+          "content": "An extra layer of security requiring two forms of identification. **How to understand it:** Like a bank requiring both your card (something you have) and PIN (something you know). **How it works:** Enter password (something you know) + code from phone/app (something you have). **Types:** SMS codes, authenticator apps (Google Authenticator, Authy), hardware tokens. **Real-world:** Even if a hacker steals your password, they can't access your account without your phone. **Best practice:** Use authenticator apps instead of SMS (more secure). Enable 2FA on email, banking, and social media accounts."
+        },
+        {
+          "title": "Password Mistakes to Avoid ❌",
+          "content": "Common mistakes: Using the same password everywhere, using personal information (birthday, pet name), writing passwords down, sharing passwords, never changing passwords. **How to understand it:** Like using the same key for your house, car, and office—if someone gets it, they have access to everything. **Real-world:** You use 'MyDog2024' for email, social media, and banking. If one account is hacked, all accounts are compromised. **Solution:** Use unique passwords for each account, especially important ones (email, banking). **Tip:** If you must write passwords down, keep them in a locked safe, not on your desk."
+        },
+        {
+          "title": "Password Recovery and Reset 🔄",
+          "content": "Secure methods to recover accounts if you forget your password. **How it works:** Email verification, security questions, backup codes. **Security questions:** Use answers that aren't easily guessable (not your mother's real maiden name). **Backup codes:** Save recovery codes in a safe place (password manager, secure note). **Real-world:** You forget your password, but you have 2FA enabled and backup codes saved. You can recover your account securely. **Warning:** Be cautious of password reset emails—verify they're legitimate before clicking links."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Strong Password Creation",
+          "explanation": "Instead of 'password123', you create 'MyDog@2024!LovesBlue'. This passphrase is 22 characters, includes complexity (uppercase, lowercase, numbers, symbols), and is easy to remember. You store it in a password manager and enable 2FA. This makes your account nearly impossible to hack."
+        },
+        {
+          "scenario": "Password Manager Usage",
+          "explanation": "You use a password manager (like Bitwarden) to generate unique, strong passwords for all 20 of your accounts. You only remember one master password. The manager auto-fills login forms, syncs across devices, and alerts you if any password is weak or reused. This simplifies password management while improving security."
+        },
+        {
+          "scenario": "Two-Factor Authentication Protection",
+          "explanation": "A hacker steals your email password from a data breach. They try to log in, but your account has 2FA enabled. The hacker needs a code from your phone, which they don't have. Your account remains secure even though your password was compromised. This is why 2FA is essential."
+        },
+        {
+          "scenario": "Password Reuse Risk",
+          "explanation": "You use the same password 'MyDog2024' for email, social media, and a shopping website. The shopping website gets hacked, and your password is leaked. Hackers try that password on your email and social media accounts and gain access. Using unique passwords prevents this—if one account is compromised, others remain safe."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Create Strong Passwords",
+          "instructions": "Step 1: Create 5 strong passwords using different methods: Random characters, Passphrase, Mix of both. Step 2: Test each password's strength using an online password checker. Step 3: For each password, explain: Why is it strong? How long would it take to crack? Is it easy to remember? Step 4: Choose your favorite method and create passwords for 3 different accounts. Step 5: Write a paragraph explaining your password creation strategy.",
+          "example_answer": "Method 1: Random: 'K9#mP@2xL$vQ7' - Very strong but hard to remember. Method 2: Passphrase: 'MyDog@2024!LovesBlue' - Strong and memorable. Method 3: Mixed: 'Tr0ub@dor&3Blue!' - Strong, somewhat memorable. I prefer passphrases because they're strong and memorable. My strategy: Create unique passphrases for each account, store them in a password manager, and enable 2FA."
+        },
+        {
+          "title": "Set Up Two-Factor Authentication",
+          "instructions": "Step 1: Choose 5 important accounts (email, banking, social media). Step 2: For each account, check if 2FA is available and what types (SMS, app, hardware). Step 3: Enable 2FA using an authenticator app (preferred) or SMS. Step 4: Save backup codes in a secure location (password manager). Step 5: Test 2FA by logging out and logging back in. Step 6: Write a checklist of accounts with 2FA enabled.",
+          "example_answer": "Accounts with 2FA: Email (Google Authenticator app), Banking (SMS + app), Social Media (Authenticator app), Shopping (SMS), Cloud Storage (Authenticator app). Backup codes saved in password manager. All important accounts now have 2FA enabled, providing an extra layer of security."
+        },
+        {
+          "title": "Password Security Audit",
+          "instructions": "Step 1: List all your online accounts (at least 10). Step 2: For each account, evaluate: Password strength (Weak/Medium/Strong), Is password unique? (Yes/No), Is 2FA enabled? (Yes/No), Last password change date. Step 3: Create a priority list: Critical accounts (email, banking) first, then important (social media), then others. Step 4: Create an action plan: Which passwords need changing? Which accounts need 2FA? Step 5: Implement improvements starting with critical accounts.",
+          "example_answer": "Audit results: 15 accounts total. Critical: Email (Strong, unique, 2FA enabled) ✓, Banking (Strong, unique, 2FA enabled) ✓. Important: Social Media (Medium, reused, no 2FA) - Needs improvement. Others: 10 accounts with weak/reused passwords. Action plan: 1) Enable 2FA on social media, 2) Change weak passwords, 3) Use password manager for all accounts, 4) Set reminder to review passwords quarterly."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Password Security Best Practices",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to creating and managing strong passwords with practical examples."
+        },
+        {
+          "title": "Authentication and Access Control",
+          "source": "OpenStax",
+          "reason": "Covers password security, multi-factor authentication, and access control mechanisms."
+        }
+      ],
+      "videos": [
+        {
+          "title": "How to Create Strong Passwords – Techquickie",
+          "reason": "Simple, practical guide to creating strong passwords that are easy to remember."
+        },
+        {
+          "title": "Two-Factor Authentication Explained – Simplilearn",
+          "reason": "Clear explanation of 2FA and how to set it up for better account security."
+        }
+      ],
+      "summary": "Strong passwords are your first line of defense. Use passwords that are long (12+ characters), complex (mixed case, numbers, symbols), and unpredictable. Password managers help create and store strong passwords securely. Two-factor authentication adds an extra layer of security by requiring both your password and a code from your phone. Avoid password mistakes like reusing passwords, using personal information, or sharing passwords. Good password practices protect your accounts from hackers."
+    },
+    {
+      "course": "Cybersecurity",
+      "level": "Basic",
+      "topic": "Malware: Viruses, Ransomware, and Trojans",
+      "description": "Malware is malicious software designed to harm your computer or steal your data. Learn about different types of malware including viruses, worms, Trojans, ransomware, and spyware. Understanding malware helps you recognize and avoid it. Think of malware like different types of criminals—each has a different method, but all want to cause harm.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Understanding Malware Types: A Beginner's Guide",
+          "content": "Step 1: Virus = Malware that attaches to files and spreads (like a biological virus). Step 2: Worm = Malware that spreads automatically without user action. Step 3: Trojan = Malware disguised as legitimate software (like the Trojan horse). Step 4: Ransomware = Malware that locks your files and demands payment. Step 5: Spyware = Malware that secretly monitors your activity. Understanding these types helps you recognize and avoid malware."
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Malware Types Comparison Chart",
+          "content": "Create a chart: Type | How It Spreads | What It Does | Example. Virus: Attaches to files | Damages files, spreads | Email attachment. Worm: Network, USB | Self-replicates, spreads fast | Network worm. Trojan: Disguised as software | Steals data, backdoor access | Fake antivirus. Ransomware: Email, downloads | Locks files, demands payment | CryptoLocker. Spyware: Downloads, ads | Monitors activity, steals info | Keylogger. Visual helps compare malware types."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Identify Malware Scenarios",
+          "content": "Activity: Read 5 scenarios. For each: Identify the malware type. Explain how it works. Suggest how to prevent it. Example scenarios: Email with infected attachment, USB drive that auto-runs malware, fake software download, encrypted files demanding payment, software that tracks keystrokes. This activity helps you recognize different malware types."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Viruses 🦠",
+          "content": "Malware that attaches to legitimate files and spreads when those files are executed. **How to understand it:** Like a biological virus that needs a host to spread. **How it works:** Attaches to files (documents, programs), spreads when file is opened, damages or deletes files. **Real-world:** You open an email attachment 'invoice.pdf' that contains a virus. The virus infects your computer and spreads to other files. **Prevention:** Don't open suspicious attachments, use antivirus, scan files before opening."
+        },
+        {
+          "title": "Worms 🐛",
+          "content": "Malware that spreads automatically across networks without user action. **How to understand it:** Like a worm that moves on its own, spreading quickly. **How it works:** Exploits network vulnerabilities, self-replicates, spreads rapidly, can overwhelm networks. **Real-world:** A worm exploits a security flaw in Windows and spreads to thousands of computers in hours, slowing down networks worldwide. **Prevention:** Keep software updated (patches fix vulnerabilities), use firewall, network security."
+        },
+        {
+          "title": "Trojans 🐴",
+          "content": "Malware disguised as legitimate software to trick users into installing it. **How to understand it:** Like the Trojan horse—looks harmless but contains danger. **How it works:** Disguised as useful software (game, tool, update), installs when you run it, creates backdoor access, steals data. **Real-world:** You download 'free antivirus software' that's actually a Trojan. It installs and gives hackers remote access to your computer. **Prevention:** Download from official sources only, verify software authenticity, use antivirus."
+        },
+        {
+          "title": "Ransomware 💰",
+          "content": "Malware that encrypts (locks) your files and demands payment to unlock them. **How to understand it:** Like a kidnapper who locks your files and demands ransom. **How it works:** Infects computer, encrypts files (documents, photos, etc.), displays ransom message, demands payment (usually cryptocurrency). **Real-world:** You click a malicious link, ransomware encrypts all your files, and a message appears: 'Pay $500 in Bitcoin to unlock.' **Prevention:** Regular backups (so you can restore without paying), don't click suspicious links, use antivirus, keep software updated."
+        },
+        {
+          "title": "Spyware 👁️",
+          "content": "Malware that secretly monitors your activity and steals information. **How to understand it:** Like a hidden camera watching everything you do. **How it works:** Installs secretly, monitors keystrokes, tracks browsing, steals passwords and personal info. **Real-world:** You install 'free software' that includes spyware. It records everything you type, including passwords, and sends it to hackers. **Prevention:** Use antivirus with anti-spyware, be careful with downloads, review installed software regularly."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Email Virus Attack",
+          "explanation": "You receive an email with subject 'Important Document' and an attachment. You open the attachment, and it installs a virus that damages files on your computer and spreads to other files. The virus also sends itself to everyone in your contact list. This is how viruses spread through email."
+        },
+        {
+          "scenario": "USB Worm Infection",
+          "explanation": "You plug a USB drive into your computer. The USB contains a worm that automatically runs and infects your computer. The worm then spreads to other computers on your network. This is why you should scan USB drives before opening them."
+        },
+        {
+          "scenario": "Trojan Fake Software",
+          "explanation": "You search for 'free video converter' and download software from an untrusted website. The software looks legitimate and works, but it's actually a Trojan that gives hackers remote access to your computer. They can now steal your files and monitor your activity."
+        },
+        {
+          "scenario": "Ransomware Attack",
+          "explanation": "You click a link in a phishing email. The link downloads ransomware that encrypts all your files—documents, photos, videos. A message appears demanding $500 in Bitcoin to unlock your files. Without backups, you lose everything unless you pay (but paying doesn't guarantee you'll get your files back)."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Malware Type Identification",
+          "instructions": "Step 1: Read 5 malware attack scenarios. Step 2: For each scenario, identify: What type of malware is it? (Virus, Worm, Trojan, Ransomware, Spyware). Step 3: Explain how the malware works in that scenario. Step 4: Suggest 3 prevention methods specific to that malware type. Step 5: Rank the malware types by how dangerous they are for individuals.",
+          "example_answer": "Scenario 1: Email attachment that damages files = Virus. It works by attaching to files and spreading. Prevention: Don't open suspicious attachments, scan files, use antivirus. Scenario 2: Software that locks files and demands payment = Ransomware. It works by encrypting files. Prevention: Regular backups, don't click suspicious links, keep software updated. Most dangerous: Ransomware (locks files), Spyware (steals info), Trojans (backdoor access)."
+        },
+        {
+          "title": "Create a Malware Prevention Plan",
+          "instructions": "Step 1: List 5 types of malware you learned about. Step 2: For each type, create a prevention checklist with 3-5 specific actions. Step 3: Research and choose antivirus/anti-malware software. Step 4: Create a daily/weekly security routine: Daily (scan downloads), Weekly (full system scan), Monthly (review installed software). Step 5: Write a 200-word malware prevention strategy.",
+          "example_answer": "Prevention plan: Antivirus software (Windows Defender or reputable third-party), regular scans (weekly full scan), careful downloads (official sources only), email caution (don't open suspicious attachments), regular backups (external drive or cloud). Routine: Daily - scan downloads before opening. Weekly - full system scan, update software. Monthly - review installed programs, check for suspicious activity. This routine protects against all malware types."
+        },
+        {
+          "title": "Malware Recovery Scenario",
+          "instructions": "Step 1: Imagine your computer is infected with ransomware—all files are encrypted. Step 2: List what you would do: Immediate actions (disconnect from internet), Assessment (identify malware type), Recovery options (backups, decryption tools). Step 3: Research: Are there free decryption tools? Should you pay the ransom? Step 4: Create a recovery plan with step-by-step actions. Step 5: Write a 300-word guide on what to do if infected with malware.",
+          "example_answer": "If infected with ransomware: 1) Disconnect from internet immediately (prevents spread), 2) Don't pay ransom (no guarantee of recovery, funds criminals), 3) Check for backups (restore from backup if available), 4) Try decryption tools (some ransomware has free decryption available), 5) If no backup, consider professional help or accept data loss. Prevention is key—regular backups prevent this situation. Never pay ransom as it encourages more attacks."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Malware Analysis and Prevention",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to different types of malware, how they work, and how to prevent them."
+        },
+        {
+          "title": "Computer Security Fundamentals",
+          "source": "OpenStax",
+          "reason": "Covers malware types, detection methods, and prevention strategies in an accessible format."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Types of Malware Explained – Simplilearn",
+          "reason": "Clear explanation of different malware types with visual examples and real-world scenarios."
+        },
+        {
+          "title": "How to Protect Against Malware – Techquickie",
+          "reason": "Practical guide to preventing malware infections with actionable steps."
+        }
+      ],
+      "summary": "Malware includes viruses (attach to files), worms (spread automatically), Trojans (disguised as legitimate software), ransomware (locks files for payment), and spyware (monitors activity). Understanding these types helps you recognize and avoid malware. Key prevention methods include using antivirus software, being cautious with downloads and emails, keeping software updated, and regular backups. Awareness and good security practices protect you from malware attacks."
+    },
+    {
+      "course": "Cybersecurity",
+      "level": "Basic",
+      "topic": "Phishing and Social Engineering",
+      "description": "Phishing is a cyber attack that uses fake emails, messages, or websites to trick you into giving away personal information. Social engineering manipulates people into revealing confidential information. These attacks target human psychology rather than technical vulnerabilities. Think of it like a con artist—they don't break in, they trick you into letting them in.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Recognizing Phishing: Red Flags Checklist",
+          "content": "Step 1: Check sender address (is it from the real company?). Step 2: Look for urgent language ('Act now!' 'Your account will be closed!'). Step 3: Check for spelling/grammar errors (legitimate companies rarely have errors). Step 4: Hover over links (do they go to the real website?). Step 5: Verify requests (call the company directly if unsure). Step 6: Never provide passwords or personal info via email. This checklist helps you identify phishing attempts."
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Phishing Email vs Legitimate Email Comparison",
+          "content": "Create side-by-side comparison: Phishing Email: Generic greeting ('Dear Customer'), Urgent language, Suspicious sender, Spelling errors, Asks for personal info, Suspicious links. Legitimate Email: Personal greeting (your name), Professional tone, Official sender domain, No errors, Doesn't ask for sensitive info, Links to official website. Visual comparison helps spot differences."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Phishing Email Analysis",
+          "content": "Activity: Analyze 5 email examples (mix of phishing and legitimate). For each: Identify red flags or legitimate indicators. Classify as 'Phishing' or 'Legitimate'. Explain your reasoning. Suggest what action to take (delete, verify, respond). This hands-on activity improves phishing detection skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "What is Phishing? 🎣",
+          "content": "Fake emails, messages, or websites designed to steal your personal information. **How to understand it:** Like fishing—hackers 'bait' you with fake emails, hoping you 'bite' and give them your info. **Common targets:** Passwords, credit card numbers, social security numbers, account access. **Real-world:** You receive an email from 'your bank' asking to verify your account. It looks real, but it's actually a hacker trying to steal your login. **Prevention:** Verify sender addresses, don't click suspicious links, contact companies directly if unsure."
+        },
+        {
+          "title": "Types of Phishing 📧",
+          "content": "Email phishing (fake emails), spear phishing (targeted attacks), smishing (SMS/text messages), vishing (voice calls), pharming (fake websites). **How to understand it:** Different methods, same goal—steal your information. **Email phishing:** Mass emails to many people. **Spear phishing:** Targeted at specific individuals (more convincing). **Real-world:** You receive a text saying 'Your package delivery failed—click here.' It's smishing trying to steal your info. **Prevention:** Be suspicious of unsolicited messages, verify through official channels, don't click links in texts/calls."
+        },
+        {
+          "title": "Social Engineering 🎭",
+          "content": "Manipulating people into revealing confidential information through psychological tricks. **How to understand it:** Like a con artist who tricks you instead of breaking in. **Common tactics:** Pretending to be authority (IT support, bank), creating urgency (act now!), building trust (friendly conversation), using fear (your account is compromised). **Real-world:** A caller says they're from 'Microsoft Support' and your computer has a virus. They ask for remote access to 'fix' it, but they're actually installing malware. **Prevention:** Verify identity, don't trust unsolicited calls, hang up and call back using official number."
+        },
+        {
+          "title": "Red Flags of Phishing 🚩",
+          "content": "Urgent language ('Act now!'), suspicious sender addresses, spelling/grammar errors, requests for personal information, suspicious links, unexpected attachments. **How to understand it:** Like warning signs on a dangerous road—they tell you to be careful. **Real-world:** Email says 'Your account will be closed in 24 hours—click here to verify.' This is a red flag—legitimate companies don't create false urgency. **Prevention:** When in doubt, don't click. Contact the company directly through their official website or phone number."
+        },
+        {
+          "title": "How to Verify Legitimacy ✅",
+          "content": "Check sender email address (does it match the company's domain?), hover over links (where do they actually go?), contact company directly (use official website/phone), check for official communication channels, verify through multiple sources. **How to understand it:** Like checking ID before letting someone in your house. **Real-world:** You receive an email from 'paypal-security@paypall.com' (note the double 'l'). This is fake—the real PayPal domain is 'paypal.com'. **Tip:** When unsure, always contact the company through their official website, not through links in emails."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Fake Bank Email",
+          "explanation": "You receive an email from 'security@yourbank.com' saying 'Your account has been locked—click here to verify.' The email looks official with bank logos. However, hovering over the link shows it goes to 'yourbank-security.com' (not the real bank). This is phishing—the hacker created a fake website to steal your login."
+        },
+        {
+          "scenario": "Social Engineering Phone Call",
+          "explanation": "You receive a call from someone claiming to be 'Microsoft Support.' They say your computer has a virus and they need remote access to fix it. They sound professional and use technical terms. This is social engineering—they're trying to trick you into giving them access to your computer. Legitimate companies don't call unsolicited."
+        },
+        {
+          "scenario": "Spear Phishing Attack",
+          "explanation": "You receive an email from what appears to be your boss, asking you to purchase gift cards and send the codes. The email uses your boss's name and seems urgent. This is spear phishing—targeted and personalized to be more convincing. Always verify unusual requests through a different channel (call or in-person)."
+        },
+        {
+          "scenario": "Fake Website (Pharming)",
+          "explanation": "You click a link that looks like it goes to your bank's website. The website looks identical to the real bank site, but the URL is slightly different ('bankofamerica-security.com' instead of 'bankofamerica.com'). You enter your login, and hackers steal your credentials. Always check URLs carefully."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Identify Phishing Attempts",
+          "instructions": "Step 1: Review 5 email examples (mix of phishing and legitimate). Step 2: For each email, identify: Red flags or legitimate indicators, Sender address analysis, Link destination (hover over links), Language and tone, Request type. Step 3: Classify each as 'Phishing' or 'Legitimate'. Step 4: Explain your reasoning for each classification. Step 5: Create a checklist of red flags to watch for.",
+          "example_answer": "Email 1: From 'noreply@paypal-security.com' with urgent language 'Your account will be closed!' - Phishing (suspicious domain, urgent language). Email 2: From 'newsletter@paypal.com' with unsubscribe link - Legitimate (official domain, normal newsletter). Red flags checklist: Suspicious sender, urgent language, spelling errors, requests for personal info, suspicious links."
+        },
+        {
+          "title": "Create a Phishing Response Plan",
+          "instructions": "Step 1: List 5 types of phishing you learned about (email, SMS, phone, etc.). Step 2: For each type, create a response plan: How to identify it, What to do if you receive it, How to verify if it's legitimate, Who to report it to. Step 3: Create a 'When in Doubt' procedure for suspicious communications. Step 4: Practice identifying phishing attempts using real examples. Step 5: Write a 200-word guide on how to handle suspicious communications.",
+          "example_answer": "Response plan: Email phishing: Check sender, hover over links, don't click if suspicious, report to company. SMS phishing: Don't click links, verify through official app/website. Phone phishing: Hang up, call back using official number. When in doubt: Don't respond, don't click, verify through official channels, report suspicious activity. This plan protects you from all types of phishing."
+        },
+        {
+          "title": "Social Engineering Scenario Analysis",
+          "instructions": "Step 1: Read 3 social engineering scenarios (phone call, email, in-person). Step 2: For each scenario, identify: What psychological tactic is being used? (Authority, urgency, trust, fear), What information are they trying to get?, How would you respond?, What should you do to verify? Step 3: Research real social engineering attacks and their impact. Step 4: Create a 'Social Engineering Defense' checklist. Step 5: Write a 300-word analysis of social engineering tactics and defenses.",
+          "example_answer": "Scenario 1: 'Microsoft Support' call = Authority tactic, trying to get remote access. Response: Hang up, call Microsoft official number to verify. Scenario 2: Urgent email from 'boss' = Urgency + Authority, trying to get gift card codes. Response: Verify through different channel (call boss). Defense checklist: Verify identity, don't trust unsolicited communications, use official channels, be suspicious of urgency, trust your instincts."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Phishing and Social Engineering Attacks",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to phishing techniques, social engineering tactics, and how to protect yourself."
+        },
+        {
+          "title": "Human Factors in Cybersecurity",
+          "source": "OpenStax",
+          "reason": "Explains how attackers exploit human psychology and how to defend against social engineering."
+        }
+      ],
+      "videos": [
+        {
+          "title": "How to Spot Phishing Emails – Techquickie",
+          "reason": "Practical guide to identifying phishing emails with real examples and red flags."
+        },
+        {
+          "title": "Social Engineering Attacks Explained – Simplilearn",
+          "reason": "Clear explanation of social engineering tactics and how to protect yourself."
+        }
+      ],
+      "summary": "Phishing uses fake emails, messages, or websites to steal your information. Social engineering manipulates people through psychological tricks. Common red flags include urgent language, suspicious senders, spelling errors, and requests for personal information. Always verify suspicious communications through official channels. Never click suspicious links or provide personal information to unsolicited requests. Awareness and verification protect you from phishing and social engineering attacks."
+    },
+    {
+      "course": "Cybersecurity",
+      "level": "Basic",
+      "topic": "Network Security Basics",
+      "description": "Learn how to secure your network connections and protect your data when using Wi-Fi and the internet. Network security protects your data as it travels across networks. Think of it like securing your mail—you want to make sure no one intercepts or reads your messages as they travel from sender to receiver.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Securing Your Network: A Beginner's Guide",
+          "content": "Step 1: Use strong Wi-Fi passwords (WPA3 encryption preferred). Step 2: Change default router passwords (manufacturers use default passwords that hackers know). Step 3: Enable firewall on your router and devices. Step 4: Use VPN on public Wi-Fi (encrypts your connection). Step 5: Disable remote access to router (unless needed). Step 6: Keep router firmware updated. This step-by-step approach secures your home network."
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Secure vs Insecure Network Comparison",
+          "content": "Create a diagram: Secure Network: Strong password, WPA3 encryption, Firewall enabled, VPN on public Wi-Fi, Updated firmware. Insecure Network: Weak/no password, No encryption, No firewall, No VPN on public Wi-Fi, Outdated firmware. Visual shows the difference between secure and insecure networks."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Network Security Audit",
+          "content": "Activity: Check your home network settings. For each: Router password strength, Wi-Fi encryption type (WPA2/WPA3), Firewall status, Guest network (if available), Firmware update status. Create an improvement plan for any weaknesses found. This hands-on activity helps secure your network."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Wi-Fi Security 🔐",
+          "content": "Protecting your wireless network from unauthorized access. **How to understand it:** Like locking your Wi-Fi so neighbors can't use it or see your data. **Encryption types:** WPA3 (best, newest), WPA2 (good, widely used), WPA (old, avoid), WEP (very old, insecure). **Real-world:** Your Wi-Fi has no password. Anyone nearby can connect, see your internet traffic, and potentially access your devices. **Prevention:** Use WPA3 or WPA2 encryption with a strong password (at least 12 characters, complex)."
+        },
+        {
+          "title": "Public Wi-Fi Risks 🌐",
+          "content": "Public Wi-Fi (coffee shops, airports, hotels) is often insecure. **How to understand it:** Like having a conversation in a crowded room—anyone can listen. **Risks:** Hackers can intercept your data, see what websites you visit, steal passwords, inject malware. **Real-world:** You connect to free Wi-Fi at a coffee shop and check your bank account. A hacker on the same network intercepts your login credentials. **Prevention:** Use VPN (Virtual Private Network) on public Wi-Fi, avoid accessing sensitive accounts, use mobile data for important activities."
+        },
+        {
+          "title": "Firewalls 🛡️",
+          "content": "Software or hardware that blocks unauthorized access to your network. **How to understand it:** Like a security guard that checks who can enter your network. **Types:** Router firewall (protects entire network), software firewall (protects individual device), both recommended. **How it works:** Monitors incoming/outgoing traffic, blocks suspicious connections, allows legitimate traffic. **Real-world:** A hacker tries to access your computer, but your firewall blocks the connection. **Prevention:** Enable firewall on router and devices (Windows/Mac have built-in firewalls)."
+        },
+        {
+          "title": "VPN (Virtual Private Network) 🔒",
+          "content": "Creates an encrypted tunnel for your internet traffic. **How to understand it:** Like a private, secure tunnel for your data to travel through. **Benefits:** Encrypts your connection, hides your IP address, protects on public Wi-Fi, allows secure remote access. **When to use:** Public Wi-Fi, accessing sensitive data, privacy concerns. **Real-world:** You're at a hotel and need to check work email. You connect to VPN first, which encrypts your connection so hotel Wi-Fi can't see your data. **Tip:** Use reputable VPN services (avoid free VPNs—they may sell your data)."
+        },
+        {
+          "title": "Router Security 🏠",
+          "content": "Securing your home router (the device that provides Wi-Fi). **How to understand it:** Like securing the main entrance to your house. **Key steps:** Change default password, use strong Wi-Fi password, enable WPA3/WPA2 encryption, disable remote access, keep firmware updated, disable WPS (Wi-Fi Protected Setup—has vulnerabilities). **Real-world:** Your router still has the default password 'admin'. A hacker easily accesses your router settings and changes your network configuration. **Prevention:** Change all default passwords, update firmware regularly, disable unnecessary features."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Secure Home Network",
+          "explanation": "You set up your home Wi-Fi with WPA3 encryption and a strong password 'MySecure@2024!Network'. You enable the router firewall, change the default admin password, and keep firmware updated. Your network is now secure from unauthorized access and protects your devices and data."
+        },
+        {
+          "scenario": "Public Wi-Fi with VPN",
+          "explanation": "You're at an airport and need to check email. Instead of connecting directly to airport Wi-Fi (insecure), you first connect to your VPN. The VPN encrypts your connection, so even if hackers are on the same network, they can't see your email or steal your password."
+        },
+        {
+          "scenario": "Insecure Router",
+          "explanation": "Your router still has the default password 'admin' and uses old WEP encryption. A neighbor easily connects to your Wi-Fi, uses your internet (slowing it down), and potentially accesses devices on your network. Changing the password and using WPA3 encryption fixes this."
+        },
+        {
+          "scenario": "Firewall Protection",
+          "explanation": "A hacker tries to scan your computer for open ports (ways to break in). Your firewall detects the suspicious activity and blocks the connection. Without a firewall, the hacker might have gained access to your computer."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Secure Your Home Network",
+          "instructions": "Step 1: Access your router settings (usually 192.168.1.1 or 192.168.0.1). Step 2: Check current settings: Wi-Fi password strength, Encryption type, Router admin password, Firewall status. Step 3: Make improvements: Change weak passwords, enable WPA3/WPA2, enable firewall, update firmware. Step 4: Test your network security. Step 5: Document your network security settings and create a maintenance schedule.",
+          "example_answer": "Current settings: Weak Wi-Fi password 'password123', WPA encryption (old), Default admin password. Improvements made: Changed to strong password 'MySecure@2024!Network', Enabled WPA3 encryption, Changed admin password, Enabled firewall, Updated firmware. Maintenance: Check firmware updates monthly, review security settings quarterly, change Wi-Fi password annually."
+        },
+        {
+          "title": "Public Wi-Fi Safety Plan",
+          "instructions": "Step 1: List 5 places you use public Wi-Fi (coffee shop, airport, hotel, etc.). Step 2: For each location, identify: What activities do you do? (Email, banking, browsing), What are the risks?, How can you protect yourself? Step 3: Research and choose a VPN service. Step 4: Create a 'Public Wi-Fi Checklist': Always use VPN, Avoid sensitive activities, Use mobile data for banking, Verify network name, Log out when done. Step 5: Write a 200-word public Wi-Fi safety guide.",
+          "example_answer": "Locations: Coffee shop (browsing, email), Airport (work email), Hotel (general use). Risks: Data interception, man-in-the-middle attacks, unencrypted connections. Protection: Use VPN always, avoid banking on public Wi-Fi, use mobile data for sensitive activities, verify network name (ask staff), enable firewall. Checklist: VPN enabled ✓, Sensitive activities avoided ✓, Mobile data for banking ✓, Network verified ✓. This plan protects me on public Wi-Fi."
+        },
+        {
+          "title": "Network Security Comparison",
+          "instructions": "Step 1: Create a comparison table: Feature | Secure Network | Insecure Network. Features: Wi-Fi password, Encryption, Firewall, Router password, Firmware updates, VPN usage. Step 2: Fill in the table with secure vs insecure practices. Step 3: Rate your current network security (1-10). Step 4: Identify 3 improvements needed. Step 5: Create an action plan to improve your network security.",
+          "example_answer": "Comparison: Secure Network: Strong password (12+ chars), WPA3 encryption, Firewall enabled, Changed admin password, Regular updates, VPN on public Wi-Fi. Insecure Network: Weak/no password, No encryption, No firewall, Default password, No updates, No VPN. My rating: 6/10 (needs improvement). Improvements: Enable WPA3, change admin password, set up VPN. Action plan: Complete improvements this week, test security, maintain regularly."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Network Security Fundamentals",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to network security concepts, Wi-Fi security, and best practices."
+        },
+        {
+          "title": "Introduction to Network Security",
+          "source": "OpenStax",
+          "reason": "Covers network security basics, firewalls, VPNs, and wireless security in an accessible format."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Wi-Fi Security Explained – Techquickie",
+          "reason": "Simple explanation of Wi-Fi security, encryption types, and how to secure your network."
+        },
+        {
+          "title": "How to Secure Your Home Network – Simplilearn",
+          "reason": "Practical guide to securing your router and Wi-Fi network with step-by-step instructions."
+        }
+      ],
+      "summary": "Network security protects your data as it travels across networks. Secure your Wi-Fi with strong passwords and WPA3/WPA2 encryption. Use VPN on public Wi-Fi to encrypt your connection. Enable firewalls on routers and devices to block unauthorized access. Keep router firmware updated and change default passwords. These practices protect your network and data from hackers and unauthorized access."
+    },
+    {
+      "course": "Cybersecurity",
+      "level": "Basic",
+      "topic": "Data Protection and Encryption",
+      "description": "Learn how to protect your sensitive data using encryption and other security measures. Encryption scrambles your data so only authorized people can read it. Think of it like a secret code—even if someone intercepts your message, they can't understand it without the key. Data protection keeps your personal information safe from hackers and unauthorized access.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Understanding Encryption: A Simple Guide",
+          "content": "Step 1: Encryption = Scrambling data so only authorized people can read it. Step 2: Decryption = Unscrambling data using a key. Step 3: Example: 'Hello' becomes 'Khoor' with a simple code (shift +3). Step 4: Modern encryption uses complex algorithms (like AES-256) that are nearly impossible to break. Step 5: Encryption protects data at rest (stored) and in transit (being sent). Step 6: Use encryption for sensitive data (passwords, financial info, personal documents). This guide helps you understand how encryption protects your data."
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Encryption Process Diagram",
+          "content": "Draw a diagram: Original Data → Encryption (with key) → Encrypted Data (scrambled) → Transmission/Storage → Decryption (with key) → Original Data. Show that without the key, encrypted data looks like random characters. Visual helps understand how encryption works to protect data."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Encrypt Your Sensitive Files",
+          "content": "Activity: Identify 5 sensitive files on your computer (tax documents, passwords, personal info). For each file: Why is it sensitive?, Should it be encrypted?, How can you encrypt it? (Built-in tools, third-party software). Practice encrypting one file. Create a plan to encrypt all sensitive data. This hands-on activity teaches practical encryption."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "What is Encryption? 🔐",
+          "content": "The process of converting readable data into scrambled code that can only be read with a key. **How to understand it:** Like writing a secret message in code—only people with the key can decode it. **Types:** Symmetric (same key to encrypt/decrypt), Asymmetric (public/private key pair). **Real-world:** Your bank encrypts your account information. Even if hackers steal the data, they can't read it without the encryption key. **Benefits:** Protects data from unauthorized access, ensures privacy, required for compliance (healthcare, finance)."
+        },
+        {
+          "title": "Data at Rest vs Data in Transit 📦",
+          "content": "Data at rest = stored data (on hard drive, cloud). Data in transit = data being sent (over internet, email). **How to understand it:** Like protecting money in a safe (at rest) vs money being transported (in transit). **At rest encryption:** Encrypts files on your device or in cloud storage. **In transit encryption:** HTTPS (secure websites), VPN (secure connections), encrypted email. **Real-world:** Your photos stored in iCloud are encrypted (at rest). When you access them, the connection is encrypted (in transit). **Best practice:** Encrypt both—protect data everywhere."
+        },
+        {
+          "title": "Encryption Tools and Methods 🛠️",
+          "content": "Built-in encryption: BitLocker (Windows), FileVault (Mac), device encryption (phones). Cloud encryption: Most cloud services encrypt data automatically. Email encryption: PGP, encrypted email services. **How to understand it:** Different tools for different needs. **Built-in tools:** Easy to use, already on your device. **Cloud encryption:** Automatic, protects data in cloud storage. **Real-world:** You enable BitLocker on your Windows laptop. If someone steals your laptop, they can't access your files without the encryption key. **Tip:** Use built-in encryption tools—they're free and effective."
+        },
+        {
+          "title": "Backup and Data Protection 💾",
+          "content": "Regular backups protect your data from loss (hardware failure, ransomware, accidents). **How to understand it:** Like having a copy of important documents in a safe place. **Backup methods:** External hard drive, cloud backup, both (recommended). **3-2-1 Rule:** 3 copies of data, 2 different media types, 1 off-site backup. **Real-world:** Your computer gets infected with ransomware and all files are encrypted. But you have backups on an external drive and in the cloud. You restore your files without paying ransom. **Best practice:** Automate backups, test restores regularly, encrypt backups."
+        },
+        {
+          "title": "Data Privacy and Protection Laws 📋",
+          "content": "Laws that protect personal data (GDPR, CCPA, HIPAA). **How to understand it:** Like laws that protect your privacy rights. **GDPR:** European data protection law. **CCPA:** California privacy law. **HIPAA:** Healthcare data protection (US). **Your rights:** Know what data is collected, request data deletion, opt out of data sharing. **Real-world:** A company collects your personal data. Under GDPR, you can request to see what data they have and ask them to delete it. **Tip:** Understand your privacy rights and exercise them."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Encrypted Cloud Storage",
+          "explanation": "You store sensitive documents in Google Drive. Google encrypts your files both when stored (at rest) and when you access them (in transit). Even if Google's servers are hacked, your files remain protected because they're encrypted. Only you (with your password/key) can decrypt and access them."
+        },
+        {
+          "scenario": "Encrypted Email",
+          "explanation": "You send a confidential email using an encrypted email service (like ProtonMail). The email is encrypted before sending, travels encrypted, and only the recipient can decrypt it. Even if intercepted, the email content is unreadable without the decryption key."
+        },
+        {
+          "scenario": "Device Encryption",
+          "explanation": "You enable device encryption on your phone (built-in feature). If your phone is lost or stolen, the thief can't access your data because it's encrypted. They would need your password/PIN to decrypt the device, protecting your photos, messages, and apps."
+        },
+        {
+          "scenario": "Backup Protection",
+          "explanation": "You have important work documents on your computer. You create encrypted backups on an external drive (weekly) and cloud storage (daily). Your computer gets infected with ransomware, but you restore your files from backup without paying ransom. Your backups are also encrypted, so they're protected even if the backup drive is stolen."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Encrypt Your Sensitive Data",
+          "instructions": "Step 1: Identify 5 sensitive files/folders on your computer (tax documents, passwords, personal info, financial records). Step 2: For each, determine: Why is it sensitive?, Current protection level, Should it be encrypted? Step 3: Research encryption tools: Built-in (BitLocker, FileVault), Third-party (VeraCrypt, 7-Zip with encryption). Step 4: Encrypt at least one sensitive file/folder. Step 5: Create a plan to encrypt all sensitive data and document your encryption methods.",
+          "example_answer": "Sensitive files: Tax documents (financial info), Password file (account access), Medical records (personal health), Bank statements (financial), Personal photos (privacy). Current protection: None (unencrypted). Plan: Enable BitLocker for full disk encryption, Use 7-Zip to encrypt individual sensitive files, Store encrypted backups in cloud. This protects all sensitive data from unauthorized access."
+        },
+        {
+          "title": "Create a Backup Strategy",
+          "instructions": "Step 1: List all important data: Documents, Photos, Videos, Software, Settings. Step 2: Calculate total size. Step 3: Choose backup methods: External drive (local), Cloud storage (off-site), Both (recommended). Step 4: Create backup schedule: Daily (important files), Weekly (all files), Monthly (full system). Step 5: Test restore process (backup is useless if you can't restore). Step 6: Write a 200-word backup strategy document.",
+          "example_answer": "Important data: 50GB total (documents, photos, videos). Backup methods: External drive (1TB, weekly full backup), Cloud storage (Google Drive, daily important files), Both for redundancy. Schedule: Daily - cloud backup of new/changed files. Weekly - full backup to external drive. Monthly - verify backups, test restore. Tested restore: Successfully restored files from both backup methods. This 3-2-1 strategy (3 copies, 2 media types, 1 off-site) protects my data."
+        },
+        {
+          "title": "Data Protection Audit",
+          "instructions": "Step 1: Audit your data: Where is sensitive data stored? (Computer, phone, cloud, external drives). Step 2: For each location, evaluate: Is it encrypted? (Yes/No), Who has access? (You only, shared, public), Backup status? (Backed up, not backed up). Step 3: Identify risks: Unencrypted data, No backups, Shared access, Old/unused data. Step 4: Create improvement plan: Encrypt unencrypted data, Set up backups, Review access permissions, Delete old data. Step 5: Implement improvements and document your data protection status.",
+          "example_answer": "Audit results: Computer (encrypted with BitLocker ✓, backed up weekly ✓), Phone (encrypted ✓, backed up to cloud ✓), Cloud storage (encrypted by provider ✓, no local backup - risk), External drive (unencrypted - risk, used for backup ✓). Risks: Unencrypted external drive, Cloud data not locally backed up. Improvements: Encrypt external drive, Add local backup of cloud data. Status: 80% protected, improvements in progress."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Data Protection and Encryption",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to encryption concepts, data protection methods, and privacy laws."
+        },
+        {
+          "title": "Information Security and Privacy",
+          "source": "OpenStax",
+          "reason": "Covers encryption, data protection, backup strategies, and privacy regulations."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Encryption Explained – Techquickie",
+          "reason": "Simple explanation of how encryption works and why it's important for data protection."
+        },
+        {
+          "title": "How to Encrypt Your Files – Simplilearn",
+          "reason": "Practical guide to encrypting files and protecting sensitive data."
+        }
+      ],
+      "summary": "Encryption scrambles data so only authorized people can read it. Protect data at rest (stored) and in transit (being sent) using encryption. Use built-in encryption tools (BitLocker, FileVault) and encrypted cloud storage. Create regular encrypted backups using the 3-2-1 rule (3 copies, 2 media types, 1 off-site). Understand data privacy laws and your rights. Encryption and backups protect your data from hackers, ransomware, and data loss."
+    },
+    {
+      "course": "Cybersecurity",
+      "level": "Basic",
+      "topic": "Safe Browsing and Email Security",
+      "description": "Learn how to browse the internet safely and protect yourself from malicious websites and email threats. Safe browsing practices help you avoid dangerous websites, malware, and scams. Email security protects you from phishing, spam, and malicious attachments. Think of it like being a careful shopper—you check reviews and avoid suspicious stores to stay safe.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Safe Browsing Checklist",
+          "content": "Step 1: Check website URLs (look for HTTPS, verify domain name). Step 2: Look for security indicators (lock icon, HTTPS, valid certificate). Step 3: Be cautious with downloads (only from trusted sources). Step 4: Use ad blockers and privacy extensions. Step 5: Keep browser updated (security patches). Step 6: Clear cookies and cache regularly. This checklist helps you browse safely."
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Safe vs Unsafe Website Indicators",
+          "content": "Create a visual: Safe Website: HTTPS in URL, Lock icon, Valid certificate, Official domain name, No pop-ups, Professional design. Unsafe Website: HTTP (no S), No lock icon, Invalid certificate warning, Suspicious domain, Pop-ups, Unprofessional design. Visual helps identify safe websites at a glance."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Website Safety Analysis",
+          "content": "Activity: Visit 5 different websites (mix of safe and suspicious). For each: Check URL (HTTPS?), Look for security indicators, Check for pop-ups or suspicious content, Verify domain name, Rate safety (Safe/Caution/Unsafe). This activity improves your ability to identify safe websites."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "HTTPS and Website Security 🔒",
+          "content": "HTTPS (HyperText Transfer Protocol Secure) encrypts data between your browser and websites. **How to understand it:** Like sending mail in a locked box instead of a postcard. **How to identify:** Look for 'https://' in URL and lock icon in address bar. **Real-world:** You visit 'http://bank.com' (no 's') and enter your password. A hacker intercepts your unencrypted password. With 'https://bank.com', your password is encrypted and protected. **Prevention:** Always use HTTPS for sensitive activities (banking, shopping, email). Never enter passwords on HTTP sites."
+        },
+        {
+          "title": "Recognizing Suspicious Websites 🚩",
+          "content": "Warning signs: Invalid security certificates, misspelled domain names, excessive pop-ups, requests for personal information, unprofessional design, too-good-to-be-true offers. **How to understand it:** Like recognizing a scam in the real world—if it seems too good to be true, it probably is. **Real-world:** You see an ad for 'Free iPhone—click here!' The website looks unprofessional and asks for your credit card 'for shipping.' This is a scam website. **Prevention:** Verify website legitimacy, check reviews, use official websites, be suspicious of unrealistic offers."
+        },
+        {
+          "title": "Email Security Best Practices 📧",
+          "content": "Protect your email from phishing, spam, and malware. **Key practices:** Verify sender addresses, don't click suspicious links, don't open unexpected attachments, use spam filters, enable two-factor authentication, be cautious with email forwarding. **How to understand it:** Like being careful with mail—you don't open packages from unknown senders. **Real-world:** You receive an email with attachment 'invoice.pdf' from unknown sender. You open it and malware installs. **Prevention:** Only open attachments from trusted senders, scan attachments with antivirus, verify unexpected emails through different channel."
+        },
+        {
+          "title": "Browser Security Settings 🛡️",
+          "content": "Configure your browser for better security. **Key settings:** Enable pop-up blocker, disable third-party cookies, enable safe browsing warnings, keep browser updated, use privacy-focused extensions (uBlock Origin, Privacy Badger). **How to understand it:** Like setting up security systems in your house. **Real-world:** You enable pop-up blocker and safe browsing. When you visit a malicious website, your browser warns you and blocks dangerous content. **Prevention:** Configure browser security settings, use privacy extensions, keep browser updated, clear browsing data regularly."
+        },
+        {
+          "title": "Download Safety ⬇️",
+          "content": "Be cautious when downloading files from the internet. **Safety rules:** Only download from official/trusted sources, scan downloads with antivirus, verify file types match extensions, avoid pirated software, check file sizes (suspiciously small/large files). **How to understand it:** Like only buying from reputable stores. **Real-world:** You download 'free software' from an untrusted website. The file is actually malware disguised as software. **Prevention:** Download from official websites only, verify file authenticity, scan with antivirus before opening, check digital signatures when available."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "HTTPS Protection",
+          "explanation": "You visit your bank's website. The URL shows 'https://bank.com' with a lock icon. Your login credentials are encrypted when sent to the bank. Even if intercepted, hackers can't read your password. This is HTTPS protecting your data."
+        },
+        {
+          "scenario": "Suspicious Website Warning",
+          "explanation": "You click a link that takes you to a website. Your browser shows a warning: 'This site may be dangerous.' The website has an invalid security certificate and looks suspicious. You close the tab and avoid the website, protecting yourself from potential malware or scams."
+        },
+        {
+          "scenario": "Email Attachment Caution",
+          "explanation": "You receive an email from an unknown sender with attachment 'document.zip'. Instead of opening it, you verify the sender (it's suspicious), scan the attachment with antivirus (detects malware), and delete the email. This prevents malware infection."
+        },
+        {
+          "scenario": "Safe Download Practice",
+          "explanation": "You need to download software. Instead of searching for 'free download,' you go directly to the official website (e.g., adobe.com for Adobe software). You download from the official source, verify the file, and scan it with antivirus before installing. This ensures you get legitimate, safe software."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Website Safety Audit",
+          "instructions": "Step 1: Visit 5 different websites (banking, shopping, news, social media, random site). Step 2: For each website, check: Does it use HTTPS? (Yes/No), Security indicators present? (Lock icon, valid certificate), Domain name correct? (No misspellings), Professional appearance? (Looks legitimate), Pop-ups or suspicious content? (Yes/No). Step 3: Rate each website's safety (Safe/Caution/Unsafe). Step 4: Create a checklist of safe browsing practices. Step 5: Write a 200-word guide on how to identify safe websites.",
+          "example_answer": "Website audit: Bank website (HTTPS ✓, Lock icon ✓, Official domain ✓, Professional ✓, No pop-ups ✓) = Safe. Shopping site (HTTPS ✓, Lock icon ✓, Official domain ✓, Professional ✓, Some ads) = Safe. Random site (HTTP only, No lock, Suspicious domain, Pop-ups) = Unsafe. Safe browsing checklist: Always check HTTPS, Verify domain names, Look for security indicators, Avoid suspicious sites, Use official websites only."
+        },
+        {
+          "title": "Email Security Analysis",
+          "instructions": "Step 1: Review 10 emails in your inbox (mix of legitimate and suspicious). Step 2: For each email, analyze: Sender address (legitimate?), Subject line (suspicious?), Content (red flags?), Links (where do they go?), Attachments (expected?). Step 3: Classify each as 'Safe,' 'Suspicious,' or 'Phishing.' Step 4: For suspicious emails, identify specific red flags. Step 5: Create an email security checklist based on your analysis.",
+          "example_answer": "Email analysis: Email 1: From 'noreply@paypal-security.com' with urgent language 'Verify account!' = Phishing (suspicious domain, urgent language). Email 2: From 'newsletter@paypal.com' with unsubscribe link = Safe (official domain, normal newsletter). Email 3: Unknown sender with attachment = Suspicious (unexpected attachment). Checklist: Verify sender, Check for red flags, Don't click suspicious links, Scan attachments, When in doubt, delete."
+        },
+        {
+          "title": "Configure Browser Security",
+          "instructions": "Step 1: Open your browser settings (Chrome, Firefox, Edge, etc.). Step 2: Review security settings: Pop-up blocker, Safe browsing, Cookie settings, Privacy settings, Extensions. Step 3: Enable recommended security features. Step 4: Install privacy/security extensions: uBlock Origin (ad blocker), Privacy Badger (tracker blocker), HTTPS Everywhere (force HTTPS). Step 5: Test your browser security. Step 6: Document your browser security configuration.",
+          "example_answer": "Browser configuration: Enabled pop-up blocker ✓, Enabled safe browsing warnings ✓, Blocked third-party cookies ✓, Installed uBlock Origin (ad blocker) ✓, Installed Privacy Badger (tracker blocker) ✓, Installed HTTPS Everywhere ✓. Security level: High. Browser is now configured for maximum security and privacy protection."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Web Security and Safe Browsing",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to safe browsing practices, website security, and email protection."
+        },
+        {
+          "title": "Internet Safety and Security",
+          "source": "OpenStax",
+          "reason": "Covers safe browsing, email security, and protecting yourself online in an accessible format."
+        }
+      ],
+      "videos": [
+        {
+          "title": "How to Browse Safely – Techquickie",
+          "reason": "Practical guide to safe browsing practices and identifying secure websites."
+        },
+        {
+          "title": "Email Security Best Practices – Simplilearn",
+          "reason": "Clear explanation of email security threats and how to protect yourself."
+        }
+      ],
+      "summary": "Safe browsing protects you from malicious websites and online threats. Always use HTTPS for sensitive activities and look for security indicators (lock icon, valid certificate). Be cautious with downloads—only from trusted sources. Practice email security by verifying senders, avoiding suspicious links and attachments, and using spam filters. Configure browser security settings and use privacy extensions. These practices protect you from malware, phishing, and online scams."
+    },
+    {
+      "course": "Cybersecurity",
+      "level": "Basic",
+      "topic": "Mobile Device Security",
+      "description": "Learn how to secure your smartphones and tablets from cyber threats. Mobile devices contain a lot of personal information and are often targeted by hackers. Mobile security protects your device, apps, and data from malware, theft, and unauthorized access. Think of it like securing a portable safe—you need to protect it from both physical theft and digital attacks.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Securing Your Mobile Device: A Complete Guide",
+          "content": "Step 1: Set up screen lock (PIN, pattern, fingerprint, face ID). Step 2: Enable device encryption (protects data if device is stolen). Step 3: Keep operating system updated (security patches). Step 4: Only install apps from official app stores (Google Play, App Store). Step 5: Review app permissions (don't grant unnecessary access). Step 6: Enable 'Find My Device' feature (locate/wipe if lost). Step 7: Use strong passwords for important apps. This guide secures your mobile device."
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Mobile Security Layers",
+          "content": "Draw layers of security: Layer 1 (Physical): Screen lock, Device encryption. Layer 2 (Software): OS updates, Antivirus (optional). Layer 3 (Apps): Official app stores, App permissions, App updates. Layer 4 (Data): Cloud backup, Encrypted storage. Layer 5 (Network): VPN on public Wi-Fi, Secure connections. Visual shows multiple layers of mobile security protection."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Mobile Security Audit",
+          "content": "Activity: Check your mobile device security. For each: Screen lock enabled? (Yes/No), Device encrypted? (Yes/No), OS updated? (Latest version?), Apps from official stores? (Yes/No), App permissions reviewed? (Yes/No), 'Find My Device' enabled? (Yes/No). Create an improvement plan for any weaknesses. This activity helps secure your mobile device."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Screen Lock and Biometrics 🔒",
+          "content": "First line of defense against unauthorized access. **Types:** PIN (4-6 digits), Pattern (draw pattern), Password (strong password), Biometric (fingerprint, face ID). **How to understand it:** Like locking your front door. **Best practice:** Use biometric + PIN/password (two-factor for device). **Real-world:** Your phone is stolen, but it has a strong PIN and fingerprint lock. The thief can't access your data without your fingerprint or PIN. **Prevention:** Enable screen lock immediately, use strong PIN/password, enable biometrics for convenience + security."
+        },
+        {
+          "title": "App Security 📱",
+          "content": "Protecting your device from malicious apps. **Key practices:** Only install from official app stores (Google Play, App Store), review app permissions before installing, keep apps updated, uninstall unused apps, be cautious with app requests. **How to understand it:** Like only buying from reputable stores. **Real-world:** You download a 'free game' from an untrusted website. The app requests permission to access your contacts, messages, and camera—unnecessary for a game. This is suspicious. **Prevention:** Only use official app stores, review permissions carefully, deny unnecessary permissions, uninstall suspicious apps."
+        },
+        {
+          "title": "Mobile Malware and Threats 🦠",
+          "content": "Malware specifically designed for mobile devices. **Types:** Malicious apps, SMS phishing (smishing), malicious links, fake apps, adware. **How to understand it:** Like computer malware, but for phones. **Real-world:** You receive a text with link 'Claim your prize—click here!' You click and malware installs on your phone, stealing your data. **Prevention:** Don't click suspicious links in texts, only install from official stores, use mobile antivirus (optional but recommended), keep OS updated."
+        },
+        {
+          "title": "Device Encryption and Backup 💾",
+          "content": "Encrypting your device protects data if it's stolen. Backing up protects data from loss. **Device encryption:** Built-in on modern phones (enable in settings). **Backup methods:** Cloud backup (iCloud, Google Drive), Computer backup, Both recommended. **How to understand it:** Like having a safe (encryption) and a copy of important documents (backup). **Real-world:** Your phone is stolen, but it's encrypted. The thief can't access your photos, messages, or apps without your password. You also have cloud backups, so you don't lose your data. **Prevention:** Enable device encryption, set up automatic cloud backups, test restore process."
+        },
+        {
+          "title": "Public Wi-Fi and Mobile Security 🌐",
+          "content": "Mobile devices are often used on public Wi-Fi, which is insecure. **Risks:** Data interception, man-in-the-middle attacks, unencrypted connections. **How to understand it:** Like having a conversation in public—others can listen. **Prevention:** Use VPN on public Wi-Fi, avoid sensitive activities on public networks, use mobile data for banking/important activities, verify network names. **Real-world:** You're at a coffee shop and connect to free Wi-Fi. You use VPN first, which encrypts your connection and protects your data from hackers on the same network. **Tip:** Many phones have built-in VPN features or use reputable VPN apps."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Secure Mobile Device",
+          "explanation": "You set up your phone with a strong PIN and fingerprint lock. You enable device encryption, keep the OS updated, and only install apps from the official app store. You review app permissions and deny unnecessary access. Your phone is now secure from both physical theft and digital attacks."
+        },
+        {
+          "scenario": "Malicious App Prevention",
+          "explanation": "You see an ad for 'free premium app' outside the app store. Instead of downloading it, you search for the app in the official app store. You find the legitimate version, check reviews, and install it safely. This prevents installing malware disguised as a legitimate app."
+        },
+        {
+          "scenario": "Lost Phone Protection",
+          "explanation": "You lose your phone, but you have 'Find My Device' enabled. You use another device to locate your phone, see it's at a coffee shop, and remotely lock it. You also have the option to remotely wipe all data if needed. Your phone is encrypted, so even if someone finds it, they can't access your data."
+        },
+        {
+          "scenario": "Public Wi-Fi with VPN",
+          "explanation": "You're at an airport and need to check email on your phone. Instead of connecting directly to airport Wi-Fi (insecure), you first connect to your VPN app. The VPN encrypts your connection, protecting your email and password from hackers on the same network."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Secure Your Mobile Device",
+          "instructions": "Step 1: Check current security settings: Screen lock type, Device encryption status, OS version (latest?), App sources, App permissions. Step 2: Make improvements: Enable strong screen lock, Enable device encryption, Update OS if needed, Review app permissions, Enable 'Find My Device.' Step 3: Install security apps (optional): Mobile antivirus, VPN app. Step 4: Test security: Try to access device without password, Test 'Find My Device' feature. Step 5: Document your mobile security configuration.",
+          "example_answer": "Current settings: Pattern lock (weak), Encryption disabled, OS outdated, Apps from various sources. Improvements: Changed to PIN + fingerprint, Enabled device encryption, Updated to latest OS, Reviewed and restricted app permissions, Enabled 'Find My Device,' Installed VPN app. Security level: High. Device is now well-protected."
+        },
+        {
+          "title": "App Permission Audit",
+          "instructions": "Step 1: List 10 apps on your phone. Step 2: For each app, check permissions: What permissions does it have? (Camera, microphone, contacts, location, etc.), Are permissions necessary for app function? (Yes/No), Should you restrict any permissions? Step 3: Review and restrict unnecessary permissions. Step 4: Research apps with excessive permissions (may be suspicious). Step 5: Create an 'App Permission Best Practices' guide.",
+          "example_answer": "App audit: Camera app (needs camera ✓, location for photos - optional), Social media (needs camera, microphone, contacts - review), Game (needs internet only ✓, but requests contacts - unnecessary, restricted), Banking (needs camera for check deposit ✓). Best practices: Only grant necessary permissions, Review permissions regularly, Restrict location access when not needed, Be suspicious of apps requesting excessive permissions."
+        },
+        {
+          "title": "Mobile Security Incident Plan",
+          "instructions": "Step 1: Create scenarios: Phone lost/stolen, Malware infection, Suspicious app installed, Unauthorized access detected. Step 2: For each scenario, create response plan: Immediate actions, How to verify issue, Recovery steps, Prevention for future. Step 3: Set up 'Find My Device' and test it. Step 4: Create backup strategy for mobile data. Step 5: Write a 300-word mobile security incident response guide.",
+          "example_answer": "Lost phone: Immediate - Use 'Find My Device' to locate, Lock device remotely, Change passwords for important accounts. Verify - Check last known location, Review recent activity. Recovery - Wipe device if needed, Restore from backup. Prevention - Strong screen lock, 'Find My Device' enabled, Regular backups. Malware: Immediate - Disconnect from internet, Boot in safe mode, Uninstall suspicious apps. Recovery - Factory reset if needed, Restore from backup. Prevention - Only official app stores, Review permissions, Keep OS updated."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Mobile Security Fundamentals",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to mobile device security, app safety, and protecting mobile data."
+        },
+        {
+          "title": "Mobile Device Security",
+          "source": "OpenStax",
+          "reason": "Covers mobile threats, security best practices, and protecting smartphones and tablets."
+        }
+      ],
+      "videos": [
+        {
+          "title": "How to Secure Your Phone – Techquickie",
+          "reason": "Practical guide to securing mobile devices with step-by-step instructions."
+        },
+        {
+          "title": "Mobile Security Best Practices – Simplilearn",
+          "reason": "Clear explanation of mobile threats and how to protect your smartphone."
+        }
+      ],
+      "summary": "Mobile device security protects your smartphone or tablet from cyber threats. Enable strong screen locks (PIN, biometrics) and device encryption. Only install apps from official app stores and review app permissions carefully. Keep your operating system and apps updated. Use VPN on public Wi-Fi and enable 'Find My Device' features. Regular backups protect your data. These practices secure your mobile device from malware, theft, and unauthorized access."
+    },
+    {
+      "course": "Cybersecurity",
+      "level": "Basic",
+      "topic": "Incident Response and Recovery",
+      "description": "Learn what to do if you experience a cyber attack or security incident. Incident response is how you react when something goes wrong. Recovery is how you restore your systems and data after an attack. Think of it like having a fire escape plan—you hope you never need it, but you're prepared if you do. Knowing how to respond quickly can minimize damage and help you recover faster.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "What to Do If You're Hacked: A Response Guide",
+          "content": "Step 1: Don't panic—stay calm and act quickly. Step 2: Disconnect from internet (prevents further damage/spread). Step 3: Assess the situation (what was compromised? accounts, device, data). Step 4: Secure accounts (change passwords, enable 2FA, check for unauthorized activity). Step 5: Scan for malware (run antivirus scan). Step 6: Restore from backup if needed. Step 7: Report the incident (to companies, authorities if identity theft). Step 8: Learn from the incident (how did it happen? how to prevent?). This guide helps you respond effectively to security incidents."
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Incident Response Flowchart",
+          "content": "Create a flowchart: Security Incident Detected → Assess Situation → Immediate Actions (disconnect, secure accounts) → Investigation (what happened?) → Recovery (restore, clean system) → Prevention (learn, improve security) → Document Incident. Visual flowchart helps guide your response to security incidents."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Create Your Incident Response Plan",
+          "content": "Activity: Create a personal incident response plan. For each scenario (account hacked, malware infection, data breach, ransomware): What are immediate actions?, How to verify the incident?, Recovery steps?, Who to contact?, Prevention measures?. Practice your response plan. This activity prepares you for security incidents."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Immediate Response Actions 🚨",
+          "content": "What to do first when you detect a security incident. **Key steps:** Disconnect from internet (stop further damage), Change passwords immediately (especially email, banking), Enable two-factor authentication, Check for unauthorized activity, Scan for malware. **How to understand it:** Like calling 911 in an emergency—act fast. **Real-world:** You notice unauthorized purchases on your credit card. You immediately call your bank, freeze the card, change online banking password, and enable 2FA. Quick action prevents further damage. **Priority:** Secure accounts first (email, banking), then investigate, then recover."
+        },
+        {
+          "title": "Assessing the Damage 🔍",
+          "content": "Determine what was compromised and how severe the incident is. **What to check:** Which accounts were accessed? (Email, social media, banking), What data was stolen? (Personal info, passwords, financial), How did it happen? (Phishing, malware, weak password), What's the impact? (Financial loss, identity theft risk, data loss). **How to understand it:** Like assessing damage after a break-in. **Real-world:** Your email was hacked. You check: Unauthorized logins (yes, from unknown location), Emails sent (yes, spam to contacts), Data accessed (contacts, saved passwords). **Assessment:** High severity—email is critical, contacts compromised, passwords at risk. **Action:** Change email password, enable 2FA, notify contacts, change passwords for other accounts."
+        },
+        {
+          "title": "Recovery Steps 🔄",
+          "content": "How to restore your systems and data after an attack. **Recovery methods:** Restore from backup (if available), Clean malware (antivirus scan, safe mode), Reinstall operating system (if severely infected), Restore accounts (change passwords, enable 2FA), Recover data (from backups). **How to understand it:** Like cleaning up after a disaster. **Real-world:** Your computer is infected with ransomware. You disconnect from internet, boot from backup drive, restore files from backup (created before infection), reinstall OS, and restore data. You recover without paying ransom. **Best practice:** Regular backups make recovery possible. Without backups, recovery is difficult or impossible."
+        },
+        {
+          "title": "Reporting Incidents 📞",
+          "content": "Who to contact when you experience a cyber attack. **Report to:** Affected companies (banks, email providers, social media), Credit bureaus (if identity theft risk), Law enforcement (for serious crimes), Cybersecurity authorities (FBI IC3, local cybercrime units). **How to understand it:** Like reporting a crime to police. **Real-world:** Your identity is stolen (someone opened credit cards in your name). You report to: Credit bureaus (place fraud alert), Banks (close accounts), Police (file report), Identity theft resource center. **Tip:** Keep records of all reports and communications. **When to report:** Immediately for financial fraud, within 24 hours for data breaches, as soon as possible for all incidents."
+        },
+        {
+          "title": "Learning and Prevention 📚",
+          "content": "Learn from incidents to prevent future attacks. **Key questions:** How did the attack happen? (Weak password? Phishing? Malware?), What could have prevented it? (Stronger security measures), What will you do differently? (Better practices). **How to understand it:** Like learning from mistakes to avoid repeating them. **Real-world:** You fell for a phishing email. You analyze: Why did you click? (Looked legitimate, urgent language), How to prevent? (Verify senders, don't click suspicious links, enable 2FA), What changed? (Now you always verify, use 2FA everywhere, more cautious). **Best practice:** Every incident is a learning opportunity. Improve your security based on what happened."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Account Hacked Response",
+          "explanation": "You notice unauthorized activity on your email account. You immediately: Change the email password, Enable 2FA, Check for unauthorized emails sent, Review account activity, Change passwords for other important accounts (banking, social media). You recover your account and prevent further damage. You learn to use stronger passwords and enable 2FA on all accounts."
+        },
+        {
+          "scenario": "Malware Infection Recovery",
+          "explanation": "Your computer is infected with malware. You: Disconnect from internet, Boot in safe mode, Run antivirus scan, Remove detected malware, Restore files from backup, Update all software. You successfully clean your computer and restore your data. You learn to be more cautious with downloads and keep software updated."
+        },
+        {
+          "scenario": "Ransomware Attack Recovery",
+          "explanation": "Your files are encrypted by ransomware. You: Don't pay ransom, Disconnect from internet, Check for backups (you have recent backups), Restore files from backup, Reinstall operating system, Restore data. You recover without paying ransom because you had backups. You learn the importance of regular backups."
+        },
+        {
+          "scenario": "Identity Theft Response",
+          "explanation": "You discover someone opened credit cards in your name. You: Contact credit bureaus (place fraud alert), Contact banks (close fraudulent accounts), File police report, Contact identity theft resource center, Monitor credit reports. You take action to protect your identity and prevent further fraud. You learn to monitor your credit regularly."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Create an Incident Response Plan",
+          "instructions": "Step 1: Create scenarios: Account hacked, Malware infection, Ransomware attack, Identity theft, Data breach. Step 2: For each scenario, create response plan: Immediate actions (first 5 minutes), Assessment steps (what to check), Recovery procedures (how to restore), Reporting (who to contact), Prevention (how to prevent future). Step 3: Create a contact list: Banks, Email providers, Credit bureaus, Law enforcement, Cybersecurity help. Step 4: Practice your response plan. Step 5: Write a 300-word incident response guide.",
+          "example_answer": "Response plan: Account hacked - Immediate: Change password, Enable 2FA, Disconnect device. Assessment: Check unauthorized activity, Review account settings. Recovery: Secure account, Restore from backup if needed. Report: To service provider, Credit bureaus if financial. Prevent: Stronger passwords, 2FA everywhere. Contact list: Banks (phone numbers), Email (support), Credit bureaus (fraud alerts), Police (non-emergency). This plan prepares me for security incidents."
+        },
+        {
+          "title": "Practice Incident Response",
+          "instructions": "Step 1: Simulate a security incident (e.g., 'Your email was hacked'). Step 2: Follow your response plan: Immediate actions, Assessment, Recovery, Reporting. Step 3: Time yourself (how long does response take?). Step 4: Identify improvements: What went well?, What could be faster?, What was missing? Step 5: Update your response plan based on practice. Step 6: Document lessons learned.",
+          "example_answer": "Simulation: Email hacked scenario. Response time: 15 minutes (good). Immediate actions completed: Changed password ✓, Enabled 2FA ✓, Checked activity ✓. Improvements: Could be faster with pre-saved contact numbers, Need backup email recovery codes ready. Updated plan: Added contact numbers to phone, Saved recovery codes securely. Practice improved my response speed and preparedness."
+        },
+        {
+          "title": "Incident Recovery Testing",
+          "instructions": "Step 1: Test your backup and recovery process: Can you restore files from backup? (Yes/No), How long does it take?, Do you have all important data backed up? Step 2: Test account recovery: Can you recover accounts if locked out? (Have recovery codes?), Do you have backup email/phone? Step 3: Test malware removal: Do you have antivirus software?, Can you boot in safe mode?, Do you know how to clean malware? Step 4: Create a recovery checklist. Step 5: Document your recovery capabilities and gaps.",
+          "example_answer": "Recovery testing: File backup - Can restore ✓, Takes 30 minutes, All important data backed up ✓. Account recovery - Have recovery codes ✓, Backup email set up ✓. Malware removal - Antivirus installed ✓, Know how to boot safe mode ✓, Know cleaning process ✓. Recovery checklist: 1) Verify backups, 2) Test restore, 3) Have recovery codes, 4) Know malware removal steps. Capabilities: Good backup/recovery, Account recovery ready, Malware removal knowledge. Gaps: None identified. Recovery readiness: High."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Incident Response and Recovery",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to responding to security incidents and recovering from cyber attacks."
+        },
+        {
+          "title": "Cybersecurity Incident Management",
+          "source": "OpenStax",
+          "reason": "Covers incident response procedures, recovery methods, and learning from security incidents."
+        }
+      ],
+      "videos": [
+        {
+          "title": "What to Do If You're Hacked – Techquickie",
+          "reason": "Practical guide to responding to security incidents with immediate action steps."
+        },
+        {
+          "title": "Incident Response Best Practices – Simplilearn",
+          "reason": "Clear explanation of incident response procedures and recovery strategies."
+        }
+      ],
+      "summary": "Incident response is how you react when a security incident occurs. Immediate actions include disconnecting from internet, changing passwords, and securing accounts. Assess the damage to determine what was compromised. Recovery involves restoring from backups, cleaning malware, and recovering accounts. Report incidents to affected companies, credit bureaus, and authorities. Learn from incidents to improve security and prevent future attacks. Being prepared helps you respond quickly and minimize damage."
+    }
+  ]
+}
+

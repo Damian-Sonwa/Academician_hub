@@ -1,0 +1,157 @@
+{
+  "topic": "Literary Translation and Adaptation",
+  "detailedSummary": "Literary translation transfers meaning, style, and cultural context from one language to another, requiring both linguistic skill and literary sensitivity. Translation involves complex decisions: literal vs. free translation, preserving form (meter, rhyme) vs. meaning, and handling untranslatable elements. Key challenges include: cultural references (requiring explanation or adaptation), wordplay and puns (often untranslatable), idioms and expressions, and maintaining author's voice. Translation theories range from: formal equivalence (word-for-word) to dynamic equivalence (meaning-focused) to creative translation (adapting for new audience). Adaptation transforms works across media or contexts: novels to films, plays to novels, updating classics for modern audiences. Adaptation involves: selecting what to preserve, what to change, and how to translate elements across media. Both translation and adaptation raise questions about: fidelity to original, authorial intention, cultural appropriation, and audience expectations. Major translation theorists include: Walter Benjamin (translation as form), Lawrence Venuti (foreignization vs. domestication), and Susan Bassnett (cultural translation). Translation history reveals: how works enter new cultures, how translation shapes literary canons, and how translators function as cultural mediators. Understanding translation and adaptation reveals: how literature circulates globally, how meaning changes across contexts, and how works gain new life in different forms. These processes are essential for world literature, cross-cultural understanding, and keeping classics relevant.",
+  "whyItMatters": "Translation and adaptation enable literature to cross boundaries - understanding these processes reveals how meaning changes across cultures and media, and how literature gains new life in different contexts.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Literary Translation and Adaptation | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Literary Translation and Adaptation | Crash Course Literature",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Literary Translation and Adaptation | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Translation Studies - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/linguistics"
+      },
+      {
+        "title": "The Translation Studies Reader - Available through libraries",
+        "url": "https://www.routledge.com/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Translation Resources - American Translators Association",
+        "url": "https://www.atanet.org/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Literary Translation and Adaptation",
+      "description": "Study translation theory and practice, and analyze adaptations across media.",
+      "tasks": [
+        "Compare multiple translations of the same work",
+        "Translate a literary passage, explaining choices",
+        "Analyze how adaptations transform source material",
+        "Examine cultural challenges in translation",
+        "Compare novel-to-film adaptations",
+        "Research translation history of a major work",
+        "Analyze how translators handle untranslatable elements",
+        "Examine adaptation choices in modern updates of classics",
+        "Write about translation as cultural mediation",
+        "Create an adaptation proposal for a literary work"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Literary translation requires:",
+      "type": "multiple-choice",
+      "options": [
+        "Both linguistic skill and literary sensitivity",
+        "Only dictionary knowledge",
+        "Only grammar rules",
+        "Only word-for-word substitution"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Literary translation requires understanding both language and literature—preserving meaning, style, voice, and cultural context while creating readable text in the target language."
+    },
+    {
+      "question": "Adaptation involves:",
+      "type": "multiple-choice",
+      "options": [
+        "Transforming works across media or contexts",
+        "Only copying exactly",
+        "Only translating",
+        "Only summarizing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Adaptation transforms works across different media (novel to film) or contexts (updating for new audiences), requiring creative decisions about what to preserve and change."
+    },
+    {
+      "question": "Foreignization in translation:",
+      "type": "multiple-choice",
+      "options": [
+        "Preserves foreign elements to maintain cultural difference",
+        "Always makes everything familiar",
+        "Only uses literal translation",
+        "Only changes everything"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Foreignization preserves elements of the source culture, maintaining a sense of difference, while domestication adapts to make the text feel native to the target culture."
+    },
+    {
+      "question": "Translation is always a perfect transfer of meaning.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Translation involves interpretation and choices. Some meaning, cultural context, wordplay, and stylistic elements may be lost or transformed in translation."
+    },
+    {
+      "question": "Untranslatable elements in literature include:",
+      "type": "multiple-choice",
+      "options": [
+        "Wordplay, cultural references, and idioms",
+        "Only grammar",
+        "Only vocabulary",
+        "Everything is translatable"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Untranslatable elements include wordplay, puns, cultural references, idioms, and expressions that don't have direct equivalents, requiring creative solutions."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Plot": "The sequence of events in a story.",
+      "Character": "A person, animal, or entity in a story.",
+      "Theme": "The central message or insight about life that the author conveys."
+    },
+    "keyConcepts": [
+      "Literary translation transfers meaning, style, and cultural context from one language to another, re...",
+      "Translation involves complex decisions: literal vs",
+      "free translation, preserving form (meter, rhyme) vs",
+      "meaning, and handling untranslatable elements",
+      "Key challenges include: cultural references (requiring explanation or adaptation), wordplay and puns..."
+    ],
+    "stepByStepExplanations": [
+      "**Understanding literary:** Literary translation transfers meaning, style, and cultural context from one language to another, requiring both linguistic skill and literary sensiti...",
+      "**Applying concepts:** Practice with examples specific to Literary Translation and Adaptation.",
+      "**Mastering skills:** Develop proficiency through structured exercises."
+    ],
+    "examples": [
+      "**Example 1:** A practical illustration of literary in action.",
+      "**Example 2:** Another scenario demonstrating translation.",
+      "**Example 3:** A real-world application of adaptation."
+    ],
+    "realLifeApplications": [
+      "**Academic Context:** Literary Translation and Adaptation is essential for academic success and scholarly work.",
+      "**Professional Use:** These skills apply directly to professional communication and analysis.",
+      "**Personal Development:** Understanding Literary Translation and Adaptation enhances critical thinking and expression."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram illustrating key concepts of Literary Translation and Adaptation.",
+      "A flowchart showing the process and relationships in Literary Translation and Adaptation."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

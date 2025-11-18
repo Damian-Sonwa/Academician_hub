@@ -1,0 +1,87 @@
+{
+  "topic": "Cancer Biology and Cell Cycle Regulation",
+  "detailedSummary": "Cancer biology examines how normal cells become cancerous and how tumors develop and spread. Cancer arises from uncontrolled cell division due to mutations in genes that regulate the cell cycle. The cell cycle consists of G1 (growth), S (DNA synthesis), G2 (preparation for division), and M (mitosis) phases, regulated by checkpoints and cyclin-dependent kinases (CDKs). Tumor suppressor genes like p53 and RB normally prevent uncontrolled growth, while proto-oncogenes promote cell division when mutated become oncogenes. Apoptosis eliminates damaged cells, but cancer cells evade this process. Angiogenesis creates new blood vessels to supply tumors with nutrients. Metastasis involves cancer cells invading surrounding tissues and spreading to distant sites. Cancer stem cells may drive tumor growth and recurrence. The tumor microenvironment includes immune cells, fibroblasts, and extracellular matrix that influence cancer progression. Targeted therapies attack specific molecular features of cancer cells. Immunotherapy harnesses the immune system to fight cancer. Understanding cancer biology is essential for developing better treatments, early detection methods, and prevention strategies.",
+  "whyItMatters": "Understanding cancer biology is essential for developing effective treatments, improving early detection, understanding tumor progression, and advancing personalized cancer medicine.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Cell Structure | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=URUJD5NEXC8"
+      },
+      {
+        "title": "Introduction to Cells | Crash Course Biology",
+        "url": "https://www.youtube.com/watch?v=8IlzKri08kk"
+      },
+      {
+        "title": "Cell Biology | Bozeman Science",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "The Biology of Cancer - Advanced Textbook",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Cell Cycle and Cancer Virtual Laboratory",
+        "url": "https://phet.colorado.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Cancer Mechanism Analysis",
+      "description": "Research a specific type of cancer, analyzing its molecular mechanisms, risk factors, and treatment approaches.",
+      "tasks": [
+        "Choose a specific type of cancer to study (e.g., breast cancer, lung cancer, or leukemia)",
+        "Identify the key genetic mutations or molecular changes involved",
+        "Explain how these changes lead to uncontrolled cell growth",
+        "Describe current treatment approaches and their mechanisms",
+        "Write a 500-600 word report with diagrams explaining the cancer biology, citing at least three peer-reviewed sources"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary difference between a proto-oncogene and an oncogene?",
+      "type": "multiple-choice",
+      "options": [
+        "Proto-oncogenes cause cancer while oncogenes prevent it",
+        "Oncogenes are mutated proto-oncogenes that promote uncontrolled cell division",
+        "They are the same thing",
+        "Proto-oncogenes are only found in cancer cells"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Proto-oncogenes are normal genes that promote cell division. When mutated, they become oncogenes that drive uncontrolled cell growth and contribute to cancer."
+    },
+    {
+      "question": "Tumor suppressor genes normally prevent uncontrolled cell division, and their loss or mutation can contribute to cancer development.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Tumor suppressor genes like p53 act as 'brakes' on cell division. When these genes are mutated or lost, cells can divide uncontrollably, leading to cancer."
+    },
+    {
+      "question": "What is metastasis?",
+      "type": "multiple-choice",
+      "options": [
+        "The initial formation of a tumor",
+        "The spread of cancer cells from the primary tumor to distant sites",
+        "The death of cancer cells",
+        "The prevention of tumor growth"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Metastasis is the process by which cancer cells break away from the primary tumor, invade surrounding tissues, enter the bloodstream or lymphatic system, and establish new tumors at distant sites."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=800&q=80",
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=URUJD5NEXC8"
+}
+

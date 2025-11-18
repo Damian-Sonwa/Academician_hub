@@ -1,0 +1,262 @@
+{
+  "topic": "Linear Algebra: Vectors, Matrices, and Systems",
+  "detailedSummary": "Linear algebra studies vectors, matrices, and linear systems, which are foundational in mathematics, physics, and computer science. Vectors represent quantities with magnitude and direction. Matrices are arrays of numbers used for linear transformations and solving systems. Systems of linear equations can be solved using substitution, elimination, or matrix methods (Gaussian elimination). Applications include 3D graphics, engineering, machine learning, and network analysis.",
+  "whyItMatters": "Linear algebra is fundamental to modern mathematics, physics, computer science, and engineering - essential for understanding linear transformations, solving systems, and applications in machine learning, graphics, and data analysis.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Introduction to Vectors and Matrices | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=fNk_zzaMoSs"
+      },
+      {
+        "title": "Linear Algebra | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Systems of Linear Equations | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Linear Algebra - MIT OpenCourseWare",
+        "url": "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/"
+      },
+      {
+        "title": "Introduction to Linear Algebra by Gilbert Strang",
+        "url": "https://math.mit.edu/~gs/linearalgebra/"
+      },
+      {
+        "title": "Khan Academy: Linear Algebra",
+        "url": "https://www.khanacademy.org/math/linear-algebra"
+      },
+      {
+        "title": "Paul's Online Notes: Linear Algebra",
+        "url": "http://tutorial.math.lamar.edu/Classes/LinAlg/LinAlg.aspx"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Matrix Calculator - Wolfram Alpha",
+        "url": "https://www.wolframalpha.com/"
+      },
+      {
+        "title": "Vector Visualization - GeoGebra",
+        "url": "https://www.geogebra.org/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Linear Algebra: Vectors, Matrices, and Systems",
+      "description": "Solve 3 vector addition/dot product problems. Multiply 2 matrices and find their product. Solve 2 systems of linear equations using matrices. Apply linear algebra concepts to a simple real-life example (e.g., 2D graphics or resource allocation). Submit all solutions with calculations.",
+      "tasks": [
+        "Compute vector addition, subtraction, and scalar multiplication for 5 pairs of vectors",
+        "Calculate dot product and cross product for 5 pairs of vectors in 2D and 3D",
+        "Find the magnitude and direction (angle) of 5 vectors",
+        "Multiply 5 pairs of matrices (ensuring dimensions are compatible)",
+        "Compute matrix transpose and verify properties for 3 matrices",
+        "Solve 5 systems of linear equations using Gaussian elimination",
+        "Solve 3 systems of linear equations using matrix inverse method",
+        "Determine if a system has unique solution, infinitely many solutions, or no solution",
+        "Apply linear transformations (rotation, scaling, reflection) to vectors and compute results",
+        "Model a real-world problem using linear algebra (e.g., resource allocation, network flow, or 2D graphics transformation) and solve it",
+        "Research vector spaces and subspaces. Study the axioms that define a vector space and provide examples",
+        "Investigate linear independence and basis. Research how to determine if vectors are linearly independent and how to find a basis",
+        "Study the rank-nullity theorem. Research how it relates the dimensions of the column space and null space of a matrix",
+        "Explore the QR decomposition. Research how it factors a matrix and its applications in solving least squares problems",
+        "Investigate the singular value decomposition (SVD). Research its applications in data compression and dimensionality reduction",
+        "Study linear transformations and their matrix representations. Research how to find the matrix of a linear transformation",
+        "Research the determinant and its geometric interpretation. Study how determinants relate to volume scaling in linear transformations",
+        "Explore applications of linear algebra in computer graphics. Research how matrices represent rotations, translations, and scaling",
+        "Investigate the use of linear algebra in machine learning. Research how principal component analysis (PCA) uses eigenvectors",
+        "Study the application of linear algebra in solving differential equations. Research how matrix exponentials solve systems of ODEs"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Compute the sum and dot product of two vectors u = [1,2] and v = [3,4].",
+      "type": "multiple-choice",
+      "options": [
+        "u + v = [4,6], u·v = 11",
+        "u + v = [4,6], u·v = 10",
+        "u + v = [3,8], u·v = 11",
+        "u + v = [4,6], u·v = 12"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Vector addition: u + v = [1+3, 2+4] = [4,6]. Dot product: u·v = 1(3) + 2(4) = 3 + 8 = 11."
+    },
+    {
+      "question": "Multiply matrices A=[[1,2],[3,4]] and B=[[0,1],[2,3]].",
+      "type": "multiple-choice",
+      "options": [
+        "[[4,7],[8,15]]",
+        "[[2,7],[8,15]]",
+        "[[4,7],[6,15]]",
+        "[[0,2],[6,12]]"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A*B = [[1(0)+2(2), 1(1)+2(3)], [3(0)+4(2), 3(1)+4(3)]] = [[0+4, 1+6], [0+8, 3+12]] = [[4,7],[8,15]]."
+    },
+    {
+      "question": "Solve the system: x + 2y = 5, 3x - y = 4.",
+      "type": "multiple-choice",
+      "options": [
+        "x = 13/7, y = 11/7",
+        "x = 2, y = 1",
+        "x = 1, y = 2",
+        "x = 3, y = 1"
+      ],
+      "correctAnswer": 0,
+      "explanation": "From first equation: x = 5 - 2y. Substitute into second: 3(5-2y) - y = 4 → 15 - 6y - y = 4 → 15 - 7y = 4 → 7y = 11 → y = 11/7. Then x = 5 - 2(11/7) = 5 - 22/7 = 13/7."
+    },
+    {
+      "question": "Explain what a linear transformation is.",
+      "type": "multiple-choice",
+      "options": [
+        "A function T: V → W that preserves vector addition and scalar multiplication: T(u+v) = T(u) + T(v) and T(cu) = cT(u)",
+        "A function that multiplies vectors",
+        "A function that only works with matrices",
+        "A function that rotates vectors"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A linear transformation T: V → W satisfies two properties: (1) T(u+v) = T(u) + T(v) for all vectors u,v, and (2) T(cu) = cT(u) for all scalars c and vectors u. This preserves the linear structure."
+    },
+    {
+      "question": "Give a real-life application of matrices.",
+      "type": "multiple-choice",
+      "options": [
+        "Computer graphics: matrices represent rotations, scaling, and translations of objects",
+        "Counting numbers",
+        "Measuring temperature",
+        "Calculating area of a circle"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Matrices are used extensively in computer graphics to represent and perform transformations (rotation, scaling, translation) on 2D and 3D objects. They also appear in machine learning, network analysis, and solving systems of equations."
+    },
+    {
+      "question": "What is the determinant of matrix A = [[2,3],[1,4]]?",
+      "type": "multiple-choice",
+      "options": [
+        "5",
+        "8",
+        "11",
+        "14"
+      ],
+      "correctAnswer": 0,
+      "explanation": "For a 2×2 matrix [[a,b],[c,d]], the determinant is ad - bc. Here: det(A) = 2(4) - 3(1) = 8 - 3 = 5."
+    },
+    {
+      "question": "Find the inverse of matrix A = [[1,2],[3,4]].",
+      "type": "multiple-choice",
+      "options": [
+        "[[-2,1],[3/2,-1/2]]",
+        "[[4,-2],[-3,1]]",
+        "[[-2,1],[1.5,-0.5]]",
+        "Both A and C are correct (same matrix, different notation)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "For 2×2 matrix [[a,b],[c,d]], inverse is (1/det) [[d,-b],[-c,a]]. det(A) = 1(4) - 2(3) = -2. A⁻¹ = (-1/2)[[4,-2],[-3,1]] = [[-2,1],[3/2,-1/2]] = [[-2,1],[1.5,-0.5]]."
+    },
+    {
+      "question": "What is the rank of matrix A = [[1,2,3],[2,4,6],[1,1,1]]?",
+      "type": "multiple-choice",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The rank is the number of linearly independent rows (or columns). Row 2 = 2 × Row 1, so rows 1 and 2 are linearly dependent. Rows 1 and 3 are independent. Therefore rank = 2."
+    },
+    {
+      "question": "For vectors u = [1,0,2] and v = [3,1,1], compute u × v (cross product).",
+      "type": "multiple-choice",
+      "options": [
+        "[-2,5,1]",
+        "[2,-5,-1]",
+        "[2,5,1]",
+        "[-2,-5,-1]"
+      ],
+      "correctAnswer": 0,
+      "explanation": "u × v = [u₂v₃ - u₃v₂, u₃v₁ - u₁v₃, u₁v₂ - u₂v₁] = [0(1) - 2(1), 2(3) - 1(1), 1(1) - 0(3)] = [0-2, 6-1, 1-0] = [-2,5,1]."
+    },
+    {
+      "question": "A system of linear equations has infinitely many solutions when:",
+      "type": "multiple-choice",
+      "options": [
+        "The system is consistent and has free variables (more variables than independent equations)",
+        "The system has no solutions",
+        "The system has exactly one solution",
+        "The determinant is zero"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A system has infinitely many solutions when it is consistent (has at least one solution) and has free variables. This occurs when there are more variables than independent equations, or equivalently, when the coefficient matrix has rank less than the number of variables."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f2/Vector.svg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e4/Matrix_multiplication_diagram_2.svg",
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=800&q=80",
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Vector": "An ordered list of numbers representing a quantity with magnitude and direction. In 2D: [x,y], in 3D: [x,y,z]. Can represent position, velocity, force, etc.",
+      "Vector Addition": "Component-wise addition: [a₁,a₂] + [b₁,b₂] = [a₁+b₁, a₂+b₂]. Geometrically, this is the parallelogram rule.",
+      "Scalar Multiplication": "Multiplying a vector by a scalar: c[a₁,a₂] = [ca₁, ca₂]. Scales the vector's magnitude by factor c.",
+      "Dot Product": "For vectors u = [u₁,u₂] and v = [v₁,v₂]: u·v = u₁v₁ + u₂v₂. Result is a scalar. Related to angle: u·v = |u||v|cos(θ).",
+      "Cross Product": "For 3D vectors u and v, u × v produces a vector perpendicular to both. Magnitude: |u × v| = |u||v|sin(θ). Used for area, torque, etc.",
+      "Matrix": "A rectangular array of numbers arranged in rows and columns. An m×n matrix has m rows and n columns. Notation: A = [aᵢⱼ].",
+      "Matrix Multiplication": "For A (m×n) and B (n×p), product AB is m×p. Entry (i,j) of AB is dot product of row i of A and column j of B.",
+      "Matrix Transpose": "Reflecting matrix over main diagonal: Aᵀ has entry (i,j) equal to A's entry (j,i). Rows become columns.",
+      "Determinant": "A scalar value computed from a square matrix. For 2×2: det([[a,b],[c,d]]) = ad - bc. Determines if matrix is invertible (det ≠ 0).",
+      "Matrix Inverse": "For square matrix A, inverse A⁻¹ satisfies AA⁻¹ = A⁻¹A = I (identity matrix). Exists if and only if det(A) ≠ 0.",
+      "System of Linear Equations": "A collection of equations of the form a₁x₁ + a₂x₂ + ... + aₙxₙ = b. Can be written as matrix equation Ax = b.",
+      "Gaussian Elimination": "A method to solve systems by performing row operations to transform the augmented matrix into row-echelon form, then back-substitution.",
+      "Linear Transformation": "A function T: V → W that preserves vector addition and scalar multiplication: T(u+v) = T(u) + T(v) and T(cu) = cT(u). Represented by matrices."
+    },
+    "keyConcepts": [
+      "Vectors represent quantities with both magnitude and direction, fundamental in physics and engineering",
+      "Matrices represent linear transformations and provide efficient methods for solving systems of equations",
+      "Matrix multiplication is not commutative (AB ≠ BA in general) but is associative",
+      "Systems of linear equations can have unique solution, infinitely many solutions, or no solution",
+      "Linear transformations preserve the linear structure and can be represented by matrices"
+    ],
+    "stepByStepExplanations": [
+      "**Vector Addition:** For u = [2,3] and v = [1,4]: Step 1) Add corresponding components: [2+1, 3+4]. Step 2) Result: [3,7]. Geometrically, place v's tail at u's head; sum is from u's tail to v's head.",
+      "**Matrix Multiplication:** For A = [[1,2],[3,4]] and B = [[0,1],[2,3]]: Step 1) AB is 2×2. Step 2) Entry (1,1): row 1 of A · col 1 of B = [1,2]·[0,2] = 1(0)+2(2) = 4. Step 3) Entry (1,2): [1,2]·[1,3] = 1(1)+2(3) = 7. Step 4) Entry (2,1): [3,4]·[0,2] = 3(0)+4(2) = 8. Step 5) Entry (2,2): [3,4]·[1,3] = 3(1)+4(3) = 15. Result: [[4,7],[8,15]].",
+      "**Solving System by Substitution:** For x + 2y = 5, 3x - y = 4: Step 1) From first: x = 5 - 2y. Step 2) Substitute: 3(5-2y) - y = 4 → 15 - 6y - y = 4 → 15 - 7y = 4. Step 3) Solve: 7y = 11, so y = 11/7. Step 4) Find x: x = 5 - 2(11/7) = 5 - 22/7 = 13/7.",
+      "**Gaussian Elimination:** For system with augmented matrix [[1,2|5],[3,-1|4]]: Step 1) Row 2 - 3×Row 1: [[1,2|5],[0,-7|-11]]. Step 2) Row 2 ÷ (-7): [[1,2|5],[0,1|11/7]]. Step 3) Row 1 - 2×Row 2: [[1,0|13/7],[0,1|11/7]]. Solution: x = 13/7, y = 11/7."
+    ],
+    "examples": [
+      "**Vector Operations:** u = [2,3], v = [1,4]\n   Addition: u + v = [2+1, 3+4] = [3,7]\n   Dot product: u·v = 2(1) + 3(4) = 2 + 12 = 14\n   Scalar multiplication: 3u = [6,9]",
+      "**Matrix Multiplication:** A = [[1,2],[3,4]], B = [[0,1],[2,3]]\n   AB = [[1(0)+2(2), 1(1)+2(3)], [3(0)+4(2), 3(1)+4(3)]]\n   = [[4,7],[8,15]]",
+      "**System Solution:** x + 2y = 5, 3x - y = 4\n   Using substitution: x = 5 - 2y\n   3(5-2y) - y = 4 → 15 - 7y = 4 → y = 11/7\n   x = 5 - 22/7 = 13/7\n   Solution: (13/7, 11/7)",
+      "**Linear Transformation:** Rotation by 90° counterclockwise\n   Matrix: [[0,-1],[1,0]]\n   Transforms [1,0] → [0,1] and [0,1] → [-1,0]\n   Represents rotation of coordinate axes"
+    ],
+    "realLifeApplications": [
+      "**Computer Graphics:** Matrices represent transformations (rotation, scaling, translation) in 2D and 3D graphics. Matrix multiplication combines multiple transformations efficiently.",
+      "**Machine Learning:** Linear algebra is fundamental to neural networks, where weights are matrices and operations are matrix multiplications. Principal Component Analysis (PCA) uses eigenvectors.",
+      "**Engineering - Structural Analysis:** Systems of linear equations model forces in structures. Solving these systems determines stress distribution and ensures structural integrity.",
+      "**Economics - Input-Output Models:** Leontief input-output models use matrices to analyze economic relationships between industries, predicting production requirements and economic impacts."
+    ],
+    "diagramsOrImageDescriptions": [
+      "Vector addition visualization: Two vectors u and v shown as arrows. Their sum u+v is the diagonal of the parallelogram formed by u and v (parallelogram rule).",
+      "Matrix multiplication diagram: Shows how each entry of product matrix AB is computed as the dot product of a row of A and a column of B, with visual arrows connecting elements.",
+      "System of equations graph: Two lines representing equations x+2y=5 and 3x-y=4, intersecting at the solution point (13/7, 11/7), demonstrating geometric interpretation.",
+      "Linear transformation visualization: A unit square transformed by a rotation matrix, showing how the transformation preserves parallel lines and origin, but rotates the shape."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Multiple-choice questions: 1 point each. Total: 10 points. Passing: 7/10 (70%). Questions require understanding of vector operations, matrix operations, solving systems of equations, and linear transformations."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=fNk_zzaMoSs"
+}

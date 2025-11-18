@@ -1,0 +1,87 @@
+{
+  "topic": "Event Handling and User Interactions",
+  "detailedSummary": "Events are actions that occur in the browser, such as clicks, keyboard input, mouse movements, or page loads. Event handling allows JavaScript to respond to these events. addEventListener() attaches event handlers to elements, specifying the event type and a callback function. Common events include click, mouseover, mouseout, keydown, keyup, submit, focus, blur, and load. The event object contains information about the event, such as the target element, mouse coordinates, or key pressed. Event propagation occurs in two phases: capturing (from root to target) and bubbling (from target to root). stopPropagation() prevents event bubbling. preventDefault() stops default browser behavior. Event delegation attaches a single listener to a parent to handle events from multiple children. Understanding event handling is essential for creating interactive web applications that respond to user actions in real-time.",
+  "whyItMatters": "Event handling is what makes websites interactive and responsive to user actions - without it, web pages would be static and unresponsive.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Event Handling and User Interactions | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Event Handling and User Interactions | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Event Handling and User Interactions | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Event Handling Guide",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/Event"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Event Handling Practice",
+        "url": "https://codepen.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Create Interactive Features with Events",
+      "description": "Build interactive web page features using event handling to respond to user actions.",
+      "tasks": [
+        "Attach event listeners to buttons and other interactive elements",
+        "Handle different event types (click, mouseover, keydown, etc.)",
+        "Use the event object to access event properties and prevent default behavior",
+        "Implement event delegation to handle events from dynamically created elements",
+        "Create an interactive feature (like a dropdown menu, modal, or interactive game) that responds to multiple user actions"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is event bubbling?",
+      "type": "multiple-choice",
+      "options": [
+        "Events moving from parent to child elements",
+        "Events moving from child to parent elements",
+        "Events that don't propagate",
+        "A type of event listener"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Event bubbling is when an event starts at the target element and propagates upward through parent elements in the DOM tree."
+    },
+    {
+      "question": "preventDefault() stops an event from propagating to parent elements.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. preventDefault() stops the default browser behavior (like form submission), while stopPropagation() prevents event bubbling to parent elements."
+    },
+    {
+      "question": "Which method is used to attach an event listener to an element?",
+      "type": "multiple-choice",
+      "options": [
+        "addEvent()",
+        "addEventListener()",
+        "attachEvent()",
+        "onEvent()"
+      ],
+      "correctAnswer": 1,
+      "explanation": "addEventListener() is the modern, recommended method for attaching event handlers, allowing multiple listeners and better control over event handling."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

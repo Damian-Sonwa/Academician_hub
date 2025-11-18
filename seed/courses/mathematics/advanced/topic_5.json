@@ -1,0 +1,259 @@
+{
+  "topic": "Multivariable Calculus: Partial Derivatives and Multiple Integrals",
+  "detailedSummary": "Multivariable calculus deals with functions of more than one variable. Partial derivatives measure how a function changes with respect to one variable while keeping others constant. Multiple integrals allow calculation of volume under surfaces, area, and accumulated quantities in higher dimensions. Applications include optimization in several variables, physics problems (heat, mass), and engineering. Beginners should focus on understanding simple functions of two variables and visualizing surfaces in 3D.",
+  "whyItMatters": "Multivariable calculus is essential for modeling real-world phenomena with multiple variables - crucial for physics, engineering, economics, and any field requiring optimization or analysis in higher dimensions.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Partial Derivatives | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=TrcCbdWwCBc"
+      },
+      {
+        "title": "Multiple Integrals | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Multivariable Calculus | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Multivariable Calculus - MIT OpenCourseWare",
+        "url": "https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/"
+      },
+      {
+        "title": "Calculus Volume 3 - OpenStax (Chapters 4-5)",
+        "url": "https://openstax.org/details/books/calculus-volume-3"
+      },
+      {
+        "title": "Khan Academy: Multivariable Calculus",
+        "url": "https://www.khanacademy.org/math/multivariable-calculus"
+      },
+      {
+        "title": "Paul's Online Notes: Partial Derivatives & Multiple Integrals",
+        "url": "http://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx"
+      }
+    ],
+    "labs": [
+      {
+        "title": "3D Function Grapher - GeoGebra",
+        "url": "https://www.geogebra.org/3d"
+      },
+      {
+        "title": "Multivariable Calculus Visualizations - Wolfram Alpha",
+        "url": "https://www.wolframalpha.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Multivariable Calculus: Partial Derivatives and Multiple Integrals",
+      "description": "Solve 3 partial derivative problems. Compute 2 double integral problems over rectangular regions. Apply partial derivatives to a real-life scenario (e.g., temperature, cost, or profit optimization). Submit all calculations and explanations.",
+      "tasks": [
+        "Compute partial derivatives ∂f/∂x and ∂f/∂y for 5 functions of two variables",
+        "Compute second-order partial derivatives (∂²f/∂x², ∂²f/∂y², ∂²f/∂x∂y) for 3 functions",
+        "Apply the chain rule for partial derivatives to 3 composite functions",
+        "Find critical points of functions of two variables by setting partial derivatives to zero",
+        "Use the Second Derivative Test for functions of two variables to classify critical points",
+        "Evaluate 5 double integrals over rectangular regions",
+        "Evaluate 3 double integrals over non-rectangular regions (using appropriate order of integration)",
+        "Compute volume under surfaces using double integrals for 3 functions",
+        "Apply partial derivatives to optimize a function of two variables (e.g., maximize profit, minimize cost)",
+        "Submit complete solutions with step-by-step calculations, including geometric interpretations",
+        "Research triple integrals and their applications. Study how to compute volume in 3D space using triple integrals",
+        "Investigate the gradient vector and directional derivatives. Research how the gradient points in the direction of steepest ascent",
+        "Study the divergence and curl of vector fields. Research their physical interpretations in fluid dynamics and electromagnetism",
+        "Explore Green's theorem. Research how it relates line integrals to double integrals and its applications",
+        "Investigate the method of Lagrange multipliers for constrained optimization in multiple variables. Research its geometric interpretation",
+        "Research Fubini's theorem. Explain how it justifies changing the order of integration in multiple integrals",
+        "Study the change of variables formula (Jacobian). Research how to transform integrals using coordinate changes",
+        "Explore applications of multiple integrals in probability. Research how joint probability density functions use double integrals",
+        "Investigate surface integrals. Research how to compute flux across surfaces and their applications in physics",
+        "Study the fundamental theorem of calculus for multiple integrals. Research how it generalizes to higher dimensions"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Compute ∂f/∂x and ∂f/∂y for f(x,y) = x²y + y³.",
+      "type": "multiple-choice",
+      "options": [
+        "∂f/∂x = 2xy, ∂f/∂y = x² + 3y²",
+        "∂f/∂x = x² + 3y², ∂f/∂y = 2xy",
+        "∂f/∂x = 2xy + y³, ∂f/∂y = x² + 3y²",
+        "∂f/∂x = x²y, ∂f/∂y = y³"
+      ],
+      "correctAnswer": 0,
+      "explanation": "To find ∂f/∂x, treat y as constant: ∂/∂x(x²y + y³) = 2xy. To find ∂f/∂y, treat x as constant: ∂/∂y(x²y + y³) = x² + 3y²."
+    },
+    {
+      "question": "Evaluate the double integral ∫₀¹ ∫₀² (x + y) dy dx.",
+      "type": "multiple-choice",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Inner integral: ∫₀² (x + y) dy = [xy + y²/2]₀² = 2x + 2. Outer integral: ∫₀¹ (2x + 2) dx = [x² + 2x]₀¹ = 1 + 2 = 3."
+    },
+    {
+      "question": "Explain the difference between single and double integrals.",
+      "type": "multiple-choice",
+      "options": [
+        "Single integrals compute area under curves; double integrals compute volume under surfaces",
+        "Single integrals are for one variable; double integrals are for two variables",
+        "Single integrals are easier; double integrals are harder",
+        "There is no difference"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Single integrals ∫f(x)dx compute area under a curve in 2D. Double integrals ∫∫f(x,y)dA compute volume under a surface in 3D, or can compute area in 2D when f(x,y) = 1."
+    },
+    {
+      "question": "Give an example of a real-life application using partial derivatives.",
+      "type": "multiple-choice",
+      "options": [
+        "Temperature distribution T(x,y) in a plate: ∂T/∂x and ∂T/∂y show temperature gradients",
+        "Speed of a car: v = dx/dt",
+        "Area of a rectangle: A = length × width",
+        "Volume of a sphere: V = (4/3)πr³"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Partial derivatives are used when a quantity depends on multiple variables. Temperature T(x,y) in a 2D plate depends on position (x,y), so ∂T/∂x and ∂T/∂y describe how temperature changes along each direction."
+    },
+    {
+      "question": "For f(x,y) = x² + 2xy + y², find the critical point(s).",
+      "type": "multiple-choice",
+      "options": [
+        "(0, 0)",
+        "(1, 1)",
+        "(0, 1)",
+        "No critical points"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Set partial derivatives to zero: ∂f/∂x = 2x + 2y = 0, ∂f/∂y = 2x + 2y = 0. Both give x + y = 0, so y = -x. For (0,0), both conditions are satisfied. Therefore (0,0) is a critical point."
+    },
+    {
+      "question": "What is the Second Derivative Test for functions of two variables?",
+      "type": "multiple-choice",
+      "options": [
+        "Use D = f_xx f_yy - (f_xy)²: if D > 0 and f_xx > 0, local minimum; if D > 0 and f_xx < 0, local maximum; if D < 0, saddle point",
+        "Use f_xx: if f_xx > 0, minimum; if f_xx < 0, maximum",
+        "Use f_yy: if f_yy > 0, minimum; if f_yy < 0, maximum",
+        "There is no second derivative test for two variables"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Second Derivative Test uses the discriminant D = f_xx f_yy - (f_xy)². If D > 0 and f_xx > 0, it's a local minimum. If D > 0 and f_xx < 0, it's a local maximum. If D < 0, it's a saddle point."
+    },
+    {
+      "question": "Evaluate ∫₀² ∫₀¹ xy dx dy.",
+      "type": "multiple-choice",
+      "options": [
+        "1",
+        "2",
+        "1/2",
+        "4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Inner integral: ∫₀¹ xy dx = y[x²/2]₀¹ = y/2. Outer integral: ∫₀² (y/2) dy = [y²/4]₀² = 4/4 = 1."
+    },
+    {
+      "question": "For f(x,y) = x³y + xy², compute ∂²f/∂x∂y.",
+      "type": "multiple-choice",
+      "options": [
+        "3x² + 2y",
+        "3x²y + 2xy",
+        "x³ + y²",
+        "6xy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "First, ∂f/∂x = 3x²y + y². Then ∂²f/∂x∂y = ∂/∂y(3x²y + y²) = 3x² + 2y."
+    },
+    {
+      "question": "What does a double integral ∫∫_R f(x,y) dA represent geometrically?",
+      "type": "multiple-choice",
+      "options": [
+        "Volume under the surface z = f(x,y) over region R",
+        "Area of region R",
+        "Perimeter of region R",
+        "Slope of the surface at a point"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The double integral ∫∫_R f(x,y) dA computes the volume between the surface z = f(x,y) and the xy-plane over the region R. If f(x,y) = 1, it computes the area of R."
+    },
+    {
+      "question": "For f(x,y) = x² - 2xy + y², classify the critical point at (0,0).",
+      "type": "multiple-choice",
+      "options": [
+        "Local minimum",
+        "Local maximum",
+        "Saddle point",
+        "Cannot determine"
+      ],
+      "correctAnswer": 0,
+      "explanation": "f(x,y) = (x - y)². At (0,0): f_xx = 2, f_yy = 2, f_xy = -2. Discriminant D = (2)(2) - (-2)² = 4 - 4 = 0. When D = 0, the test is inconclusive, but since f(x,y) = (x-y)² ≥ 0 and f(0,0) = 0, (0,0) is a local (and global) minimum."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/46/Partial_derivative.svg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/05/Double_integral_over_region.svg",
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=800&q=80",
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Function of Two Variables": "A function f(x,y) that assigns a real number to each ordered pair (x,y) in its domain. The graph is a surface in 3D space.",
+      "Partial Derivative": "The derivative of a function with respect to one variable while treating other variables as constants. ∂f/∂x measures the rate of change of f in the x-direction.",
+      "Second-Order Partial Derivatives": "Partial derivatives of partial derivatives. Notation: ∂²f/∂x², ∂²f/∂y², ∂²f/∂x∂y, ∂²f/∂y∂x. For smooth functions, ∂²f/∂x∂y = ∂²f/∂y∂x (Clairaut's Theorem).",
+      "Critical Point": "A point (a,b) where both partial derivatives are zero: ∂f/∂x(a,b) = 0 and ∂f/∂y(a,b) = 0, or where at least one partial derivative does not exist.",
+      "Local Maximum": "A point (a,b) where f(a,b) ≥ f(x,y) for all (x,y) near (a,b).",
+      "Local Minimum": "A point (a,b) where f(a,b) ≤ f(x,y) for all (x,y) near (a,b).",
+      "Saddle Point": "A critical point that is neither a local maximum nor minimum. The function increases in some directions and decreases in others.",
+      "Second Derivative Test": "For critical point (a,b), compute D = f_xx(a,b)f_yy(a,b) - [f_xy(a,b)]². If D > 0 and f_xx > 0, local minimum; if D > 0 and f_xx < 0, local maximum; if D < 0, saddle point; if D = 0, test is inconclusive.",
+      "Double Integral": "An integral of a function of two variables over a region R: ∫∫_R f(x,y) dA. Computes volume under surface z = f(x,y) over R, or area if f(x,y) = 1.",
+      "Iterated Integral": "A double integral evaluated by integrating with respect to one variable first, then the other: ∫∫ f(x,y) dy dx or ∫∫ f(x,y) dx dy."
+    },
+    "keyConcepts": [
+      "Partial derivatives measure how functions change with respect to one variable while others are held constant",
+      "Critical points of functions of two variables are found by setting both partial derivatives to zero",
+      "The Second Derivative Test classifies critical points as local maxima, minima, or saddle points",
+      "Double integrals compute volume under surfaces in 3D space",
+      "The order of integration matters for non-rectangular regions and must be chosen carefully"
+    ],
+    "stepByStepExplanations": [
+      "**Computing Partial Derivatives:** For f(x,y) = x²y + 3xy²: Step 1) To find ∂f/∂x, treat y as constant: ∂f/∂x = 2xy + 3y². Step 2) To find ∂f/∂y, treat x as constant: ∂f/∂y = x² + 6xy.",
+      "**Evaluating Double Integral:** For ∫₀¹ ∫₀² (x + y) dy dx: Step 1) Inner integral (treat x as constant): ∫₀² (x + y) dy = [xy + y²/2]₀² = 2x + 2. Step 2) Outer integral: ∫₀¹ (2x + 2) dx = [x² + 2x]₀¹ = 1 + 2 = 3.",
+      "**Finding Critical Points:** For f(x,y) = x² + 2xy + y²: Step 1) Compute partial derivatives: ∂f/∂x = 2x + 2y, ∂f/∂y = 2x + 2y. Step 2) Set both to zero: 2x + 2y = 0, so x + y = 0, giving y = -x. Step 3) All points on line y = -x are critical. The simplest is (0,0).",
+      "**Second Derivative Test:** For f(x,y) = x² - 2xy + y² at (0,0): Step 1) f_xx = 2, f_yy = 2, f_xy = -2. Step 2) Discriminant D = (2)(2) - (-2)² = 4 - 4 = 0. Step 3) Since D = 0, test is inconclusive. But f(x,y) = (x-y)² ≥ 0, so (0,0) is a minimum."
+    ],
+    "examples": [
+      "**Partial Derivatives:** f(x,y) = x²y + y³\n   ∂f/∂x = 2xy (treat y as constant)\n   ∂f/∂y = x² + 3y² (treat x as constant)\n   Second-order: ∂²f/∂x² = 2y, ∂²f/∂y² = 6y, ∂²f/∂x∂y = 2x",
+      "**Double Integral:** ∫₀¹ ∫₀² (x + y) dy dx\n   Inner: ∫₀² (x + y) dy = [xy + y²/2]₀² = 2x + 2\n   Outer: ∫₀¹ (2x + 2) dx = [x² + 2x]₀¹ = 3\n   Volume under z = x + y over rectangle [0,1] × [0,2] = 3",
+      "**Critical Points:** f(x,y) = x² - 2xy + y²\n   ∂f/∂x = 2x - 2y = 0 → x = y\n   ∂f/∂y = -2x + 2y = 0 → x = y\n   All points on line x = y are critical. At (0,0): f_xx = 2, f_yy = 2, f_xy = -2, D = 0 (inconclusive). Since f = (x-y)² ≥ 0, (0,0) is minimum.",
+      "**Optimization:** Maximize f(x,y) = xy subject to x + y = 10\n   Substitute y = 10 - x: f(x) = x(10-x) = 10x - x²\n   f'(x) = 10 - 2x = 0 → x = 5, y = 5\n   Maximum: f(5,5) = 25"
+    ],
+    "realLifeApplications": [
+      "**Heat Distribution:** Temperature T(x,y) in a metal plate varies with position. Partial derivatives ∂T/∂x and ∂T/∂y describe temperature gradients, essential for heat transfer analysis in engineering.",
+      "**Economics - Profit Optimization:** Profit P(x,y) depends on quantities x and y of two products. Finding critical points optimizes production. Second derivative test determines if it's maximum profit.",
+      "**Physics - Potential Energy:** Potential energy U(x,y) in a force field. Critical points are equilibrium positions. Second derivative test determines stability (minimum = stable, maximum = unstable).",
+      "**Engineering - Volume Calculations:** Double integrals compute volumes of irregular shapes, fluid flow rates, and material quantities in 3D structures."
+    ],
+    "diagramsOrImageDescriptions": [
+      "3D surface plot showing z = f(x,y) with tangent planes illustrating partial derivatives: ∂f/∂x shows slope in x-direction, ∂f/∂y shows slope in y-direction.",
+      "Contour plot (level curves) of f(x,y) showing critical points: local maxima/minima appear as centers of closed curves, saddle points appear as intersections of curves.",
+      "Volume visualization: Double integral ∫∫_R f(x,y) dA represents volume between surface z = f(x,y) and xy-plane over region R, shown as a 3D solid.",
+      "Second derivative test visualization: At a local minimum, the surface curves upward in all directions (f_xx > 0, f_yy > 0). At a saddle point, it curves up in one direction and down in another."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Multiple-choice questions: 1 point each. Total: 10 points. Passing: 7/10 (70%). Questions require understanding of partial derivatives, double integrals, critical points, and optimization techniques for functions of two variables."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=TrcCbdWwCBc"
+}

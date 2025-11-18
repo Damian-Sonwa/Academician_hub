@@ -1,0 +1,87 @@
+{
+  "topic": "Express.js Framework and RESTful APIs",
+  "detailedSummary": "Express.js is a minimal, flexible Node.js web framework that simplifies server creation. Express provides routing, middleware, templating, and more. Routes handle HTTP methods (GET, POST, PUT, DELETE) and URLs. Middleware functions execute between request and response, handling tasks like parsing, authentication, logging. app.use() applies middleware. Route parameters (:id) extract URL data. Query strings access URL parameters. Request body parsing uses express.json() or body-parser. RESTful APIs follow REST principles: resources as URLs, HTTP methods for actions, stateless communication, JSON responses. API endpoints represent resources (/users, /posts). Status codes indicate results (200 OK, 201 Created, 404 Not Found, 500 Error). CORS (Cross-Origin Resource Sharing) enables frontend-backend communication. Error handling uses middleware. Understanding Express enables building robust APIs and web servers efficiently.",
+  "whyItMatters": "Express.js is the standard framework for Node.js web development - understanding Express and RESTful APIs is essential for building modern backend services and full-stack applications.",
+  "materials": {
+    "videos": [
+      {
+        "title": "JavaScript Tutorial | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "JavaScript Basics | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "JavaScript | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Express.js Documentation",
+        "url": "https://expressjs.com/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Express.js Practice",
+        "url": "https://codesandbox.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Build a RESTful API with Express",
+      "description": "Create a complete RESTful API using Express.js with proper routing, middleware, and error handling.",
+      "tasks": [
+        "Set up an Express server with routing for different resources",
+        "Implement CRUD operations (Create, Read, Update, Delete) for API endpoints",
+        "Use middleware for request parsing, logging, and error handling",
+        "Implement proper HTTP status codes and JSON responses",
+        "Build a complete REST API with multiple resources and test it using Postman or similar tools"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is middleware in Express.js?",
+      "type": "multiple-choice",
+      "options": [
+        "A database",
+        "Functions that execute between request and response, handling tasks like parsing and authentication",
+        "A frontend framework",
+        "A CSS library"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Middleware functions in Express execute between receiving the request and sending the response, handling tasks like body parsing, authentication, logging, and error handling."
+    },
+    {
+      "question": "RESTful APIs should be stateless, meaning each request contains all information needed to process it.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. RESTful APIs are stateless - each request should contain all necessary information, and the server shouldn't rely on previous requests."
+    },
+    {
+      "question": "What HTTP method is typically used to create a new resource in RESTful APIs?",
+      "type": "multiple-choice",
+      "options": [
+        "GET",
+        "POST",
+        "PUT",
+        "DELETE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "POST is used to create new resources in RESTful APIs, while GET retrieves, PUT updates, and DELETE removes resources."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

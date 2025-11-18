@@ -1,0 +1,265 @@
+{
+  "topic": "Graph Theory and Combinatorics",
+  "detailedSummary": "Graph theory studies **networks of points (nodes)** connected by **lines (edges)** 🌐. Combinatorics is about **counting and arranging things** 🔢. Together, they help solve problems in computer science, social networks, logistics, and scheduling. Graphs can be **directed or undirected**, and combinatorics includes permutations, combinations, and counting principles.",
+  "whyItMatters": "Graph theory and combinatorics are essential for computer science, network analysis, and optimization - fundamental for understanding algorithms, social networks, logistics, and discrete problem-solving.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Introduction to Graph Theory | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=HmQR8Xy9DeM"
+      },
+      {
+        "title": "Combinatorics | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Permutations and Combinations | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Introduction to Graph Theory - Douglas B. West",
+        "url": "https://www.pearson.com/store/p/introduction-to-graph-theory/P100000209412"
+      },
+      {
+        "title": "Discrete Mathematics: Graph Theory & Combinatorics - K. H. Rosen",
+        "url": "https://www.mheducation.com/highered/product/discrete-mathematics-its-applications-rosen/M9780073383095.html"
+      },
+      {
+        "title": "Khan Academy: Combinatorics",
+        "url": "https://www.khanacademy.org/math/statistics-probability/probability-library"
+      },
+      {
+        "title": "Graph Theory and Its Applications - Jonathan L. Gross",
+        "url": "https://www.crcpress.com/Graph-Theory-and-Its-Applications/Gross-Yellen-Zhang/p/book/9781032477147"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Graph Visualization - GeoGebra",
+        "url": "https://www.geogebra.org/"
+      },
+      {
+        "title": "Network Analysis Tools - Gephi",
+        "url": "https://gephi.org/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Graph Theory and Combinatorics",
+      "description": "Draw 2 simple graphs and label nodes and edges. Solve 3 permutation and combination problems. Identify directed and undirected graphs in real-life networks. Explain 1 application of graph theory in social networks or logistics. Submit all diagrams, calculations, and explanations.",
+      "tasks": [
+        "Draw 3 simple undirected graphs with different numbers of nodes and edges, labeling all nodes and edges",
+        "Draw 2 directed graphs (digraphs) showing relationships between entities",
+        "Identify and classify graphs: determine if graphs are connected, complete, bipartite, or tree graphs",
+        "Solve 5 permutation problems: calculate P(n,r) = n!/(n-r)! for various scenarios",
+        "Solve 5 combination problems: calculate C(n,r) = n!/(r!(n-r)!) for various scenarios",
+        "Apply the Multiplication Principle to solve 3 counting problems",
+        "Apply the Addition Principle to solve 3 counting problems",
+        "Find the shortest path between two nodes in a weighted graph using Dijkstra's algorithm",
+        "Identify real-world applications: map social networks, transportation networks, or computer networks to graphs",
+        "Submit all diagrams, calculations, and explanations with clear labeling and step-by-step solutions",
+        "Research the four-color theorem. Study its history, proof, and applications in map coloring problems",
+        "Investigate graph coloring and chromatic numbers. Research how to find the minimum number of colors needed",
+        "Study the traveling salesman problem (TSP). Research its computational complexity and approximation algorithms",
+        "Explore network flow problems. Research the max-flow min-cut theorem and its applications",
+        "Investigate the use of graph theory in social network analysis. Research how centrality measures identify important nodes",
+        "Research the application of combinatorics in cryptography. Study how permutations and combinations secure information",
+        "Study the inclusion-exclusion principle. Research how it counts elements in unions of sets",
+        "Explore generating functions in combinatorics. Research how they solve counting problems using power series",
+        "Investigate the application of graph algorithms in web search. Research how PageRank uses graph theory",
+        "Study the use of combinatorics in probability theory. Research how counting principles calculate probabilities"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Draw a graph with 4 nodes and 5 edges.",
+      "type": "multiple-choice",
+      "options": [
+        "A graph with 4 vertices connected by 5 edges (e.g., complete graph K₄ has 6 edges, so remove 1 edge)",
+        "A graph with 5 vertices and 4 edges",
+        "A graph with 3 vertices and 5 edges",
+        "A graph with 4 vertices and 3 edges"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A graph with 4 nodes (vertices) and 5 edges can be constructed. For example, take the complete graph K₄ (which has 6 edges) and remove one edge, or create a graph where vertices are connected such that total edges = 5."
+    },
+    {
+      "question": "Determine all permutations of the letters A, B, C.",
+      "type": "multiple-choice",
+      "options": [
+        "ABC, ACB, BAC, BCA, CAB, CBA (6 permutations)",
+        "ABC, BCA, CAB (3 permutations)",
+        "AB, AC, BA, BC, CA, CB (6 permutations)",
+        "A, B, C (3 permutations)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Permutations of 3 distinct objects: 3! = 6. All arrangements: ABC, ACB, BAC, BCA, CAB, CBA. Each arrangement uses all 3 letters in different orders."
+    },
+    {
+      "question": "Explain the difference between a directed and undirected graph.",
+      "type": "multiple-choice",
+      "options": [
+        "Undirected graphs have edges without direction (bidirectional); directed graphs have edges with direction (one-way arrows)",
+        "Undirected graphs have more edges than directed graphs",
+        "Directed graphs are always connected; undirected graphs are not",
+        "There is no difference"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In an undirected graph, edges connect vertices without direction (A-B means connection both ways). In a directed graph (digraph), edges have direction (A→B means connection only from A to B, not necessarily B to A)."
+    },
+    {
+      "question": "How many ways can you choose 2 students from a group of 5?",
+      "type": "multiple-choice",
+      "options": [
+        "10",
+        "20",
+        "5",
+        "25"
+      ],
+      "correctAnswer": 0,
+      "explanation": "This is a combination problem: C(5,2) = 5!/(2!(5-2)!) = 5!/(2!3!) = (5×4)/(2×1) = 20/2 = 10. Order doesn't matter when choosing students."
+    },
+    {
+      "question": "Give a real-world example where graph theory can be applied.",
+      "type": "multiple-choice",
+      "options": [
+        "Social networks: nodes = people, edges = friendships; Transportation: nodes = cities, edges = roads; Computer networks: nodes = computers, edges = connections",
+        "Counting objects",
+        "Solving equations",
+        "Measuring distances"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Graph theory models relationships: social networks (people and friendships), transportation (cities and roads), computer networks (devices and connections), web pages (pages and links), and many other network structures."
+    },
+    {
+      "question": "What is the number of permutations of 4 objects taken 2 at a time?",
+      "type": "multiple-choice",
+      "options": [
+        "12",
+        "6",
+        "24",
+        "8"
+      ],
+      "correctAnswer": 0,
+      "explanation": "P(4,2) = 4!/(4-2)! = 4!/2! = (4×3×2×1)/(2×1) = 24/2 = 12. This counts ordered arrangements of 2 objects from 4."
+    },
+    {
+      "question": "What is the number of combinations of 5 objects taken 3 at a time?",
+      "type": "multiple-choice",
+      "options": [
+        "10",
+        "60",
+        "15",
+        "20"
+      ],
+      "correctAnswer": 0,
+      "explanation": "C(5,3) = 5!/(3!(5-3)!) = 5!/(3!2!) = (5×4×3×2×1)/((3×2×1)(2×1)) = 120/(6×2) = 120/12 = 10. Order doesn't matter in combinations."
+    },
+    {
+      "question": "A complete graph with n vertices has how many edges?",
+      "type": "multiple-choice",
+      "options": [
+        "n(n-1)/2",
+        "n(n+1)/2",
+        "n²",
+        "2n"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In a complete graph Kₙ, every pair of vertices is connected by exactly one edge. Number of pairs = C(n,2) = n(n-1)/2. For example, K₄ has 4×3/2 = 6 edges."
+    },
+    {
+      "question": "What is a tree in graph theory?",
+      "type": "multiple-choice",
+      "options": [
+        "A connected graph with no cycles (exactly n-1 edges for n vertices)",
+        "A graph with many cycles",
+        "A disconnected graph",
+        "A graph with n edges for n vertices"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A tree is a connected graph with no cycles. For n vertices, a tree has exactly n-1 edges. Trees are used to model hierarchical structures, file systems, and decision processes."
+    },
+    {
+      "question": "Using the Multiplication Principle, if you have 3 shirts and 4 pants, how many outfits can you make?",
+      "type": "multiple-choice",
+      "options": [
+        "12",
+        "7",
+        "4",
+        "3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Multiplication Principle: If there are m ways to do one thing and n ways to do another, there are m×n ways to do both. Here: 3 shirts × 4 pants = 12 outfits."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5e/Graph_theory_example.svg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/41/Permutation_example.svg",
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=800&q=80",
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Graph": "A collection of vertices (nodes) and edges connecting pairs of vertices. Notation: G = (V, E) where V is the vertex set and E is the edge set.",
+      "Vertex (Node)": "A point in a graph representing an entity (person, city, computer, etc.).",
+      "Edge": "A connection between two vertices. Can be undirected (bidirectional) or directed (one-way arrow).",
+      "Undirected Graph": "A graph where edges have no direction. If there's an edge between A and B, the connection works both ways.",
+      "Directed Graph (Digraph)": "A graph where edges have direction (arrows). An edge from A to B (A→B) means connection only from A to B.",
+      "Degree of a Vertex": "The number of edges incident to a vertex. In a directed graph, distinguish in-degree (edges coming in) and out-degree (edges going out).",
+      "Path": "A sequence of vertices where consecutive vertices are connected by edges. Length of path = number of edges.",
+      "Cycle": "A path that starts and ends at the same vertex, with no repeated vertices except the start/end.",
+      "Connected Graph": "A graph where there's a path between any two vertices. If not connected, it has multiple components.",
+      "Tree": "A connected graph with no cycles. For n vertices, a tree has exactly n-1 edges.",
+      "Complete Graph": "A graph where every pair of vertices is connected by an edge. Denoted Kₙ for n vertices. Has n(n-1)/2 edges.",
+      "Permutation": "An ordered arrangement of objects. P(n,r) = n!/(n-r)! counts ways to arrange r objects from n distinct objects.",
+      "Combination": "An unordered selection of objects. C(n,r) = n!/(r!(n-r)!) counts ways to choose r objects from n, where order doesn't matter.",
+      "Factorial": "n! = n × (n-1) × ... × 2 × 1. For example, 5! = 5×4×3×2×1 = 120. By definition, 0! = 1.",
+      "Multiplication Principle": "If there are m ways to do one thing and n ways to do another, there are m×n ways to do both (in sequence).",
+      "Addition Principle": "If there are m ways to do one thing OR n ways to do another (mutually exclusive), there are m+n total ways."
+    },
+    "keyConcepts": [
+      "Graphs model relationships and connections between entities",
+      "Graph properties (connected, complete, tree) describe structural characteristics",
+      "Permutations count ordered arrangements; combinations count unordered selections",
+      "Factorials are fundamental to counting problems",
+      "Graph theory and combinatorics are essential for algorithms and optimization"
+    ],
+    "stepByStepExplanations": [
+      "**Drawing a Graph:** To draw a graph with 4 nodes and 5 edges: Step 1) Draw 4 vertices (points) labeled A, B, C, D. Step 2) Add edges connecting vertices: A-B, A-C, A-D, B-C, B-D (5 edges total). Step 3) Verify: 4 vertices, 5 edges.",
+      "**Permutations:** To find all permutations of A, B, C: Step 1) Total = 3! = 6. Step 2) List all: ABC, ACB, BAC, BCA, CAB, CBA. Step 3) Each uses all 3 letters in different order.",
+      "**Combinations:** To choose 2 from 5: Step 1) Use formula C(5,2) = 5!/(2!3!) = (5×4)/(2×1) = 20/2 = 10. Step 2) This counts unordered selections: {A,B}, {A,C}, {A,D}, {A,E}, {B,C}, {B,D}, {B,E}, {C,D}, {C,E}, {D,E}.",
+      "**Graph Types:** To identify graph type: Step 1) Check if edges have arrows → directed, otherwise undirected. Step 2) Count edges: if n vertices and n-1 edges with no cycles → tree. Step 3) If every pair connected → complete graph."
+    ],
+    "examples": [
+      "**Graph Example:** Social network with 4 people\n   Vertices: Alice, Bob, Charlie, Diana\n   Edges: Alice-Bob, Bob-Charlie, Charlie-Diana, Alice-Diana\n   This is an undirected graph (friendships are mutual)\n   Degree: Alice=2, Bob=2, Charlie=2, Diana=2",
+      "**Permutation:** Arrange 3 books on shelf\n   Total: 3! = 6 arrangements\n   ABC, ACB, BAC, BCA, CAB, CBA\n   Each arrangement is different because order matters",
+      "**Combination:** Choose 2 students from 5\n   C(5,2) = 5!/(2!3!) = (5×4)/(2×1) = 10\n   Selections: {A,B}, {A,C}, {A,D}, {A,E}, {B,C}, {B,D}, {B,E}, {C,D}, {C,E}, {D,E}\n   Order doesn't matter: {A,B} = {B,A}",
+      "**Multiplication Principle:** Outfits from 3 shirts and 4 pants\n   3 × 4 = 12 different outfits\n   For each shirt, there are 4 pants choices"
+    ],
+    "realLifeApplications": [
+      "**Social Networks:** Graph theory models social media: vertices = users, edges = friendships/follows. Algorithms find communities, influencers, and information spread.",
+      "**Transportation Networks:** Graphs model road systems: vertices = intersections/cities, edges = roads. Shortest path algorithms (Dijkstra's) find optimal routes.",
+      "**Computer Networks:** Graphs model internet topology: vertices = routers/servers, edges = connections. Network analysis ensures connectivity and efficiency.",
+      "**Scheduling and Planning:** Combinatorics counts possible schedules. Graph coloring assigns resources (e.g., exam scheduling, frequency allocation in wireless networks)."
+    ],
+    "diagramsOrImageDescriptions": [
+      "Simple graph diagram: 4 vertices (circles) connected by 5 edges (lines), showing a network structure with labeled nodes.",
+      "Directed graph (digraph): Vertices with arrows showing direction, illustrating one-way relationships (e.g., A→B, B→C, but no B→A).",
+      "Tree graph: A connected graph with no cycles, showing a hierarchical structure (e.g., root node with branches, like a family tree or organizational chart).",
+      "Permutation tree diagram: A tree showing all possible arrangements, branching at each choice point, visualizing how 3! = 6 permutations are generated."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Multiple-choice questions: 1 point each. Total: 10 points. Passing: 7/10 (70%). Questions require understanding of graph structures, permutation/combination calculations, and ability to apply counting principles."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=HmQR8Xy9DeM"
+}

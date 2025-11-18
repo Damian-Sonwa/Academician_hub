@@ -1,0 +1,258 @@
+{
+  "topic": "Functions and Their Properties",
+  "detailedSummary": "Advanced functions and their properties form the foundation of mathematical analysis, topology, and modern mathematics. A function f: A → B is a relation between sets A (domain) and B (codomain) where each element of A maps to exactly one element of B. The rigorous definition requires understanding set theory: f is a subset of A × B such that for every a ∈ A, there exists unique b ∈ B with (a, b) ∈ f. Advanced function properties include injectivity (one-to-one: f(x₁) = f(x₂) implies x₁ = x₂), surjectivity (onto: for every b ∈ B, there exists a ∈ A with f(a) = b), and bijectivity (both injective and surjective, ensuring inverse functions exist). Function composition (f∘g)(x) = f(g(x)) requires careful domain considerations. Advanced topics include: function limits and continuity in metric spaces, uniform continuity, Lipschitz continuity, function spaces (C[a,b], L² spaces), functional analysis concepts, homeomorphisms and isomorphisms, function approximation (Taylor series, Fourier series), and measure-theoretic properties. Special function classes: monotonic functions (strictly increasing/decreasing), convex/concave functions, differentiable functions with advanced derivative properties, integrable functions (Riemann, Lebesgue), and analytic functions. These concepts are essential for real analysis, topology, functional analysis, differential equations, and advanced mathematical modeling.",
+  "whyItMatters": "Advanced function theory is fundamental to mathematical analysis, topology, and modern mathematics - essential for understanding continuity, differentiability, integrability, and function spaces in rigorous mathematical contexts.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Functions - Domain, Range, and Composition | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=Uzt63oiMvvg"
+      },
+      {
+        "title": "What is a Function? | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=WUfTyaaNkzM"
+      },
+      {
+        "title": "Function Properties | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "NCERT Class 12 Mathematics",
+        "url": "https://ncert.nic.in/textbook.php?jemh1=0-1"
+      },
+      {
+        "title": "Higher Algebra by Hall & Knight",
+        "url": "https://archive.org/details/higheralgebra00halluoft"
+      },
+      {
+        "title": "Principles of Mathematical Analysis by Rudin",
+        "url": "https://www.mheducation.com/highered/product/principles-mathematical-analysis-rudin/M9780070542358.html"
+      },
+      {
+        "title": "Real Analysis: Modern Techniques and Their Applications by Folland",
+        "url": "https://www.wiley.com/en-us/Real+Analysis%3A+Modern+Techniques+and+Their+Applications%2C+2nd+Edition-p-9780471317166"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Function Analysis - Desmos Advanced",
+        "url": "https://www.desmos.com/calculator"
+      },
+      {
+        "title": "Mathematical Function Explorer - Wolfram Alpha",
+        "url": "https://www.wolframalpha.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Advanced Functions and Their Properties",
+      "description": "Create a table of values for 3 different types of functions (linear, quadratic, cubic). Draw graphs for each function using the table. Identify domain, range, and symmetry properties. Submit your graphs and explanations.",
+      "tasks": [
+        "Prove that f(x) = 3x + 5 is bijective on ℝ → ℝ using formal definitions",
+        "Analyze the continuity and differentiability of f(x) = |x| at x = 0",
+        "Determine if f(x) = x³ - 3x is injective, surjective, or bijective on ℝ",
+        "Prove that composition of bijective functions is bijective",
+        "Find the inverse function of f(x) = (2x + 1)/(x - 3) and determine its domain",
+        "Analyze the function f(x) = e^x for injectivity, surjectivity, and determine its range",
+        "Prove that f(x) = sin(x) is periodic with period 2π using the definition",
+        "Determine the domain and range of f(x) = ln(x² - 4) with rigorous justification",
+        "Analyze function composition: if f(x) = x² and g(x) = √x, find (f∘g)(x) and (g∘f)(x) with domain restrictions",
+        "Prove that if f is strictly increasing, then f is injective",
+        "Research and explain the concept of uniform continuity. Compare it with regular continuity and provide examples of functions that are continuous but not uniformly continuous",
+        "Investigate Lipschitz continuity. Define a Lipschitz function and find the Lipschitz constant for f(x) = x² on the interval [0, 5]",
+        "Explore function spaces: Research the C[a,b] space (continuous functions on [a,b]) and explain its importance in functional analysis. Provide examples of functions in this space",
+        "Study homeomorphisms in topology. Explain what makes two topological spaces homeomorphic and provide an example of a homeomorphism between intervals",
+        "Research the concept of function approximation using Taylor series. Approximate f(x) = e^x using its Taylor series expansion up to the 5th degree and compare with the actual function",
+        "Investigate Fourier series representation of periodic functions. Explain how any periodic function can be represented as a sum of sine and cosine functions",
+        "Explore measure-theoretic properties of functions. Research Lebesgue integrability vs Riemann integrability and provide examples of functions that are Lebesgue integrable but not Riemann integrable",
+        "Study convex and concave functions. Define these concepts and determine if f(x) = x² is convex or concave on ℝ. Prove your answer",
+        "Research functional analysis: Investigate the L² space (square-integrable functions) and explain its significance in quantum mechanics and signal processing",
+        "Explore the concept of analytic functions in complex analysis. Research the relationship between differentiability and analyticity, and provide examples of analytic functions"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "A function f: A → B is bijective if and only if:",
+      "type": "multiple-choice",
+      "options": [
+        "It is both injective and surjective",
+        "It has an inverse function f⁻¹: B → A",
+        "Both A and B are correct",
+        "It is continuous and differentiable"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A function is bijective if and only if it is both injective and surjective, which is equivalent to having an inverse function. Continuity and differentiability are separate properties."
+    },
+    {
+      "question": "What is the domain of f(x) = ln(x² - 4)?",
+      "type": "multiple-choice",
+      "options": [
+        "x > 2 or x < -2",
+        "x > 2",
+        "All real numbers except x = ±2",
+        "x ≥ 2"
+      ],
+      "correctAnswer": 0,
+      "explanation": "For ln(x² - 4) to be defined, we need x² - 4 > 0, which means x² > 4, so |x| > 2, giving x > 2 or x < -2."
+    },
+    {
+      "question": "If f: ℝ → ℝ is strictly increasing, then f is:",
+      "type": "multiple-choice",
+      "options": [
+        "Always injective",
+        "Always surjective",
+        "Always bijective",
+        "Not necessarily injective"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A strictly increasing function is always injective (one-to-one) because if x₁ < x₂, then f(x₁) < f(x₂), so f(x₁) ≠ f(x₂). However, it may not be surjective (e.g., f(x) = e^x maps ℝ to (0,∞))."
+    },
+    {
+      "question": "The composition (f∘g)(x) is defined when:",
+      "type": "multiple-choice",
+      "options": [
+        "x is in the domain of g and g(x) is in the domain of f",
+        "x is in the domain of f",
+        "g(x) is in the domain of f",
+        "Always, for any functions f and g"
+      ],
+      "correctAnswer": 0,
+      "explanation": "For (f∘g)(x) to be defined, we need x ∈ dom(g) and g(x) ∈ dom(f). The composition requires careful attention to domain restrictions."
+    },
+    {
+      "question": "A function f: ℝ → ℝ is periodic with period p if:",
+      "type": "multiple-choice",
+      "options": [
+        "f(x + p) = f(x) for all x ∈ ℝ",
+        "f(x + p) = f(x) for some x ∈ ℝ",
+        "f(x + np) = f(x) for all integers n",
+        "Both A and C are correct"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A function is periodic with period p if f(x + p) = f(x) for all x, which implies f(x + np) = f(x) for all integers n by induction."
+    },
+    {
+      "question": "If f: A → B and g: B → C are both bijective, then (g∘f): A → C is:",
+      "type": "multiple-choice",
+      "options": [
+        "Bijective",
+        "Injective but not necessarily surjective",
+        "Surjective but not necessarily injective",
+        "Not necessarily bijective"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The composition of bijective functions is bijective. If f and g are both one-to-one and onto, then g∘f is also one-to-one and onto."
+    },
+    {
+      "question": "The inverse of f(x) = (2x + 1)/(x - 3) is:",
+      "type": "multiple-choice",
+      "options": [
+        "f⁻¹(x) = (3x + 1)/(x - 2), domain: x ≠ 2",
+        "f⁻¹(x) = (3x - 1)/(x - 2), domain: x ≠ 2",
+        "f⁻¹(x) = (3x + 1)/(x + 2), domain: x ≠ -2",
+        "f⁻¹(x) = (2x - 1)/(x + 3), domain: x ≠ -3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Set y = (2x + 1)/(x - 3), solve for x: y(x - 3) = 2x + 1, so yx - 3y = 2x + 1, giving x(y - 2) = 3y + 1, so x = (3y + 1)/(y - 2). Therefore f⁻¹(x) = (3x + 1)/(x - 2) with domain x ≠ 2."
+    },
+    {
+      "question": "A function f: ℝ → ℝ is even if:",
+      "type": "multiple-choice",
+      "options": [
+        "f(-x) = f(x) for all x",
+        "f(-x) = -f(x) for all x",
+        "f(x) = f(x + p) for some period p",
+        "f is symmetric about the origin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "An even function satisfies f(-x) = f(x) for all x in its domain, making it symmetric about the y-axis."
+    },
+    {
+      "question": "The range of f(x) = e^x where f: ℝ → ℝ is:",
+      "type": "multiple-choice",
+      "options": [
+        "(0, ∞)",
+        "[0, ∞)",
+        "ℝ",
+        "(-∞, 0)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The exponential function e^x maps ℝ to (0, ∞). It never reaches 0 (asymptotic) and grows without bound, so the range is (0, ∞)."
+    },
+    {
+      "question": "If f is injective and g is injective, then (g∘f) is:",
+      "type": "multiple-choice",
+      "options": [
+        "Always injective",
+        "Always surjective",
+        "Always bijective",
+        "Not necessarily injective"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The composition of injective functions is injective. If f(x₁) = f(x₂) implies x₁ = x₂, and g(y₁) = g(y₂) implies y₁ = y₂, then (g∘f)(x₁) = (g∘f)(x₂) implies f(x₁) = f(x₂), which implies x₁ = x₂."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Linear_function.svg/2560px-Linear_function.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Parabola.svg/2560px-Parabola.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Even_and_odd_function.svg/2560px-Even_and_odd_function.svg.png",
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Function (Formal Definition)": "A function f: A → B is a relation between sets A (domain) and B (codomain) such that for every a ∈ A, there exists a unique b ∈ B with (a, b) ∈ f. We write f(a) = b.",
+      "Injective (One-to-One)": "A function f: A → B is injective if for all x₁, x₂ ∈ A, f(x₁) = f(x₂) implies x₁ = x₂. Equivalently, distinct inputs produce distinct outputs.",
+      "Surjective (Onto)": "A function f: A → B is surjective if for every b ∈ B, there exists a ∈ A such that f(a) = b. The range equals the codomain.",
+      "Bijective": "A function f: A → B is bijective if it is both injective and surjective. Bijective functions have inverse functions f⁻¹: B → A.",
+      "Function Composition": "Given f: A → B and g: B → C, the composition (g∘f): A → C is defined by (g∘f)(x) = g(f(x)) for all x ∈ A. Requires range(f) ⊆ domain(g).",
+      "Inverse Function": "If f: A → B is bijective, the inverse f⁻¹: B → A satisfies f⁻¹(f(x)) = x for all x ∈ A and f(f⁻¹(y)) = y for all y ∈ B.",
+      "Even Function": "A function f: ℝ → ℝ is even if f(-x) = f(x) for all x ∈ ℝ. Graph is symmetric about the y-axis.",
+      "Odd Function": "A function f: ℝ → ℝ is odd if f(-x) = -f(x) for all x ∈ ℝ. Graph is symmetric about the origin.",
+      "Periodic Function": "A function f: ℝ → ℝ is periodic with period p > 0 if f(x + p) = f(x) for all x ∈ ℝ. The smallest such p is the fundamental period."
+    },
+    "keyConcepts": [
+      "Functions are fundamental mathematical objects defined rigorously using set theory",
+      "Injectivity, surjectivity, and bijectivity are crucial properties determining function behavior",
+      "Function composition requires careful attention to domain and codomain compatibility",
+      "Bijective functions have unique inverse functions, enabling reversible transformations",
+      "Special function classes (even, odd, periodic) have important symmetry and structural properties"
+    ],
+    "stepByStepExplanations": [
+      "**Proving Injectivity:** To prove f(x) = 3x + 5 is injective: Step 1) Assume f(x₁) = f(x₂). Step 2) Then 3x₁ + 5 = 3x₂ + 5. Step 3) Subtract 5: 3x₁ = 3x₂. Step 4) Divide by 3: x₁ = x₂. Step 5) Therefore f is injective.",
+      "**Finding Inverse Function:** For f(x) = (2x + 1)/(x - 3): Step 1) Set y = (2x + 1)/(x - 3). Step 2) Cross multiply: y(x - 3) = 2x + 1. Step 3) Expand: yx - 3y = 2x + 1. Step 4) Rearrange: yx - 2x = 3y + 1. Step 5) Factor: x(y - 2) = 3y + 1. Step 6) Solve: x = (3y + 1)/(y - 2). Step 7) Therefore f⁻¹(x) = (3x + 1)/(x - 2) with domain x ≠ 2.",
+      "**Proving Bijectivity:** For f(x) = x³ on ℝ → ℝ: Step 1) Prove injectivity: If x₁³ = x₂³, then x₁ = x₂ (cube root is unique). Step 2) Prove surjectivity: For any y ∈ ℝ, there exists x = ∛y such that f(x) = y. Step 3) Therefore f is bijective.",
+      "**Function Composition Domain:** For f(x) = √x and g(x) = x²: Step 1) dom(g) = ℝ, range(g) = [0, ∞). Step 2) dom(f) = [0, ∞). Step 3) For (f∘g)(x) = √(x²) = |x|, domain is ℝ. Step 4) For (g∘f)(x) = (√x)² = x, domain is [0, ∞) (restricted by f)."
+    ],
+    "examples": [
+      "**Bijective Function:** f(x) = 3x + 5, f: ℝ → ℝ\n   Injectivity: f(x₁) = f(x₂) implies 3x₁ + 5 = 3x₂ + 5, so x₁ = x₂. ✓\n   Surjectivity: For any y ∈ ℝ, solve 3x + 5 = y, giving x = (y - 5)/3 ∈ ℝ. ✓\n   Inverse: f⁻¹(x) = (x - 5)/3",
+      "**Non-Surjective Function:** f(x) = e^x, f: ℝ → ℝ\n   Injectivity: e^x₁ = e^x₂ implies x₁ = x₂ (exponential is strictly increasing). ✓\n   Surjectivity: Range is (0, ∞) ≠ ℝ. ✗\n   However, f: ℝ → (0, ∞) is bijective.",
+      "**Even and Odd Functions:**\n   f(x) = x² is even: f(-x) = (-x)² = x² = f(x). Symmetric about y-axis.\n   g(x) = x³ is odd: g(-x) = (-x)³ = -x³ = -g(x). Symmetric about origin.\n   h(x) = x² + x³ is neither even nor odd.",
+      "**Periodic Function:** f(x) = sin(x), f: ℝ → ℝ\n   f(x + 2π) = sin(x + 2π) = sin(x)cos(2π) + cos(x)sin(2π) = sin(x).\n   Period: 2π (fundamental period).\n   Graph repeats every 2π units."
+    ],
+    "realLifeApplications": [
+      "**Bijective Functions in Cryptography:** Encryption functions must be bijective to ensure decryption is possible. RSA encryption uses bijective functions based on modular arithmetic, where each encrypted message maps uniquely to a decrypted message.",
+      "**Function Composition in Computer Science:** Function composition is fundamental in functional programming. Pipeline operations chain functions: data → transform₁ → transform₂ → output. Each function must have compatible domain/range.",
+      "**Periodic Functions in Signal Processing:** Periodic functions model oscillating signals (sound waves, electromagnetic waves). Fourier analysis decomposes signals into periodic components, essential for audio processing, telecommunications, and image processing.",
+      "**Inverse Functions in Engineering:** Inverse functions enable reverse engineering of processes. In control systems, if a process is modeled by f(x), the controller uses f⁻¹ to determine the input needed for desired output."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A Venn diagram showing the relationship between injective, surjective, and bijective functions, with bijective as the intersection of injective and surjective.",
+      "Graphs demonstrating function composition: input x → f(x) → g(f(x)) = (g∘f)(x), showing how the output of one function becomes the input of another.",
+      "Visual representation of even and odd functions: even function symmetric about y-axis (mirror image), odd function symmetric about origin (rotational symmetry).",
+      "Graph of periodic function showing repetition: f(x) = sin(x) with period 2π, demonstrating how the function repeats its pattern every 2π units."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Multiple-choice questions: 1 point each. Total: 10 points. Passing: 7/10 (70%). Advanced questions require understanding of formal definitions, proofs, and rigorous mathematical reasoning."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uzt63oiMvvg"
+}

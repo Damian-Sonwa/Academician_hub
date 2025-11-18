@@ -1,0 +1,87 @@
+{
+  "topic": "Object-Oriented Programming in JavaScript",
+  "detailedSummary": "Object-Oriented Programming (OOP) organizes code around objects that contain data (properties) and behavior (methods). JavaScript uses prototypes for inheritance rather than classes (though ES6 classes provide syntactic sugar). Constructor functions create objects with the 'new' keyword. The prototype property allows sharing methods across instances. ES6 classes provide cleaner syntax: class declarations, constructor methods, instance methods, static methods, and inheritance with 'extends'. 'this' refers to the object context, but binding can be tricky with callbacks. Getters and setters control property access. Private fields (using #) encapsulate data. Inheritance allows classes to extend others, inheriting properties and methods. Polymorphism enables different objects to respond to the same method differently. Composition combines objects for functionality. Understanding OOP in JavaScript enables building complex, organized applications with reusable, maintainable code structures.",
+  "whyItMatters": "OOP is fundamental to building complex applications - it enables code organization, reusability, and maintainability, which are essential for professional software development.",
+  "materials": {
+    "videos": [
+      {
+        "title": "JavaScript Tutorial | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "JavaScript Basics | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "JavaScript | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "JavaScript OOP Guide",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming"
+      }
+    ],
+    "labs": [
+      {
+        "title": "OOP Practice",
+        "url": "https://codepen.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Build OOP Applications",
+      "description": "Create applications using object-oriented programming principles in JavaScript.",
+      "tasks": [
+        "Create classes with constructors, properties, and methods",
+        "Implement inheritance using extends to create child classes",
+        "Use getters and setters to control property access",
+        "Demonstrate polymorphism with different objects responding to the same method",
+        "Build a small application using OOP principles and explain your class structure"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the main difference between JavaScript's prototype-based inheritance and class-based inheritance?",
+      "type": "multiple-choice",
+      "options": [
+        "There is no difference",
+        "JavaScript uses prototypes under the hood, but ES6 classes provide cleaner syntax",
+        "Prototypes don't support inheritance",
+        "Classes are faster than prototypes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "JavaScript uses prototype-based inheritance, but ES6 classes provide syntactic sugar that makes OOP code cleaner and more familiar to developers from class-based languages."
+    },
+    {
+      "question": "In JavaScript, 'this' always refers to the object that contains the method.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. 'this' binding depends on how a function is called. Arrow functions preserve 'this' from the enclosing scope, while regular functions have dynamic 'this' binding."
+    },
+    {
+      "question": "What does the 'extends' keyword do in JavaScript classes?",
+      "type": "multiple-choice",
+      "options": [
+        "Creates a new instance",
+        "Enables inheritance from a parent class",
+        "Imports modules",
+        "Exports classes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The 'extends' keyword creates a child class that inherits properties and methods from a parent class, enabling code reuse and hierarchical organization."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

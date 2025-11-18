@@ -1,0 +1,41 @@
+{
+  "subject": "History",
+  "levels": {
+    "Secondary": [
+      "Introduction to Historical Methods and Sources",
+      "Ancient Civilizations: Mesopotamia, Egypt, Greece, and Rome",
+      "Medieval Europe: Feudalism, Crusades, and Renaissance",
+      "Age of Exploration and Global Encounters",
+      "The Reformation and Religious Wars",
+      "The Enlightenment and Age of Revolution",
+      "Industrial Revolution and Social Change",
+      "World War I: Causes, Course, and Consequences",
+      "The Interwar Period: Rise of Totalitarianism",
+      "World War II: Global Conflict and Aftermath",
+      "The Cold War: Superpower Rivalry",
+      "Decolonization and Independence Movements",
+      "Modern World: Globalization and Contemporary Issues",
+      "American History: Colonization to Civil War",
+      "American History: Reconstruction to Present"
+    ],
+    "Advanced": [
+      "Historiography: Methods and Theories of History",
+      "Ancient History: Primary Sources and Archaeological Evidence",
+      "Medieval History: Social, Economic, and Cultural Analysis",
+      "Early Modern Europe: State Formation and Absolutism",
+      "The French Revolution and Napoleonic Era",
+      "19th Century Europe: Nationalism and Imperialism",
+      "World War I: Diplomatic, Military, and Social History",
+      "The Russian Revolution and Soviet Union",
+      "World War II: Military Strategy and Holocaust",
+      "Cold War: International Relations and Proxy Wars",
+      "Postcolonial History: Decolonization and Nation-Building",
+      "Global History: Trade, Migration, and Cultural Exchange",
+      "Historical Research Methods and Primary Source Analysis",
+      "Specialized Topics: Regional or Thematic Studies",
+      "Capstone: Historical Research Project"
+    ]
+  }
+}
+
+

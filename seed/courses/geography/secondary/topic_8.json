@@ -1,0 +1,119 @@
+{
+  "topic": "Economic Geography: Agriculture, Industry, and Trade",
+  "detailedSummary": "Economic geography studies how economic activities are distributed across space. Agriculture types: subsistence (feeding families) and commercial (selling crops). Agricultural systems vary by climate and technology. Industry locations depend on resources, labor, transportation, and markets. Economic sectors: primary (extraction), secondary (manufacturing), tertiary (services), quaternary (information). Trade connects regions through imports and exports. Globalization increases economic interdependence. Economic development varies globally, creating core and peripheral regions. Understanding economic geography explains wealth distribution, trade patterns, and development.",
+  "whyItMatters": "Economic geography explains global wealth distribution, trade patterns, and development - essential for understanding economic systems and addressing inequality.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Economic Geography: Agriculture, Industry, and Trade | Crash Course Geography",
+        "url": "https://www.youtube.com/watch?v=3PKzJdXhWqk"
+      },
+      {
+        "title": "Economic Geography: Agriculture, Industry, and Trade | National Geographic",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Economic Geography: Agriculture, Industry, and Trade | Geography Realm",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Introduction to Human Geography - OpenStax",
+        "url": "https://openstax.org/details/books/introduction-human-geography"
+      },
+      {
+        "title": "Physical Geography - LibreTexts",
+        "url": "https://geo.libretexts.org/"
+      }
+    ],
+    "images": [
+      {
+        "title": "Economic Geography: Agriculture, Industry, and Trade - Visual Aid",
+        "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Research Assignment: Economic Geography: Agriculture, Industry, and Trade",
+      "description": "Conduct research on Economic Geography: Agriculture, Industry, and Trade and write a comprehensive report analyzing key concepts, examples, and real-world applications.",
+      "tasks": [
+        "Research the main concepts and theories related to this topic",
+        "Identify and analyze at least 3 real-world examples",
+        "Create maps, diagrams, or visual aids to illustrate key points",
+        "Write a 1000-word report with proper citations",
+        "Present your findings to the class"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the main focus of Economic Geography: Agriculture, Industry, and Trade?",
+      "options": [
+        "Geographic patterns and processes",
+        "Historical events",
+        "Mathematical calculations",
+        "Literary analysis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Economic Geography: Agriculture, Industry, and Trade focuses on geographic patterns, processes, and spatial relationships.",
+      "type": "multiple-choice"
+    },
+    {
+      "question": "Why is understanding Economic Geography: Agriculture, Industry, and Trade important?",
+      "options": [
+        "It helps understand spatial patterns and global issues",
+        "It is only useful for academic purposes",
+        "It has no real-world applications",
+        "It is outdated information"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Understanding Economic Geography: Agriculture, Industry, and Trade is essential for geographic literacy and addressing global challenges.",
+      "type": "multiple-choice"
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+    "additional": [
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=3PKzJdXhWqk",
+  "fullTopicLesson": {
+    "introduction": "Economic Geography: Agriculture, Industry, and Trade is a fundamental aspect of geography that explores spatial patterns, processes, and relationships.",
+    "keyConcepts": [
+      "Spatial patterns and distributions",
+      "Geographic processes and interactions",
+      "Human-environment relationships",
+      "Regional characteristics and variations"
+    ],
+    "detailedExplanations": [
+      {
+        "concept": "Spatial Patterns",
+        "explanation": "Spatial patterns describe how geographic features are distributed across space, including clustering, dispersion, and linear arrangements."
+      },
+      {
+        "concept": "Geographic Processes",
+        "explanation": "Geographic processes are the mechanisms that create, modify, and maintain spatial patterns over time."
+      }
+    ],
+    "examples": [
+      {
+        "description": "Real-world example",
+        "content": "Examples illustrate how geographic concepts apply to actual places and situations."
+      }
+    ],
+    "realWorldApplications": [
+      "Urban planning and development",
+      "Environmental management",
+      "Resource allocation",
+      "Disaster preparedness"
+    ]
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth equal points. Correct answers demonstrate understanding of key concepts.",
+    "assignmentGrading": "Assignments are graded based on research quality, analysis depth, clarity of writing, and proper use of geographic concepts."
+  }
+}

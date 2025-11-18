@@ -1,0 +1,87 @@
+{
+  "topic": "React Router and Navigation",
+  "detailedSummary": "React Router enables single-page applications (SPAs) with client-side routing, allowing navigation without page reloads. React Router uses BrowserRouter to enable routing. Routes define URL-to-component mappings using Route components. Link components create navigation links that don't reload the page. useNavigate hook programmatically navigates. useParams extracts URL parameters. useLocation accesses current location. useSearchParams handles query strings. Nested routes create hierarchical navigation. Protected routes require authentication. Route guards redirect unauthorized users. Dynamic routes use parameters (:id). 404 pages handle unknown routes. Navigation guards prevent navigation under certain conditions. Understanding React Router enables building multi-page applications with smooth navigation and proper URL management.",
+  "whyItMatters": "React Router is essential for building multi-page React applications - it enables navigation, URL management, and proper routing without page reloads, which is standard in modern web apps.",
+  "materials": {
+    "videos": [
+      {
+        "title": "React Tutorial | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "React Basics | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "React | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "React Router Documentation",
+        "url": "https://reactrouter.com/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "React Router Practice",
+        "url": "https://codesandbox.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Build a Multi-Page React App with Routing",
+      "description": "Create a React application with multiple pages and navigation using React Router.",
+      "tasks": [
+        "Set up React Router in a React application",
+        "Create multiple routes for different pages",
+        "Implement navigation using Link components and useNavigate hook",
+        "Use URL parameters and query strings to pass data between routes",
+        "Build a complete multi-page application with protected routes and 404 handling"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the main advantage of React Router over traditional page navigation?",
+      "type": "multiple-choice",
+      "options": [
+        "It's faster",
+        "It enables client-side routing without page reloads",
+        "It doesn't require JavaScript",
+        "It replaces all navigation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "React Router enables client-side routing, allowing navigation between pages without full page reloads, creating faster, smoother user experiences."
+    },
+    {
+      "question": "Link components in React Router cause full page reloads like regular anchor tags.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Link components in React Router perform client-side navigation without page reloads, maintaining application state and providing faster transitions."
+    },
+    {
+      "question": "What does useParams hook do?",
+      "type": "multiple-choice",
+      "options": [
+        "Manages component state",
+        "Extracts URL parameters from the current route",
+        "Handles side effects",
+        "Creates routes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "useParams extracts URL parameters (like :id in /users/:id) from the current route, allowing components to access dynamic route data."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

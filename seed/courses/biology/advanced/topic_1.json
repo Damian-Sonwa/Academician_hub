@@ -1,0 +1,86 @@
+{
+  "topic": "Advanced Cell Biology and Signaling",
+  "detailedSummary": "Advanced cell biology explores the intricate mechanisms of cellular function beyond basic structure. This includes detailed examination of organelle interactions, the endomembrane system, and how organelles communicate within the cell. Cell signaling pathways are fundamental to understanding how cells respond to their environment. Signal transduction involves receptors on the cell membrane that detect external signals, such as hormones or growth factors, and convert them into intracellular responses. Key signaling pathways include G-protein coupled receptors, receptor tyrosine kinases, and second messenger systems like cAMP and calcium ions. The cytoskeleton, composed of microfilaments, intermediate filaments, and microtubules, provides structural support and enables cell movement, division, and intracellular transport. Vesicular transport mechanisms, including endocytosis and exocytosis, allow cells to import and export materials. Apoptosis, or programmed cell death, is a crucial process for development and maintaining tissue homeostasis. Understanding these advanced cellular processes is essential for comprehending disease mechanisms, drug action, and biotechnology applications. Modern techniques like fluorescence microscopy, live-cell imaging, and molecular biology tools have revolutionized our understanding of cellular dynamics.",
+  "whyItMatters": "Advanced cell biology knowledge is essential for understanding disease mechanisms, drug development, cancer research, and biotechnology applications in medicine and industry.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Cell Structure | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=URUJD5NEXC8"
+      },
+      {
+        "title": "Introduction to Cells | Crash Course Biology",
+        "url": "https://www.youtube.com/watch?v=8IlzKri08kk"
+      },
+      {
+        "title": "Cell Biology | Bozeman Science",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Molecular Biology of the Cell - Advanced Textbook",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Cell Signaling Pathways Virtual Lab",
+        "url": "https://phet.colorado.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Cell Signaling Pathway Analysis",
+      "description": "Research and analyze a specific cell signaling pathway, explaining its components, mechanism, and biological significance.",
+      "tasks": [
+        "Choose a specific signaling pathway (e.g., insulin signaling, MAPK pathway, or JAK-STAT pathway)",
+        "Diagram the pathway showing all key components (receptors, kinases, second messengers, target proteins)",
+        "Explain how the signal is transduced from the cell surface to the nucleus",
+        "Describe the biological outcomes of pathway activation",
+        "Write a 500-600 word report discussing the pathway's role in health and disease, including at least three peer-reviewed sources"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary function of second messengers in cell signaling?",
+      "type": "multiple-choice",
+      "options": [
+        "To directly bind to DNA and activate transcription",
+        "To amplify and distribute signals within the cell",
+        "To break down receptor proteins",
+        "To prevent signal transduction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Second messengers like cAMP and calcium ions amplify and distribute signals within the cell, allowing a single extracellular signal to trigger multiple intracellular responses."
+    },
+    {
+      "question": "Apoptosis is an uncontrolled process that always indicates cellular damage or disease.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Apoptosis is a highly controlled, programmed cell death process that is essential for normal development, tissue maintenance, and removing damaged cells."
+    },
+    {
+      "question": "Which component of the cytoskeleton is primarily involved in cell division?",
+      "type": "multiple-choice",
+      "options": [
+        "Microfilaments only",
+        "Microtubules",
+        "Intermediate filaments only",
+        "All three equally"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Microtubules form the mitotic spindle during cell division, organizing and separating chromosomes. They also form cilia and flagella for cell movement."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1628595351029-c2bf17511435?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=URUJD5NEXC8"
+}

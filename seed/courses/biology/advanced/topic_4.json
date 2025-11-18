@@ -1,0 +1,86 @@
+{
+  "topic": "Developmental Biology",
+  "detailedSummary": "Developmental biology studies how organisms grow and develop from a single fertilized egg into complex multicellular structures. Fertilization involves the fusion of sperm and egg, creating a zygote with a complete set of chromosomes. Cleavage divisions rapidly divide the zygote into smaller cells without growth. Gastrulation is a critical process where the three germ layers (ectoderm, mesoderm, and endoderm) are established, each giving rise to specific tissues and organs. Pattern formation involves the establishment of body axes (anterior-posterior, dorsal-ventral) through morphogen gradients and signaling centers. Homeotic genes control the identity of body segments and appendages. Cell differentiation transforms unspecialized cells into specialized cell types with specific functions, driven by gene expression changes. Stem cells have the capacity for self-renewal and differentiation into multiple cell types. Organogenesis involves the formation of organs from the germ layers through complex interactions between tissues. Developmental processes are highly conserved across species, with model organisms like fruit flies, zebrafish, and mice revealing fundamental principles. Understanding development is crucial for regenerative medicine, understanding birth defects, and stem cell research.",
+  "whyItMatters": "Understanding developmental biology is essential for regenerative medicine, stem cell therapy, understanding birth defects, and advancing tissue engineering and organ transplantation.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Developmental Biology | Khan Academy Biology",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Developmental Biology | Crash Course Biology",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Developmental Biology | Bozeman Science",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Developmental Biology - Advanced Textbook",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Embryonic Development Virtual Lab",
+        "url": "https://phet.colorado.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Developmental Process Analysis",
+      "description": "Research and analyze a specific developmental process, explaining the molecular and cellular mechanisms involved.",
+      "tasks": [
+        "Choose a developmental process to study (e.g., neural tube formation, limb development, or heart development)",
+        "Describe the key stages and morphological changes",
+        "Identify the signaling pathways and genes involved",
+        "Explain how disruptions can lead to developmental disorders",
+        "Write a 500-600 word report with diagrams explaining the developmental process, citing at least three scientific sources"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What are the three germ layers established during gastrulation?",
+      "type": "multiple-choice",
+      "options": [
+        "Ectoderm, mesoderm, and endoderm",
+        "Epidermis, dermis, and hypodermis",
+        "Muscle, bone, and nerve",
+        "Anterior, posterior, and dorsal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gastrulation establishes the three germ layers: ectoderm (skin and nervous system), mesoderm (muscle, bone, blood), and endoderm (gut and internal organs)."
+    },
+    {
+      "question": "Stem cells can only differentiate into one specific cell type.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Stem cells have the capacity to differentiate into multiple cell types. Pluripotent stem cells can become any cell type in the body, while multipotent stem cells can become several related cell types."
+    },
+    {
+      "question": "What is the primary function of morphogens in development?",
+      "type": "multiple-choice",
+      "options": [
+        "To provide nutrients to developing cells",
+        "To establish concentration gradients that specify cell fate and position",
+        "To directly form organs",
+        "To prevent cell division"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Morphogens are signaling molecules that form concentration gradients, providing positional information that helps cells determine their fate and location during development."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=800&q=80",
+      "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

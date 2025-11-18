@@ -1,0 +1,237 @@
+{
+  "topic": "Functions and Their Properties",
+  "detailedSummary": "A function is a relation that assigns exactly one output for each input from a given set. Functions describe how one quantity depends on another. Notation: f(x), where x is input and f(x) is output. Domain: all possible inputs. Range: all possible outputs. Types include linear, quadratic, polynomial, exponential, and logarithmic functions. Key properties: one-to-one (injective), onto (surjective), bijective, even, odd, and periodic. Practical examples: linear f(x) = 3x+2, quadratic f(x) = x^2-4x+3. Graphs, tables, and illustrations help understand function behavior.",
+  "whyItMatters": "Functions are the fundamental building blocks of mathematics - understanding their properties is essential for calculus, modeling real-world relationships, and analyzing data.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Functions - Domain, Range, and Composition | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=Uzt63oiMvvg"
+      },
+      {
+        "title": "What is a Function? | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=WUfTyaaNkzM"
+      },
+      {
+        "title": "Function Properties | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "NCERT Class 12 Mathematics",
+        "url": "https://ncert.nic.in/textbook.php?jemh1=0-1"
+      },
+      {
+        "title": "Higher Algebra by Hall & Knight",
+        "url": "https://archive.org/details/higheralgebra00halluoft"
+      },
+      {
+        "title": "Khan Academy: Functions",
+        "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:functions"
+      },
+      {
+        "title": "Math Is Fun: Functions and their Properties",
+        "url": "https://www.mathsisfun.com/sets/function.html"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Function Grapher - Desmos",
+        "url": "https://www.desmos.com/calculator"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Functions and Their Properties",
+      "description": "Create a table of values for 3 different types of functions (linear, quadratic, cubic). Draw graphs for each function using the table. Identify domain, range, and symmetry properties. Submit your graphs and explanations.",
+      "tasks": [
+        "Create a table of values for a linear function (e.g., f(x) = 3x + 2)",
+        "Create a table of values for a quadratic function (e.g., f(x) = x^2 - 4x + 3)",
+        "Create a table of values for a cubic function (e.g., f(x) = x^3 - 2x)",
+        "Draw graphs for each function using the table of values",
+        "Identify the domain for each function",
+        "Identify the range for each function",
+        "Determine symmetry properties (even, odd, or neither) for each function",
+        "Write explanations for your findings",
+        "Submit your graphs and explanations"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Which best defines a function?",
+      "type": "multiple-choice",
+      "options": [
+        "A relation that assigns exactly one output for each input from a given set",
+        "A relation that can assign multiple outputs for one input",
+        "Any mathematical expression with variables",
+        "A graph that passes the horizontal line test"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A function must have the property that each input value maps to exactly one output value."
+    },
+    {
+      "question": "Identify the domain and range of f(x) = sqrt(x-2).",
+      "type": "multiple-choice",
+      "options": [
+        "Domain: x ≥ 2, Range: y ≥ 0",
+        "Domain: x > 2, Range: y > 0",
+        "Domain: All real numbers, Range: All real numbers",
+        "Domain: x ≤ 2, Range: y ≤ 0"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The square root requires x - 2 ≥ 0, so x ≥ 2. The square root function always produces non-negative outputs, so y ≥ 0."
+    },
+    {
+      "question": "Determine if f(x) = x^3 is even, odd, or neither.",
+      "type": "multiple-choice",
+      "options": [
+        "Even",
+        "Odd",
+        "Neither",
+        "Both even and odd"
+      ],
+      "correctAnswer": 1,
+      "explanation": "f(-x) = (-x)^3 = -x^3 = -f(x), so f(x) = x^3 is an odd function."
+    },
+    {
+      "question": "What makes a function one-to-one?",
+      "type": "multiple-choice",
+      "options": [
+        "Each output value corresponds to exactly one input value",
+        "Each input value has multiple outputs",
+        "The function is symmetric about the y-axis",
+        "The function passes the vertical line test"
+      ],
+      "correctAnswer": 0,
+      "explanation": "One-to-one functions pass the horizontal line test: any horizontal line intersects the graph at most once."
+    },
+    {
+      "question": "What is the vertex of f(x) = x^2 - 4x + 3?",
+      "type": "multiple-choice",
+      "options": [
+        "(2, -1)",
+        "(2, 1)",
+        "(-2, -1)",
+        "(4, 3)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Complete the square: f(x) = (x-2)^2 - 1, showing vertex at (2, -1). Factor: f(x) = (x-1)(x-3), showing roots at x = 1 and x = 3."
+    },
+    {
+      "question": "Is f(x) = sin(x) periodic? Explain.",
+      "type": "multiple-choice",
+      "options": [
+        "Yes, with period 2π",
+        "Yes, with period π",
+        "No, it's not periodic",
+        "Yes, with period 4π"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Yes, sin(x) is periodic with period 2π because sin(x + 2π) = sin(x) for all x."
+    },
+    {
+      "question": "Which is an example of a bijective function?",
+      "type": "multiple-choice",
+      "options": [
+        "f(x) = 3x + 5 (mapping all real numbers to all real numbers)",
+        "f(x) = x^2 (mapping all real numbers to all real numbers)",
+        "f(x) = |x| (mapping all real numbers to all real numbers)",
+        "f(x) = 1/x (mapping all real numbers to all real numbers)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A bijective function is both injective (one-to-one) and surjective (onto), meaning it has an inverse function. f(x) = 3x + 5 is bijective when mapping from all real numbers to all real numbers."
+    },
+    {
+      "question": "Find the vertex of f(x) = 2x^2 - 8x + 6.",
+      "type": "multiple-choice",
+      "options": [
+        "(2, -2)",
+        "(2, 2)",
+        "(-2, 2)",
+        "(4, 6)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Using x = -b/(2a) = 8/(4) = 2, then f(2) = 2(4) - 16 + 6 = -2. Vertex is at (2, -2)."
+    },
+    {
+      "question": "True/False: Every linear function is one-to-one.",
+      "type": "multiple-choice",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1,
+      "explanation": "False. Only linear functions with non-zero slope are one-to-one. Horizontal lines (slope = 0) are not one-to-one."
+    },
+    {
+      "question": "What is the inverse of f(x) = 3x + 5?",
+      "type": "multiple-choice",
+      "options": [
+        "f⁻¹(x) = (x - 5)/3",
+        "f⁻¹(x) = (x + 5)/3",
+        "f⁻¹(x) = 3x - 5",
+        "f⁻¹(x) = (x - 3)/5"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Set y = 3x + 5, then solve for x: y - 5 = 3x, so x = (y - 5)/3. Therefore f⁻¹(x) = (x - 5)/3."
+    }
+  ],
+  "images": {
+    "main": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Linear_function.svg/2560px-Linear_function.svg.png",
+    "additional": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Parabola.svg/2560px-Parabola.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Even_and_odd_function.svg/2560px-Even_and_odd_function.svg.png"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Function": "A relation that assigns exactly one output for each input from a given set. Notation: f(x), where x is input and f(x) is output.",
+      "Domain": "The set of all possible input values (x-values) for which the function is defined.",
+      "Range": "The set of all possible output values (y-values) produced by the function.",
+      "One-to-One (Injective)": "A function where each output value corresponds to exactly one input value. No two different inputs produce the same output.",
+      "Onto (Surjective)": "A function where every element in the range is the image of at least one element in the domain.",
+      "Bijective": "A function that is both one-to-one (injective) and onto (surjective). Bijective functions have inverse functions.",
+      "Even Function": "A function where f(-x) = f(x) for all x in the domain. Graph is symmetric about the y-axis. Example: f(x) = x^2.",
+      "Odd Function": "A function where f(-x) = -f(x) for all x in the domain. Graph is symmetric about the origin. Example: f(x) = x^3.",
+      "Periodic Function": "A function that repeats its values at regular intervals. f(x + p) = f(x) for some period p. Example: f(x) = sin(x) with period 2π."
+    },
+    "keyConcepts": [
+      "Functions assign exactly one output to each input - this is the fundamental property",
+      "Domain restrictions come from: division by zero, square roots of negatives, logarithms of non-positives",
+      "Function properties (one-to-one, onto, even, odd, periodic) describe important characteristics",
+      "Linear functions f(x) = mx + b have constant rate of change (slope m)",
+      "Quadratic functions f(x) = ax^2 + bx + c form parabolas with specific properties"
+    ],
+    "stepByStepExplanations": [
+      "**Evaluating a Linear Function:** For f(x) = 3x + 2, find f(1), f(2), f(3): Step 1) f(1) = 3(1) + 2 = 5. Step 2) f(2) = 3(2) + 2 = 8. Step 3) f(3) = 3(3) + 2 = 11. Outputs: 5, 8, 11.",
+      "**Finding Domain:** For f(x) = sqrt(x-2): Step 1) Square root requires non-negative input: x - 2 ≥ 0. Step 2) Solve: x ≥ 2. Step 3) Domain: [2, ∞).",
+      "**Determining if Function is Even or Odd:** For f(x) = x^3: Step 1) Find f(-x) = (-x)^3 = -x^3. Step 2) Compare: f(-x) = -x^3 = -f(x). Step 3) Since f(-x) = -f(x), the function is odd.",
+      "**Finding Vertex of Quadratic:** For f(x) = x^2 - 4x + 3: Step 1) Use x = -b/(2a) = 4/(2) = 2. Step 2) Find f(2) = 4 - 8 + 3 = -1. Step 3) Vertex is at (2, -1)."
+    ],
+    "examples": [
+      "**Linear Function Example:** f(x) = 3x + 2\n   Input x = 1, 2, 3 gives outputs 5, 8, 11\n   Domain: All real numbers\n   Range: All real numbers\n   Graph: Straight line with slope 3, y-intercept 2",
+      "**Quadratic Function Example:** f(x) = x^2 - 4x + 3\n   Roots at x = 1, 3 (found by factoring: (x-1)(x-3) = 0)\n   Vertex at x = 2 (using -b/(2a) = 4/2 = 2)\n   f(2) = 4 - 8 + 3 = -1, so vertex is (2, -1)\n   Graph: Parabola opening upward",
+      "**Even Function Example:** f(x) = x^2\n   f(-x) = (-x)^2 = x^2 = f(x)\n   Symmetric about y-axis\n   Examples: f(-2) = 4, f(2) = 4 (same output)",
+      "**Odd Function Example:** f(x) = x^3\n   f(-x) = (-x)^3 = -x^3 = -f(x)\n   Symmetric about origin\n   Examples: f(-2) = -8, f(2) = 8 (opposite outputs)"
+    ],
+    "realLifeApplications": [
+      "**Linear Functions in Cost Models:** C(x) = 50 + 10x models total cost with $50 fixed cost plus $10 per unit. Domain: x ≥ 0 (can't produce negative units). Graph: line starting at (0, 50) with slope 10.",
+      "**Quadratic Functions in Projectile Motion:** h(t) = -16t^2 + 64t models height of projectile. Domain: t ≥ 0 (time). Vertex at t = 2 gives maximum height h(2) = 64 feet. Graph: parabola opening downward.",
+      "**Periodic Functions in Waves:** f(t) = sin(2πt) models wave motion with period 1. Used in physics, engineering, and signal processing to describe oscillating phenomena.",
+      "**Exponential Functions in Growth:** P(t) = 1000·2^(t/5) models population doubling every 5 years. Domain: t ≥ 0. Range: P ≥ 1000. Graph: exponential growth curve."
+    ],
+    "diagramsOrImageDescriptions": [
+      "Graph of Linear Function: A straight line on coordinate plane showing f(x) = 3x + 2, demonstrating constant slope and y-intercept at (0, 2).",
+      "Graph of Quadratic Function: A parabola opening upward showing f(x) = x^2 - 4x + 3, with vertex at (2, -1) and x-intercepts at (1, 0) and (3, 0).",
+      "Even and Odd Functions: Side-by-side graphs showing even function (symmetric about y-axis, like x^2) and odd function (symmetric about origin, like x^3)."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Multiple-choice questions: 1 point each. True/false questions: 1 point each. Short-answer questions: 2 points each (1 for correct answer, 1 for explanation). Total: 15 points. Passing: 11/15 (73%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uzt63oiMvvg"
+}

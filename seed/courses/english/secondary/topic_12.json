@@ -1,0 +1,157 @@
+{
+  "topic": "Critical Reading and Textual Analysis",
+  "detailedSummary": "Critical reading goes beyond surface understanding to analyze, evaluate, and interpret texts deeply. It involves active engagement: questioning the text, identifying assumptions, recognizing bias, evaluating evidence, and considering multiple perspectives. Close reading examines language choices, word connotations, sentence structure, and how these create meaning. Annotation—marking texts with notes, questions, and observations—aids comprehension and analysis. Textual analysis identifies: explicit meaning (what the text directly states), implicit meaning (what is suggested or implied), author's purpose (to inform, persuade, entertain), tone (author's attitude), and point of view (perspective from which text is written). Context matters: historical period, author's background, intended audience, and cultural setting influence meaning. Recognizing rhetorical strategies helps understand how texts persuade: appeals to emotion, logic, or credibility; use of evidence; and organizational patterns. Evaluating arguments requires assessing: claim validity, evidence quality, reasoning soundness, and potential biases. Comparing texts reveals similarities, differences, and how different authors address similar themes. Synthesizing information from multiple sources builds comprehensive understanding. Critical reading develops analytical thinking, enables informed evaluation of information, and prepares readers to engage thoughtfully with texts in academic, professional, and personal contexts. These skills are essential for academic success, media literacy, and making informed decisions.",
+  "whyItMatters": "Critical reading develops analytical thinking and evaluation skills - essential for academic success, media literacy, informed decision-making, and engaging thoughtfully with all types of texts.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Critical Reading and Textual Analysis | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Critical Reading and Textual Analysis | Crash Course Literature",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Critical Reading and Textual Analysis | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Writing for Success - Critical Reading - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/textbooks/writing-for-success"
+      },
+      {
+        "title": "Critical Thinking - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/philosophy"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Reading Comprehension Practice - Khan Academy",
+        "url": "https://www.khanacademy.org/humanities"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Critical Reading and Textual Analysis",
+      "description": "Develop critical reading skills through analysis and evaluation of various texts.",
+      "tasks": [
+        "Annotate 5 different types of texts (articles, essays, literature)",
+        "Write close reading analyses of 3 passages",
+        "Identify explicit and implicit meanings in texts",
+        "Analyze author's purpose, tone, and point of view in 10 texts",
+        "Evaluate arguments for claim, evidence, and reasoning",
+        "Compare how different authors address the same topic",
+        "Synthesize information from multiple sources on a topic",
+        "Identify bias and assumptions in texts",
+        "Write textual analysis essays with evidence",
+        "Create a critical reading portfolio with analyses"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Critical reading involves:",
+      "type": "multiple-choice",
+      "options": [
+        "Analyzing, evaluating, and interpreting texts deeply",
+        "Only reading quickly",
+        "Accepting everything in a text as true",
+        "Only identifying facts"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Critical reading involves active engagement: analyzing how texts work, evaluating arguments and evidence, and interpreting deeper meanings."
+    },
+    {
+      "question": "What is the difference between explicit and implicit meaning?",
+      "type": "multiple-choice",
+      "options": [
+        "Explicit is directly stated; implicit is suggested",
+        "Explicit is suggested; implicit is directly stated",
+        "They mean the same thing",
+        "Explicit is always true; implicit is always false"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Explicit meaning is directly stated in the text, while implicit meaning is suggested, implied, or inferred from context and clues."
+    },
+    {
+      "question": "Annotation is:",
+      "type": "multiple-choice",
+      "options": [
+        "Marking texts with notes, questions, and observations",
+        "Rewriting the text",
+        "Memorizing the text",
+        "Summarizing only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Annotation involves actively marking texts with notes, questions, observations, and connections to aid comprehension and analysis."
+    },
+    {
+      "question": "All texts are completely objective with no bias.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Most texts reflect some perspective or bias. Critical readers identify these biases and consider how they affect the text's message."
+    },
+    {
+      "question": "Synthesizing information means:",
+      "type": "multiple-choice",
+      "options": [
+        "Combining ideas from multiple sources into a coherent understanding",
+        "Copying information from sources",
+        "Reading only one source",
+        "Summarizing each source separately"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Synthesizing means integrating information from multiple sources to build a comprehensive understanding, identifying connections and patterns."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Key Concept 1": "A fundamental idea related to this topic.",
+      "Key Concept 2": "An important principle in this area of study.",
+      "Key Concept 3": "A core element essential to understanding this topic."
+    },
+    "keyConcepts": [
+      "Critical reading goes beyond surface understanding to analyze, evaluate, and interpret texts deeply",
+      "It involves active engagement: questioning the text, identifying assumptions, recognizing bias, eval...",
+      "Close reading examines language choices, word connotations, sentence structure, and how these create...",
+      "Annotation—marking texts with notes, questions, and observations—aids comprehension and analysis",
+      "Textual analysis identifies: explicit meaning (what the text directly states), implicit meaning (wha..."
+    ],
+    "stepByStepExplanations": [
+      "**Understanding critical:** Critical reading goes beyond surface understanding to analyze, evaluate, and interpret texts deeply. It involves active engagement: questioning the te...",
+      "**Applying concepts:** Practice with examples specific to Critical Reading and Textual Analysis.",
+      "**Mastering skills:** Develop proficiency through structured exercises."
+    ],
+    "examples": [
+      "**Example 1:** A practical illustration of critical in action.",
+      "**Example 2:** Another scenario demonstrating reading.",
+      "**Example 3:** A real-world application of textual."
+    ],
+    "realLifeApplications": [
+      "**Academic Context:** Critical Reading and Textual Analysis is essential for academic success and scholarly work.",
+      "**Professional Use:** These skills apply directly to professional communication and analysis.",
+      "**Personal Development:** Understanding Critical Reading and Textual Analysis enhances critical thinking and expression."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram illustrating key concepts of Critical Reading and Textual Analysis.",
+      "A flowchart showing the process and relationships in Critical Reading and Textual Analysis."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

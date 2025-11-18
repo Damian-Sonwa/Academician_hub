@@ -1,0 +1,86 @@
+{
+  "topic": "Advanced Subjunctive: Complex Uses and Expressions",
+  "detailedSummary": "Advanced subjunctive covers complex uses beyond basic emotion and doubt. Past subjunctive (imperfect subjunctive) expresses hypotheticals in the past: 'Si tuviera dinero, viajaría' (If I had money, I would travel). Formation: take third-person preterite, drop '-ron', add '-ra' or '-se' endings. Uses: 'Ojalá que...' (I hope that...), 'Como si...' (As if...), conditional sentences with 'si', expressions of time ('cuando', 'hasta que', 'después de que' with future reference). Present perfect subjunctive: 'Espero que hayas estudiado' (I hope you have studied). Pluperfect subjunctive: 'Si hubiera sabido...' (If I had known...). Adverbial clauses: 'aunque' (although), 'a menos que' (unless), 'con tal de que' (provided that), 'para que' (so that). Noun clauses after verbs of influence, emotion, doubt. Advanced expressions: 'No creo que...' (I don't think that...), 'Es posible que...' (It's possible that...), 'Dudo que...' (I doubt that...). Mastering advanced subjunctive enables expressing complex thoughts, hypotheticals, and nuanced meanings.",
+  "whyItMatters": "Advanced subjunctive is essential for sophisticated Spanish - it enables expressing complex hypotheticals, nuanced thoughts, and is used constantly in formal and academic Spanish.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Advanced Subjunctive: Complex Uses and Expressions | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Advanced Subjunctive: Complex Uses and Expressions | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Advanced Subjunctive: Complex Uses and Expressions | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Advanced Subjunctive Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Advanced Subjunctive Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Advanced Subjunctive",
+      "description": "Practice complex subjunctive uses including past subjunctive, conditional sentences, and adverbial clauses.",
+      "tasks": [
+        "Conjugate verbs in imperfect subjunctive and pluperfect subjunctive",
+        "Write conditional sentences using 'si' clauses with subjunctive",
+        "Practice subjunctive after adverbial expressions (aunque, para que, a menos que)",
+        "Use 'Ojalá que' with different subjunctive tenses",
+        "Write complex sentences combining multiple subjunctive uses"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the imperfect subjunctive used for?",
+      "type": "multiple-choice",
+      "options": [
+        "Only past tense",
+        "Hypothetical situations in the past and conditional sentences",
+        "Only future",
+        "Only present"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Imperfect subjunctive expresses hypotheticals in the past and is used in conditional sentences: 'Si tuviera tiempo, estudiaría más' (If I had time, I would study more)."
+    },
+    {
+      "question": "'Para que' (so that) always requires the subjunctive because it expresses purpose or intention.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. 'Para que' expresses purpose and always triggers subjunctive: 'Estudio para que aprendas' (I study so that you learn)."
+    },
+    {
+      "question": "How do you form the imperfect subjunctive?",
+      "type": "multiple-choice",
+      "options": [
+        "Take the infinitive and add endings",
+        "Take the third-person preterite, drop '-ron', add '-ra' or '-se' endings",
+        "Use the present subjunctive",
+        "Use the future tense"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Imperfect subjunctive: take third-person plural preterite (hablaron), drop '-ron' (habla-), add '-ra' endings (hablara) or '-se' endings (hablase)."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+}

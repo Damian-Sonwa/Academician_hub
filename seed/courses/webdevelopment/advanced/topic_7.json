@@ -1,0 +1,87 @@
+{
+  "topic": "Introduction to React: Components, Props, and State",
+  "detailedSummary": "React is a JavaScript library for building user interfaces using a component-based architecture. Components are reusable pieces of UI that return JSX (JavaScript XML), which looks like HTML but is JavaScript. Functional components are functions that return JSX. Props (properties) pass data from parent to child components, making components reusable and configurable. State manages component data that can change over time, using useState hook. useState returns the current state and a function to update it. Components re-render when state changes. JSX allows embedding JavaScript expressions with {}. Event handling uses camelCase (onClick, onChange). Conditional rendering displays content based on conditions. Lists are rendered using map() with unique keys. Understanding React fundamentals enables building modern, interactive user interfaces with reusable, maintainable components.",
+  "whyItMatters": "React is the most popular frontend framework - understanding React is essential for modern web development and opens opportunities in professional development careers.",
+  "materials": {
+    "videos": [
+      {
+        "title": "React Tutorial | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "React Basics | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "React | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "React Documentation",
+        "url": "https://react.dev/learn"
+      }
+    ],
+    "labs": [
+      {
+        "title": "React Practice",
+        "url": "https://codesandbox.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Build Your First React App",
+      "description": "Create a React application with multiple components, props, and state management.",
+      "tasks": [
+        "Set up a React project using Create React App or Vite",
+        "Create functional components and use JSX to render UI",
+        "Pass data between components using props",
+        "Implement state management using useState hook",
+        "Build an interactive application (like a todo list or counter) demonstrating components, props, and state"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is JSX in React?",
+      "type": "multiple-choice",
+      "options": [
+        "A JavaScript framework",
+        "JavaScript XML - syntax that looks like HTML but is JavaScript",
+        "A CSS framework",
+        "A database"
+      ],
+      "correctAnswer": 1,
+      "explanation": "JSX (JavaScript XML) is a syntax extension that allows writing HTML-like code in JavaScript, which React compiles into JavaScript function calls."
+    },
+    {
+      "question": "Props in React are read-only and cannot be modified by child components.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Props are read-only and flow down from parent to child. To change data, you update state in the parent component and pass new props down."
+    },
+    {
+      "question": "What does the useState hook return?",
+      "type": "multiple-choice",
+      "options": [
+        "Only the state value",
+        "An array with the current state and a function to update it",
+        "Only the update function",
+        "A component"
+      ],
+      "correctAnswer": 1,
+      "explanation": "useState returns an array with two elements: the current state value and a function to update that state, typically destructured as [state, setState]."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

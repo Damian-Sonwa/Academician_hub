@@ -1,0 +1,171 @@
+{
+  "topic": "Eigenvalues, Eigenvectors, and Matrix Decompositions",
+  "detailedSummary": "Eigenvalues and eigenvectors reveal fundamental properties of linear transformations. For a square matrix A, an eigenvector v is a nonzero vector such that Av = λv, where λ is the eigenvalue. This means the transformation only scales the eigenvector, not changing its direction. Finding eigenvalues involves solving the characteristic equation det(A - λI) = 0, a polynomial equation. Eigenvectors are found by solving (A - λI)v = 0 for each eigenvalue. The algebraic multiplicity is how many times an eigenvalue appears as a root, while geometric multiplicity is the dimension of the eigenspace. Diagonalization writes A = PDP⁻¹ where D is diagonal with eigenvalues, and P has eigenvectors as columns. This simplifies matrix powers: Aⁿ = PDⁿP⁻¹. Matrix decompositions break matrices into simpler components: LU decomposition (A = LU, lower and upper triangular), QR decomposition (A = QR, orthogonal and upper triangular), and Singular Value Decomposition SVD (A = UΣVᵀ, revealing rank and structure). These decompositions enable efficient computation, solving systems, least squares problems, and data compression. Applications include: principal component analysis (PCA) in data science, solving differential equations, Google's PageRank algorithm, image processing, and quantum mechanics. Understanding eigenvalues and decompositions is essential for advanced linear algebra, numerical methods, and applications in science and engineering.",
+  "whyItMatters": "Eigenvalues and matrix decompositions reveal fundamental structure and enable efficient computation - essential for data science, quantum mechanics, numerical methods, and advanced applications.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Eigenvalues and Eigenvectors | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=PFDu9oVAE-g"
+      },
+      {
+        "title": "Matrix Decompositions | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=ue3yoeZvt8E"
+      },
+      {
+        "title": "Diagonalization | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=PFDu9oVAE-g"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Linear Algebra - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/textbooks/linear-algebra"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Eigenvalue Calculator - Wolfram Alpha",
+        "url": "https://www.wolframalpha.com/calculators/eigenvalue-calculator"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Eigenvalues, Eigenvectors, and Matrix Decompositions",
+      "description": "Master eigenvalue problems, diagonalization, and matrix decompositions.",
+      "tasks": [
+        "Find eigenvalues and eigenvectors for 10 matrices",
+        "Diagonalize 5 matrices (when possible)",
+        "Calculate matrix powers using diagonalization",
+        "Perform LU decomposition for 5 matrices",
+        "Perform QR decomposition for 5 matrices",
+        "Analyze geometric and algebraic multiplicities",
+        "Solve systems using matrix decompositions",
+        "Apply eigenvalue methods to differential equations",
+        "Use eigenvalues for stability analysis",
+        "Apply SVD to data analysis problems",
+        "Research the spectral theorem. Study how symmetric matrices can be diagonalized and its applications",
+        "Investigate the Jordan canonical form. Research how it generalizes diagonalization for non-diagonalizable matrices",
+        "Study the Perron-Frobenius theorem. Research its applications in Markov chains and network analysis",
+        "Explore the use of eigenvalues in principal component analysis (PCA). Research how PCA reduces dimensionality",
+        "Investigate the application of eigenvalues in quantum mechanics. Research how eigenvalues represent energy levels",
+        "Research the Cayley-Hamilton theorem. Study how matrices satisfy their own characteristic equation",
+        "Study the Schur decomposition. Research how it factors matrices and its relationship to eigenvalues",
+        "Explore applications of matrix decompositions in numerical linear algebra. Research how they improve computational efficiency",
+        "Investigate the use of eigenvalues in graph theory. Research how the adjacency matrix's eigenvalues reveal graph properties",
+        "Study the application of SVD in image compression and machine learning. Research how it extracts important features"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "If Av = 3v for a nonzero vector v, what is the eigenvalue?",
+      "type": "multiple-choice",
+      "options": [
+        "3",
+        "v",
+        "A",
+        "Cannot be determined"
+      ],
+      "correctAnswer": 0,
+      "explanation": "By definition, if Av = λv, then λ is the eigenvalue. Here, λ = 3."
+    },
+    {
+      "question": "To find eigenvalues, you solve:",
+      "type": "multiple-choice",
+      "options": [
+        "det(A - λI) = 0",
+        "det(A) = 0",
+        "Av = 0",
+        "A = λI"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The characteristic equation det(A - λI) = 0 gives the eigenvalues."
+    },
+    {
+      "question": "A matrix is diagonalizable if:",
+      "type": "multiple-choice",
+      "options": [
+        "It has n linearly independent eigenvectors (for n×n matrix)",
+        "All eigenvalues are real",
+        "The determinant is nonzero",
+        "It is symmetric"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A matrix is diagonalizable if and only if it has n linearly independent eigenvectors (where n is the matrix size)."
+    },
+    {
+      "question": "All matrices are diagonalizable.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Not all matrices are diagonalizable. A matrix needs n linearly independent eigenvectors to be diagonalizable."
+    },
+    {
+      "question": "What does LU decomposition enable?",
+      "type": "multiple-choice",
+      "options": [
+        "Efficient solving of systems Ax = b",
+        "Finding eigenvalues",
+        "Matrix multiplication",
+        "All of the above"
+      ],
+      "correctAnswer": 0,
+      "explanation": "LU decomposition (A = LU) allows solving Ax = b by solving Ly = b then Ux = y, which is computationally efficient."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1574170275470-a717198122c8?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Eigenvalue": "A scalar λ such that Av = λv for some nonzero vector v. Represents scaling factor in eigenvector direction.",
+      "Eigenvector": "A nonzero vector v such that Av = λv. Direction unchanged by transformation A, only scaled by eigenvalue λ.",
+      "Characteristic Equation": "det(A - λI) = 0. Polynomial equation whose roots are eigenvalues. For 2×2 matrix: λ² - tr(A)λ + det(A) = 0.",
+      "Eigenspace": "Set of all eigenvectors for a given eigenvalue λ, plus zero vector. Solution space of (A - λI)v = 0.",
+      "Diagonalization": "Writing A = PDP⁻¹ where D is diagonal matrix of eigenvalues, P has eigenvectors as columns. Powers: Aⁿ = PDⁿP⁻¹.",
+      "Spectral Decomposition": "For symmetric matrices: A = QΛQᵀ where Q is orthogonal (eigenvectors), Λ is diagonal (eigenvalues).",
+      "LU Decomposition": "A = LU where L is lower triangular, U is upper triangular. Enables efficient solving of Ax = b by forward/back substitution.",
+      "QR Decomposition": "A = QR where Q is orthogonal, R is upper triangular. Used in least squares and eigenvalue algorithms."
+    },
+    "keyConcepts": [
+      "Eigenvectors are directions unchanged by transformation (only scaled)",
+      "Eigenvalues indicate scaling factors in eigenvector directions",
+      "Characteristic equation det(A - λI) = 0 finds eigenvalues",
+      "Diagonalizable matrices can be written as A = PDP⁻¹, simplifying powers and exponentials",
+      "Matrix decompositions (LU, QR, spectral) enable efficient computation and analysis"
+    ],
+    "stepByStepExplanations": [
+      "**Finding Eigenvalues:** A = [[3,1],[0,2]]: Step 1) Characteristic: det([[3-λ,1],[0,2-λ]]) = (3-λ)(2-λ) = 0. Step 2) Eigenvalues: λ = 3, λ = 2. Step 3) For λ = 3: (A-3I)v = 0 gives [[0,1],[0,-1]][x,y] = [0,0], so y = 0, eigenvector v₁ = [1,0]. Step 4) For λ = 2: eigenvector v₂ = [1,-1].",
+      "**Diagonalization:** A = [[4,1],[2,3]]: Step 1) Find eigenvalues: λ = 5, 2. Step 2) Eigenvectors: v₁ = [1,1] for λ=5, v₂ = [1,-2] for λ=2. Step 3) P = [[1,1],[1,-2]], D = [[5,0],[0,2]]. Step 4) Verify: A = PDP⁻¹. Step 5) A¹⁰ = PD¹⁰P⁻¹ = P[[5¹⁰,0],[0,2¹⁰]]P⁻¹.",
+      "**LU Decomposition:** A = [[2,1],[4,3]]: Step 1) Gaussian elimination: [[2,1],[4,3]] → [[2,1],[0,1]] (R₂ → R₂ - 2R₁). Step 2) L = [[1,0],[2,1]] (multipliers), U = [[2,1],[0,1]]. Step 3) Verify: LU = [[2,1],[4,3]] = A. Step 4) Solve Ax = b: first Ly = b, then Ux = y.",
+      "**Spectral Decomposition:** Symmetric A = [[3,1],[1,3]]: Step 1) Eigenvalues: λ = 4, 2. Step 2) Orthonormal eigenvectors: q₁ = (1/√2)[1,1], q₂ = (1/√2)[1,-1]. Step 3) Q = [[1/√2,1/√2],[1/√2,-1/√2]], Λ = [[4,0],[0,2]]. Step 4) A = QΛQᵀ."
+    ],
+    "examples": [
+      "**Eigenvalue Problem:** A = [[2,1],[0,3]]\n   Characteristic: (2-λ)(3-λ) = 0\n   Eigenvalues: λ = 2, 3\n   For λ=2: eigenvector [1,0]\n   For λ=3: eigenvector [1,1]",
+      "**Diagonalization:** A = [[5,2],[0,3]]\n   Already diagonal (upper triangular)\n   Eigenvalues on diagonal: 5, 3\n   Eigenvectors: [1,0] and [1,-1]\n   P = [[1,1],[0,-1]], D = [[5,0],[0,3]]",
+      "**Matrix Powers:** A = [[1,1],[0,2]]\n   Eigenvalues: 1, 2\n   Diagonalize: A = PDP⁻¹\n   Aⁿ = P[[1,0],[0,2ⁿ]]P⁻¹\n   Efficient for large n",
+      "**LU Decomposition:** A = [[3,2],[6,5]]\n   L = [[1,0],[2,1]], U = [[3,2],[0,1]]\n   Solve Ax = [7,17]:\n   First: Ly = [7,17] → y = [7,3]\n   Then: Ux = [7,3] → x = [1,3]"
+    ],
+    "realLifeApplications": [
+      "**Principal Component Analysis (PCA):** Eigenvalues/eigenvectors of covariance matrix identify principal directions of variation. Largest eigenvalues correspond to most important features. Used in data compression and dimensionality reduction.",
+      "**Vibration Analysis:** Eigenvalues represent natural frequencies, eigenvectors represent mode shapes. Mechanical systems: bridges, buildings, vehicles. Engineers design to avoid resonance (matching forcing frequency to eigenvalue).",
+      "**Google PageRank:** Web pages as eigenvectors of link matrix. Largest eigenvalue's eigenvector gives page importance scores. Powers the original Google search algorithm.",
+      "**Quantum Mechanics:** Observables represented by Hermitian matrices. Eigenvalues are possible measurement values. Eigenvectors are quantum states. Fundamental to quantum theory."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A diagram showing eigenvector transformation: vector v transformed by A to Av = λv, demonstrating that eigenvector direction is preserved, only scaled by eigenvalue λ.",
+      "A graph showing diagonalization: matrix A transformed to diagonal matrix D through similarity transformation P⁻¹AP = D, with eigenvalues on diagonal.",
+      "A visual representation of LU decomposition: matrix A factored into lower triangular L and upper triangular U, showing how this simplifies solving systems."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=PFDu9oVAE-g"
+}

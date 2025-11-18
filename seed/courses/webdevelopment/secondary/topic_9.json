@@ -1,0 +1,87 @@
+{
+  "topic": "JavaScript Functions and Scope",
+  "detailedSummary": "Functions are reusable blocks of code that perform specific tasks. Functions are declared using the function keyword or arrow function syntax (ES6). Functions can accept parameters (inputs) and return values (outputs). Function declarations are hoisted (available before declaration), while function expressions are not. Arrow functions provide concise syntax and automatically bind 'this'. Scope determines where variables are accessible: global scope (accessible everywhere), function scope (accessible within the function), and block scope (accessible within {} blocks). let and const are block-scoped, while var is function-scoped. Closures occur when inner functions access variables from outer functions even after the outer function returns. Higher-order functions accept other functions as arguments or return functions. Understanding functions and scope is crucial for writing organized, reusable, and maintainable JavaScript code.",
+  "whyItMatters": "Functions are the building blocks of JavaScript programs - they enable code reuse, organization, and modularity, which are essential for building complex applications.",
+  "materials": {
+    "videos": [
+      {
+        "title": "JavaScript Tutorial | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "JavaScript Basics | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "JavaScript | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "JavaScript Functions Guide",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Functions Practice",
+        "url": "https://codepen.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Create Reusable Functions",
+      "description": "Write and use functions to solve problems, demonstrating understanding of parameters, return values, and scope.",
+      "tasks": [
+        "Create functions using both function declarations and arrow functions",
+        "Write functions that accept parameters and return calculated values",
+        "Demonstrate understanding of scope by creating variables in different scopes",
+        "Create a function that uses another function (higher-order function)",
+        "Write a brief explanation of when to use function declarations vs arrow functions"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the main difference between function declarations and arrow functions?",
+      "type": "multiple-choice",
+      "options": [
+        "Arrow functions cannot have parameters",
+        "Arrow functions have different 'this' binding and cannot be hoisted",
+        "Function declarations cannot return values",
+        "There is no difference"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Arrow functions automatically bind 'this' from the enclosing scope and are not hoisted, while function declarations are hoisted and have their own 'this' binding."
+    },
+    {
+      "question": "Variables declared with let and const are function-scoped, meaning they're accessible throughout the entire function.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. let and const are block-scoped, meaning they're only accessible within the {} block where they're declared, not the entire function."
+    },
+    {
+      "question": "What is a closure in JavaScript?",
+      "type": "multiple-choice",
+      "options": [
+        "A way to close a function",
+        "An inner function that has access to outer function variables even after the outer function returns",
+        "A type of loop",
+        "A way to declare variables"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A closure is when an inner function maintains access to variables from its outer (enclosing) function's scope, even after the outer function has finished executing."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

@@ -1,0 +1,96 @@
+{
+  "course": "biology",
+  "level": "advanced",
+  "week": 3,
+  "topic": "DNA and Genetics",
+  "summary": "Unravel the secrets of heredity and the genetic code. Learn about DNA structure, replication, transcription, and translation.  Understand Mendelian genetics, Punnett squares, and modern genetic engineering techniques. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nDNA (deoxyribonucleic acid) is the molecule that carries genetic information in all living organisms. It consists of two strands twisted into a double helix, with each strand made up of nucleotides containing a sugar, phosphate group, and one of four nitrogenous bases: adenine (A), thymine (T), cytosine (C), and guanine (G). The bases pair specifically: A with T, and C with G, forming the rungs of the DNA ladder.\n\nGenetics is the study of heredity and how traits are passed from parents to offspring. Gregor Mendel's experiments with pea plants established the fundamental principles of inheritance, including the concepts of dominant and recessive traits, segregation, and independent assortment. These principles are expressed through Punnett squares, which predict the probability of offspring inheriting specific traits.\n\nDNA replication ensures that genetic information is accurately copied when cells divide. The process involves unwinding the double helix, separating the strands, and synthesizing new complementary strands. Gene expression occurs through transcription (DNA to RNA) and translation (RNA to protein), following the central dogma of molecular biology.\n\nModern genetics has expanded to include genetic engineering, where scientists can modify DNA to create organisms with desired traits. This technology has applications in medicine, agriculture, and biotechnology. Understanding genetics helps us comprehend evolution, disease inheritance, and the diversity of life on Earth.",
+  "why_it_matters": "Genetics knowledge is crucial for understanding heredity, genetic diseases, biotechnology, and the evolution of species, with applications in medicine, agriculture, and forensic science.",
+  "materials": {
+    "videos": [
+      {
+        "title": "DNA and Genetics - Tutorial",
+        "url": "https://youtu.be/dQw4w9WgXcQ"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "DNA Model Kit Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Genetics Practice Problems",
+        "url": "https://phet.colorado.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Research Assignment: DNA and Genetics",
+      "description": "Complete a research assignment exploring key concepts related to DNA and Genetics.",
+      "tasks": [
+        "Read the assigned textbook chapters and online resources about DNA and Genetics",
+        "Identify and explain at least three key concepts from the topic",
+        "Find one real-world example or application of these concepts",
+        "Write a 300-500 word summary explaining your findings",
+        "Include at least two credible sources in your research"
+      ]
+    },
+    {
+      "title": "Practical Exercise: DNA and Genetics",
+      "description": "Apply your understanding of DNA and Genetics through hands-on activities.",
+      "tasks": [
+        "Complete the lab exercises or simulations related to DNA and Genetics",
+        "Document your observations and findings in a lab report",
+        "Answer the reflection questions about what you learned",
+        "Create a visual representation (diagram, chart, or model) of key concepts",
+        "Present your findings to the class or submit a written report"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary focus of DNA and Genetics?",
+      "options": [
+        "Understanding fundamental concepts of DNA and Genetics",
+        "Memorizing facts without context",
+        "Avoiding practical applications",
+        "Focusing only on advanced topics"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+    },
+    {
+      "question": "Which of the following best describes the importance of DNA and Genetics?",
+      "options": [
+        "It provides essential knowledge for understanding science",
+        "It is only relevant for advanced students",
+        "It has no real-world applications",
+        "It is purely theoretical without practical value"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "This topic provides essential foundational knowledge that is crucial for understanding science and has practical applications in real-world contexts."
+    },
+    {
+      "question": "DNA and Genetics is an important topic for understanding science at the Advanced level.",
+      "answer": true,
+      "type": "true-false",
+      "explanation": "This statement is true. DNA and Genetics provides fundamental knowledge that is essential for building a strong understanding of science."
+    },
+    {
+      "question": "The concepts in DNA and Genetics have no practical applications in real life.",
+      "answer": false,
+      "type": "true-false",
+      "explanation": "This statement is false. The concepts in DNA and Genetics have numerous practical applications in various fields and everyday life."
+    },
+    {
+      "question": "The study of DNA and Genetics helps students understand the fundamental principles of ______.",
+      "answer": "science",
+      "type": "fill-in-the-blank",
+      "explanation": "The correct answer is \"science\". DNA and Genetics is a key component of science that helps students understand fundamental principles in this field."
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "topic": "Complex Analysis: Complex Numbers and Functions",
+  "detailedSummary": "Complex numbers extend real numbers by including the imaginary unit i, where i² = -1. A complex number has form z = a + bi, where a is the real part and b is the imaginary part. Complex numbers can be represented geometrically in the complex plane (Argand diagram) as points (a, b) or vectors. Polar form represents z = r(cos θ + i sin θ) = re^(iθ), where r = |z| = √(a² + b²) is the modulus and θ = arg(z) is the argument. Euler's formula e^(iθ) = cos θ + i sin θ connects exponentials and trigonometry. Complex arithmetic: addition (component-wise), multiplication (distribute and use i² = -1), and division (multiply by conjugate). The complex conjugate z̄ = a - bi has property z·z̄ = |z|². Complex functions f: ℂ → ℂ map complex numbers to complex numbers. Key functions include: polynomials, exponentials e^z, trigonometric functions, and logarithms. The complex exponential e^z has period 2πi. Complex differentiation requires the Cauchy-Riemann equations: if f = u + iv is differentiable, then ∂u/∂x = ∂v/∂y and ∂u/∂y = -∂v/∂x. Complex integration uses contour integrals along paths in the complex plane. Cauchy's Theorem states: if f is analytic (differentiable) in a simply connected region, then ∮f(z)dz = 0 for any closed contour. The Residue Theorem evaluates integrals using residues at singularities. Applications include: solving differential equations, evaluating real integrals, signal processing, quantum mechanics, and fluid dynamics.",
+  "whyItMatters": "Complex analysis extends calculus to complex numbers - essential for physics (quantum mechanics, electromagnetism), engineering (signal processing, control theory), and advanced mathematics.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Functions - Domain, Range, and Composition | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=Uzt63oiMvvg"
+      },
+      {
+        "title": "What is a Function? | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=WUfTyaaNkzM"
+      },
+      {
+        "title": "Function Properties | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Complex Analysis - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/mathematics"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Complex Number Visualizations - GeoGebra",
+        "url": "https://www.geogebra.org/graphing"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Complex Analysis: Complex Numbers and Functions",
+      "description": "Master complex arithmetic, functions, and analysis techniques.",
+      "tasks": [
+        "Perform complex arithmetic (addition, multiplication, division) for 15 problems",
+        "Convert between rectangular and polar forms",
+        "Apply Euler's formula to simplify expressions",
+        "Find roots of complex numbers using De Moivre's Theorem",
+        "Analyze complex functions (polynomials, exponentials, trigonometric)",
+        "Verify Cauchy-Riemann equations for 5 functions",
+        "Evaluate contour integrals",
+        "Apply Cauchy's Theorem and Residue Theorem",
+        "Find residues at singularities",
+        "Use complex analysis to evaluate real integrals"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is (3 + 4i)(2 - i)?",
+      "type": "multiple-choice",
+      "options": [
+        "10 + 5i",
+        "6 - 4i",
+        "2 + 11i",
+        "5 + 3i"
+      ],
+      "correctAnswer": 0,
+      "explanation": "(3 + 4i)(2 - i) = 6 - 3i + 8i - 4i² = 6 + 5i - 4(-1) = 6 + 5i + 4 = 10 + 5i."
+    },
+    {
+      "question": "What is the modulus of z = 3 + 4i?",
+      "type": "multiple-choice",
+      "options": [
+        "5",
+        "7",
+        "25",
+        "√7"
+      ],
+      "correctAnswer": 0,
+      "explanation": "|z| = √(3² + 4²) = √(9 + 16) = √25 = 5."
+    },
+    {
+      "question": "Euler's formula states: e^(iθ) =",
+      "type": "multiple-choice",
+      "options": [
+        "cos θ + i sin θ",
+        "sin θ + i cos θ",
+        "cos θ - i sin θ",
+        "e^θ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Euler's formula: e^(iθ) = cos θ + i sin θ, connecting exponentials and trigonometry."
+    },
+    {
+      "question": "All complex numbers have square roots.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Every complex number has exactly two square roots (except 0, which has one)."
+    },
+    {
+      "question": "What is the complex conjugate of 5 - 3i?",
+      "type": "multiple-choice",
+      "options": [
+        "5 + 3i",
+        "-5 + 3i",
+        "5 - 3i",
+        "-5 - 3i"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The complex conjugate changes the sign of the imaginary part: conjugate of 5 - 3i is 5 + 3i."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1574170275470-a717198122c8?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Complex Number": "z = a + bi where a, b are real, i² = -1. a is real part Re(z), b is imaginary part Im(z).",
+      "Complex Plane (Argand Diagram)": "Horizontal axis = real, vertical axis = imaginary. Point (a,b) represents z = a + bi.",
+      "Modulus": "|z| = √(a² + b²) = distance from origin. For z = a + bi, |z| = √(a² + b²).",
+      "Argument": "Angle θ such that z = r(cos θ + i sin θ). arg(z) = arctan(b/a) (with quadrant adjustment).",
+      "Polar Form": "z = r(cos θ + i sin θ) = re^(iθ) where r = |z|, θ = arg(z). Multiplication: multiply moduli, add arguments.",
+      "Euler's Formula": "e^(iθ) = cos θ + i sin θ. Special case: e^(iπ) = -1 (Euler's identity). Connects exponentials and trigonometry.",
+      "Complex Conjugate": "z̄ = a - bi. Properties: z + z̄ = 2a (real), z·z̄ = |z|², |z| = |z̄|.",
+      "Complex Functions": "f: ℂ → ℂ. Example: f(z) = z². Real and imaginary parts: f(z) = u(x,y) + iv(x,y) where z = x + iy."
+    },
+    "keyConcepts": [
+      "Complex numbers extend reals: every polynomial has complex roots (Fundamental Theorem of Algebra)",
+      "Polar form simplifies multiplication: multiply moduli, add arguments",
+      "Euler's formula unifies exponentials and trigonometry",
+      "Complex plane provides geometric interpretation: addition = vector addition, multiplication = rotation + scaling",
+      "Complex functions extend real calculus: derivatives, integrals, series"
+    ],
+    "stepByStepExplanations": [
+      "**Complex Arithmetic:** (3 + 4i) + (1 - 2i): Step 1) Add real parts: 3 + 1 = 4. Step 2) Add imaginary parts: 4i + (-2i) = 2i. Step 3) Result: 4 + 2i.",
+      "**Complex Multiplication:** (2 + i)(3 - 2i): Step 1) FOIL: 2(3) + 2(-2i) + i(3) + i(-2i) = 6 - 4i + 3i - 2i². Step 2) i² = -1, so = 6 - i + 2 = 8 - i.",
+      "**Polar Form:** Convert 1 + i to polar: Step 1) Modulus: |1+i| = √(1² + 1²) = √2. Step 2) Argument: arg(1+i) = arctan(1/1) = π/4. Step 3) Polar: √2(cos(π/4) + i sin(π/4)) = √2e^(iπ/4).",
+      "**Complex Power:** (1+i)⁴ using polar: Step 1) 1+i = √2e^(iπ/4). Step 2) (1+i)⁴ = (√2)⁴e^(i4π/4) = 4e^(iπ) = 4(-1) = -4. Step 3) Verify: (1+i)² = 2i, (2i)² = -4. ✓"
+    ],
+    "examples": [
+      "**Complex Operations:** z₁ = 3 + 4i, z₂ = 1 - 2i\n   z₁ + z₂ = 4 + 2i\n   z₁ - z₂ = 2 + 6i\n   z₁·z₂ = 11 - 2i\n   |z₁| = 5, |z₂| = √5",
+      "**Polar Form:** z = -1 + i√3\n   |z| = √(1 + 3) = 2\n   arg(z) = 2π/3 (QII)\n   z = 2(cos(2π/3) + i sin(2π/3)) = 2e^(i2π/3)",
+      "**Euler's Formula:** e^(iπ) = cos(π) + i sin(π) = -1\n   e^(iπ/2) = i\n   e^(i2π) = 1\n   e^(iθ) rotates unit circle",
+      "**Complex Conjugate:** z = 3 + 4i\n   z̄ = 3 - 4i\n   z + z̄ = 6 (real)\n   z·z̄ = 9 + 16 = 25 = |z|²"
+    ],
+    "realLifeApplications": [
+      "**Electrical Engineering:** AC circuits use complex numbers: impedance Z = R + iX. Real part = resistance, imaginary = reactance. Phasors represent sinusoidal voltages/currents. Essential for circuit analysis.",
+      "**Signal Processing:** Fourier transform uses complex exponentials e^(iωt). Decomposes signals into frequency components. Complex analysis enables filter design. Used in audio, image processing.",
+      "**Quantum Mechanics:** Wave functions are complex-valued. Probability = |ψ|². Schrödinger equation involves complex numbers. Quantum states are complex vectors. Fundamental to quantum theory.",
+      "**Control Theory:** Transfer functions are complex. Frequency response uses complex analysis. Stability analysis uses poles (complex roots). Used in robotics, aerospace, automation."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A complex plane (Argand diagram) showing complex number z = a + bi as point (a,b), with modulus |z| as distance from origin and argument θ as angle from positive real axis.",
+      "A diagram showing multiplication in polar form: two complex numbers with moduli r₁, r₂ and arguments θ₁, θ₂, with product having modulus r₁r₂ and argument θ₁ + θ₂ (rotation + scaling).",
+      "A unit circle in complex plane showing Euler's formula: e^(iθ) as point on unit circle at angle θ, demonstrating how complex exponentials represent rotations."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uzt63oiMvvg"
+}

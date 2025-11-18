@@ -1,0 +1,80 @@
+{
+  "topic": "Evolution and Natural Selection",
+  "detailedSummary": "Evolution is the process by which species change over time through the mechanism of natural selection. Charles Darwin's theory of evolution by natural selection explains how organisms with traits better suited to their environment are more likely to survive and reproduce, passing those advantageous traits to their offspring. Natural selection occurs when there is variation within a population, some variations provide advantages, and those advantages are heritable. Over many generations, beneficial traits become more common in the population while disadvantageous traits become less common. Evidence for evolution comes from multiple sources including fossil records, which show how species have changed over millions of years; comparative anatomy, which reveals similar structures in different species suggesting common ancestry; molecular biology, which shows genetic similarities between related species; and biogeography, which demonstrates how species distribution relates to evolutionary history. The modern evolutionary synthesis combines Darwin's natural selection with genetics, explaining how genetic mutations provide the variation that natural selection acts upon. Evolution explains the incredible diversity of life on Earth and how all living organisms share common ancestors. Understanding evolution is essential for comprehending biology, medicine, agriculture, and conservation efforts.",
+  "whyItMatters": "Understanding evolution and natural selection is fundamental because it explains the diversity of life, how species adapt to changing environments, and why antibiotic resistance and other modern challenges occur.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Evolution | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Evolution | Crash Course Biology",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Natural Selection | Bozeman Science",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Evolution and Natural Selection Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Natural Selection Simulation",
+        "url": "https://phet.colorado.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Evolution Case Study: Galapagos Finches",
+      "description": "Research and analyze how Darwin's finches demonstrate evolution through natural selection in response to environmental changes.",
+      "tasks": [
+        "Research the different finch species found on the Galapagos Islands",
+        "Identify how beak shapes and sizes relate to different food sources",
+        "Explain how drought conditions led to natural selection favoring certain beak types",
+        "Create a diagram showing the relationship between environment, food sources, and beak adaptations",
+        "Write a 300-400 word report explaining how this case study demonstrates evolution in action"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary mechanism that drives evolution according to Darwin's theory?",
+      "type": "multiple-choice",
+      "options": [
+        "Genetic mutation",
+        "Natural selection",
+        "Artificial selection",
+        "Random chance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Natural selection is the primary mechanism of evolution, where organisms with advantageous traits are more likely to survive and reproduce, passing those traits to future generations."
+    },
+    {
+      "question": "Evolution occurs only over millions of years and cannot be observed in shorter time periods.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. While major evolutionary changes take long periods, evolution can be observed in shorter timeframes, such as antibiotic resistance in bacteria or changes in finch populations over decades."
+    },
+    {
+      "question": "Which of the following provides evidence for evolution?",
+      "type": "multiple-choice",
+      "options": [
+        "Fossil records only",
+        "Comparative anatomy only",
+        "Fossil records, comparative anatomy, molecular biology, and biogeography",
+        "None of the above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Multiple lines of evidence support evolution, including fossil records showing species changes over time, comparative anatomy revealing similar structures, molecular biology showing genetic relationships, and biogeography demonstrating species distribution patterns."
+    }
+  ],
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

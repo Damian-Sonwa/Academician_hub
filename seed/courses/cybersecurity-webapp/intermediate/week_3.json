@@ -1,0 +1,104 @@
+{
+  "course": "cybersecurity-webapp",
+  "level": "intermediate",
+  "week": 3,
+  "topic": "Cross-Site Scripting (XSS)",
+  "summary": "Master XSS attack vectors and defense mechanisms. Study reflected, stored, and DOM-based XSS.  Learn content security policies, input sanitization, and output encoding to prevent XSS attacks. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Secondary level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Cross-Site Scripting (XSS). The material is designed to build a strong foundation for further learning and practical application in real-world contexts. This topic provides comprehensive coverage essential for understanding cybersecurity at the intermediate level. Through detailed study, students will gain deep insights into the concepts, principles, and real-world applications. The material is designed to build a strong foundation for further learning and practical application in various contexts.",
+  "why_it_matters": "This programming/technology topic provides practical skills highly sought after in the job market and enables you to build real-world applications and solve technical problems.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Cross-Site Scripting (XSS)",
+        "url": "https://youtu.be/5tJvaYq8jK4"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Cybersecurity Textbook - Secondary Level",
+        "url": "https://owasp.org/www-project-top-ten/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "XSS Attack Types",
+        "url": "https://tryhackme.com/"
+      },
+      {
+        "title": "Defense Strategies",
+        "url": "https://tryhackme.com/"
+      },
+      {
+        "title": "XSS Testing",
+        "url": "https://tryhackme.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Research Assignment: Cross-Site Scripting (XSS)",
+      "description": "Complete a research assignment exploring key concepts related to Cross-Site Scripting (XSS).",
+      "tasks": [
+        "Read the assigned textbook chapters and online resources about Cross-Site Scripting (XSS)",
+        "Identify and explain at least three key concepts from the topic",
+        "Find one real-world example or application of these concepts",
+        "Write a 300-500 word summary explaining your findings",
+        "Include at least two credible sources in your research"
+      ]
+    },
+    {
+      "title": "Practical Exercise: Cross-Site Scripting (XSS)",
+      "description": "Apply your understanding of Cross-Site Scripting (XSS) through hands-on activities.",
+      "tasks": [
+        "Complete the lab exercises or simulations related to Cross-Site Scripting (XSS)",
+        "Document your observations and findings in a lab report",
+        "Answer the reflection questions about what you learned",
+        "Create a visual representation (diagram, chart, or model) of key concepts",
+        "Present your findings to the class or submit a written report"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary focus of Cross-Site Scripting (XSS)?",
+      "options": [
+        "Understanding fundamental concepts of Cross-Site Scripting (XSS)",
+        "Memorizing facts without context",
+        "Avoiding practical applications",
+        "Focusing only on advanced topics"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+    },
+    {
+      "question": "Which of the following best describes the importance of Cross-Site Scripting (XSS)?",
+      "options": [
+        "It provides essential knowledge for understanding cybersecurity",
+        "It is only relevant for advanced students",
+        "It has no real-world applications",
+        "It is purely theoretical without practical value"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+    },
+    {
+      "question": "Cross-Site Scripting (XSS) is an important topic for understanding cybersecurity at the Secondary level.",
+      "answer": true,
+      "type": "true-false",
+      "explanation": "This statement is true. Cross-Site Scripting (XSS) provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+    },
+    {
+      "question": "The concepts in Cross-Site Scripting (XSS) have no practical applications in real life.",
+      "answer": false,
+      "type": "true-false",
+      "explanation": "This statement is false. The concepts in Cross-Site Scripting (XSS) have numerous practical applications in various fields and everyday life."
+    },
+    {
+      "question": "The study of Cross-Site Scripting (XSS) helps students understand the fundamental principles of ______.",
+      "answer": "cybersecurity",
+      "type": "fill-in-the-blank",
+      "explanation": "The correct answer is \"cybersecurity\". Cross-Site Scripting (XSS) is a key component of cybersecurity that helps students understand fundamental principles in this field."
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "topic": "Vocabulary Building and Word Origins",
+  "detailedSummary": "A strong vocabulary enhances communication, reading comprehension, and academic success. Effective vocabulary building involves: learning words in context (seeing how words are used), understanding word parts (roots, prefixes, suffixes), recognizing word families (related words), and using words actively in speaking and writing. Etymology—the study of word origins—reveals how words evolved and their connections. Many English words derive from Latin and Greek roots. Common prefixes include: un- (not), re- (again), pre- (before), anti- (against), and mis- (wrong). Suffixes indicate parts of speech: -tion/-sion (nouns), -ly (adverbs), -able/-ible (adjectives). Root words carry core meaning: -port- (carry), -spect- (look), -dict- (say), -graph- (write). Understanding word parts enables decoding unfamiliar words. Context clues help determine meaning: definition clues (direct explanations), example clues (illustrations), synonym clues (similar words), and antonym clues (opposites). Denotation is the dictionary definition; connotation is the emotional or cultural association. Active vocabulary (words you use) grows through practice, while passive vocabulary (words you understand) expands through reading. Vocabulary strategies include: keeping word journals, using flashcards, reading widely, playing word games, and applying new words in writing. A rich vocabulary enables precise expression, sophisticated communication, and deeper understanding of texts across all subjects.",
+  "whyItMatters": "Strong vocabulary enables precise communication and better comprehension - essential for academic success, professional communication, and expressing ideas effectively in all contexts.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Vocabulary Building and Word Origins | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Vocabulary Building and Word Origins | Crash Course Literature",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Vocabulary Building and Word Origins | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Vocabulary Building Resources - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/english"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Vocabulary Practice - Vocabulary.com",
+        "url": "https://www.vocabulary.com/"
+      },
+      {
+        "title": "Etymology Dictionary - Online Etymology Dictionary",
+        "url": "https://www.etymonline.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Vocabulary Building and Word Origins",
+      "description": "Expand vocabulary through systematic study of word parts and origins.",
+      "tasks": [
+        "Learn 50 new words from academic texts, using them in sentences",
+        "Identify and analyze 20 Latin and Greek roots",
+        "Break down 30 words into prefixes, roots, and suffixes",
+        "Use context clues to determine meanings of 20 unfamiliar words",
+        "Create flashcards for 50 vocabulary words with definitions and examples",
+        "Write paragraphs using new vocabulary words",
+        "Research etymology of 10 interesting words",
+        "Identify denotations and connotations of 15 words",
+        "Build word families from 10 root words",
+        "Maintain a vocabulary journal with words, definitions, and usage examples"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What does the prefix 'un-' typically mean?",
+      "type": "multiple-choice",
+      "options": [
+        "Not",
+        "Again",
+        "Before",
+        "Against"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The prefix 'un-' means 'not' (e.g., unhappy = not happy, unable = not able)."
+    },
+    {
+      "question": "What is the root meaning of words like 'transport' and 'portable'?",
+      "type": "multiple-choice",
+      "options": [
+        "Carry",
+        "Look",
+        "Say",
+        "Write"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The root '-port-' means 'carry' (transport = carry across, portable = able to be carried)."
+    },
+    {
+      "question": "Connotation refers to:",
+      "type": "multiple-choice",
+      "options": [
+        "Emotional or cultural associations of a word",
+        "The dictionary definition",
+        "The spelling of a word",
+        "The pronunciation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Connotation is the emotional, cultural, or implied meaning beyond the literal definition (denotation)."
+    },
+    {
+      "question": "All English words come from Latin and Greek.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. While many English words derive from Latin and Greek, English also has words from Germanic origins, French, and many other languages."
+    },
+    {
+      "question": "Context clues help determine word meaning by:",
+      "type": "multiple-choice",
+      "options": [
+        "Using surrounding words and sentences",
+        "Only looking at the word itself",
+        "Guessing randomly",
+        "Ignoring the context"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Context clues use surrounding words, sentences, and information to infer the meaning of unfamiliar words."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Etymology": "The study of word origins and history.",
+      "Root Word": "The core part of a word that carries its main meaning.",
+      "Prefix": "A word part added to the beginning of a word."
+    },
+    "keyConcepts": [
+      "A strong vocabulary enhances communication, reading comprehension, and academic success",
+      "Effective vocabulary building involves: learning words in context (seeing how words are used), under...",
+      "Etymology—the study of word origins—reveals how words evolved and their connections",
+      "Many English words derive from Latin and Greek roots",
+      "Common prefixes include: un- (not), re- (again), pre- (before), anti- (against), and mis- (wrong)"
+    ],
+    "stepByStepExplanations": [
+      "**Understanding vocabulary:** A strong vocabulary enhances communication, reading comprehension, and academic success. Effective vocabulary building involves: learning words in con...",
+      "**Applying concepts:** Practice with examples specific to Vocabulary Building and Word Origins.",
+      "**Mastering skills:** Develop proficiency through structured exercises."
+    ],
+    "examples": [
+      "**Example 1:** A practical illustration of vocabulary in action.",
+      "**Example 2:** Another scenario demonstrating building.",
+      "**Example 3:** A real-world application of word."
+    ],
+    "realLifeApplications": [
+      "**Academic Context:** Vocabulary Building and Word Origins is essential for academic success and scholarly work.",
+      "**Professional Use:** These skills apply directly to professional communication and analysis.",
+      "**Personal Development:** Understanding Vocabulary Building and Word Origins enhances critical thinking and expression."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram illustrating key concepts of Vocabulary Building and Word Origins.",
+      "A flowchart showing the process and relationships in Vocabulary Building and Word Origins."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

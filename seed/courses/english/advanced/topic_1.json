@@ -1,0 +1,157 @@
+{
+  "topic": "Advanced Literary Theory and Criticism",
+  "detailedSummary": "Literary theory provides frameworks for interpreting and analyzing literature, revealing how meaning is constructed and contested. Formalism focuses on the text itself—structure, language, literary devices—separate from historical or biographical context. New Criticism (mid-20th century) emphasized close reading and textual analysis. Structuralism examines underlying systems and patterns in literature, while post-structuralism questions fixed meanings and emphasizes ambiguity. Reader-response theory considers how readers create meaning through interaction with texts. Feminist criticism examines gender roles, power dynamics, and how literature represents or challenges patriarchal structures. Marxist criticism analyzes class relations, economic systems, and how literature reflects or critiques social structures. Postcolonial criticism explores how literature represents colonized peoples, challenges colonial narratives, and examines power, identity, and resistance. Psychoanalytic criticism applies Freudian and other psychological theories to analyze characters, symbols, and unconscious meanings. Deconstruction questions binary oppositions and reveals how texts undermine their own apparent meanings. New Historicism examines literature in historical context, seeing texts as products and producers of culture. Queer theory challenges normative assumptions about gender and sexuality. Understanding multiple theoretical approaches enables sophisticated analysis, reveals different meanings in texts, and connects literature to broader cultural, political, and social contexts. These theories are essential for advanced literary study, academic research, and understanding how literature functions in society.",
+  "whyItMatters": "Literary theory provides sophisticated frameworks for analysis - essential for advanced literary study, academic research, and understanding how literature creates and reflects meaning in cultural contexts.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Advanced Literary Theory and Criticism | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Advanced Literary Theory and Criticism | Crash Course Literature",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Advanced Literary Theory and Criticism | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Literary Theory: An Introduction - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/english"
+      },
+      {
+        "title": "The Norton Anthology of Theory and Criticism - Available through libraries",
+        "url": "https://wwnorton.com/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Literary Theory Resources - Purdue OWL",
+        "url": "https://owl.purdue.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Advanced Literary Theory and Criticism",
+      "description": "Apply various literary theories to analyze texts and write theoretical analyses.",
+      "tasks": [
+        "Write analyses applying 5 different literary theories to the same text",
+        "Compare how different theories reveal different meanings",
+        "Write a feminist criticism analysis of a literary work",
+        "Write a postcolonial analysis of a text",
+        "Apply psychoanalytic theory to analyze character motivations",
+        "Use deconstruction to examine binary oppositions in texts",
+        "Apply Marxist criticism to analyze class relations in literature",
+        "Write a reader-response analysis",
+        "Research and present on a major literary theorist",
+        "Write a comprehensive theoretical analysis using multiple approaches"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Formalism focuses on:",
+      "type": "multiple-choice",
+      "options": [
+        "The text itself, separate from context",
+        "Historical background only",
+        "Author biography",
+        "Reader emotions"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Formalism emphasizes analyzing the text itself—its structure, language, and literary devices—without considering historical context or author biography."
+    },
+    {
+      "question": "Feminist criticism examines:",
+      "type": "multiple-choice",
+      "options": [
+        "Gender roles and power dynamics in literature",
+        "Only female authors",
+        "Only male characters",
+        "Historical events"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Feminist criticism analyzes how literature represents gender, examines power dynamics, and challenges patriarchal structures in texts."
+    },
+    {
+      "question": "Postcolonial criticism explores:",
+      "type": "multiple-choice",
+      "options": [
+        "Representations of colonized peoples and resistance",
+        "Only European literature",
+        "Only ancient texts",
+        "Grammar and syntax"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Postcolonial criticism examines how literature represents colonized peoples, challenges colonial narratives, and explores power, identity, and resistance."
+    },
+    {
+      "question": "All literary theories produce the same interpretation of a text.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Different theories reveal different aspects and meanings in texts. A text can be interpreted through multiple theoretical lenses, each revealing different insights."
+    },
+    {
+      "question": "Deconstruction questions:",
+      "type": "multiple-choice",
+      "options": [
+        "Binary oppositions and fixed meanings",
+        "Only grammar rules",
+        "Only plot structure",
+        "Author intentions"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Deconstruction reveals how texts undermine their own apparent meanings and questions binary oppositions (good/evil, male/female, etc.), showing how these categories are unstable."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Plot": "The sequence of events in a story.",
+      "Character": "A person, animal, or entity in a story.",
+      "Theme": "The central message or insight about life that the author conveys."
+    },
+    "keyConcepts": [
+      "Literary theory provides frameworks for interpreting and analyzing literature, revealing how meaning...",
+      "Formalism focuses on the text itself—structure, language, literary devices—separate from historical ...",
+      "New Criticism (mid-20th century) emphasized close reading and textual analysis",
+      "Structuralism examines underlying systems and patterns in literature, while post-structuralism quest...",
+      "Reader-response theory considers how readers create meaning through interaction with texts"
+    ],
+    "stepByStepExplanations": [
+      "**Understanding advanced:** Literary theory provides frameworks for interpreting and analyzing literature, revealing how meaning is constructed and contested. Formalism focuses o...",
+      "**Applying concepts:** Practice with examples specific to Advanced Literary Theory and Criticism.",
+      "**Mastering skills:** Develop proficiency through structured exercises."
+    ],
+    "examples": [
+      "**Example 1:** A practical illustration of advanced in action.",
+      "**Example 2:** Another scenario demonstrating literary.",
+      "**Example 3:** A real-world application of theory."
+    ],
+    "realLifeApplications": [
+      "**Academic Context:** Advanced Literary Theory and Criticism is essential for academic success and scholarly work.",
+      "**Professional Use:** These skills apply directly to professional communication and analysis.",
+      "**Personal Development:** Understanding Advanced Literary Theory and Criticism enhances critical thinking and expression."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram illustrating key concepts of Advanced Literary Theory and Criticism.",
+      "A flowchart showing the process and relationships in Advanced Literary Theory and Criticism."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

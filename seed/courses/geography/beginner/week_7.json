@@ -1,0 +1,100 @@
+{
+  "course": "geography",
+  "level": "beginner",
+  "week": 7,
+  "topic": "Cultural Geography",
+  "summary": "Explore human cultures and diversity. Study religion, language, customs, and cultural diffusion around the world. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding geography at the Junior level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Cultural Geography. The material is designed to build a strong foundation for further learning and practical application in real-world contexts. This topic provides comprehensive coverage essential for understanding geography at the beginner level. Through detailed study, students will gain deep insights into the concepts, principles, and real-world applications. The material is designed to build a strong foundation for further learning and practical application in various contexts.",
+  "why_it_matters": "Understanding this topic enhances critical thinking, cultural awareness, and communication skills essential for academic success and informed citizenship.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Cultural Geography - Tutorial",
+        "url": "https://youtu.be/7_pw8duzGUg"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Cultural Regions Guide",
+        "url": "https://www.nationalgeographic.org/education/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "World Religions Map",
+        "url": "https://www.nationalgeographic.org/education/"
+      },
+      {
+        "title": "Language Families",
+        "url": "https://www.nationalgeographic.org/education/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Research Assignment: Cultural Geography",
+      "description": "Complete a research assignment exploring key concepts related to Cultural Geography.",
+      "tasks": [
+        "Read the assigned textbook chapters and online resources about Cultural Geography",
+        "Identify and explain at least three key concepts from the topic",
+        "Find one real-world example or application of these concepts",
+        "Write a 300-500 word summary explaining your findings",
+        "Include at least two credible sources in your research"
+      ]
+    },
+    {
+      "title": "Practical Exercise: Cultural Geography",
+      "description": "Apply your understanding of Cultural Geography through hands-on activities.",
+      "tasks": [
+        "Complete the lab exercises or simulations related to Cultural Geography",
+        "Document your observations and findings in a lab report",
+        "Answer the reflection questions about what you learned",
+        "Create a visual representation (diagram, chart, or model) of key concepts",
+        "Present your findings to the class or submit a written report"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary focus of Cultural Geography?",
+      "options": [
+        "Understanding fundamental concepts of Cultural Geography",
+        "Memorizing facts without context",
+        "Avoiding practical applications",
+        "Focusing only on advanced topics"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+    },
+    {
+      "question": "Which of the following best describes the importance of Cultural Geography?",
+      "options": [
+        "It provides essential knowledge for understanding geography",
+        "It is only relevant for advanced students",
+        "It has no real-world applications",
+        "It is purely theoretical without practical value"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "This topic provides essential foundational knowledge that is crucial for understanding geography and has practical applications in real-world contexts."
+    },
+    {
+      "question": "Cultural Geography is an important topic for understanding geography at the Junior level.",
+      "answer": true,
+      "type": "true-false",
+      "explanation": "This statement is true. Cultural Geography provides fundamental knowledge that is essential for building a strong understanding of geography."
+    },
+    {
+      "question": "The concepts in Cultural Geography have no practical applications in real life.",
+      "answer": false,
+      "type": "true-false",
+      "explanation": "This statement is false. The concepts in Cultural Geography have numerous practical applications in various fields and everyday life."
+    },
+    {
+      "question": "The study of Cultural Geography helps students understand the fundamental principles of ______.",
+      "answer": "geography",
+      "type": "fill-in-the-blank",
+      "explanation": "The correct answer is \"geography\". Cultural Geography is a key component of geography that helps students understand fundamental principles in this field."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "topic": "Database Integration: MongoDB and Mongoose",
+  "detailedSummary": "Databases store and manage application data. MongoDB is a NoSQL document database that stores data as JSON-like documents. MongoDB is schema-less, flexible, and scales horizontally. Mongoose is an ODM (Object Document Mapper) for MongoDB in Node.js, providing schema validation and modeling. Mongoose schemas define document structure with types, validation, and defaults. Models are compiled schemas used to interact with collections. CRUD operations: create() inserts documents, find() queries documents, findById() finds by ID, updateOne()/updateMany() update documents, deleteOne()/deleteMany() remove documents. Queries use filters, projections, sorting, and limiting. Relationships can be embedded or referenced. Indexes improve query performance. Aggregation pipelines process data. Understanding database integration enables building data-driven applications that persist and retrieve information efficiently.",
+  "whyItMatters": "Database integration is essential for building real applications - understanding MongoDB and Mongoose enables storing, retrieving, and managing data in Node.js applications.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Database Integration: MongoDB and Mongoose | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Database Integration: MongoDB and Mongoose | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Database Integration: MongoDB and Mongoose | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Mongoose Documentation",
+        "url": "https://mongoosejs.com/docs"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Database Practice",
+        "url": "https://www.mongodb.com/cloud/atlas"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Build a Database-Driven Application",
+      "description": "Create an application that integrates MongoDB using Mongoose to store and retrieve data.",
+      "tasks": [
+        "Set up MongoDB (local or cloud like MongoDB Atlas) and connect to it",
+        "Define Mongoose schemas and models for your data",
+        "Implement CRUD operations (create, read, update, delete) using Mongoose",
+        "Create queries with filtering, sorting, and pagination",
+        "Build a complete application with database integration and API endpoints"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the main difference between SQL and NoSQL databases like MongoDB?",
+      "type": "multiple-choice",
+      "options": [
+        "NoSQL is faster",
+        "MongoDB stores data as JSON-like documents, is schema-less, and more flexible than SQL",
+        "SQL doesn't support queries",
+        "There is no difference"
+      ],
+      "correctAnswer": 1,
+      "explanation": "MongoDB is a NoSQL database that stores data as flexible JSON-like documents without requiring a fixed schema, unlike SQL databases with rigid table structures."
+    },
+    {
+      "question": "Mongoose provides schema validation and modeling for MongoDB, making it easier to work with in Node.js.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Mongoose is an ODM that provides schema definition, validation, and convenient methods for interacting with MongoDB in Node.js applications."
+    },
+    {
+      "question": "What does CRUD stand for?",
+      "type": "multiple-choice",
+      "options": [
+        "Create, Read, Update, Delete - the four basic database operations",
+        "A database type",
+        "A programming language",
+        "A framework"
+      ],
+      "correctAnswer": 0,
+      "explanation": "CRUD stands for Create, Read, Update, Delete - the four fundamental operations for managing data in databases."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

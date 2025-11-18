@@ -1,0 +1,161 @@
+{
+  "topic": "Geometry: Triangles, Circles, and Polygons",
+  "detailedSummary": "Geometry studies shapes, sizes, and properties of figures in space. Triangles are three-sided polygons with fundamental properties: the sum of interior angles is always 180°, the triangle inequality states that any side is less than the sum of the other two sides, and triangles are classified by sides (scalene, isosceles, equilateral) and angles (acute, right, obtuse). Special triangles include right triangles (one 90° angle), isosceles triangles (two equal sides), and equilateral triangles (all sides and angles equal). The Pythagorean theorem (a² + b² = c²) applies to right triangles. Circles are sets of points equidistant from a center. Key circle properties include: radius (distance from center to edge), diameter (twice the radius), circumference (C = 2πr or πd), and area (A = πr²). Polygons are closed figures with straight sides. Regular polygons have equal sides and angles. The sum of interior angles of an n-sided polygon is (n-2)·180°. Area formulas vary: rectangle (length × width), triangle (½ × base × height), parallelogram (base × height), trapezoid (½ × (sum of bases) × height), and regular polygon (½ × perimeter × apothem). These geometric concepts are fundamental for understanding space, measurement, design, architecture, engineering, and solving problems involving shapes and their relationships.",
+  "whyItMatters": "Geometry provides tools for understanding space, measurement, and shape relationships - essential for architecture, engineering, design, navigation, and solving real-world spatial problems.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Geometry | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Geometry Basics | Math Antics",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Geometry | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Elementary Geometry for College Students - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/textbooks/elementary-geometry-for-college-students"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Geometry Tools - GeoGebra",
+        "url": "https://www.geogebra.org/geometry"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Geometry: Triangles, Circles, and Polygons",
+      "description": "Master geometric properties, formulas, and problem-solving with shapes.",
+      "tasks": [
+        "Classify 15 triangles by sides and angles",
+        "Solve 10 problems using the Pythagorean theorem",
+        "Calculate areas and perimeters of 10 different polygons",
+        "Find missing angles in triangles using angle sum property",
+        "Calculate circumference and area of 10 circles",
+        "Solve problems involving inscribed and circumscribed figures",
+        "Work with similar and congruent triangles",
+        "Calculate areas of composite figures",
+        "Apply geometric formulas to real-world problems",
+        "Create geometric designs using triangles, circles, and polygons"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the sum of interior angles in a triangle?",
+      "type": "multiple-choice",
+      "options": [
+        "180°",
+        "360°",
+        "90°",
+        "270°"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The sum of interior angles in any triangle is always 180°."
+    },
+    {
+      "question": "In a right triangle with legs 3 and 4, what is the length of the hypotenuse?",
+      "type": "multiple-choice",
+      "options": [
+        "5",
+        "7",
+        "12",
+        "25"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Using Pythagorean theorem: c² = 3² + 4² = 9 + 16 = 25, so c = 5."
+    },
+    {
+      "question": "What is the area of a circle with radius 6?",
+      "type": "multiple-choice",
+      "options": [
+        "36π",
+        "12π",
+        "6π",
+        "18π"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Area = πr² = π(6)² = 36π."
+    },
+    {
+      "question": "All equilateral triangles are also isosceles triangles.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Equilateral triangles have all three sides equal, so they also have at least two equal sides (definition of isosceles)."
+    },
+    {
+      "question": "What is the sum of interior angles in a hexagon?",
+      "type": "multiple-choice",
+      "options": [
+        "720°",
+        "360°",
+        "540°",
+        "900°"
+      ],
+      "correctAnswer": 0,
+      "explanation": "For n = 6, sum = (6-2)·180° = 4·180° = 720°."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1574170275470-a717198122c8?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Triangle": "A three-sided polygon. Sum of interior angles = 180°. Classified by sides (scalene, isosceles, equilateral) or angles (acute, right, obtuse).",
+      "Pythagorean Theorem": "In right triangle: a² + b² = c² where c is hypotenuse. Only applies to right triangles. Used to find missing side lengths.",
+      "Circle": "Set of points equidistant from center. Radius (r) = distance from center to edge. Diameter (d) = 2r. Circumference = 2πr. Area = πr².",
+      "Polygon": "Closed figure with straight sides. Regular polygon has equal sides and angles. Sum of interior angles = (n-2)·180° for n-sided polygon.",
+      "Similar Triangles": "Triangles with same shape but different size. Corresponding angles equal, corresponding sides proportional. Used in indirect measurement.",
+      "Congruent Triangles": "Triangles with same size and shape. All corresponding sides and angles equal. Proved by SSS, SAS, ASA, AAS, or HL.",
+      "Area Formulas": "Triangle: A = (1/2)bh. Circle: A = πr². Rectangle: A = lw. Parallelogram: A = bh. Trapezoid: A = (1/2)(b₁+b₂)h.",
+      "Circumference and Arc Length": "Circle circumference: C = 2πr = πd. Arc length = (θ/360°)·2πr where θ is central angle in degrees."
+    },
+    "keyConcepts": [
+      "Triangle angle sum is always 180°, regardless of triangle type",
+      "Pythagorean theorem only works for right triangles (one 90° angle)",
+      "Circle formulas: C = 2πr and A = πr², where π ≈ 3.14159",
+      "Similar figures have proportional sides and equal angles",
+      "Polygon interior angle sum = (n-2)·180° for n-sided polygon"
+    ],
+    "stepByStepExplanations": [
+      "**Pythagorean Theorem:** Right triangle with legs 3 and 4: Step 1) Identify: a = 3, b = 4, c = ? Step 2) Apply: 3² + 4² = c², so 9 + 16 = c². Step 3) Solve: c² = 25, so c = 5.",
+      "**Finding Circle Area:** Circle with radius 6: Step 1) Identify: r = 6. Step 2) Formula: A = πr². Step 3) Calculate: A = π(6)² = 36π ≈ 113.1 square units.",
+      "**Triangle Angle Sum:** Triangle with angles 45°, 60°, and ?: Step 1) Sum must be 180°. Step 2) 45° + 60° = 105°. Step 3) Missing angle = 180° - 105° = 75°.",
+      "**Similar Triangles:** Two triangles with corresponding angles equal. If one triangle has sides 3, 4, 5 and scale factor is 2, similar triangle has sides 6, 8, 10. Ratios: 3/6 = 4/8 = 5/10 = 1/2."
+    ],
+    "examples": [
+      "**Right Triangle:** Legs: 5 and 12\n   Hypotenuse: c = √(5² + 12²) = √(25 + 144) = √169 = 13\n   This is a 5-12-13 Pythagorean triple",
+      "**Circle Calculations:** Radius = 8\n   Diameter: d = 2(8) = 16\n   Circumference: C = 2π(8) = 16π ≈ 50.27\n   Area: A = π(8)² = 64π ≈ 201.06",
+      "**Polygon Angles:** Hexagon (6 sides)\n   Sum of interior angles: (6-2)·180° = 720°\n   If regular: each angle = 720°/6 = 120°",
+      "**Similar Triangles:** Scale factor = 3\n   Small triangle: 2, 3, 4\n   Large triangle: 6, 9, 12\n   Ratios: 2/6 = 3/9 = 4/12 = 1/3"
+    ],
+    "realLifeApplications": [
+      "**Construction:** Builders use Pythagorean theorem to ensure corners are square. If walls are 6ft and 8ft, diagonal should be 10ft (6-8-10 triangle).",
+      "**Area Calculations:** Landscaping requires area: circular garden with radius 5m has area = π(5)² ≈ 78.5 m². Helps calculate materials needed.",
+      "**Indirect Measurement:** Similar triangles measure heights. If shadow of 6ft person is 8ft and tree shadow is 40ft, tree height = (6/8)·40 = 30ft.",
+      "**Navigation:** Circles model radar ranges. If radar detects objects within 50km, that's a circle with radius 50km, area = π(50)² ≈ 7,854 km² coverage."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A right triangle with sides labeled a, b, c (hypotenuse), showing the Pythagorean theorem relationship: a² + b² = c² with a visual square on each side.",
+      "A circle diagram showing radius r, diameter d = 2r, with formulas C = 2πr and A = πr² displayed, and a central angle θ creating an arc.",
+      "A regular hexagon with interior angles marked, showing how (n-2)·180° formula works: (6-2)·180° = 720° total, divided by 6 sides = 120° per angle."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

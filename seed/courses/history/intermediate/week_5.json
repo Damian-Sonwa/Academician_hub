@@ -1,0 +1,104 @@
+{
+  "course": "history",
+  "level": "intermediate",
+  "week": 5,
+  "topic": "Age of Exploration",
+  "summary": "Follow European explorers around the globe. Learn about motivations for exploration, major voyages, and consequences of contact. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding history at the Secondary level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Age of Exploration. The material is designed to build a strong foundation for further learning and practical application in real-world contexts. This topic provides comprehensive coverage essential for understanding history at the intermediate level. Through detailed study, students will gain deep insights into the concepts, principles, and real-world applications. The material is designed to build a strong foundation for further learning and practical application in various contexts.",
+  "why_it_matters": "Understanding this topic enhances critical thinking, cultural awareness, and communication skills essential for academic success and informed citizenship.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Age of Exploration - Tutorial",
+        "url": "https://youtu.be/Yocja_N5s1I"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "History Textbook - Secondary Level",
+        "url": "https://openstax.org/details/books/world-history-volume-1"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Exploration Routes Map",
+        "url": "https://www.khanacademy.org/humanities/world-history"
+      },
+      {
+        "title": "Explorer Biographies",
+        "url": "https://www.khanacademy.org/humanities/world-history"
+      },
+      {
+        "title": "Columbian Exchange Diagram",
+        "url": "https://www.khanacademy.org/humanities/world-history"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Research Assignment: Age of Exploration",
+      "description": "Complete a research assignment exploring key concepts related to Age of Exploration.",
+      "tasks": [
+        "Read the assigned textbook chapters and online resources about Age of Exploration",
+        "Identify and explain at least three key concepts from the topic",
+        "Find one real-world example or application of these concepts",
+        "Write a 300-500 word summary explaining your findings",
+        "Include at least two credible sources in your research"
+      ]
+    },
+    {
+      "title": "Practical Exercise: Age of Exploration",
+      "description": "Apply your understanding of Age of Exploration through hands-on activities.",
+      "tasks": [
+        "Complete the lab exercises or simulations related to Age of Exploration",
+        "Document your observations and findings in a lab report",
+        "Answer the reflection questions about what you learned",
+        "Create a visual representation (diagram, chart, or model) of key concepts",
+        "Present your findings to the class or submit a written report"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary focus of Age of Exploration?",
+      "options": [
+        "Understanding fundamental concepts of Age of Exploration",
+        "Memorizing facts without context",
+        "Avoiding practical applications",
+        "Focusing only on advanced topics"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+    },
+    {
+      "question": "Which of the following best describes the importance of Age of Exploration?",
+      "options": [
+        "It provides essential knowledge for understanding history",
+        "It is only relevant for advanced students",
+        "It has no real-world applications",
+        "It is purely theoretical without practical value"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "This topic provides essential foundational knowledge that is crucial for understanding history and has practical applications in real-world contexts."
+    },
+    {
+      "question": "Age of Exploration is an important topic for understanding history at the Secondary level.",
+      "answer": true,
+      "type": "true-false",
+      "explanation": "This statement is true. Age of Exploration provides fundamental knowledge that is essential for building a strong understanding of history."
+    },
+    {
+      "question": "The concepts in Age of Exploration have no practical applications in real life.",
+      "answer": false,
+      "type": "true-false",
+      "explanation": "This statement is false. The concepts in Age of Exploration have numerous practical applications in various fields and everyday life."
+    },
+    {
+      "question": "The study of Age of Exploration helps students understand the fundamental principles of ______.",
+      "answer": "history",
+      "type": "fill-in-the-blank",
+      "explanation": "The correct answer is \"history\". Age of Exploration is a key component of history that helps students understand fundamental principles in this field."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "topic": "Essential Vocabulary: Family, Colors, and Days of the Week",
+  "detailedSummary": "Building vocabulary is essential for communication. Family vocabulary includes: padre/papá (father), madre/mamá (mother), hijo (son), hija (daughter), hermano (brother), hermana (sister), abuelo (grandfather), abuela (grandmother), tío (uncle), tía (aunt), primo (cousin, male), prima (cousin, female), esposo/marido (husband), esposa/mujer (wife). Colors are adjectives that agree with nouns: rojo (red), azul (blue), verde (green), amarillo (yellow), negro (black), blanco (white), gris (gray), marrón/café (brown), rosa (pink), naranja (orange), morado (purple). Days of the week: lunes (Monday), martes (Tuesday), miércoles (Wednesday), jueves (Thursday), viernes (Friday), sábado (Saturday), domingo (Sunday). Note: days are not capitalized in Spanish. Months: enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre. Seasons: primavera (spring), verano (summer), otoño (fall), invierno (winter). These vocabulary sets are used constantly in daily conversation and are essential building blocks.",
+  "whyItMatters": "Family, colors, and time vocabulary are used constantly in daily conversation - mastering these essential words enables you to describe people, objects, and discuss schedules and relationships.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Essential Vocabulary: Family, Colors, and Days of the Week | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Essential Vocabulary: Family, Colors, and Days of the Week | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Essential Vocabulary: Family, Colors, and Days of the Week | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Spanish Vocabulary Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Vocabulary Practice Exercises",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Build Essential Spanish Vocabulary",
+      "description": "Learn and practice essential vocabulary for family, colors, and time expressions.",
+      "tasks": [
+        "Create a family tree in Spanish, labeling all family members",
+        "Describe objects in your room using color vocabulary with correct gender agreement",
+        "Write your weekly schedule using days of the week and times",
+        "Create flashcards for all vocabulary and practice pronunciation",
+        "Write a paragraph describing your family using the vocabulary learned"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "How do you say 'sister' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "hermano",
+        "hermana",
+        "hijo",
+        "hija"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Hermana' means sister. 'Hermano' is brother, 'hijo' is son, and 'hija' is daughter."
+    },
+    {
+      "question": "Days of the week in Spanish are capitalized like in English.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Days of the week and months are not capitalized in Spanish (e.g., 'lunes', not 'Lunes')."
+    },
+    {
+      "question": "How do you say 'Wednesday' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "miércoles",
+        "martes",
+        "jueves",
+        "viernes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Miércoles' is Wednesday. The days are: lunes, martes, miércoles, jueves, viernes, sábado, domingo."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

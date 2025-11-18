@@ -1,0 +1,263 @@
+{
+  "topic": "Discrete Mathematics: Sets, Logic, and Proofs",
+  "detailedSummary": "Discrete mathematics studies things you can count 🔢, like numbers, objects, and their relationships. **Sets** 🗂️ are collections of objects. **Logic** 🧠 is about reasoning and statements that are true or false. **Proofs** ✍️ are step-by-step explanations showing why a statement is true. Discrete math is the foundation for computer science, algorithms, cryptography, and network theory.",
+  "whyItMatters": "Discrete mathematics is the foundation for computer science, algorithms, cryptography, and network theory - essential for understanding computation, data structures, and mathematical reasoning.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Discrete Mathematics | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=z8HKWUWS-lA"
+      },
+      {
+        "title": "Set Theory | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=ymFnp7s52e4"
+      },
+      {
+        "title": "Mathematical Proofs | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=z8HKWUWS-lA"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Discrete Mathematics and Its Applications - Kenneth Rosen",
+        "url": "https://www.mheducation.com/highered/product/discrete-mathematics-its-applications-rosen/M9780073383095.html"
+      },
+      {
+        "title": "Mathematics for Computer Science - MIT",
+        "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/"
+      },
+      {
+        "title": "Khan Academy: Discrete Math",
+        "url": "https://www.khanacademy.org/computing/computer-science"
+      },
+      {
+        "title": "Paul's Online Notes: Discrete Mathematics",
+        "url": "http://tutorial.math.lamar.edu/Classes/DiscreteMath/DiscreteMath.aspx"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Set Theory Visualizations - GeoGebra",
+        "url": "https://www.geogebra.org/"
+      },
+      {
+        "title": "Logic Gate Simulator - CircuitVerse",
+        "url": "https://circuitverse.org/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Discrete Mathematics: Sets, Logic, and Proofs",
+      "description": "Solve 3 problems involving set operations (union, intersection, difference). Solve 3 logic problems using AND, OR, NOT. Write 2 simple proofs using induction. Draw a Venn diagram for one real-life scenario. Submit all calculations, diagrams, and explanations.",
+      "tasks": [
+        "Solve 5 problems involving set operations: union (∪), intersection (∩), difference (\\), and complement",
+        "Solve 5 problems involving Cartesian product and power sets",
+        "Prove 3 set identities using set builder notation and logical reasoning",
+        "Solve 5 logic problems using logical operators: AND (∧), OR (∨), NOT (¬), IMPLIES (→), IFF (↔)",
+        "Construct truth tables for 5 compound logical statements",
+        "Prove 3 statements using direct proof method",
+        "Prove 3 statements using proof by contradiction",
+        "Prove 3 statements using mathematical induction (base case, inductive hypothesis, inductive step)",
+        "Prove 2 statements using proof by contrapositive",
+        "Draw Venn diagrams for 3 real-life scenarios and submit all calculations, diagrams, and explanations",
+        "Research the Zermelo-Fraenkel set theory axioms. Study the foundational axioms of set theory and their significance",
+        "Investigate Gödel's incompleteness theorems. Research how they relate to logic and mathematical proof",
+        "Study first-order logic and predicate calculus. Research how quantifiers (∀, ∃) extend propositional logic",
+        "Explore the axiom of choice and its consequences. Research the Banach-Tarski paradox and its implications",
+        "Investigate proof by strong induction. Research how it differs from regular induction and when to use it",
+        "Study the pigeonhole principle. Research its applications in combinatorics and computer science",
+        "Research the concept of countable and uncountable sets. Study Cantor's diagonal argument and its significance",
+        "Explore the relationship between logic and computer science. Research how Boolean algebra applies to circuit design",
+        "Investigate the use of formal logic in artificial intelligence. Research how logical reasoning is implemented in AI systems",
+        "Study the application of mathematical induction in algorithm analysis. Research how it proves algorithm correctness"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "List the union and intersection of A={1,2,3} and B={2,4}.",
+      "type": "multiple-choice",
+      "options": [
+        "A ∪ B = {1,2,3,4}, A ∩ B = {2}",
+        "A ∪ B = {1,2,3}, A ∩ B = {2,4}",
+        "A ∪ B = {2}, A ∩ B = {1,2,3,4}",
+        "A ∪ B = {1,3,4}, A ∩ B = {2}"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Union A ∪ B contains all elements in A or B: {1,2,3,4}. Intersection A ∩ B contains elements in both A and B: {2}."
+    },
+    {
+      "question": "Evaluate the truth of P ∧ Q if P is true and Q is false.",
+      "type": "multiple-choice",
+      "options": [
+        "False",
+        "True",
+        "Cannot determine",
+        "Both true and false"
+      ],
+      "correctAnswer": 0,
+      "explanation": "P ∧ Q (P AND Q) is true only when both P and Q are true. Since Q is false, P ∧ Q is false."
+    },
+    {
+      "question": "Write a proof by induction for a simple arithmetic formula.",
+      "type": "multiple-choice",
+      "options": [
+        "Base case: verify for n=1. Inductive hypothesis: assume true for n=k. Inductive step: prove for n=k+1",
+        "Just check for n=1",
+        "Check for all values",
+        "No proof needed"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mathematical induction requires: (1) Base case: verify the statement for n=1 (or smallest value), (2) Inductive hypothesis: assume true for n=k, (3) Inductive step: prove it's true for n=k+1 using the hypothesis."
+    },
+    {
+      "question": "Give an example of a set and its subset.",
+      "type": "multiple-choice",
+      "options": [
+        "A = {1,2,3}, B = {1,2} where B ⊆ A",
+        "A = {1,2}, B = {1,2,3} where B ⊆ A",
+        "A = {1,2}, B = {3,4} where B ⊆ A",
+        "A = {1,2,3}, B = {4,5} where B ⊆ A"
+      ],
+      "correctAnswer": 0,
+      "explanation": "B is a subset of A (B ⊆ A) if every element of B is also in A. Here, B = {1,2} and all elements (1 and 2) are in A = {1,2,3}, so B ⊆ A."
+    },
+    {
+      "question": "Explain a real-life application of discrete mathematics.",
+      "type": "multiple-choice",
+      "options": [
+        "Computer algorithms, cryptography, network routing, database design",
+        "Measuring temperature",
+        "Calculating area",
+        "Solving equations"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Discrete mathematics is fundamental to computer science: algorithms use discrete structures, cryptography uses number theory, network routing uses graph theory, and databases use set theory and relational algebra."
+    },
+    {
+      "question": "What is the power set of A = {1,2}?",
+      "type": "multiple-choice",
+      "options": [
+        "{∅, {1}, {2}, {1,2}}",
+        "{{1}, {2}}",
+        "{1, 2}",
+        "{∅, {1,2}}"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The power set P(A) is the set of all subsets of A. For A = {1,2}, the subsets are: ∅ (empty set), {1}, {2}, and {1,2}. Therefore P(A) = {∅, {1}, {2}, {1,2}}."
+    },
+    {
+      "question": "If P → Q is false, what can we conclude about P and Q?",
+      "type": "multiple-choice",
+      "options": [
+        "P is true and Q is false",
+        "P is false and Q is true",
+        "Both P and Q are false",
+        "Both P and Q are true"
+      ],
+      "correctAnswer": 0,
+      "explanation": "P → Q (if P then Q) is false only when P is true and Q is false. In all other cases (P false, or both true), the implication is true."
+    },
+    {
+      "question": "Prove by induction: Sum of first n positive integers = n(n+1)/2. What is the inductive step?",
+      "type": "multiple-choice",
+      "options": [
+        "Assume true for n=k: sum = k(k+1)/2. For n=k+1: sum = k(k+1)/2 + (k+1) = (k+1)(k+2)/2",
+        "Check for n=1 only",
+        "Assume it's false",
+        "No proof needed"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Inductive step: Assume the formula holds for n=k, so sum of first k integers = k(k+1)/2. For n=k+1, add (k+1) to both sides: sum = k(k+1)/2 + (k+1) = (k+1)(k/2 + 1) = (k+1)(k+2)/2, proving it for k+1."
+    },
+    {
+      "question": "What is the Cartesian product A × B where A = {1,2} and B = {a,b}?",
+      "type": "multiple-choice",
+      "options": [
+        "{(1,a), (1,b), (2,a), (2,b)}",
+        "{(1,2), (a,b)}",
+        "{1,2,a,b}",
+        "{(1,a), (2,b)}"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cartesian product A × B is the set of all ordered pairs (a,b) where a ∈ A and b ∈ B. For A = {1,2} and B = {a,b}: A × B = {(1,a), (1,b), (2,a), (2,b)}."
+    },
+    {
+      "question": "In a proof by contradiction, what is the strategy?",
+      "type": "multiple-choice",
+      "options": [
+        "Assume the statement is false, derive a contradiction, conclude the statement must be true",
+        "Assume the statement is true, derive a contradiction",
+        "Check all cases",
+        "Use examples only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Proof by contradiction: (1) Assume the statement to be proven is false, (2) Use logical reasoning to derive a contradiction (something that cannot be true), (3) Conclude that the original assumption (that the statement is false) must be wrong, so the statement is true."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/99/Venn_diagram_cmyk.svg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f2/Logic_Gate_AND.svg",
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=800&q=80",
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Set": "A collection of distinct objects, called elements. Notation: A = {1,2,3}. Empty set: ∅ = {}.",
+      "Subset": "Set B is a subset of A (B ⊆ A) if every element of B is also in A. If B ⊆ A and B ≠ A, then B is a proper subset (B ⊂ A).",
+      "Union": "A ∪ B = {x | x ∈ A or x ∈ B}. Contains all elements in A or B (or both).",
+      "Intersection": "A ∩ B = {x | x ∈ A and x ∈ B}. Contains elements in both A and B.",
+      "Set Difference": "A \\ B = {x | x ∈ A and x ∉ B}. Elements in A but not in B.",
+      "Complement": "A' or A^c = {x | x ∉ A}. All elements not in A (relative to a universal set U).",
+      "Cartesian Product": "A × B = {(a,b) | a ∈ A and b ∈ B}. Set of all ordered pairs.",
+      "Power Set": "P(A) = {B | B ⊆ A}. The set of all subsets of A. If |A| = n, then |P(A)| = 2^n.",
+      "Proposition": "A statement that is either true or false (but not both). Example: '2 + 2 = 4' is true.",
+      "Logical Operators": "AND (∧): P ∧ Q is true when both P and Q are true. OR (∨): P ∨ Q is true when at least one is true. NOT (¬): ¬P is true when P is false. IMPLIES (→): P → Q is false only when P is true and Q is false.",
+      "Truth Table": "A table showing all possible truth values of a compound statement for all combinations of truth values of its components.",
+      "Direct Proof": "A proof that starts with given assumptions and uses logical steps to directly show the conclusion is true.",
+      "Proof by Contradiction": "Assume the statement is false, derive a contradiction, conclude the statement must be true.",
+      "Mathematical Induction": "A proof method: (1) Base case: verify for n=1, (2) Inductive hypothesis: assume true for n=k, (3) Inductive step: prove for n=k+1 using the hypothesis."
+    },
+    "keyConcepts": [
+      "Sets are fundamental structures for organizing and reasoning about collections of objects",
+      "Set operations (union, intersection, difference) allow combining and comparing sets",
+      "Logic provides the foundation for mathematical reasoning and proof",
+      "Different proof methods (direct, contradiction, induction) are tools for establishing truth",
+      "Discrete mathematics is essential for computer science, algorithms, and cryptography"
+    ],
+    "stepByStepExplanations": [
+      "**Set Operations:** For A = {1,2,3} and B = {2,3,4}: Step 1) Union A ∪ B: combine all elements = {1,2,3,4}. Step 2) Intersection A ∩ B: elements in both = {2,3}. Step 3) Difference A \\ B: elements in A but not B = {1}.",
+      "**Logical Evaluation:** For P = true, Q = false: Step 1) P ∧ Q: true AND false = false. Step 2) P ∨ Q: true OR false = true. Step 3) ¬P: NOT true = false. Step 4) P → Q: true IMPLIES false = false.",
+      "**Proof by Induction:** Prove 1 + 2 + ... + n = n(n+1)/2. Step 1) Base case (n=1): 1 = 1(2)/2 = 1 ✓. Step 2) Inductive hypothesis: Assume true for n=k, so 1+2+...+k = k(k+1)/2. Step 3) For n=k+1: 1+2+...+k+(k+1) = k(k+1)/2 + (k+1) = (k+1)(k/2 + 1) = (k+1)(k+2)/2 ✓.",
+      "**Proof by Contradiction:** Prove √2 is irrational. Step 1) Assume √2 is rational, so √2 = a/b (a,b integers, b≠0, in lowest terms). Step 2) Square: 2 = a²/b², so a² = 2b². Step 3) This means a² is even, so a is even. Step 4) Write a = 2c, then (2c)² = 2b² → 4c² = 2b² → b² = 2c², so b is also even. Step 5) Contradiction: a and b both even contradicts 'lowest terms'. Therefore √2 is irrational."
+    ],
+    "examples": [
+      "**Set Operations:** A = {1,2,3}, B = {2,3,4}\n   Union: A ∪ B = {1,2,3,4}\n   Intersection: A ∩ B = {2,3}\n   Difference: A \\ B = {1}\n   Complement (if U = {1,2,3,4,5}): A' = {4,5}",
+      "**Logic:** P = 'It is raining', Q = 'I take an umbrella'\n   P ∧ Q: It is raining AND I take an umbrella\n   P ∨ Q: It is raining OR I take an umbrella (or both)\n   P → Q: If it is raining, then I take an umbrella\n   Truth table shows all combinations",
+      "**Induction Proof:** Sum of first n integers = n(n+1)/2\n   Base: n=1, sum = 1 = 1(2)/2 ✓\n   Assume: 1+2+...+k = k(k+1)/2\n   Prove: 1+2+...+k+(k+1) = (k+1)(k+2)/2\n   Using hypothesis: k(k+1)/2 + (k+1) = (k+1)(k+2)/2 ✓",
+      "**Contradiction Proof:** √2 is irrational\n   Assume √2 = a/b (rational, lowest terms)\n   Then a² = 2b², so a is even\n   Then b² = 2c², so b is even\n   Contradiction: both even contradicts lowest terms\n   Therefore √2 is irrational"
+    ],
+    "realLifeApplications": [
+      "**Computer Science - Algorithms:** Set theory and logic are fundamental to algorithm design. Data structures (trees, graphs) use discrete structures. Boolean logic is the basis of computer operations.",
+      "**Cryptography:** Number theory (part of discrete math) is essential for encryption. Prime numbers, modular arithmetic, and discrete logarithms secure digital communications.",
+      "**Database Systems:** Relational databases use set theory. SQL queries use set operations (UNION, INTERSECTION, DIFFERENCE). Normalization uses functional dependencies (discrete relations).",
+      "**Network Theory:** Graph theory (discrete math) models networks (social, computer, transportation). Algorithms find shortest paths, minimum spanning trees, and network flows."
+    ],
+    "diagramsOrImageDescriptions": [
+      "Venn diagram showing set operations: Two overlapping circles representing sets A and B, with shaded regions showing union (all), intersection (overlap), and difference (one circle minus overlap).",
+      "Truth table diagram: A table with columns for P, Q, and compound statements (P∧Q, P∨Q, P→Q), showing all possible truth value combinations (TT, TF, FT, FF) and resulting truth values.",
+      "Induction visualization: A domino effect showing base case (first domino falls), inductive hypothesis (if domino k falls), and inductive step (then domino k+1 falls), demonstrating the principle.",
+      "Logic gate diagram: Visual representation of AND, OR, NOT gates with inputs and outputs, showing how logical operations combine to form circuits."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Multiple-choice questions: 1 point each. Total: 10 points. Passing: 7/10 (70%). Questions require understanding of set operations, logical reasoning, and proof techniques."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=z8HKWUWS-lA"
+}

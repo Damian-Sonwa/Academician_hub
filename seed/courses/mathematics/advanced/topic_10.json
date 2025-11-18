@@ -1,0 +1,161 @@
+{
+  "topic": "Number Theory: Prime Numbers and Modular Arithmetic",
+  "detailedSummary": "Number theory studies properties of integers, particularly prime numbers and divisibility. Prime numbers are integers greater than 1 divisible only by 1 and themselves. The Fundamental Theorem of Arithmetic states every integer > 1 can be uniquely factored into primes. Prime factorization enables finding greatest common divisors (GCD) and least common multiples (LCM). The Euclidean Algorithm efficiently computes GCD using the property GCD(a, b) = GCD(b, a mod b). Modular arithmetic works with remainders: a ≡ b (mod n) means a and b have the same remainder when divided by n. Modular arithmetic has properties: (a + b) mod n = ((a mod n) + (b mod n)) mod n, and similar for multiplication. Modular exponentiation efficiently computes large powers using properties like aᵇ mod n. Fermat's Little Theorem states: if p is prime and GCD(a, p) = 1, then aᵖ⁻¹ ≡ 1 (mod p). The Chinese Remainder Theorem solves systems of congruences. Applications include: cryptography (RSA encryption relies on difficulty of factoring large primes), hash functions, error-correcting codes, and computer science algorithms. Diophantine equations are polynomial equations with integer solutions, like finding integer solutions to ax + by = c. Understanding number theory is essential for cryptography, computer security, algorithm design, and pure mathematical research.",
+  "whyItMatters": "Number theory provides foundations for cryptography and security - essential for computer security, encryption, digital signatures, and understanding fundamental properties of integers.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Number Theory: Prime Numbers and Modular Arithmetic | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Number Theory: Prime Numbers and Modular Arithmetic | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Number Theory: Prime Numbers and Modular Arithmetic | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Elementary Number Theory - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/mathematics"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Number Theory Calculator - Wolfram Alpha",
+        "url": "https://www.wolframalpha.com/examples/mathematics/number-theory"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Number Theory: Prime Numbers and Modular Arithmetic",
+      "description": "Master prime numbers, modular arithmetic, and their applications.",
+      "tasks": [
+        "Find prime factorizations of 15 numbers",
+        "Use Euclidean Algorithm to find GCD for 10 pairs",
+        "Perform modular arithmetic operations for 15 problems",
+        "Solve 10 modular equations",
+        "Use Fermat's Little Theorem to simplify expressions",
+        "Apply Chinese Remainder Theorem to solve systems",
+        "Solve 5 Diophantine equations",
+        "Analyze properties of prime numbers",
+        "Work with modular exponentiation",
+        "Apply number theory to cryptography problems"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the prime factorization of 60?",
+      "type": "multiple-choice",
+      "options": [
+        "2² × 3 × 5",
+        "2 × 3 × 5",
+        "2³ × 3 × 5",
+        "4 × 3 × 5"
+      ],
+      "correctAnswer": 0,
+      "explanation": "60 = 2 × 30 = 2 × 2 × 15 = 2 × 2 × 3 × 5 = 2² × 3 × 5."
+    },
+    {
+      "question": "What is 17 mod 5?",
+      "type": "multiple-choice",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "17"
+      ],
+      "correctAnswer": 0,
+      "explanation": "17 ÷ 5 = 3 remainder 2, so 17 mod 5 = 2."
+    },
+    {
+      "question": "What is GCD(48, 18)?",
+      "type": "multiple-choice",
+      "options": [
+        "6",
+        "3",
+        "18",
+        "48"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Using Euclidean Algorithm: GCD(48, 18) = GCD(18, 48 mod 18) = GCD(18, 12) = GCD(12, 18 mod 12) = GCD(12, 6) = GCD(6, 12 mod 6) = GCD(6, 0) = 6."
+    },
+    {
+      "question": "Every positive integer greater than 1 has a unique prime factorization.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. This is the Fundamental Theorem of Arithmetic: every integer > 1 can be uniquely written as a product of primes."
+    },
+    {
+      "question": "If a ≡ 3 (mod 7) and b ≡ 5 (mod 7), what is (a + b) mod 7?",
+      "type": "multiple-choice",
+      "options": [
+        "1",
+        "8",
+        "15",
+        "2"
+      ],
+      "correctAnswer": 0,
+      "explanation": "(a + b) mod 7 = (3 + 5) mod 7 = 8 mod 7 = 1."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1574170275470-a717198122c8?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Prime Number": "Integer p > 1 divisible only by 1 and itself. Examples: 2, 3, 5, 7, 11, 13, ... Infinitely many primes (Euclid's proof).",
+      "Composite Number": "Integer > 1 that is not prime. Has at least one factor other than 1 and itself. Example: 6 = 2 × 3.",
+      "Fundamental Theorem of Arithmetic": "Every integer > 1 can be uniquely written as product of primes (up to order). Example: 60 = 2² × 3 × 5. Uniqueness is key.",
+      "Greatest Common Divisor (GCD)": "Largest positive integer dividing both a and b. Notation: gcd(a,b) or (a,b). Example: gcd(12,18) = 6.",
+      "Least Common Multiple (LCM)": "Smallest positive integer divisible by both a and b. Formula: lcm(a,b) = ab/gcd(a,b). Example: lcm(4,6) = 12.",
+      "Euclidean Algorithm": "Efficiently computes GCD: gcd(a,b) = gcd(b, a mod b). Repeat until remainder is 0. Last nonzero remainder is GCD.",
+      "Modular Arithmetic": "a ≡ b (mod n) means n divides (a-b). Equivalently: a mod n = b mod n. Works like clock arithmetic: 13 ≡ 1 (mod 12).",
+      "Chinese Remainder Theorem": "If moduli are pairwise coprime, system of congruences has unique solution modulo product of moduli. Used in cryptography."
+    },
+    "keyConcepts": [
+      "Primes are building blocks: every integer factors uniquely into primes",
+      "GCD finds common factors, LCM finds common multiples",
+      "Euclidean algorithm efficiently computes GCD using division algorithm",
+      "Modular arithmetic: work with remainders, useful for cyclic patterns",
+      "Modular arithmetic enables efficient computation and cryptography"
+    ],
+    "stepByStepExplanations": [
+      "**Prime Factorization:** Factor 84: Step 1) Divide by 2: 84 = 2 × 42. Step 2) Divide by 2: 42 = 2 × 21, so 84 = 2² × 21. Step 3) Divide by 3: 21 = 3 × 7. Step 4) Result: 84 = 2² × 3 × 7.",
+      "**Euclidean Algorithm:** gcd(48, 18): Step 1) 48 = 18(2) + 12, so gcd(48,18) = gcd(18,12). Step 2) 18 = 12(1) + 6, so gcd(18,12) = gcd(12,6). Step 3) 12 = 6(2) + 0. Step 4) gcd(48,18) = 6.",
+      "**Modular Arithmetic:** Compute 7³ mod 5: Step 1) 7 ≡ 2 (mod 5). Step 2) 7³ ≡ 2³ (mod 5) = 8. Step 3) 8 ≡ 3 (mod 5). Step 4) So 7³ ≡ 3 (mod 5). Verify: 7³ = 343, 343 mod 5 = 3. ✓",
+      "**LCM via GCD:** Find lcm(12, 18): Step 1) gcd(12,18) = 6 (from Euclidean algorithm). Step 2) lcm(12,18) = (12 × 18)/6 = 216/6 = 36. Step 3) Verify: 36 is divisible by both 12 and 18, and is smallest such number."
+    ],
+    "examples": [
+      "**Prime Factorization:** 100 = 2² × 5²\n   60 = 2² × 3 × 5\n   GCD: take minimum exponents: 2² × 5 = 20\n   LCM: take maximum exponents: 2² × 3 × 5² = 300",
+      "**Euclidean Algorithm:** gcd(1071, 462)\n   1071 = 462(2) + 147\n   462 = 147(3) + 21\n   147 = 21(7) + 0\n   GCD = 21",
+      "**Modular Arithmetic:** Clock arithmetic (mod 12)\n   9 + 5 = 14 ≡ 2 (mod 12)\n   7 × 3 = 21 ≡ 9 (mod 12)\n   10 - 4 = 6 (mod 12)\n   Works like clock: 9 hours + 5 hours = 2 o'clock",
+      "**Chinese Remainder:** x ≡ 2 (mod 3), x ≡ 3 (mod 5)\n   Solution: x ≡ 8 (mod 15)\n   Verify: 8 mod 3 = 2, 8 mod 5 = 3 ✓"
+    ],
+    "realLifeApplications": [
+      "**Cryptography (RSA):** Security relies on difficulty of factoring large numbers into primes. Public key = product of two large primes. Private key requires prime factorization. Number theory ensures security.",
+      "**Computer Science:** Hash functions use modular arithmetic. Array indices: index mod array_size. Checksums: sum mod 256. Efficient computation with large numbers.",
+      "**Calendar Systems:** Days of week: mod 7 arithmetic. 365 days later: 365 mod 7 = 1, so day shifts by 1. Leap years account for extra day. Modular arithmetic models cycles.",
+      "**Error Detection:** ISBN codes use mod 11 check digits. Credit card numbers use mod 10 (Luhn algorithm). Detects transcription errors. Modular arithmetic provides validation."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A factor tree diagram showing prime factorization of a number, branching to show how composite numbers break down into prime factors, with final prime factorization displayed.",
+      "A visual representation of Euclidean algorithm: showing the division steps with remainders decreasing, leading to the final GCD, demonstrating the algorithm's efficiency.",
+      "A clock face showing modular arithmetic: numbers arranged in circle, with addition/subtraction wrapping around, demonstrating how mod 12 arithmetic works like a clock."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

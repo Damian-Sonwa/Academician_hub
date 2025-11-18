@@ -1,0 +1,161 @@
+{
+  "topic": "Trigonometry: Right Triangles and Unit Circle",
+  "detailedSummary": "Trigonometry studies relationships between angles and sides of triangles, particularly right triangles. In a right triangle, the three primary trigonometric ratios are: sine (sin) = opposite/hypotenuse, cosine (cos) = adjacent/hypotenuse, and tangent (tan) = opposite/adjacent. These ratios depend only on the angle measure, not the triangle's size. The mnemonic SOH-CAH-TOA helps remember these definitions. For special angles (30°, 45°, 60°), exact values can be determined using special right triangles. The unit circle is a circle with radius 1 centered at the origin, providing a powerful way to extend trigonometry beyond acute angles to all angles. On the unit circle, any point (x, y) corresponds to an angle θ, where cos(θ) = x and sin(θ) = y. This allows defining trigonometric functions for angles greater than 90° and negative angles. The unit circle reveals periodic behavior: sine and cosine functions repeat every 360° (2π radians). Reference angles help find trigonometric values for angles in any quadrant by relating them to acute angles in the first quadrant. The Pythagorean identity sin²(θ) + cos²(θ) = 1 follows directly from the unit circle and the Pythagorean theorem. Understanding right triangle trigonometry and the unit circle is essential for solving problems involving angles, distances, heights, navigation, waves, and circular motion in physics, engineering, and architecture.",
+  "whyItMatters": "Trigonometry connects angles to distances and coordinates - essential for navigation, engineering, physics (waves, circular motion), architecture, and computer graphics.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Trigonometry | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Trigonometry Basics | Math Antics",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Trigonometry | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Algebra and Trigonometry 2e - Chapter 7: The Unit Circle - OpenStax",
+        "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Unit Circle Interactive - Desmos",
+        "url": "https://www.desmos.com/calculator"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Trigonometry: Right Triangles and Unit Circle",
+      "description": "Master trigonometric ratios, the unit circle, and solving right triangle problems.",
+      "tasks": [
+        "Find all six trigonometric ratios for 10 different right triangles",
+        "Solve 15 right triangle problems using trigonometric ratios",
+        "Memorize and apply exact values for 30°, 45°, and 60° angles",
+        "Plot and identify coordinates on the unit circle for key angles",
+        "Find trigonometric values using reference angles",
+        "Solve word problems involving angles of elevation and depression",
+        "Apply trigonometry to navigation and bearing problems",
+        "Use the Pythagorean identity to find missing trigonometric values",
+        "Graph sine and cosine functions using the unit circle",
+        "Create a real-world problem requiring right triangle trigonometry"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "In a right triangle, if the opposite side is 3 and the hypotenuse is 5, what is sin(θ)?",
+      "type": "multiple-choice",
+      "options": [
+        "3/5",
+        "4/5",
+        "3/4",
+        "5/3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "sin(θ) = opposite/hypotenuse = 3/5."
+    },
+    {
+      "question": "What is cos(60°)?",
+      "type": "multiple-choice",
+      "options": [
+        "1/2",
+        "√3/2",
+        "√3",
+        "1"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Using a 30-60-90 triangle or unit circle, cos(60°) = 1/2."
+    },
+    {
+      "question": "On the unit circle, what are the coordinates of the point at angle 90°?",
+      "type": "multiple-choice",
+      "options": [
+        "(0, 1)",
+        "(1, 0)",
+        "(-1, 0)",
+        "(0, -1)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "At 90° on the unit circle, the point is at the top: (0, 1), so cos(90°) = 0 and sin(90°) = 1."
+    },
+    {
+      "question": "The sine of an angle is always equal to the cosine of its complement.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. sin(θ) = cos(90° - θ) for complementary angles."
+    },
+    {
+      "question": "What is the reference angle for 150°?",
+      "type": "multiple-choice",
+      "options": [
+        "30°",
+        "60°",
+        "150°",
+        "210°"
+      ],
+      "correctAnswer": 0,
+      "explanation": "150° is in quadrant II. Reference angle = 180° - 150° = 30°."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1574170275470-a717198122c8?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Right Triangle": "A triangle with one 90° angle. The side opposite the right angle is the hypotenuse (longest side).",
+      "Sine (sin)": "Ratio of opposite side to hypotenuse. sin(θ) = opposite/hypotenuse. Mnemonic: SOH (Sine = Opposite/Hypotenuse).",
+      "Cosine (cos)": "Ratio of adjacent side to hypotenuse. cos(θ) = adjacent/hypotenuse. Mnemonic: CAH (Cosine = Adjacent/Hypotenuse).",
+      "Tangent (tan)": "Ratio of opposite side to adjacent side. tan(θ) = opposite/adjacent. Mnemonic: TOA (Tangent = Opposite/Adjacent).",
+      "Unit Circle": "A circle with radius 1 centered at origin. Coordinates of point on circle: (cos(θ), sin(θ)) where θ is angle from positive x-axis.",
+      "Reference Angle": "The acute angle between the terminal side and the x-axis. Used to find trig values for angles in any quadrant.",
+      "Special Right Triangles": "30°-60°-90° triangle (sides: 1, √3, 2) and 45°-45°-90° triangle (sides: 1, 1, √2) provide exact trig values.",
+      "Pythagorean Theorem": "In right triangle: a² + b² = c² where c is hypotenuse. Used with trig to find missing sides."
+    },
+    "keyConcepts": [
+      "Trigonometric ratios depend only on the angle, not the triangle's size - similar triangles have same ratios",
+      "SOH-CAH-TOA helps remember: Sine = Opposite/Hypotenuse, Cosine = Adjacent/Hypotenuse, Tangent = Opposite/Adjacent",
+      "The unit circle extends trigonometry beyond right triangles to all angles",
+      "Special angles (30°, 45°, 60°) have exact values from special right triangles",
+      "Reference angles allow finding trig values for angles in any quadrant using quadrant signs"
+    ],
+    "stepByStepExplanations": [
+      "**Finding Trig Ratios in Right Triangle:** Given right triangle with angle θ, opposite = 3, adjacent = 4, hypotenuse = 5: Step 1) sin(θ) = 3/5 = 0.6. Step 2) cos(θ) = 4/5 = 0.8. Step 3) tan(θ) = 3/4 = 0.75.",
+      "**Using Unit Circle:** For 150°: Step 1) Reference angle = 180° - 150° = 30°. Step 2) 150° is in QII (cos negative, sin positive). Step 3) cos(150°) = -cos(30°) = -√3/2. sin(150°) = sin(30°) = 1/2.",
+      "**Special Triangle Values:** For 45°: Use 45°-45°-90° triangle with sides 1, 1, √2. sin(45°) = 1/√2 = √2/2. cos(45°) = 1/√2 = √2/2. tan(45°) = 1/1 = 1.",
+      "**Solving Right Triangle:** Given angle = 30°, hypotenuse = 10: Step 1) sin(30°) = opposite/10, so opposite = 10·(1/2) = 5. Step 2) cos(30°) = adjacent/10, so adjacent = 10·(√3/2) = 5√3. Step 3) Verify: 5² + (5√3)² = 25 + 75 = 100 = 10² ✓."
+    ],
+    "examples": [
+      "**Right Triangle Problem:** Angle = 37°, opposite = 6\n   Find hypotenuse: sin(37°) = 6/h, so h = 6/sin(37°) ≈ 6/0.602 ≈ 9.97\n   Find adjacent: tan(37°) = 6/a, so a = 6/tan(37°) ≈ 6/0.754 ≈ 7.96",
+      "**Unit Circle:** Point at 60° on unit circle\n   Coordinates: (cos(60°), sin(60°)) = (1/2, √3/2)\n   Distance from origin: √[(1/2)² + (√3/2)²] = 1 ✓",
+      "**Special Angles:** 30°-60°-90° triangle with hypotenuse = 2\n   Sides: 1 (opposite 30°), √3 (opposite 60°), 2 (hypotenuse)\n   sin(30°) = 1/2, cos(30°) = √3/2, tan(30°) = 1/√3",
+      "**Finding Angle:** Given sin(θ) = 0.5\n   θ = arcsin(0.5) = 30° or 150°\n   In right triangle context, typically 30°"
+    ],
+    "realLifeApplications": [
+      "**Height Measurement:** To find height of building: Measure distance d = 50m, angle of elevation θ = 35°. Height h = d·tan(θ) = 50·tan(35°) ≈ 35m. Used in surveying and construction.",
+      "**Navigation:** Ship navigation uses bearings (angles from north). If ship travels 10km at bearing 60°, coordinates: x = 10·sin(60°) ≈ 8.66km east, y = 10·cos(60°) = 5km north.",
+      "**Engineering:** Ramp design: If ramp length is 10m and height is 1m, angle = arcsin(1/10) ≈ 5.74°. Ensures accessibility (typically < 5° for wheelchairs).",
+      "**Physics:** Projectile motion: Initial velocity v₀ at angle θ. Horizontal component: v₀·cos(θ). Vertical component: v₀·sin(θ). Used to calculate range and maximum height."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A right triangle labeled with angle θ, showing opposite side, adjacent side, and hypotenuse, with SOH-CAH-TOA mnemonic displayed.",
+      "A unit circle diagram showing angles 0°, 30°, 45°, 60°, 90° with their coordinates (cos, sin) marked, demonstrating how unit circle extends trigonometry.",
+      "Special right triangles: 30°-60°-90° triangle with sides 1, √3, 2 labeled, and 45°-45°-90° triangle with sides 1, 1, √2 labeled."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

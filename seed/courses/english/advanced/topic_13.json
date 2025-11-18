@@ -1,0 +1,157 @@
+{
+  "topic": "Advanced Grammar and Style",
+  "detailedSummary": "Advanced grammar and style mastery enables sophisticated, precise communication. Beyond basic rules, advanced study examines: syntax complexity (subordination, coordination, parallelism), sentence variety (length, structure, rhythm), and stylistic choices (active vs. passive voice, nominalization, verb strength). Advanced grammar topics include: complex sentence structures, subjunctive mood, advanced punctuation (semicolons, colons, dashes), and handling grammatical gray areas. Style involves conscious choices: diction (word choice for precision and tone), sentence structure (varying for emphasis and rhythm), and voice (distinctive authorial presence). Advanced writers understand: when to break rules for effect, how grammar creates meaning, and how style shapes reader experience. Common advanced issues: parallel structure in complex sentences, pronoun reference clarity, modifier placement, and maintaining consistency. Rhetorical grammar connects grammar to persuasion: how sentence structure emphasizes ideas, how punctuation creates rhythm, and how choices affect reader response. Editing at advanced levels involves: tightening prose, eliminating wordiness, strengthening verbs, and ensuring every word serves a purpose. Advanced style guides (Chicago Manual, AP Stylebook) provide detailed guidance. Understanding advanced grammar and style enables: precise expression, sophisticated communication, and ability to adapt style to different contexts and audiences. Mastery distinguishes professional and academic writing, enabling writers to communicate complex ideas clearly and effectively.",
+  "whyItMatters": "Advanced grammar and style mastery enables sophisticated, precise communication - essential for professional writing, academic excellence, and expressing complex ideas clearly and effectively.",
+  "materials": {
+    "videos": [
+      {
+        "title": "English Grammar | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Grammar | Crash Course",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "English Grammar | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Advanced Grammar and Style - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/english"
+      },
+      {
+        "title": "The Elements of Style - Available through libraries",
+        "url": "https://www.bartleby.com/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Grammar and Style Resources - Purdue OWL",
+        "url": "https://owl.purdue.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Advanced Grammar and Style",
+      "description": "Master advanced grammar concepts and develop sophisticated writing style.",
+      "tasks": [
+        "Analyze sentence structure in published writing",
+        "Practice complex sentence construction",
+        "Revise writing to vary sentence structure and length",
+        "Master advanced punctuation (semicolons, colons, dashes)",
+        "Strengthen verbs and eliminate nominalizations",
+        "Ensure parallel structure in complex sentences",
+        "Edit for conciseness and precision",
+        "Adapt style for different audiences and contexts",
+        "Apply rhetorical grammar principles",
+        "Create a style guide for your writing"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Parallel structure requires:",
+      "type": "multiple-choice",
+      "options": [
+        "Similar grammatical forms in series",
+        "Only long sentences",
+        "Only short sentences",
+        "Only complex words"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Parallel structure uses similar grammatical forms for items in a series, creating balance and clarity (e.g., 'reading, writing, and studying' not 'reading, to write, and study')."
+    },
+    {
+      "question": "Active voice:",
+      "type": "multiple-choice",
+      "options": [
+        "Makes writing more direct and engaging",
+        "Is always wrong",
+        "Only uses 'to be' verbs",
+        "Is never preferred"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Active voice (subject performs action) is generally more direct and engaging than passive voice (subject receives action), though passive has appropriate uses."
+    },
+    {
+      "question": "Rhetorical grammar:",
+      "type": "multiple-choice",
+      "options": [
+        "Connects grammar choices to meaning and persuasion",
+        "Only studies rules",
+        "Only analyzes ancient texts",
+        "Only focuses on spelling"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rhetorical grammar examines how grammatical choices create meaning, affect emphasis, and influence reader response, connecting form to function."
+    },
+    {
+      "question": "Advanced writers always follow every grammar rule strictly.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Advanced writers understand when to break rules for effect, how grammar creates meaning, and make conscious stylistic choices."
+    },
+    {
+      "question": "Sentence variety involves:",
+      "type": "multiple-choice",
+      "options": [
+        "Varying length, structure, and rhythm",
+        "Only using long sentences",
+        "Only using short sentences",
+        "Using the same structure repeatedly"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sentence variety—varying length, structure, and rhythm—creates engaging prose and allows writers to emphasize different ideas."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Noun": "A word that names a person, place, thing, or idea.",
+      "Verb": "A word that expresses action or state of being.",
+      "Adjective": "A word that modifies or describes a noun."
+    },
+    "keyConcepts": [
+      "Advanced grammar and style mastery enables sophisticated, precise communication",
+      "Beyond basic rules, advanced study examines: syntax complexity (subordination, coordination, paralle...",
+      "passive voice, nominalization, verb strength)",
+      "Advanced grammar topics include: complex sentence structures, subjunctive mood, advanced punctuation...",
+      "Style involves conscious choices: diction (word choice for precision and tone), sentence structure (..."
+    ],
+    "stepByStepExplanations": [
+      "**Understanding advanced:** Advanced grammar and style mastery enables sophisticated, precise communication. Beyond basic rules, advanced study examines: syntax complexity (subor...",
+      "**Applying concepts:** Practice with examples specific to Advanced Grammar and Style.",
+      "**Mastering skills:** Develop proficiency through structured exercises."
+    ],
+    "examples": [
+      "**Example 1:** A practical illustration of advanced in action.",
+      "**Example 2:** Another scenario demonstrating grammar.",
+      "**Example 3:** A real-world application of style."
+    ],
+    "realLifeApplications": [
+      "**Academic Context:** Advanced Grammar and Style is essential for academic success and scholarly work.",
+      "**Professional Use:** These skills apply directly to professional communication and analysis.",
+      "**Personal Development:** Understanding Advanced Grammar and Style enhances critical thinking and expression."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram illustrating key concepts of Advanced Grammar and Style.",
+      "A flowchart showing the process and relationships in Advanced Grammar and Style."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

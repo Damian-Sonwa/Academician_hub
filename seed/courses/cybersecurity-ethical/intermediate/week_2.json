@@ -1,0 +1,96 @@
+{
+  "course": "cybersecurity-ethical",
+  "level": "intermediate",
+  "week": 2,
+  "topic": "Web Application Security",
+  "summary": "Covers SQL injection, XSS, CSRF, authentication flaws, and OWASP Top 10. Master web application security vulnerabilities and defenses.  Learn about SQL injection, XSS, CSRF, authentication flaws, and OWASP Top 10. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding cybersecurity at the Secondary level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Web Application Security. The material is designed to build a strong foundation for further learning and practical application in real-world contexts. This topic provides comprehensive coverage essential for understanding cybersecurity at the intermediate level. Through detailed study, students will gain deep insights into the concepts, principles, and real-world applications. The material is designed to build a strong foundation for further learning and practical application in various contexts.",
+  "why_it_matters": "This programming/technology topic provides practical skills highly sought after in the job market and enables you to build real-world applications and solve technical problems.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Web Application Security",
+        "url": "https://youtu.be/5tJvaYq8jK4"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "OWASP Web Security Testing Guide",
+        "url": "https://owasp.org/www-project-top-ten/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "OWASP Juice Shop - TryHackMe",
+        "url": "https://tryhackme.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Research Assignment: Web Application Security",
+      "description": "Complete a research assignment exploring key concepts related to Web Application Security.",
+      "tasks": [
+        "Read the assigned textbook chapters and online resources about Web Application Security",
+        "Identify and explain at least three key concepts from the topic",
+        "Find one real-world example or application of these concepts",
+        "Write a 300-500 word summary explaining your findings",
+        "Include at least two credible sources in your research"
+      ]
+    },
+    {
+      "title": "Practical Exercise: Web Application Security",
+      "description": "Apply your understanding of Web Application Security through hands-on activities.",
+      "tasks": [
+        "Complete the lab exercises or simulations related to Web Application Security",
+        "Document your observations and findings in a lab report",
+        "Answer the reflection questions about what you learned",
+        "Create a visual representation (diagram, chart, or model) of key concepts",
+        "Present your findings to the class or submit a written report"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary focus of Web Application Security?",
+      "options": [
+        "Understanding fundamental concepts of Web Application Security",
+        "Memorizing facts without context",
+        "Avoiding practical applications",
+        "Focusing only on advanced topics"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+    },
+    {
+      "question": "Which of the following best describes the importance of Web Application Security?",
+      "options": [
+        "It provides essential knowledge for understanding cybersecurity",
+        "It is only relevant for advanced students",
+        "It has no real-world applications",
+        "It is purely theoretical without practical value"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "This topic provides essential foundational knowledge that is crucial for understanding cybersecurity and has practical applications in real-world contexts."
+    },
+    {
+      "question": "Web Application Security is an important topic for understanding cybersecurity at the Secondary level.",
+      "answer": true,
+      "type": "true-false",
+      "explanation": "This statement is true. Web Application Security provides fundamental knowledge that is essential for building a strong understanding of cybersecurity."
+    },
+    {
+      "question": "The concepts in Web Application Security have no practical applications in real life.",
+      "answer": false,
+      "type": "true-false",
+      "explanation": "This statement is false. The concepts in Web Application Security have numerous practical applications in various fields and everyday life."
+    },
+    {
+      "question": "The study of Web Application Security helps students understand the fundamental principles of ______.",
+      "answer": "cybersecurity",
+      "type": "fill-in-the-blank",
+      "explanation": "The correct answer is \"cybersecurity\". Web Application Security is a key component of cybersecurity that helps students understand fundamental principles in this field."
+    }
+  ]
+}

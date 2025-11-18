@@ -1,0 +1,157 @@
+{
+  "topic": "Digital Humanities and Text Analysis",
+  "detailedSummary": "Digital humanities applies computational methods to humanistic inquiry, transforming how we study literature, history, and culture. Text analysis uses computational tools to examine large collections of texts, revealing patterns impossible to detect through close reading alone. Key methods include: distant reading (analyzing large text corpora), text mining (extracting information from texts), topic modeling (identifying themes across texts), sentiment analysis (analyzing emotional tone), and network analysis (mapping relationships). Digital tools enable: searching vast archives, visualizing data, mapping geographic and temporal patterns, and analyzing language at scale. Major digital humanities projects include: digitized archives, text analysis platforms, mapping projects, and digital editions. Text encoding (TEI, XML) structures texts for computational analysis. Visualization tools create graphs, maps, and networks from data. Corpus linguistics analyzes language patterns in large text collections. Digital editions provide enhanced access to texts with annotations, variants, and multimedia. Challenges include: balancing quantitative and qualitative analysis, ensuring tools don't replace critical thinking, and addressing issues of access and representation. Digital humanities connects traditional humanistic methods with computational power, enabling new questions and discoveries. It's transforming research, teaching, and public engagement with literature and culture. Understanding digital humanities prepares students for contemporary research methods and careers combining technology and the humanities.",
+  "whyItMatters": "Digital humanities transforms literary and cultural research - understanding computational methods enables new discoveries, prepares for contemporary research, and combines traditional humanistic inquiry with technological innovation.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Digital Humanities and Text Analysis | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Digital Humanities and Text Analysis | Crash Course Literature",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Digital Humanities and Text Analysis | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Digital Humanities - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/digital-humanities"
+      },
+      {
+        "title": "A New Companion to Digital Humanities - Available through libraries",
+        "url": "https://www.wiley.com/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Digital Humanities Tools - Voyant, AntConc",
+        "url": "https://voyant-tools.org/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Digital Humanities and Text Analysis",
+      "description": "Apply computational methods to analyze texts and conduct digital humanities research.",
+      "tasks": [
+        "Use text analysis tools to analyze a corpus of texts",
+        "Create visualizations of textual data",
+        "Conduct topic modeling on a text collection",
+        "Perform sentiment analysis on literary texts",
+        "Build a digital archive or edition",
+        "Use mapping tools to visualize geographic data",
+        "Analyze word frequency and patterns",
+        "Compare traditional close reading with distant reading",
+        "Create a digital humanities project",
+        "Write a research paper using digital humanities methods"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Distant reading refers to:",
+      "type": "multiple-choice",
+      "options": [
+        "Analyzing large text corpora computationally",
+        "Reading from far away",
+        "Only close reading",
+        "Only one text"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Distant reading uses computational methods to analyze large collections of texts, revealing patterns across many works rather than close reading individual texts."
+    },
+    {
+      "question": "Topic modeling:",
+      "type": "multiple-choice",
+      "options": [
+        "Identifies themes across large text collections",
+        "Only analyzes grammar",
+        "Only reads one text",
+        "Only creates images"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Topic modeling is a computational method that identifies recurring themes or topics across large collections of texts."
+    },
+    {
+      "question": "Digital humanities:",
+      "type": "multiple-choice",
+      "options": [
+        "Applies computational methods to humanistic inquiry",
+        "Only studies computers",
+        "Only studies ancient texts",
+        "Replaces all traditional methods"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Digital humanities applies computational tools and methods to traditional humanistic questions, complementing rather than replacing close reading and other traditional methods."
+    },
+    {
+      "question": "Digital humanities replaces the need for close reading.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Digital humanities complements close reading, offering different insights. Both methods are valuable and often used together in research."
+    },
+    {
+      "question": "Text mining involves:",
+      "type": "multiple-choice",
+      "options": [
+        "Extracting information and patterns from texts",
+        "Only reading texts",
+        "Only writing texts",
+        "Only printing texts"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Text mining uses computational methods to extract information, identify patterns, and discover insights from large collections of texts."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Distant Reading": "Analyzing large text corpora computationally.",
+      "Text Mining": "Extracting information and patterns from texts.",
+      "Topic Modeling": "Identifying recurring themes across text collections."
+    },
+    "keyConcepts": [
+      "Digital humanities applies computational methods to humanistic inquiry, transforming how we study li...",
+      "Text analysis uses computational tools to examine large collections of texts, revealing patterns imp...",
+      "Key methods include: distant reading (analyzing large text corpora), text mining (extracting informa...",
+      "Digital tools enable: searching vast archives, visualizing data, mapping geographic and temporal pat...",
+      "Major digital humanities projects include: digitized archives, text analysis platforms, mapping proj..."
+    ],
+    "stepByStepExplanations": [
+      "**Understanding digital:** Digital humanities applies computational methods to humanistic inquiry, transforming how we study literature, history, and culture. Text analysis uses...",
+      "**Applying concepts:** Practice with examples specific to Digital Humanities and Text Analysis.",
+      "**Mastering skills:** Develop proficiency through structured exercises."
+    ],
+    "examples": [
+      "**Example 1:** A practical illustration of digital in action.",
+      "**Example 2:** Another scenario demonstrating humanities.",
+      "**Example 3:** A real-world application of text."
+    ],
+    "realLifeApplications": [
+      "**Academic Context:** Digital Humanities and Text Analysis is essential for academic success and scholarly work.",
+      "**Professional Use:** These skills apply directly to professional communication and analysis.",
+      "**Personal Development:** Understanding Digital Humanities and Text Analysis enhances critical thinking and expression."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram illustrating key concepts of Digital Humanities and Text Analysis.",
+      "A flowchart showing the process and relationships in Digital Humanities and Text Analysis."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

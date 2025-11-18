@@ -1,0 +1,86 @@
+{
+  "topic": "Past Tense: Preterite and Imperfect",
+  "detailedSummary": "Spanish has two past tenses with different uses. The preterite (pretérito) describes completed actions with specific beginnings/ends: 'Ayer comí pizza' (Yesterday I ate pizza). Regular preterite endings: -ar verbs use -é, -aste, -ó, -amos, -asteis, -aron; -er/-ir verbs use -í, -iste, -ió, -imos, -isteis, -ieron. The imperfect (imperfecto) describes ongoing, habitual, or background actions: 'Cuando era niño, jugaba fútbol' (When I was a child, I played soccer). Regular imperfect endings: -ar verbs use -aba, -abas, -aba, -ábamos, -abais, -aban; -er/-ir verbs use -ía, -ías, -ía, -íamos, -íais, -ían. Key differences: preterite = completed, specific time, one-time events; imperfect = ongoing, habitual, background, descriptions. Many sentences use both: 'Mientras estudiaba (imperfect), sonó (preterite) el teléfono' (While I was studying, the phone rang). Common irregular preterites: ser/ir (fui, fuiste, fue, fuimos, fuisteis, fueron), hacer (hice, hiciste, hizo, hicimos, hicisteis, hicieron). Mastering both past tenses enables detailed storytelling and accurate time expression.",
+  "whyItMatters": "The preterite and imperfect are essential for talking about the past - understanding their differences enables accurate storytelling and expressing when and how past events occurred.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Past Tense: Preterite and Imperfect | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Past Tense: Preterite and Imperfect | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Past Tense: Preterite and Imperfect | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Spanish Past Tenses Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Past Tenses Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Past Tenses",
+      "description": "Practice using preterite and imperfect correctly to describe past events.",
+      "tasks": [
+        "Conjugate regular verbs in both preterite and imperfect tenses",
+        "Write 20 sentences using preterite for completed actions",
+        "Write 20 sentences using imperfect for ongoing/habitual actions",
+        "Create a story using both tenses together correctly",
+        "Practice irregular preterite verbs (ser, ir, hacer, tener, estar)"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "When do you use preterite vs imperfect?",
+      "type": "multiple-choice",
+      "options": [
+        "Preterite for ongoing actions, imperfect for completed actions",
+        "Preterite for completed actions with specific times, imperfect for ongoing/habitual actions",
+        "They are interchangeable",
+        "Preterite is only for yesterday"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Preterite describes completed actions with specific beginnings/ends, while imperfect describes ongoing, habitual, or background actions."
+    },
+    {
+      "question": "The same verb can be used in both preterite and imperfect in the same sentence to show different aspects of an action.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Sentences often combine both tenses: 'Mientras caminaba (imperfect - ongoing), vi (preterite - completed) un pájaro' shows background action interrupted by a specific event."
+    },
+    {
+      "question": "What is the preterite form of 'ir' (to go) for 'yo'?",
+      "type": "multiple-choice",
+      "options": [
+        "iba",
+        "fui",
+        "voy",
+        "iré"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Fui' is the preterite form of 'ir' for 'yo' (I went). Note that 'ser' and 'ir' have identical preterite forms."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+}

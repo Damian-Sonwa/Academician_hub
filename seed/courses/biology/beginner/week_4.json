@@ -1,0 +1,104 @@
+{
+  "course": "biology",
+  "level": "beginner",
+  "week": 4,
+  "topic": "Evolution and Natural Selection",
+  "summary": "Discover how species change over time through natural selection. Examine Darwin's theory of evolution, evidence for evolution, mechanisms of natural selection, and modern evolutionary synthesis. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding science at the beginner level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Evolution and Natural Selection. The material is designed to build a strong foundation for further learning and practical application in real-world contexts. This topic provides comprehensive coverage essential for understanding science at the beginner level. Through detailed study, students will gain deep insights into the concepts, principles, and real-world applications. The material is designed to build a strong foundation for further learning and practical application in various contexts.",
+  "why_it_matters": "Understanding evolution explains the diversity of life on Earth and helps us predict how species might adapt to environmental changes, including climate change and emerging diseases.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Evolution and Natural Selection - Tutorial",
+        "url": "https://youtu.be/dQw4w9WgXcQ"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Science Textbook - Junior Level",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Evolution Timeline",
+        "url": "https://phet.colorado.edu/"
+      },
+      {
+        "title": "Case Study: Galapagos Finches",
+        "url": "https://phet.colorado.edu/"
+      },
+      {
+        "title": "Natural Selection Simulation",
+        "url": "https://phet.colorado.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Research Assignment: Evolution and Natural Selection",
+      "description": "Complete a research assignment exploring key concepts related to Evolution and Natural Selection.",
+      "tasks": [
+        "Read the assigned textbook chapters and online resources about Evolution and Natural Selection",
+        "Identify and explain at least three key concepts from the topic",
+        "Find one real-world example or application of these concepts",
+        "Write a 300-500 word summary explaining your findings",
+        "Include at least two credible sources in your research"
+      ]
+    },
+    {
+      "title": "Practical Exercise: Evolution and Natural Selection",
+      "description": "Apply your understanding of Evolution and Natural Selection through hands-on activities.",
+      "tasks": [
+        "Complete the lab exercises or simulations related to Evolution and Natural Selection",
+        "Document your observations and findings in a lab report",
+        "Answer the reflection questions about what you learned",
+        "Create a visual representation (diagram, chart, or model) of key concepts",
+        "Present your findings to the class or submit a written report"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary focus of Evolution and Natural Selection?",
+      "options": [
+        "Understanding fundamental concepts of Evolution and Natural Selection",
+        "Memorizing facts without context",
+        "Avoiding practical applications",
+        "Focusing only on advanced topics"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+    },
+    {
+      "question": "Which of the following best describes the importance of Evolution and Natural Selection?",
+      "options": [
+        "It provides essential knowledge for understanding science",
+        "It is only relevant for advanced students",
+        "It has no real-world applications",
+        "It is purely theoretical without practical value"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "This topic provides essential foundational knowledge that is crucial for understanding science and has practical applications in real-world contexts."
+    },
+    {
+      "question": "Evolution and Natural Selection is an important topic for understanding science at the beginner level.",
+      "answer": true,
+      "type": "true-false",
+      "explanation": "This statement is true. Evolution and Natural Selection provides fundamental knowledge that is essential for building a strong understanding of science."
+    },
+    {
+      "question": "The concepts in Evolution and Natural Selection have no practical applications in real life.",
+      "answer": false,
+      "type": "true-false",
+      "explanation": "This statement is false. The concepts in Evolution and Natural Selection have numerous practical applications in various fields and everyday life."
+    },
+    {
+      "question": "The study of Evolution and Natural Selection helps students understand the fundamental principles of ______.",
+      "answer": "science",
+      "type": "fill-in-the-blank",
+      "explanation": "The correct answer is \"science\". Evolution and Natural Selection is a key component of science that helps students understand fundamental principles in this field."
+    }
+  ]
+}

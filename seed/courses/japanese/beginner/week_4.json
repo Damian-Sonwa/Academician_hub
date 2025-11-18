@@ -1,0 +1,113 @@
+{
+  "course": "japanese",
+  "level": "beginner",
+  "week": 4,
+  "topic": "Essential Verbs",
+  "summary": "Use the most common verbs. Master basic verb conjugation and sentence structure. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding languages at the Junior level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Essential Verbs. The material is designed to build a strong foundation for further learning and practical application in real-world contexts. This topic provides comprehensive coverage essential for understanding languages at the beginner level. Through detailed study, students will gain deep insights into the concepts, principles, and real-world applications. The material is designed to build a strong foundation for further learning and practical application in various contexts.",
+  "why_it_matters": "Mastering this beginner level language topic builds essential communication skills, opens cultural understanding, and enhances career opportunities in our globalized world.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Essential Verbs | Learn Japanese",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Essential Verbs | Japanese Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Essential Verbs | JapanesePod101",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Languages Textbook - Junior Level",
+        "url": "https://www.languageguide.org/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Verb List",
+        "url": "https://www.languageguide.org/"
+      },
+      {
+        "title": "Conjugation Practice",
+        "url": "https://www.languageguide.org/"
+      },
+      {
+        "title": "Sentence Builder",
+        "url": "https://www.languageguide.org/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Research Assignment: Essential Verbs",
+      "description": "Complete a research assignment exploring key concepts related to Essential Verbs.",
+      "tasks": [
+        "Read the assigned textbook chapters and online resources about Essential Verbs",
+        "Identify and explain at least three key concepts from the topic",
+        "Find one real-world example or application of these concepts",
+        "Write a 300-500 word summary explaining your findings",
+        "Include at least two credible sources in your research"
+      ]
+    },
+    {
+      "title": "Practical Exercise: Essential Verbs",
+      "description": "Apply your understanding of Essential Verbs through hands-on activities.",
+      "tasks": [
+        "Complete the lab exercises or simulations related to Essential Verbs",
+        "Document your observations and findings in a lab report",
+        "Answer the reflection questions about what you learned",
+        "Create a visual representation (diagram, chart, or model) of key concepts",
+        "Present your findings to the class or submit a written report"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary focus of Essential Verbs?",
+      "options": [
+        "Understanding fundamental concepts of Essential Verbs",
+        "Memorizing facts without context",
+        "Avoiding practical applications",
+        "Focusing only on advanced topics"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+    },
+    {
+      "question": "Which of the following best describes the importance of Essential Verbs?",
+      "options": [
+        "It provides essential knowledge for understanding languages",
+        "It is only relevant for advanced students",
+        "It has no real-world applications",
+        "It is purely theoretical without practical value"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "This topic provides essential foundational knowledge that is crucial for understanding languages and has practical applications in real-world contexts."
+    },
+    {
+      "question": "Essential Verbs is an important topic for understanding languages at the Junior level.",
+      "answer": true,
+      "type": "true-false",
+      "explanation": "This statement is true. Essential Verbs provides fundamental knowledge that is essential for building a strong understanding of languages."
+    },
+    {
+      "question": "The concepts in Essential Verbs have no practical applications in real life.",
+      "answer": false,
+      "type": "true-false",
+      "explanation": "This statement is false. The concepts in Essential Verbs have numerous practical applications in various fields and everyday life."
+    },
+    {
+      "question": "The study of Essential Verbs helps students understand the fundamental principles of ______.",
+      "answer": "languages",
+      "type": "fill-in-the-blank",
+      "explanation": "The correct answer is \"languages\". Essential Verbs is a key component of languages that helps students understand fundamental principles in this field."
+    }
+  ],
+  "videoUrl": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+}

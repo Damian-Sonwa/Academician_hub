@@ -1,0 +1,87 @@
+{
+  "topic": "Responsive Design and Media Queries",
+  "detailedSummary": "Responsive design ensures websites work well on all devices, from mobile phones to desktop computers. Media queries allow CSS to apply different styles based on device characteristics like screen width, height, orientation, and resolution. The viewport meta tag is essential for mobile devices to render pages correctly. Breakpoints are specific screen widths where the layout changes, commonly using 768px (tablets) and 1024px (desktops). Mobile-first design starts with mobile styles and adds larger screen styles with min-width media queries. Flexible units like percentages, em, rem, and viewport units (vw, vh) create fluid layouts. Flexible images use max-width: 100% to scale with containers. CSS Grid and Flexbox naturally support responsive design. Common responsive patterns include fluid grids, flexible images, and media queries. Understanding responsive design is crucial as mobile traffic exceeds desktop, and users expect websites to work seamlessly on any device.",
+  "whyItMatters": "Responsive design is essential because most web traffic comes from mobile devices - websites that don't adapt to different screen sizes provide poor user experience and lose visitors.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Responsive Design and Media Queries | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Responsive Design and Media Queries | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Responsive Design and Media Queries | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Responsive Web Design Guide",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Responsive Design Testing",
+        "url": "https://codepen.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Create a Responsive Website",
+      "description": "Build a website that adapts to different screen sizes using media queries and responsive techniques.",
+      "tasks": [
+        "Create a webpage with mobile-first responsive design",
+        "Use media queries to adjust layout at tablet (768px) and desktop (1024px) breakpoints",
+        "Implement flexible images and fluid typography",
+        "Test the design on different screen sizes using browser dev tools",
+        "Write a brief report explaining your responsive design strategy and breakpoint choices"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the purpose of the viewport meta tag?",
+      "type": "multiple-choice",
+      "options": [
+        "To set the page title",
+        "To control how the page is displayed on mobile devices",
+        "To add CSS styles",
+        "To link external stylesheets"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The viewport meta tag controls the page's dimensions and scaling on mobile devices, ensuring proper rendering on small screens."
+    },
+    {
+      "question": "Mobile-first design means starting with desktop styles and then adding mobile styles.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Mobile-first design starts with mobile styles (base styles) and then adds larger screen styles using min-width media queries, which is more efficient."
+    },
+    {
+      "question": "Which CSS unit is relative to the root element's font size?",
+      "type": "multiple-choice",
+      "options": [
+        "em",
+        "rem",
+        "px",
+        "vw"
+      ],
+      "correctAnswer": 1,
+      "explanation": "rem (root em) is relative to the root element's font size, making it ideal for responsive typography that scales consistently."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

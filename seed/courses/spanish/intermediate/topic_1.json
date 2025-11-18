@@ -1,0 +1,86 @@
+{
+  "topic": "Irregular Verbs in Present Tense (ser, estar, tener, hacer)",
+  "detailedSummary": "Irregular verbs don't follow standard conjugation patterns and must be memorized. Four essential irregular verbs are 'ser', 'estar', 'tener', and 'hacer'. 'Ser' (to be - permanent) conjugates: soy, eres, es, somos, sois, son. It describes identity, origin, time, and permanent characteristics. 'Estar' (to be - temporary) conjugates: estoy, estás, está, estamos, estáis, están. It describes location, temporary states, and conditions. The ser/estar distinction is crucial: 'Soy médico' (I am a doctor - identity) vs 'Estoy enfermo' (I am sick - temporary state). 'Tener' (to have) conjugates: tengo, tienes, tiene, tenemos, tenéis, tienen. It expresses possession, age ('Tengo veinte años' - I'm 20), and obligations ('Tengo que...' - I have to...). 'Hacer' (to do/make) conjugates: hago, haces, hace, hacemos, hacéis, hacen. It's used for activities and weather ('Hace sol' - It's sunny). These verbs are among the most frequently used in Spanish and mastering them is essential for intermediate communication.",
+  "whyItMatters": "These four irregular verbs are among the most common in Spanish - mastering them is essential for expressing identity, location, possession, and actions, which are fundamental to communication.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Irregular Verbs in Present Tense (ser, estar, tener, hacer) | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=l2uWKj7MSkI"
+      },
+      {
+        "title": "Irregular Verbs in Present Tense (ser, estar, tener, hacer) | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Irregular Verbs in Present Tense (ser, estar, tener, hacer) | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Spanish Irregular Verbs Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Irregular Verbs Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Irregular Verbs",
+      "description": "Practice conjugating and using ser, estar, tener, and hacer correctly in context.",
+      "tasks": [
+        "Conjugate all four verbs in all six forms and create example sentences",
+        "Practice the ser/estar distinction with 20 different examples",
+        "Write sentences using 'tener' for possession, age, and obligations",
+        "Use 'hacer' to describe weather and activities",
+        "Write a paragraph using all four verbs correctly in context"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "When do you use 'ser' vs 'estar'?",
+      "type": "multiple-choice",
+      "options": [
+        "Ser is for temporary states, estar is for permanent characteristics",
+        "Ser is for permanent characteristics and identity, estar is for temporary states and location",
+        "They are interchangeable",
+        "Ser is only for people, estar is only for things"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Ser' describes permanent characteristics, identity, and origin, while 'estar' describes temporary states, conditions, and location."
+    },
+    {
+      "question": "'Tengo veinte años' means 'I have twenty years' and is the correct way to express age in Spanish.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. In Spanish, you use 'tener' (to have) with 'años' (years) to express age, literally meaning 'I have twenty years'."
+    },
+    {
+      "question": "How do you say 'It's sunny' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "Es sol",
+        "Está sol",
+        "Hace sol",
+        "Tiene sol"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Hace sol' means 'It's sunny' - weather expressions in Spanish use 'hacer' (to make/do)."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=l2uWKj7MSkI"
+}

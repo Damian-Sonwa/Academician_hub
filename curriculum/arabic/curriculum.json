@@ -1,0 +1,54 @@
+{
+  "subject": "Arabic",
+  "levels": {
+    "Basic": [
+      "Arabic Alphabet: Basic Letters and Forms",
+      "Basic Greetings: مرحبا, مع السلامة, شكرا",
+      "Numbers 1-20",
+      "Colors: أحمر, أزرق, أخضر, أصفر",
+      "Basic Body Parts: رأس, يد, قدم",
+      "Simple Questions: ماذا? من? أين?",
+      "Yes and No: نعم and لا",
+      "Please and Thank You: من فضلك, شكرا",
+      "Days of the Week",
+      "Months of the Year"
+    ],
+    "Beginner": [
+      "Introduction to Arabic: Script and Direction",
+      "The Arabic Alphabet: Letters and Forms",
+      "Numbers 0-100 and Basic Counting",
+      "Greetings and Polite Expressions",
+      "Basic Nouns and Definite Article (ال)",
+      "Present Tense: Basic Verb Forms",
+      "Essential Vocabulary: Family, Colors, and Days",
+      "Asking Questions and Basic Conversation",
+      "Telling Time and Dates",
+      "Common Phrases and Survival Arabic"
+    ],
+    "Intermediate": [
+      "Irregular Verbs: كان, يكون, فعل",
+      "Past Tense: Perfect and Imperfect",
+      "Future Tense and Conditional",
+      "Root System: Understanding Arabic Word Formation",
+      "Pronouns: Attached and Detached",
+      "Subjunctive Mood: Introduction and Uses",
+      "Comparatives and Superlatives",
+      "Expressing Opinions and Preferences",
+      "Travel and Transportation Vocabulary",
+      "Reading Comprehension and Writing Practice"
+    ],
+    "Advanced": [
+      "Advanced Grammar: Complex Sentence Structures",
+      "Perfect Tenses: Past Perfect and Future Perfect",
+      "Passive Voice and Verbal Nouns",
+      "Advanced Grammar: Cases and Declension",
+      "Idiomatic Expressions and Colloquialisms",
+      "Formal Writing and Academic Arabic",
+      "Literary Analysis: Classical and Modern Texts",
+      "Business and Professional Arabic",
+      "Debate and Argumentation in Arabic",
+      "Advanced Conversation: Dialects and MSA"
+    ]
+  }
+}
+

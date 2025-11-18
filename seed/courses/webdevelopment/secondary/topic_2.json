@@ -1,0 +1,87 @@
+{
+  "topic": "HTML Fundamentals and Document Structure",
+  "detailedSummary": "HTML (HyperText Markup Language) is the foundation of all web pages, providing the structure and content. HTML documents consist of elements defined by tags, which tell browsers how to display content. The basic HTML document structure includes the DOCTYPE declaration, html element, head section (containing metadata), and body section (containing visible content). Common HTML elements include headings (h1-h6), paragraphs (p), links (a), images (img), lists (ul, ol, li), and semantic elements like header, nav, main, article, section, and footer. Attributes provide additional information about elements, such as href for links, src for images, and alt for image descriptions. HTML5 introduced semantic elements that describe the meaning of content, making websites more accessible and SEO-friendly. Proper HTML structure is essential for accessibility, search engine optimization, and maintaining clean, readable code. Understanding HTML fundamentals is the first step in creating well-structured, accessible web pages.",
+  "whyItMatters": "HTML is the foundation of all websites - without proper HTML structure, web pages cannot function correctly, and poor structure leads to accessibility issues and poor user experience.",
+  "materials": {
+    "videos": [
+      {
+        "title": "HTML Tutorial | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "HTML Basics | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "HTML | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "HTML5 Elements Reference",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+      }
+    ],
+    "labs": [
+      {
+        "title": "HTML Structure Practice",
+        "url": "https://codepen.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Build Your First HTML Page",
+      "description": "Create a well-structured HTML page using semantic elements and proper document structure.",
+      "tasks": [
+        "Create an HTML document with proper DOCTYPE and document structure",
+        "Use semantic HTML5 elements (header, nav, main, article, footer)",
+        "Include headings, paragraphs, links, images, and lists",
+        "Add appropriate attributes to all elements (alt text, href, etc.)",
+        "Validate your HTML using an online validator and fix any errors"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Which HTML element is used to create the main heading of a page?",
+      "type": "multiple-choice",
+      "options": [
+        "<heading>",
+        "<h1>",
+        "<title>",
+        "<header>"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The <h1> element is used for the main heading. HTML provides h1 through h6 for different heading levels, with h1 being the most important."
+    },
+    {
+      "question": "Semantic HTML elements describe the meaning of content, making websites more accessible.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Semantic elements like <article>, <section>, and <nav> describe the meaning and purpose of content, helping screen readers and search engines understand the page structure."
+    },
+    {
+      "question": "What is the purpose of the alt attribute in an img tag?",
+      "type": "multiple-choice",
+      "options": [
+        "To set the image size",
+        "To provide alternative text for accessibility",
+        "To link to another page",
+        "To add a border to the image"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The alt attribute provides alternative text that describes the image, which is essential for screen readers and when images fail to load."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

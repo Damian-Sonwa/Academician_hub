@@ -1,0 +1,104 @@
+{
+  "course": "spanish",
+  "level": "intermediate",
+  "week": 4,
+  "topic": "Present Tense Verbs",
+  "summary": "Conjugate regular -ar, -er, and -ir verbs. Master present tense conjugation patterns for regular verbs and common irregular verbs (ser, estar, tener, ir). This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding languages at the Secondary level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Present Tense Verbs. The material is designed to build a strong foundation for further learning and practical application in real-world contexts. This topic provides comprehensive coverage essential for understanding languages at the intermediate level. Through detailed study, students will gain deep insights into the concepts, principles, and real-world applications. The material is designed to build a strong foundation for further learning and practical application in various contexts.",
+  "why_it_matters": "Mastering this intermediate level language topic builds essential communication skills, opens cultural understanding, and enhances career opportunities in our globalized world.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Present Tense Verbs - Tutorial",
+        "url": "https://youtu.be/dQw4w9WgXcQ"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Languages Textbook - Secondary Level",
+        "url": "https://www.languageguide.org/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Verb Conjugation Chart",
+        "url": "https://www.languageguide.org/"
+      },
+      {
+        "title": "Practice Exercises",
+        "url": "https://www.languageguide.org/"
+      },
+      {
+        "title": "Irregular Verbs List",
+        "url": "https://www.languageguide.org/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Research Assignment: Present Tense Verbs",
+      "description": "Complete a research assignment exploring key concepts related to Present Tense Verbs.",
+      "tasks": [
+        "Read the assigned textbook chapters and online resources about Present Tense Verbs",
+        "Identify and explain at least three key concepts from the topic",
+        "Find one real-world example or application of these concepts",
+        "Write a 300-500 word summary explaining your findings",
+        "Include at least two credible sources in your research"
+      ]
+    },
+    {
+      "title": "Practical Exercise: Present Tense Verbs",
+      "description": "Apply your understanding of Present Tense Verbs through hands-on activities.",
+      "tasks": [
+        "Complete the lab exercises or simulations related to Present Tense Verbs",
+        "Document your observations and findings in a lab report",
+        "Answer the reflection questions about what you learned",
+        "Create a visual representation (diagram, chart, or model) of key concepts",
+        "Present your findings to the class or submit a written report"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary focus of Present Tense Verbs?",
+      "options": [
+        "Understanding fundamental concepts of Present Tense Verbs",
+        "Memorizing facts without context",
+        "Avoiding practical applications",
+        "Focusing only on advanced topics"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+    },
+    {
+      "question": "Which of the following best describes the importance of Present Tense Verbs?",
+      "options": [
+        "It provides essential knowledge for understanding languages",
+        "It is only relevant for advanced students",
+        "It has no real-world applications",
+        "It is purely theoretical without practical value"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "This topic provides essential foundational knowledge that is crucial for understanding languages and has practical applications in real-world contexts."
+    },
+    {
+      "question": "Present Tense Verbs is an important topic for understanding languages at the Secondary level.",
+      "answer": true,
+      "type": "true-false",
+      "explanation": "This statement is true. Present Tense Verbs provides fundamental knowledge that is essential for building a strong understanding of languages."
+    },
+    {
+      "question": "The concepts in Present Tense Verbs have no practical applications in real life.",
+      "answer": false,
+      "type": "true-false",
+      "explanation": "This statement is false. The concepts in Present Tense Verbs have numerous practical applications in various fields and everyday life."
+    },
+    {
+      "question": "The study of Present Tense Verbs helps students understand the fundamental principles of ______.",
+      "answer": "languages",
+      "type": "fill-in-the-blank",
+      "explanation": "The correct answer is \"languages\". Present Tense Verbs is a key component of languages that helps students understand fundamental principles in this field."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "topic": "DNA and Genetics",
+  "detailedSummary": "DNA (deoxyribonucleic acid) is the molecule that carries genetic information in all living organisms. It consists of two strands twisted into a double helix, with each strand made up of nucleotides containing a sugar, phosphate group, and one of four nitrogenous bases: adenine (A), thymine (T), cytosine (C), and guanine (G). The bases pair specifically: A with T, and C with G, forming the rungs of the DNA ladder. Genetics is the study of heredity and how traits are passed from parents to offspring. Gregor Mendel's experiments with pea plants established the fundamental principles of inheritance, including the concepts of dominant and recessive traits, segregation, and independent assortment. These principles are expressed through Punnett squares, which predict the probability of offspring inheriting specific traits. DNA replication ensures that genetic information is accurately copied when cells divide. The process involves unwinding the double helix, separating the strands, and synthesizing new complementary strands. Gene expression occurs through transcription (DNA to RNA) and translation (RNA to protein), following the central dogma of molecular biology. Modern genetics has expanded to include genetic engineering, where scientists can modify DNA to create organisms with desired traits. This technology has applications in medicine, agriculture, and biotechnology. Understanding genetics helps us comprehend evolution, disease inheritance, and the diversity of life on Earth.",
+  "whyItMatters": "Understanding DNA and genetics is crucial because it explains how traits are inherited, how genetic diseases occur, and how modern biotechnology can improve medicine and agriculture.",
+  "materials": {
+    "videos": [
+      {
+        "title": "DNA Structure | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "DNA and Genetics | Crash Course Biology",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Genetics | Bozeman Science",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Genetics Fundamentals Textbook",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Genetics Practice Problems",
+        "url": "https://phet.colorado.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Punnett Square Analysis Project",
+      "description": "Use Punnett squares to predict genetic outcomes and analyze inheritance patterns for different traits.",
+      "tasks": [
+        "Choose two genetic traits to study (e.g., eye color, hair texture, flower color)",
+        "Create Punnett squares showing possible offspring combinations for each trait",
+        "Calculate the probability of each genotype and phenotype appearing in offspring",
+        "Write a 250-350 word analysis explaining how dominant and recessive traits work",
+        "Create a visual presentation showing your Punnett squares and findings"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "In DNA, which base pairs with adenine (A)?",
+      "type": "multiple-choice",
+      "options": [
+        "Cytosine (C)",
+        "Guanine (G)",
+        "Thymine (T)",
+        "Uracil (U)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In DNA, adenine (A) always pairs with thymine (T), while cytosine (C) pairs with guanine (G). This complementary base pairing is essential for DNA structure and replication."
+    },
+    {
+      "question": "A dominant trait will always be expressed in the phenotype when at least one dominant allele is present.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Dominant traits only need one copy of the dominant allele to be expressed, while recessive traits require two copies of the recessive allele."
+    },
+    {
+      "question": "What is the process by which DNA is copied before cell division?",
+      "type": "multiple-choice",
+      "options": [
+        "Transcription",
+        "Translation",
+        "DNA replication",
+        "Protein synthesis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "DNA replication is the process where DNA makes an exact copy of itself before cell division, ensuring each new cell receives a complete set of genetic information."
+    }
+  ],
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

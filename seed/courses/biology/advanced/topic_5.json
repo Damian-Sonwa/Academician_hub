@@ -1,0 +1,86 @@
+{
+  "topic": "Immunology and Host Defense",
+  "detailedSummary": "Immunology studies the immune system, which protects organisms from pathogens and disease. The immune system has two main branches: innate immunity, which provides immediate, non-specific defense, and adaptive immunity, which develops specific responses to particular pathogens. Innate immunity includes physical barriers (skin, mucous membranes), cellular components (macrophages, neutrophils, natural killer cells), and molecular components (complement system, cytokines). Adaptive immunity involves B cells producing antibodies and T cells mediating cellular responses. Antigen presentation by major histocompatibility complex (MHC) molecules allows T cells to recognize foreign antigens. The immune response involves clonal selection, where specific lymphocytes are activated and proliferate. Immunological memory enables faster and stronger responses upon re-exposure to the same pathogen. Autoimmunity occurs when the immune system attacks the body's own tissues. Immunodeficiency results from impaired immune function. Understanding immunology is crucial for vaccine development, organ transplantation, allergy treatment, and cancer immunotherapy. Modern immunology has led to monoclonal antibodies, CAR-T cell therapy, and checkpoint inhibitors for cancer treatment.",
+  "whyItMatters": "Understanding immunology is essential for vaccine development, treating autoimmune diseases, organ transplantation, cancer immunotherapy, and developing new treatments for infectious diseases.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Immunology and Host Defense | Khan Academy Biology",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Immunology and Host Defense | Crash Course Biology",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Immunology and Host Defense | Bozeman Science",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Immunobiology - Advanced Textbook",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Immune System Response Simulation",
+        "url": "https://phet.colorado.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Immune Response Case Study",
+      "description": "Analyze a specific immune response scenario, explaining the mechanisms involved from initial infection to resolution.",
+      "tasks": [
+        "Choose a specific pathogen or immune scenario (e.g., viral infection, bacterial infection, or autoimmune disease)",
+        "Describe how the innate immune system responds initially",
+        "Explain the adaptive immune response, including B cell and T cell activation",
+        "Discuss how immunological memory is established",
+        "Write a 500-600 word report with diagrams explaining the immune response, citing at least three scientific sources"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary difference between innate and adaptive immunity?",
+      "type": "multiple-choice",
+      "options": [
+        "Innate immunity is faster but adaptive immunity is more specific",
+        "Adaptive immunity is faster but innate immunity is more specific",
+        "Both are equally fast and specific",
+        "Only adaptive immunity involves cells"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Innate immunity provides immediate, non-specific defense, while adaptive immunity takes longer to develop but provides highly specific responses to particular pathogens."
+    },
+    {
+      "question": "B cells produce antibodies while T cells directly kill infected cells or help coordinate immune responses.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. B cells produce antibodies that bind to pathogens, while T cells can directly kill infected cells (cytotoxic T cells) or help coordinate immune responses (helper T cells)."
+    },
+    {
+      "question": "What is the function of MHC molecules in the immune system?",
+      "type": "multiple-choice",
+      "options": [
+        "To directly kill pathogens",
+        "To present antigens to T cells",
+        "To produce antibodies",
+        "To break down pathogens"
+      ],
+      "correctAnswer": 1,
+      "explanation": "MHC molecules present processed antigens on the cell surface, allowing T cells to recognize foreign antigens and mount an appropriate immune response."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=800&q=80",
+      "https://images.unsplash.com/photo-1628595351029-c2bf17511435?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

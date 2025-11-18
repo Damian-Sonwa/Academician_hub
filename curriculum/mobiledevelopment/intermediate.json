@@ -1,0 +1,1036 @@
+{
+  "level": "Intermediate",
+  "topics": [
+    {
+      "course": "Mobile Development",
+      "level": "Intermediate",
+      "topic": "Advanced React Native",
+      "description": "Master advanced React Native concepts including custom hooks, performance optimization, native modules, and platform-specific code. Advanced React Native enables you to build more powerful and efficient mobile applications. Think of it like learning advanced techniques that make your React Native apps more capable and performant.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Mastering Advanced React Native: A Complete Guide",
+          "content": "Step 1: Learn custom hooks (extract reusable logic). Step 2: Implement performance optimization (memoization, FlatList). Step 3: Use native modules (bridge to native code). Step 4: Write platform-specific code (iOS/Android). Step 5: Optimize re-renders. Step 6: Handle complex animations. Step 7: Practice with advanced features. This guide helps you master advanced React Native!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Advanced React Native Architecture",
+          "content": "Draw architecture: JavaScript → React Native Bridge → Native Modules → iOS/Android. Show: Custom hooks, Native modules, Platform code, Performance optimization. Visual helps understand advanced React Native."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build Advanced React Native App",
+          "content": "Activity: Create app using advanced features. Build: Custom hooks, Native modules, Platform code, Performance optimization. Practice: Advanced patterns, Native integration, Performance. This activity improves advanced React Native skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Custom Hooks in React Native 🎣",
+          "content": "Reusable hooks for mobile-specific logic. **How it works:** Create hooks for device features, Reuse across components, Encapsulate logic. **How to understand it:** Like reusable mobile logic packages. **Real-world:** Developer creates hooks: useCamera hook, useLocation hook, useNotifications hook, Used in multiple components, Hooks reduce duplication. Custom hooks enable reuse. **Best practice:** Create mobile-specific hooks, Reuse hooks, Keep hooks focused, Practice custom hooks."
+        },
+        {
+          "title": "Native Modules 🔌",
+          "content": "Bridging JavaScript to native code. **How it works:** Create native module, Bridge to JavaScript, Use in React Native. **How to understand it:** Like connecting JavaScript to native features. **Real-world:** Developer uses native module: Accesses device camera, Uses native API, Bridges to JavaScript, Native features accessible. Native modules enable native access. **Best practice:** Use native modules, Bridge correctly, Handle errors, Practice native modules."
+        },
+        {
+          "title": "Platform-Specific Code 🍎🤖",
+          "content": "Writing code for specific platforms. **How it works:** Platform.OS check, Platform-specific files, Conditional rendering. **How to understand it:** Like different code for iOS/Android. **Real-world:** Developer writes platform code: Checks Platform.OS, Uses iOS-specific code, Uses Android-specific code, Platform code working. Platform code enables customization. **Best practice:** Use Platform.OS, Create platform files, Test on both platforms, Practice platform code."
+        },
+        {
+          "title": "Performance Optimization ⚡",
+          "content": "Optimizing React Native apps. **Techniques:** Memoization, FlatList, Image optimization, Bundle optimization. **How to understand it:** Like fine-tuning for speed. **Real-world:** Developer optimizes app: Memoizes components, Uses FlatList, Optimizes images, App faster, Performance improved. Optimization improves UX. **Best practice:** Profile before optimizing, Use memoization, Optimize images, Measure improvements, Practice optimization."
+        },
+        {
+          "title": "Advanced Animations 🎬",
+          "content": "Creating smooth animations. **Libraries:** Animated API, Reanimated, Lottie. **How it works:** Animate values, Use native driver, Create smooth animations. **How to understand it:** Like making UI move smoothly. **Real-world:** Developer creates animations: Uses Animated API, Animates values, Smooth animations, App feels polished. Animations enhance UX. **Best practice:** Use Animated API, Use native driver, Keep animations smooth, Practice animations."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Custom Hook for Camera",
+          "explanation": "Developer creates hook: useCamera hook, Handles camera access, Returns camera functions, Used in components, Custom hook working."
+        },
+        {
+          "scenario": "Native Module Integration",
+          "explanation": "Developer uses native module: Accesses device feature, Bridges to JavaScript, Uses in React Native, Native module working."
+        },
+        {
+          "scenario": "Platform-Specific UI",
+          "explanation": "Developer writes platform code: Checks Platform.OS, Renders iOS-specific UI, Renders Android-specific UI, Platform code working."
+        },
+        {
+          "scenario": "Performance Optimization",
+          "explanation": "Developer optimizes app: Memoizes components, Uses FlatList, Optimizes images, App 50% faster, Performance improved."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Create Custom Hooks",
+          "instructions": "Step 1: Identify reusable logic. Step 2: Create custom hook (useCamera, useLocation). Step 3: Extract logic to hook. Step 4: Use hook in components. Step 5: Test hook. Step 6: Reuse in multiple components. Step 7: Practice creating hooks.",
+          "example_answer": "Custom hooks created: Logic identified, Hooks created, Logic extracted, Used in components, Tested, Reused. Custom hooks mastered."
+        },
+        {
+          "title": "Use Native Modules",
+          "instructions": "Step 1: Identify native feature needed. Step 2: Create native module. Step 3: Bridge to JavaScript. Step 4: Use in React Native. Step 5: Test native module. Step 6: Handle errors. Step 7: Practice native modules.",
+          "example_answer": "Native modules used: Feature identified, Module created, Bridged, Used in React Native, Tested, Errors handled. Native modules mastered."
+        },
+        {
+          "title": "Write Platform-Specific Code",
+          "instructions": "Step 1: Identify platform differences. Step 2: Use Platform.OS check. Step 3: Create platform files. Step 4: Write platform code. Step 5: Test on iOS. Step 6: Test on Android. Step 7: Practice platform code.",
+          "example_answer": "Platform code written: Differences identified, Platform.OS used, Platform files created, Code written, Tested on both platforms. Platform code mastered."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Advanced React Native",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to advanced React Native concepts and patterns."
+        },
+        {
+          "title": "React Native Performance",
+          "source": "OpenStax",
+          "reason": "Covers advanced React Native, native modules, and performance optimization."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Advanced React Native Tutorial – Traversy Media",
+          "reason": "Complete guide to advanced React Native features."
+        },
+        {
+          "title": "React Native Advanced – freeCodeCamp",
+          "reason": "Comprehensive tutorial on advanced React Native concepts."
+        }
+      ],
+      "summary": "Advanced React Native enables building more powerful mobile applications. Custom hooks extract reusable mobile-specific logic. Native modules bridge JavaScript to native code for device features. Platform-specific code customizes apps for iOS and Android. Performance optimization (memoization, FlatList) improves app speed and responsiveness. Advanced animations create smooth, polished user experiences. Advanced React Native concepts enable you to build production-ready, feature-rich mobile applications."
+    },
+    {
+      "course": "Mobile Development",
+      "level": "Intermediate",
+      "topic": "Animations and Gestures",
+      "description": "Learn how to create smooth animations and handle touch gestures in mobile applications. Animations make apps feel polished and responsive. Gestures enable intuitive user interactions. Understanding animations and gestures is essential for building modern mobile apps. Think of animations like choreography—you choreograph how UI elements move and respond to create a delightful experience.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Creating Animations: A Complete Guide",
+          "content": "Step 1: Understand Animated API. Step 2: Create animated values. Step 3: Animate properties (opacity, translate, scale). Step 4: Use native driver. Step 5: Handle gestures (pan, pinch, swipe). Step 6: Combine animations. Step 7: Optimize animations. This guide helps you create animations!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Animation Types",
+          "content": "Draw animations: Fade in/out, Slide, Scale, Rotate. Show: Animated values, Timing functions, Gesture handlers. Visual helps understand animations."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build Animated App",
+          "content": "Activity: Create app with animations. Build: Fade animations, Slide animations, Gesture handlers, Interactive animations. Practice: Animated API, Gestures, Animation patterns. This activity improves animation skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Animated API 🎬",
+          "content": "React Native Animated API creates animations. **How it works:** Create Animated.Value, Animate values, Update component, Use native driver. **How to understand it:** Like animating values over time. **Real-world:** Developer creates animation: Creates Animated.Value, Animates opacity, Fades in component, Animation smooth. Animated API enables animations. **Best practice:** Use Animated API, Use native driver, Keep animations smooth, Practice animations."
+        },
+        {
+          "title": "Animation Types 🎨",
+          "content": "Different types of animations. **Types:** Fade (opacity), Slide (translate), Scale (size), Rotate (rotation). **How to understand it:** Like different movement types. **Real-world:** Developer uses animations: Fades in screens, Slides components, Scales buttons, Animations enhance UX. Animation types create variety. **Best practice:** Use appropriate type, Keep animations smooth, Don't overuse, Practice different types."
+        },
+        {
+          "title": "Touch Gestures 👆",
+          "content": "Handling touch gestures. **Gestures:** Pan (drag), Pinch (zoom), Swipe (swipe), Long press. **How it works:** Use gesture handlers, Detect gestures, Respond to gestures. **How to understand it:** Like recognizing touch patterns. **Real-world:** Developer handles gestures: Detects swipe, Responds to pan, Handles pinch, Gestures working. Gestures enable interaction. **Best practice:** Use gesture handlers, Handle gestures correctly, Provide feedback, Practice gestures."
+        },
+        {
+          "title": "Native Driver ⚡",
+          "content": "Using native driver for performance. **How it works:** Animate on native thread, Avoid JavaScript bridge, Better performance. **How to understand it:** Like animating directly on device. **Real-world:** Developer uses native driver: Animates on native thread, Avoids bridge, 60fps animations, Performance improved. Native driver improves performance. **Best practice:** Use native driver, Animate transform/opacity, Avoid layout animations, Practice native driver."
+        },
+        {
+          "title": "Animation Libraries 📚",
+          "content": "Libraries for advanced animations. **Libraries:** Reanimated (advanced), Lottie (vector animations), React Native Gesture Handler. **How to understand it:** Like advanced animation tools. **Real-world:** Developer uses libraries: Reanimated for complex, Lottie for vector, Gesture Handler for gestures, Libraries enable advanced animations. Libraries simplify animations. **Best practice:** Use libraries when needed, Learn Reanimated, Use Lottie for complex, Practice libraries."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Fade Animation",
+          "explanation": "Developer creates fade: Animates opacity, Fades in component, Smooth animation, Fade working."
+        },
+        {
+          "scenario": "Slide Animation",
+          "explanation": "Developer creates slide: Animates translateX, Slides component, Smooth animation, Slide working."
+        },
+        {
+          "scenario": "Swipe Gesture",
+          "explanation": "Developer handles swipe: Detects swipe gesture, Responds to swipe, Swipe working."
+        },
+        {
+          "scenario": "Native Driver Animation",
+          "explanation": "Developer uses native driver: Animates on native thread, 60fps, Smooth animation, Performance improved."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Create Animations",
+          "instructions": "Step 1: Use Animated API. Step 2: Create animated values. Step 3: Animate opacity (fade). Step 4: Animate translate (slide). Step 5: Animate scale. Step 6: Use native driver. Step 7: Practice animations.",
+          "example_answer": "Animations created: Animated API used, Values created, Fade/slide/scale animated, Native driver used, Animations smooth. Animations mastered."
+        },
+        {
+          "title": "Handle Touch Gestures",
+          "instructions": "Step 1: Install gesture handler. Step 2: Handle pan gesture. Step 3: Handle swipe gesture. Step 4: Handle pinch gesture. Step 5: Provide feedback. Step 6: Test gestures. Step 7: Practice gestures.",
+          "example_answer": "Gestures handled: Gesture handler installed, Pan/swipe/pinch handled, Feedback provided, Tested. Gestures mastered."
+        },
+        {
+          "title": "Combine Animations and Gestures",
+          "instructions": "Step 1: Create animation. Step 2: Add gesture handler. Step 3: Combine animation with gesture. Step 4: Test combination. Step 5: Optimize performance. Step 6: Test on device. Step 7: Practice combinations.",
+          "example_answer": "Animations and gestures combined: Animation created, Gesture added, Combined, Tested, Optimized, Device tested. Combinations mastered."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Mobile App Animations",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to animations and gestures in mobile apps."
+        },
+        {
+          "title": "React Native Animations",
+          "source": "OpenStax",
+          "reason": "Covers Animated API, gestures, and animation libraries."
+        }
+      ],
+      "videos": [
+        {
+          "title": "React Native Animations Tutorial – Traversy Media",
+          "reason": "Complete guide to creating animations in React Native."
+        },
+        {
+          "title": "Mobile Animations – freeCodeCamp",
+          "reason": "Comprehensive tutorial on animations and gestures."
+        }
+      ],
+      "summary": "Animations and gestures create polished, interactive mobile applications. Animated API creates smooth animations for UI elements. Animation types (fade, slide, scale, rotate) provide variety and visual interest. Touch gestures (pan, pinch, swipe) enable intuitive user interactions. Native driver improves animation performance by running on the native thread. Animation libraries (Reanimated, Lottie) enable advanced animations and complex interactions. Animations and gestures enhance user experience and make apps feel responsive and delightful. Mastering animations and gestures enables you to build modern, engaging mobile applications."
+    },
+    {
+      "course": "Mobile Development",
+      "level": "Intermediate",
+      "topic": "Offline Storage and Data Persistence",
+      "description": "Learn how to store data locally on mobile devices using AsyncStorage, SQLite, and Realm. Offline storage enables apps to work without internet connection and persist data between app sessions. Understanding offline storage is essential for building robust mobile apps. Think of offline storage like a local filing cabinet—your app can save and retrieve data even when offline.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Implementing Offline Storage: A Complete Guide",
+          "content": "Step 1: Understand storage options (AsyncStorage, SQLite, Realm). Step 2: Use AsyncStorage for simple data. Step 3: Use SQLite for complex data. Step 4: Implement data synchronization. Step 5: Handle offline scenarios. Step 6: Cache API responses. Step 7: Test offline functionality. This guide helps you implement offline storage!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Storage Architecture",
+          "content": "Draw storage: AsyncStorage (simple key-value) → SQLite (structured data) → Realm (object database). Show: Storage options, Data flow, Sync strategies. Visual helps understand storage."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build Offline App",
+          "content": "Activity: Create app with offline storage. Build: AsyncStorage, SQLite, Data sync, Offline mode. Practice: Storage options, Data persistence, Sync strategies. This activity improves storage skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "AsyncStorage 💾",
+          "content": "AsyncStorage stores simple key-value pairs. **How it works:** Store strings, Retrieve strings, Async operations, Persistent storage. **How to understand it:** Like a simple storage box. **Real-world:** Developer uses AsyncStorage: Stores user preferences, Stores tokens, Retrieves data, Data persists. AsyncStorage enables simple storage. **Best practice:** Use for simple data, Handle async, Store strings, Practice AsyncStorage."
+        },
+        {
+          "title": "SQLite Database 🗄️",
+          "content": "SQLite stores structured data. **How it works:** Create database, Create tables, Insert/query data, SQL operations. **How to understand it:** Like a local database. **Real-world:** Developer uses SQLite: Creates database, Stores structured data, Queries data, Complex data stored. SQLite enables structured storage. **Best practice:** Use for complex data, Design schema, Use SQL, Practice SQLite."
+        },
+        {
+          "title": "Realm Database 🏰",
+          "content": "Realm is object database for mobile. **How it works:** Define models, Create objects, Query objects, Real-time updates. **How to understand it:** Like object-oriented database. **Real-world:** Developer uses Realm: Defines models, Stores objects, Queries objects, Real-time sync, Realm working. Realm enables object storage. **Best practice:** Use Realm for objects, Define models, Query efficiently, Practice Realm."
+        },
+        {
+          "title": "Data Synchronization 🔄",
+          "content": "Syncing local data with server. **How it works:** Store locally, Sync when online, Handle conflicts, Merge data. **How to understand it:** Like keeping local and server in sync. **Real-world:** Developer implements sync: Stores locally, Syncs when online, Handles conflicts, Data synchronized. Sync enables offline-first. **Best practice:** Implement sync, Handle conflicts, Merge data, Practice sync."
+        },
+        {
+          "title": "Offline-First Architecture 📴",
+          "content": "Designing apps that work offline. **How it works:** Store data locally, Work offline, Sync when online, Handle conflicts. **How to understand it:** Like apps that work without internet. **Real-world:** Developer builds offline-first: Stores data locally, Works offline, Syncs when online, Offline-first working. Offline-first enables reliability. **Best practice:** Design offline-first, Store locally, Sync when online, Practice offline-first."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Using AsyncStorage",
+          "explanation": "Developer uses AsyncStorage: Stores user settings, Retrieves settings, Data persists, AsyncStorage working."
+        },
+        {
+          "scenario": "SQLite Database",
+          "explanation": "Developer uses SQLite: Creates database, Stores todos, Queries todos, SQLite working."
+        },
+        {
+          "scenario": "Data Synchronization",
+          "explanation": "Developer implements sync: Stores locally, Syncs when online, Handles conflicts, Data synchronized."
+        },
+        {
+          "scenario": "Offline-First App",
+          "explanation": "Developer builds offline-first: Works offline, Stores locally, Syncs when online, Offline-first working."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Use AsyncStorage",
+          "instructions": "Step 1: Install AsyncStorage. Step 2: Store simple data. Step 3: Retrieve data. Step 4: Handle async operations. Step 5: Test persistence. Step 6: Handle errors. Step 7: Practice AsyncStorage.",
+          "example_answer": "AsyncStorage used: Installed, Data stored, Data retrieved, Async handled, Persistence tested, Errors handled. AsyncStorage mastered."
+        },
+        {
+          "title": "Implement SQLite",
+          "instructions": "Step 1: Install SQLite. Step 2: Create database. Step 3: Create tables. Step 4: Insert data. Step 5: Query data. Step 6: Update/delete data. Step 7: Practice SQLite.",
+          "example_answer": "SQLite implemented: Installed, Database created, Tables created, Data inserted, Queried, Updated/deleted. SQLite mastered."
+        },
+        {
+          "title": "Build Offline-First App",
+          "instructions": "Step 1: Design offline-first architecture. Step 2: Store data locally. Step 3: Work offline. Step 4: Sync when online. Step 5: Handle conflicts. Step 6: Test offline. Step 7: Practice offline-first.",
+          "example_answer": "Offline-first app built: Architecture designed, Data stored locally, Works offline, Syncs when online, Conflicts handled, Tested. Offline-first app working."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Mobile Data Storage",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to offline storage and data persistence in mobile apps."
+        },
+        {
+          "title": "React Native Storage",
+          "source": "OpenStax",
+          "reason": "Covers AsyncStorage, SQLite, Realm, and data synchronization."
+        }
+      ],
+      "videos": [
+        {
+          "title": "React Native Storage Tutorial – Traversy Media",
+          "reason": "Complete guide to offline storage in React Native."
+        },
+        {
+          "title": "Mobile Data Persistence – freeCodeCamp",
+          "reason": "Comprehensive tutorial on offline storage and data persistence."
+        }
+      ],
+      "summary": "Offline storage enables mobile apps to work without internet and persist data. AsyncStorage stores simple key-value pairs for preferences and tokens. SQLite provides structured database storage for complex data. Realm offers object-oriented database with real-time capabilities. Data synchronization keeps local and server data in sync when online. Offline-first architecture designs apps that work reliably without internet connection. Offline storage is essential for building robust, reliable mobile applications. Mastering offline storage enables you to build apps that work seamlessly online and offline."
+    },
+    {
+      "course": "Mobile Development",
+      "level": "Intermediate",
+      "topic": "Push Notifications",
+      "description": "Learn how to implement push notifications in mobile applications to engage users and deliver timely updates. Push notifications keep users informed and engaged with your app. Understanding push notifications is essential for building modern mobile apps. Think of push notifications like a messenger—they deliver important messages to users even when the app is closed.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Implementing Push Notifications: A Complete Guide",
+          "content": "Step 1: Set up notification services (FCM, APNs). Step 2: Request notification permissions. Step 3: Register device tokens. Step 4: Send notifications from server. Step 5: Handle notification events. Step 6: Customize notification appearance. Step 7: Test notifications. This guide helps you implement push notifications!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Push Notification Flow",
+          "content": "Draw flow: Server → FCM/APNs → Device → App. Show: Token registration, Notification sending, Notification handling. Visual helps understand push notifications."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build App with Notifications",
+          "content": "Activity: Create app with push notifications. Build: Permission requests, Token registration, Notification handling, Custom notifications. Practice: FCM, APNs, Notification patterns. This activity improves notification skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Firebase Cloud Messaging (FCM) 🔔",
+          "content": "FCM sends notifications to Android and iOS. **How it works:** Register device, Get token, Send from server, Receive in app. **How to understand it:** Like a notification delivery service. **Real-world:** Developer uses FCM: Registers device, Gets token, Sends notification, App receives, Notification working. FCM enables cross-platform notifications. **Best practice:** Use FCM, Register tokens, Handle notifications, Practice FCM."
+        },
+        {
+          "title": "Apple Push Notification Service (APNs) 🍎",
+          "content": "APNs sends notifications to iOS devices. **How it works:** Register device, Get token, Send from server, Receive in app. **How to understand it:** Like iOS notification service. **Real-world:** Developer uses APNs: Registers iOS device, Gets token, Sends notification, App receives, APNs working. APNs enables iOS notifications. **Best practice:** Use APNs for iOS, Register tokens, Handle notifications, Practice APNs."
+        },
+        {
+          "title": "Notification Permissions 🔐",
+          "content": "Requesting notification permissions. **How it works:** Request permission, Handle granted/denied, Check permission status. **How to understand it:** Like asking for permission to send messages. **Real-world:** Developer requests permission: Asks user, Handles response, Checks status, Permission managed. Permissions enable notifications. **Best practice:** Request permission, Handle responses, Explain why, Practice permissions."
+        },
+        {
+          "title": "Notification Handling 📬",
+          "content": "Handling notifications in app. **Events:** Received (app open), Opened (user tapped), Foreground/background. **How it works:** Listen for events, Handle notification, Navigate to screen. **How to understand it:** Like responding to messages. **Real-world:** Developer handles notifications: Listens for events, Handles notification, Navigates to screen, Notification handled. Handling enables engagement. **Best practice:** Handle all events, Navigate appropriately, Update UI, Practice handling."
+        },
+        {
+          "title": "Local Notifications 🏠",
+          "content": "Scheduling local notifications. **How it works:** Schedule notification, Set time/trigger, Show notification. **How to understand it:** Like setting an alarm. **Real-world:** Developer schedules local: Sets time, Triggers notification, Shows notification, Local notification working. Local notifications enable reminders. **Best practice:** Schedule local, Use triggers, Handle events, Practice local notifications."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "FCM Integration",
+          "explanation": "Developer uses FCM: Registers device, Gets token, Sends notification, App receives, FCM working."
+        },
+        {
+          "scenario": "Notification Permission",
+          "explanation": "Developer requests permission: Asks user, Handles response, Permission granted, Notifications enabled."
+        },
+        {
+          "scenario": "Notification Handling",
+          "explanation": "Developer handles notification: Receives notification, Handles event, Navigates to screen, Notification handled."
+        },
+        {
+          "scenario": "Local Notification",
+          "explanation": "Developer schedules local: Sets time, Triggers notification, Shows notification, Local notification working."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Implement FCM",
+          "instructions": "Step 1: Set up Firebase. Step 2: Install FCM library. Step 3: Request permissions. Step 4: Register device token. Step 5: Handle notifications. Step 6: Send test notification. Step 7: Practice FCM.",
+          "example_answer": "FCM implemented: Firebase set up, Library installed, Permissions requested, Token registered, Notifications handled, Test sent. FCM mastered."
+        },
+        {
+          "title": "Handle Notification Events",
+          "instructions": "Step 1: Listen for received event. Step 2: Listen for opened event. Step 3: Handle foreground. Step 4: Handle background. Step 5: Navigate on open. Step 6: Update UI. Step 7: Practice handling.",
+          "example_answer": "Notification events handled: Received/opened events listened, Foreground/background handled, Navigation on open, UI updated. Notification handling mastered."
+        },
+        {
+          "title": "Schedule Local Notifications",
+          "instructions": "Step 1: Install notification library. Step 2: Request permissions. Step 3: Schedule notification. Step 4: Set trigger. Step 5: Handle notification. Step 6: Test local notification. Step 7: Practice local notifications.",
+          "example_answer": "Local notifications scheduled: Library installed, Permissions requested, Notification scheduled, Trigger set, Handled, Tested. Local notifications mastered."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Mobile Push Notifications",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to push notifications in mobile apps."
+        },
+        {
+          "title": "React Native Notifications",
+          "source": "OpenStax",
+          "reason": "Covers FCM, APNs, and notification handling."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Push Notifications Tutorial – Traversy Media",
+          "reason": "Complete guide to implementing push notifications in React Native."
+        },
+        {
+          "title": "Mobile Notifications – freeCodeCamp",
+          "reason": "Comprehensive tutorial on push notifications and local notifications."
+        }
+      ],
+      "summary": "Push notifications engage users and deliver timely updates. Firebase Cloud Messaging (FCM) enables cross-platform push notifications for Android and iOS. Apple Push Notification Service (APNs) provides iOS-specific notification delivery. Notification permissions must be requested and handled appropriately. Notification handling responds to received and opened events to navigate users and update UI. Local notifications schedule reminders and alerts without server involvement. Push notifications are essential for user engagement and retention. Mastering push notifications enables you to build apps that keep users informed and engaged."
+    },
+    {
+      "course": "Mobile Development",
+      "level": "Intermediate",
+      "topic": "Authentication in Mobile Apps",
+      "description": "Learn how to implement secure authentication in mobile applications using various methods including email/password, OAuth, biometrics, and token-based authentication. Authentication secures user accounts and protects app data. Understanding authentication is essential for building secure mobile apps. Think of authentication like a security system—it verifies who users are before granting access.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Implementing Authentication: A Complete Guide",
+          "content": "Step 1: Choose authentication method (email/password, OAuth). Step 2: Set up authentication service (Firebase Auth, Auth0). Step 3: Implement login/signup. Step 4: Handle tokens (JWT, refresh tokens). Step 5: Implement biometric authentication. Step 6: Secure token storage. Step 7: Test authentication flow. This guide helps you implement authentication!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Authentication Flow",
+          "content": "Draw flow: User → Login → Server → Token → App. Show: Login/signup, Token generation, Token storage, Protected routes. Visual helps understand authentication."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build App with Authentication",
+          "content": "Activity: Create app with authentication. Build: Login/signup, Token management, Protected screens, Biometric auth. Practice: Auth services, Token handling, Security. This activity improves authentication skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Firebase Authentication 🔐",
+          "content": "Firebase Auth provides authentication services. **How it works:** Sign up users, Sign in users, Manage sessions, Handle tokens. **How to understand it:** Like a user management service. **Real-world:** Developer uses Firebase Auth: Signs up users, Signs in users, Manages sessions, Tokens handled, Auth working. Firebase Auth simplifies authentication. **Best practice:** Use Firebase Auth, Handle errors, Secure tokens, Practice Firebase Auth."
+        },
+        {
+          "title": "JWT Tokens 🎫",
+          "content": "JWT tokens authenticate users. **How it works:** Server generates token, Client stores token, Send token with requests, Server validates token. **How to understand it:** Like a temporary ID card. **Real-world:** Developer uses JWT: Server generates token, Client stores token, Sends with requests, Server validates, JWT working. JWT enables stateless auth. **Best practice:** Store tokens securely, Handle expiration, Refresh tokens, Practice JWT."
+        },
+        {
+          "title": "OAuth Integration 🔗",
+          "content": "OAuth enables social login. **Providers:** Google, Facebook, Apple, GitHub. **How it works:** User authorizes, Get access token, Use token for API. **How to understand it:** Like logging in with social account. **Real-world:** Developer uses OAuth: User authorizes Google, Gets token, Uses for API, OAuth working. OAuth enables social login. **Best practice:** Use OAuth, Handle callbacks, Secure tokens, Practice OAuth."
+        },
+        {
+          "title": "Biometric Authentication 👆",
+          "content": "Biometric auth uses fingerprint/face. **How it works:** Request biometric, Authenticate user, Unlock app. **How to understand it:** Like using fingerprint to unlock. **Real-world:** Developer uses biometric: Requests fingerprint, Authenticates user, Unlocks app, Biometric working. Biometric enables secure access. **Best practice:** Use biometric, Handle failures, Provide fallback, Practice biometric."
+        },
+        {
+          "title": "Secure Token Storage 🔒",
+          "content": "Storing tokens securely. **Methods:** Keychain (iOS), Keystore (Android), Encrypted storage. **How it works:** Store tokens encrypted, Retrieve when needed, Clear on logout. **How to understand it:** Like a secure vault. **Real-world:** Developer stores tokens: Uses Keychain/Keystore, Stores encrypted, Retrieves securely, Tokens secure. Secure storage protects tokens. **Best practice:** Use Keychain/Keystore, Encrypt tokens, Clear on logout, Practice secure storage."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Firebase Auth",
+          "explanation": "Developer uses Firebase Auth: Signs up users, Signs in users, Manages sessions, Auth working."
+        },
+        {
+          "scenario": "JWT Authentication",
+          "explanation": "Developer uses JWT: Server generates token, Client stores token, Sends with requests, JWT working."
+        },
+        {
+          "scenario": "OAuth Login",
+          "explanation": "Developer uses OAuth: User authorizes Google, Gets token, Uses for API, OAuth working."
+        },
+        {
+          "scenario": "Biometric Auth",
+          "explanation": "Developer uses biometric: Requests fingerprint, Authenticates user, Unlocks app, Biometric working."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Implement Firebase Auth",
+          "instructions": "Step 1: Set up Firebase. Step 2: Install Firebase Auth. Step 3: Create signup screen. Step 4: Create login screen. Step 5: Handle auth state. Step 6: Protect routes. Step 7: Practice Firebase Auth.",
+          "example_answer": "Firebase Auth implemented: Firebase set up, Auth installed, Signup/login screens created, Auth state handled, Routes protected. Firebase Auth mastered."
+        },
+        {
+          "title": "Implement JWT Authentication",
+          "instructions": "Step 1: Set up JWT on server. Step 2: Create login endpoint. Step 3: Store token securely. Step 4: Send token with requests. Step 5: Handle token expiration. Step 6: Refresh tokens. Step 7: Practice JWT.",
+          "example_answer": "JWT implemented: Server set up, Login endpoint created, Token stored securely, Sent with requests, Expiration handled, Tokens refreshed. JWT mastered."
+        },
+        {
+          "title": "Add Biometric Authentication",
+          "instructions": "Step 1: Install biometric library. Step 2: Check biometric availability. Step 3: Request biometric. Step 4: Handle success/failure. Step 5: Provide fallback. Step 6: Test biometric. Step 7: Practice biometric.",
+          "example_answer": "Biometric added: Library installed, Availability checked, Biometric requested, Success/failure handled, Fallback provided, Tested. Biometric mastered."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Mobile App Authentication",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to authentication in mobile apps."
+        },
+        {
+          "title": "React Native Authentication",
+          "source": "OpenStax",
+          "reason": "Covers Firebase Auth, JWT, OAuth, and biometric authentication."
+        }
+      ],
+      "videos": [
+        {
+          "title": "React Native Authentication Tutorial – Traversy Media",
+          "reason": "Complete guide to implementing authentication in React Native."
+        },
+        {
+          "title": "Mobile Authentication – freeCodeCamp",
+          "reason": "Comprehensive tutorial on authentication methods and security."
+        }
+      ],
+      "summary": "Authentication secures user accounts and protects app data. Firebase Authentication provides easy-to-use authentication services for signup and login. JWT tokens enable stateless authentication by encoding user information. OAuth integration allows users to sign in with social accounts (Google, Facebook, Apple). Biometric authentication uses fingerprint or face recognition for secure access. Secure token storage (Keychain, Keystore) protects authentication tokens from unauthorized access. Authentication is essential for building secure mobile applications. Mastering authentication enables you to build apps that protect user data and provide secure access."
+    },
+    {
+      "course": "Mobile Development",
+      "level": "Intermediate",
+      "topic": "Advanced Navigation Patterns",
+      "description": "Learn advanced navigation patterns including deep linking, nested navigators, custom transitions, and navigation state management. Advanced navigation creates seamless user experiences and enables complex app structures. Understanding advanced navigation is essential for building sophisticated mobile apps. Think of advanced navigation like a sophisticated road system—it helps users navigate complex app structures smoothly.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Advanced Navigation: A Complete Guide",
+          "content": "Step 1: Understand nested navigators. Step 2: Implement deep linking. Step 3: Create custom transitions. Step 4: Manage navigation state. Step 5: Handle navigation events. Step 6: Implement navigation guards. Step 7: Test navigation flows. This guide helps you master advanced navigation!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Navigation Architecture",
+          "content": "Draw architecture: Root Navigator → Tab Navigator → Stack Navigator → Screens. Show: Nested navigators, Deep links, Custom transitions. Visual helps understand advanced navigation."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build App with Advanced Navigation",
+          "content": "Activity: Create app with advanced navigation. Build: Nested navigators, Deep linking, Custom transitions, Navigation state. Practice: Navigation patterns, Deep links, State management. This activity improves navigation skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Nested Navigators 🧭",
+          "content": "Nesting navigators for complex structures. **How it works:** Stack inside tabs, Tabs inside stack, Multiple levels. **How to understand it:** Like navigators within navigators. **Real-world:** Developer uses nested: Tab navigator, Stack inside each tab, Complex structure, Navigation working. Nested navigators enable complexity. **Best practice:** Use nested navigators, Keep structure clear, Test navigation, Practice nesting."
+        },
+        {
+          "title": "Deep Linking 🔗",
+          "content": "Linking to specific screens via URL. **How it works:** Configure URL scheme, Handle deep links, Navigate to screen. **How to understand it:** Like bookmarks to app screens. **Real-world:** Developer implements deep links: Configures scheme, Handles links, Navigates to screen, Deep links working. Deep linking enables sharing. **Best practice:** Configure deep links, Handle all cases, Test links, Practice deep linking."
+        },
+        {
+          "title": "Custom Transitions 🎬",
+          "content": "Creating custom screen transitions. **How it works:** Define transition, Apply to navigator, Animate transitions. **How to understand it:** Like custom animations between screens. **Real-world:** Developer creates transitions: Defines custom, Applies to navigator, Smooth transitions, Custom transitions working. Custom transitions enhance UX. **Best practice:** Create custom transitions, Keep smooth, Test transitions, Practice custom transitions."
+        },
+        {
+          "title": "Navigation State Management 📊",
+          "content": "Managing navigation state. **How it works:** Track navigation state, Update state, Persist state. **How to understand it:** Like remembering where user is. **Real-world:** Developer manages state: Tracks navigation, Updates state, Persists state, State managed. State management enables control. **Best practice:** Track navigation state, Update appropriately, Persist when needed, Practice state management."
+        },
+        {
+          "title": "Navigation Guards 🛡️",
+          "content": "Protecting navigation routes. **How it works:** Check conditions, Block navigation, Allow navigation. **How to understand it:** Like security checkpoints. **Real-world:** Developer uses guards: Checks authentication, Blocks if needed, Allows if authorized, Guards working. Guards protect routes. **Best practice:** Use navigation guards, Check conditions, Handle blocking, Practice guards."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Nested Navigators",
+          "explanation": "Developer uses nested: Tab navigator, Stack inside tabs, Complex structure, Navigation working."
+        },
+        {
+          "scenario": "Deep Linking",
+          "explanation": "Developer implements deep links: Configures scheme, Handles links, Navigates to screen, Deep links working."
+        },
+        {
+          "scenario": "Custom Transitions",
+          "explanation": "Developer creates transitions: Defines custom, Applies to navigator, Smooth transitions, Custom transitions working."
+        },
+        {
+          "scenario": "Navigation Guards",
+          "explanation": "Developer uses guards: Checks authentication, Blocks if needed, Allows if authorized, Guards working."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Implement Nested Navigators",
+          "instructions": "Step 1: Create tab navigator. Step 2: Add stack navigator to tabs. Step 3: Navigate between nested. Step 4: Test navigation. Step 5: Handle back button. Step 6: Test complex flows. Step 7: Practice nested navigators.",
+          "example_answer": "Nested navigators implemented: Tab navigator created, Stack added to tabs, Navigation working, Tested, Back button handled, Complex flows tested. Nested navigators mastered."
+        },
+        {
+          "title": "Implement Deep Linking",
+          "instructions": "Step 1: Configure URL scheme. Step 2: Handle deep links. Step 3: Navigate to screens. Step 4: Handle parameters. Step 5: Test deep links. Step 6: Handle all cases. Step 7: Practice deep linking.",
+          "example_answer": "Deep linking implemented: URL scheme configured, Links handled, Navigation to screens, Parameters handled, Tested, All cases handled. Deep linking mastered."
+        },
+        {
+          "title": "Create Custom Transitions",
+          "instructions": "Step 1: Define transition config. Step 2: Create custom transition. Step 3: Apply to navigator. Step 4: Test transitions. Step 5: Optimize performance. Step 6: Test on devices. Step 7: Practice custom transitions.",
+          "example_answer": "Custom transitions created: Config defined, Transition created, Applied to navigator, Tested, Optimized, Device tested. Custom transitions mastered."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Advanced Mobile Navigation",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to advanced navigation patterns in mobile apps."
+        },
+        {
+          "title": "React Native Navigation",
+          "source": "OpenStax",
+          "reason": "Covers nested navigators, deep linking, and custom transitions."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Advanced Navigation Tutorial – Traversy Media",
+          "reason": "Complete guide to advanced navigation in React Native."
+        },
+        {
+          "title": "Mobile Navigation Patterns – freeCodeCamp",
+          "reason": "Comprehensive tutorial on advanced navigation and deep linking."
+        }
+      ],
+      "summary": "Advanced navigation patterns create seamless user experiences in complex mobile apps. Nested navigators combine multiple navigation types for sophisticated app structures. Deep linking enables users to navigate directly to specific screens via URLs. Custom transitions create unique, branded navigation experiences. Navigation state management tracks and controls navigation flow throughout the app. Navigation guards protect routes and control access based on conditions. Advanced navigation is essential for building sophisticated mobile applications. Mastering advanced navigation enables you to build apps with complex structures and seamless user flows."
+    },
+    {
+      "course": "Mobile Development",
+      "level": "Intermediate",
+      "topic": "Testing Strategies",
+      "description": "Learn comprehensive testing strategies for mobile applications including unit tests, integration tests, E2E tests, and device testing. Testing ensures app quality and reliability. Understanding testing strategies is essential for building production-ready mobile apps. Think of testing like quality assurance—you verify everything works correctly before users see it.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Mobile Testing Strategies: A Complete Guide",
+          "content": "Step 1: Set up testing framework. Step 2: Write unit tests. Step 3: Write integration tests. Step 4: Write E2E tests. Step 5: Test on devices. Step 6: Automate testing. Step 7: Monitor test coverage. This guide helps you implement testing strategies!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Testing Pyramid",
+          "content": "Draw pyramid: E2E tests (few), Integration tests (some), Unit tests (many). Show: Test types, Coverage, When to use each. Visual helps understand testing strategy."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Test Your App",
+          "content": "Activity: Add comprehensive tests. Write: Unit tests, Integration tests, E2E tests. Practice: Testing frameworks, Writing tests, Running tests. This activity improves testing skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Unit Testing 🔬",
+          "content": "Testing individual components and functions. **How it works:** Test one unit, Mock dependencies, Verify output. **How to understand it:** Like testing one piece at a time. **Real-world:** Developer writes unit tests: Tests function, Mocks API, Verifies output, Tests pass. Unit tests catch bugs early. **Best practice:** Write unit tests, Test edge cases, Mock dependencies, Practice unit testing."
+        },
+        {
+          "title": "Integration Testing 🔗",
+          "content": "Testing component interactions. **How it works:** Test multiple components, Test interactions, Verify behavior. **How to understand it:** Like testing how pieces work together. **Real-world:** Developer writes integration tests: Tests components together, Tests interactions, Verifies behavior, Integration tests pass. Integration tests verify connections. **Best practice:** Write integration tests, Test interactions, Verify behavior, Practice integration testing."
+        },
+        {
+          "title": "E2E Testing 🎯",
+          "content": "Testing complete user flows. **How it works:** Simulate user, Test full flow, Verify end result. **How to understand it:** Like testing as a user would. **Real-world:** Developer writes E2E tests: Simulates user, Tests full flow, Verifies result, E2E tests pass. E2E tests verify flows. **Best practice:** Write E2E tests, Test critical flows, Keep tests simple, Practice E2E testing."
+        },
+        {
+          "title": "Device Testing 📱",
+          "content": "Testing on real devices. **How it works:** Install on device, Test functionality, Test performance, Test on different devices. **How to understand it:** Like testing in real world. **Real-world:** Developer tests on device: Installs app, Tests features, Tests performance, Works on device. Device testing ensures compatibility. **Best practice:** Test on devices, Test on iOS and Android, Test on different sizes, Practice device testing."
+        },
+        {
+          "title": "Test Automation 🤖",
+          "content": "Automating test execution. **How it works:** Run tests automatically, CI/CD integration, Report results. **How to understand it:** Like automatic quality checks. **Real-world:** Developer automates tests: Runs on CI/CD, Reports results, Catches bugs early, Automation working. Automation improves efficiency. **Best practice:** Automate tests, Integrate CI/CD, Report results, Practice automation."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Unit Test",
+          "explanation": "Developer writes unit test: Tests function, Mocks dependencies, Verifies output, Test passes. Unit test working."
+        },
+        {
+          "scenario": "Integration Test",
+          "explanation": "Developer writes integration test: Tests components together, Tests interactions, Verifies behavior, Integration test passes."
+        },
+        {
+          "scenario": "E2E Test",
+          "explanation": "Developer writes E2E test: Simulates user, Tests full flow, Verifies result, E2E test passes."
+        },
+        {
+          "scenario": "Device Testing",
+          "explanation": "Developer tests on device: Installs app, Tests features, Works correctly, Device testing complete."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Write Comprehensive Unit Tests",
+          "instructions": "Step 1: Set up Jest. Step 2: Write tests for functions. Step 3: Write tests for components. Step 4: Mock dependencies. Step 5: Test edge cases. Step 6: Measure coverage. Step 7: Practice unit testing.",
+          "example_answer": "Unit tests written: Jest set up, Functions tested, Components tested, Dependencies mocked, Edge cases covered, Coverage measured. Unit testing mastered."
+        },
+        {
+          "title": "Write Integration Tests",
+          "instructions": "Step 1: Set up testing library. Step 2: Test component interactions. Step 3: Test API integration. Step 4: Test navigation. Step 5: Verify behavior. Step 6: Run tests. Step 7: Practice integration testing.",
+          "example_answer": "Integration tests written: Testing library set up, Component interactions tested, API integration tested, Navigation tested, Behavior verified, Tests passing. Integration testing mastered."
+        },
+        {
+          "title": "Set Up E2E Testing",
+          "instructions": "Step 1: Choose E2E tool (Detox, Appium). Step 2: Set up E2E framework. Step 3: Write E2E tests. Step 4: Test critical flows. Step 5: Run E2E tests. Step 6: Integrate CI/CD. Step 7: Practice E2E testing.",
+          "example_answer": "E2E testing set up: Tool chosen, Framework set up, Tests written, Critical flows tested, Tests running, CI/CD integrated. E2E testing mastered."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Mobile App Testing",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to testing strategies for mobile applications."
+        },
+        {
+          "title": "React Native Testing",
+          "source": "OpenStax",
+          "reason": "Covers unit testing, integration testing, and E2E testing."
+        }
+      ],
+      "videos": [
+        {
+          "title": "React Native Testing Tutorial – Traversy Media",
+          "reason": "Complete guide to testing React Native applications."
+        },
+        {
+          "title": "Mobile Testing Strategies – freeCodeCamp",
+          "reason": "Comprehensive tutorial on testing mobile apps."
+        }
+      ],
+      "summary": "Testing strategies ensure mobile app quality and reliability. Unit testing tests individual components and functions in isolation. Integration testing verifies component interactions and connections. E2E testing simulates complete user flows from start to finish. Device testing ensures apps work correctly on real iOS and Android devices. Test automation runs tests automatically in CI/CD pipelines for continuous quality assurance. Comprehensive testing is essential for building production-ready mobile applications. Mastering testing strategies enables you to catch bugs early and ensure app quality before release."
+    },
+    {
+      "course": "Mobile Development",
+      "level": "Intermediate",
+      "topic": "CI/CD for Mobile Apps",
+      "description": "Learn how to set up continuous integration and continuous deployment (CI/CD) pipelines for mobile applications. CI/CD automates building, testing, and deploying mobile apps. Understanding CI/CD is essential for efficient mobile app development. Think of CI/CD like an automated assembly line—it builds, tests, and deploys your app automatically.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Setting Up CI/CD: A Complete Guide",
+          "content": "Step 1: Choose CI/CD platform (GitHub Actions, CircleCI). Step 2: Set up build configuration. Step 3: Configure tests. Step 4: Set up code signing. Step 5: Configure deployment. Step 6: Automate releases. Step 7: Monitor pipelines. This guide helps you set up CI/CD!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "CI/CD Pipeline",
+          "content": "Draw pipeline: Code → Build → Test → Deploy. Show: CI/CD flow, Automation, Deployment stages. Visual helps understand CI/CD."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Set Up CI/CD Pipeline",
+          "content": "Activity: Create CI/CD pipeline. Build: Build configuration, Test automation, Code signing, Deployment. Practice: CI/CD platforms, Automation, Deployment. This activity improves CI/CD skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "GitHub Actions 🔄",
+          "content": "GitHub Actions automates workflows. **How it works:** Define workflows, Trigger on events, Run jobs, Deploy apps. **How to understand it:** Like automated workflows. **Real-world:** Developer uses GitHub Actions: Defines workflow, Triggers on push, Builds app, Deploys automatically, CI/CD working. GitHub Actions enables automation. **Best practice:** Use GitHub Actions, Define workflows, Automate builds, Practice CI/CD."
+        },
+        {
+          "title": "Build Automation 🏗️",
+          "content": "Automating app builds. **How it works:** Trigger build, Install dependencies, Build app, Archive app. **How to understand it:** Like automatic building. **Real-world:** Developer automates builds: Triggers on push, Installs dependencies, Builds app, Archives app, Build automated. Build automation saves time. **Best practice:** Automate builds, Cache dependencies, Optimize build time, Practice automation."
+        },
+        {
+          "title": "Test Automation 🧪",
+          "content": "Running tests automatically. **How it works:** Run tests on CI, Report results, Block on failure. **How to understand it:** Like automatic quality checks. **Real-world:** Developer automates tests: Runs on CI, Reports results, Blocks on failure, Tests automated. Test automation ensures quality. **Best practice:** Run tests on CI, Report results, Block on failure, Practice test automation."
+        },
+        {
+          "title": "Code Signing 🔐",
+          "content": "Signing apps for distribution. **How it works:** Store certificates, Sign app, Verify signature. **How to understand it:** Like signing documents automatically. **Real-world:** Developer automates signing: Stores certificates securely, Signs app automatically, Verifies signature, Signing automated. Code signing enables distribution. **Best practice:** Store certificates securely, Automate signing, Verify signatures, Practice code signing."
+        },
+        {
+          "title": "Automated Deployment 🚀",
+          "content": "Deploying apps automatically. **How it works:** Build app, Sign app, Upload to stores, Release app. **How to understand it:** Like automatic publishing. **Real-world:** Developer automates deployment: Builds app, Signs app, Uploads to stores, Releases automatically, Deployment automated. Automated deployment saves time. **Best practice:** Automate deployment, Handle errors, Monitor deployments, Practice automation."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "GitHub Actions Workflow",
+          "explanation": "Developer uses GitHub Actions: Defines workflow, Triggers on push, Builds app, Deploys automatically, CI/CD working."
+        },
+        {
+          "scenario": "Build Automation",
+          "explanation": "Developer automates builds: Triggers on push, Installs dependencies, Builds app, Build automated."
+        },
+        {
+          "scenario": "Test Automation",
+          "explanation": "Developer automates tests: Runs on CI, Reports results, Blocks on failure, Tests automated."
+        },
+        {
+          "scenario": "Automated Deployment",
+          "explanation": "Developer automates deployment: Builds app, Signs app, Uploads to stores, Releases automatically, Deployment automated."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Set Up GitHub Actions",
+          "instructions": "Step 1: Create workflow file. Step 2: Define build job. Step 3: Define test job. Step 4: Define deploy job. Step 5: Configure secrets. Step 6: Test workflow. Step 7: Practice GitHub Actions.",
+          "example_answer": "GitHub Actions set up: Workflow file created, Build/test/deploy jobs defined, Secrets configured, Workflow tested. GitHub Actions mastered."
+        },
+        {
+          "title": "Automate Build Process",
+          "instructions": "Step 1: Configure build script. Step 2: Set up dependencies. Step 3: Cache dependencies. Step 4: Build app. Step 5: Archive app. Step 6: Test build. Step 7: Practice build automation.",
+          "example_answer": "Build automated: Script configured, Dependencies set up, Cached, App built, Archived, Tested. Build automation mastered."
+        },
+        {
+          "title": "Automate Deployment",
+          "instructions": "Step 1: Configure deployment. Step 2: Set up code signing. Step 3: Upload to stores. Step 4: Handle errors. Step 5: Monitor deployment. Step 6: Test deployment. Step 7: Practice deployment automation.",
+          "example_answer": "Deployment automated: Deployment configured, Code signing set up, Uploaded to stores, Errors handled, Monitored, Tested. Deployment automation mastered."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "CI/CD for Mobile Apps",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to CI/CD pipelines for mobile applications."
+        },
+        {
+          "title": "Mobile App Automation",
+          "source": "OpenStax",
+          "reason": "Covers CI/CD, build automation, and deployment."
+        }
+      ],
+      "videos": [
+        {
+          "title": "CI/CD for React Native – Traversy Media",
+          "reason": "Complete guide to setting up CI/CD for React Native apps."
+        },
+        {
+          "title": "Mobile CI/CD – freeCodeCamp",
+          "reason": "Comprehensive tutorial on CI/CD pipelines for mobile apps."
+        }
+      ],
+      "summary": "CI/CD automates building, testing, and deploying mobile applications. GitHub Actions provides workflow automation for continuous integration and deployment. Build automation compiles and packages apps automatically on code changes. Test automation runs tests in CI pipelines to catch bugs early. Code signing automates the process of signing apps for distribution. Automated deployment uploads and releases apps to app stores automatically. CI/CD is essential for efficient mobile app development and deployment. Mastering CI/CD enables you to build, test, and deploy mobile apps automatically with confidence."
+    },
+    {
+      "course": "Mobile Development",
+      "level": "Intermediate",
+      "topic": "App Store Optimization",
+      "description": "Learn how to optimize mobile apps for app store discovery and downloads. App Store Optimization (ASO) improves app visibility and increases downloads. Understanding ASO is essential for app success. Think of ASO like SEO for apps—you optimize your app listing to be found and downloaded.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Optimizing for App Stores: A Complete Guide",
+          "content": "Step 1: Research keywords. Step 2: Optimize app title. Step 3: Write compelling description. Step 4: Create screenshots. Step 5: Design app icon. Step 6: Get reviews. Step 7: Monitor ASO metrics. This guide helps you optimize for app stores!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "ASO Elements",
+          "content": "Draw ASO: Title → Description → Screenshots → Icon → Reviews → Rankings. Show: ASO elements, Optimization strategies. Visual helps understand ASO."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Optimize Your App Listing",
+          "content": "Activity: Optimize app store listing. Build: Title, Description, Screenshots, Icon, Keywords. Practice: ASO research, Optimization, Monitoring. This activity improves ASO skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Keyword Research 🔍",
+          "content": "Finding relevant keywords. **How it works:** Research keywords, Analyze competition, Choose keywords, Use in listing. **How to understand it:** Like finding search terms. **Real-world:** Developer researches keywords: Finds relevant terms, Analyzes competition, Chooses keywords, Uses in listing, Keywords optimized. Keyword research improves discoverability. **Best practice:** Research keywords, Analyze competition, Use strategically, Practice keyword research."
+        },
+        {
+          "title": "App Title Optimization 📝",
+          "content": "Optimizing app title for search. **How it works:** Include keywords, Keep concise, Make memorable. **How to understand it:** Like optimizing a headline. **Real-world:** Developer optimizes title: Includes keywords, Keeps concise, Makes memorable, Title optimized. Title optimization improves visibility. **Best practice:** Include keywords, Keep concise, Make memorable, Practice title optimization."
+        },
+        {
+          "title": "Description Writing ✍️",
+          "content": "Writing compelling descriptions. **How it works:** Highlight features, Use keywords, Write clearly, Include call-to-action. **How to understand it:** Like writing a sales pitch. **Real-world:** Developer writes description: Highlights features, Uses keywords, Writes clearly, Includes CTA, Description compelling. Description writing improves conversion. **Best practice:** Highlight features, Use keywords, Write clearly, Include CTA, Practice description writing."
+        },
+        {
+          "title": "Screenshot Design 📸",
+          "content": "Creating effective screenshots. **How it works:** Show key features, Add text overlays, Use high quality, Tell story. **How to understand it:** Like creating a visual story. **Real-world:** Developer creates screenshots: Shows features, Adds overlays, High quality, Tells story, Screenshots effective. Screenshot design improves conversion. **Best practice:** Show features, Add overlays, High quality, Tell story, Practice screenshot design."
+        },
+        {
+          "title": "Review Management ⭐",
+          "content": "Managing app reviews. **How it works:** Encourage reviews, Respond to reviews, Improve based on feedback. **How to understand it:** Like managing customer feedback. **Real-world:** Developer manages reviews: Encourages reviews, Responds to reviews, Improves app, Reviews positive. Review management improves ratings. **Best practice:** Encourage reviews, Respond promptly, Improve based on feedback, Practice review management."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Keyword Research",
+          "explanation": "Developer researches keywords: Finds relevant terms, Analyzes competition, Chooses keywords, Keywords optimized."
+        },
+        {
+          "scenario": "Title Optimization",
+          "explanation": "Developer optimizes title: Includes keywords, Keeps concise, Makes memorable, Title optimized."
+        },
+        {
+          "scenario": "Screenshot Design",
+          "explanation": "Developer creates screenshots: Shows features, Adds overlays, High quality, Screenshots effective."
+        },
+        {
+          "scenario": "Review Management",
+          "explanation": "Developer manages reviews: Encourages reviews, Responds to reviews, Improves app, Reviews positive."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Research Keywords",
+          "instructions": "Step 1: Use keyword tools. Step 2: Research relevant keywords. Step 3: Analyze competition. Step 4: Choose keywords. Step 5: Use in listing. Step 6: Monitor rankings. Step 7: Practice keyword research.",
+          "example_answer": "Keywords researched: Tools used, Keywords researched, Competition analyzed, Keywords chosen, Used in listing, Rankings monitored. Keyword research mastered."
+        },
+        {
+          "title": "Optimize App Listing",
+          "instructions": "Step 1: Optimize title. Step 2: Write description. Step 3: Create screenshots. Step 4: Design icon. Step 5: Add keywords. Step 6: Test listing. Step 7: Practice ASO.",
+          "example_answer": "App listing optimized: Title optimized, Description written, Screenshots created, Icon designed, Keywords added, Tested. ASO mastered."
+        },
+        {
+          "title": "Manage Reviews",
+          "instructions": "Step 1: Encourage reviews. Step 2: Respond to reviews. Step 3: Address issues. Step 4: Improve app. Step 5: Monitor ratings. Step 6: Track improvements. Step 7: Practice review management.",
+          "example_answer": "Reviews managed: Reviews encouraged, Responded to reviews, Issues addressed, App improved, Ratings monitored, Improvements tracked. Review management mastered."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "App Store Optimization",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to ASO and app store marketing."
+        },
+        {
+          "title": "Mobile App Marketing",
+          "source": "OpenStax",
+          "reason": "Covers ASO, keyword research, and app store optimization."
+        }
+      ],
+      "videos": [
+        {
+          "title": "ASO Tutorial – Traversy Media",
+          "reason": "Complete guide to app store optimization."
+        },
+        {
+          "title": "Mobile App Marketing – freeCodeCamp",
+          "reason": "Comprehensive tutorial on ASO and app store optimization."
+        }
+      ],
+      "summary": "App Store Optimization improves app visibility and increases downloads. Keyword research identifies relevant search terms to include in app listings. App title optimization includes keywords while remaining concise and memorable. Description writing highlights features and benefits to convert visitors to downloads. Screenshot design creates visual stories that showcase app features effectively. Review management encourages positive reviews and addresses feedback to improve ratings. ASO is essential for app discovery and success. Mastering ASO enables you to optimize app listings for maximum visibility and downloads."
+    },
+    {
+      "course": "Mobile Development",
+      "level": "Intermediate",
+      "topic": "Building Production Mobile Apps",
+      "description": "Put it all together! Build production-ready mobile applications using all intermediate concepts. This includes advanced React Native, animations, offline storage, push notifications, authentication, navigation, testing, CI/CD, and ASO. Think of it like building a complete, polished mobile app ready for real users.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Building Production Apps: A Complete Guide",
+          "content": "Step 1: Plan app architecture. Step 2: Implement advanced features. Step 3: Add offline support. Step 4: Implement authentication. Step 5: Add push notifications. Step 6: Set up testing. Step 7: Set up CI/CD. Step 8: Optimize for app stores. Step 9: Deploy app. This guide helps you build production apps!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Production App Architecture",
+          "content": "Draw architecture: UI → State → API → Storage → Auth → Notifications → Testing → CI/CD → Deployment. Show: All components, Production features, Complete flow. Visual helps understand production app."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build Production Mobile App",
+          "content": "Activity: Build complete production app. Combine: All intermediate concepts, Production features, Testing, CI/CD, Deployment. Practice: Complete development, Production-ready app. This activity improves production development skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Production Architecture 🏗️",
+          "content": "Designing scalable app architecture. **How it works:** Plan structure, Separate concerns, Use patterns, Scale easily. **How to understand it:** Like designing a building. **Real-world:** Developer designs architecture: Plans structure, Separates concerns, Uses patterns, Scales easily, Architecture solid. Architecture enables scalability. **Best practice:** Plan architecture, Separate concerns, Use patterns, Practice architecture."
+        },
+        {
+          "title": "Feature Implementation ⚙️",
+          "content": "Implementing production features. **Features:** Offline support, Authentication, Push notifications, Advanced navigation. **How to understand it:** Like adding production features. **Real-world:** Developer implements features: Adds offline support, Implements auth, Adds notifications, Features working. Features enable functionality. **Best practice:** Implement features, Test features, Optimize features, Practice implementation."
+        },
+        {
+          "title": "Production Testing 🧪",
+          "content": "Comprehensive testing for production. **Tests:** Unit, Integration, E2E, Device tests. **How it works:** Write tests, Run tests, Fix issues, Ensure quality. **How to understand it:** Like quality assurance. **Real-world:** Developer tests production: Writes comprehensive tests, Runs tests, Fixes issues, Quality ensured. Testing ensures quality. **Best practice:** Write comprehensive tests, Run regularly, Fix issues, Practice testing."
+        },
+        {
+          "title": "CI/CD Setup 🔄",
+          "content": "Automating production workflows. **How it works:** Set up CI/CD, Automate builds, Automate tests, Automate deployment. **How to understand it:** Like automated production line. **Real-world:** Developer sets up CI/CD: Automates builds, Automates tests, Automates deployment, CI/CD working. CI/CD enables efficiency. **Best practice:** Set up CI/CD, Automate workflows, Monitor pipelines, Practice CI/CD."
+        },
+        {
+          "title": "Production Deployment 🚀",
+          "content": "Deploying to production. **How it works:** Build app, Sign app, Upload to stores, Release app. **How to understand it:** Like launching to users. **Real-world:** Developer deploys production: Builds app, Signs app, Uploads to stores, Releases app, App live. Deployment enables sharing. **Best practice:** Build properly, Sign securely, Upload correctly, Monitor deployment, Practice deployment."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Production Architecture",
+          "explanation": "Developer designs architecture: Plans structure, Separates concerns, Uses patterns, Architecture solid."
+        },
+        {
+          "scenario": "Feature Implementation",
+          "explanation": "Developer implements features: Adds offline support, Implements auth, Adds notifications, Features working."
+        },
+        {
+          "scenario": "Production Testing",
+          "explanation": "Developer tests production: Writes comprehensive tests, Runs tests, Quality ensured."
+        },
+        {
+          "scenario": "Production Deployment",
+          "explanation": "Developer deploys production: Builds app, Signs app, Uploads to stores, App live."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Design Production Architecture",
+          "instructions": "Step 1: Plan app structure. Step 2: Design components. Step 3: Plan state management. Step 4: Plan API integration. Step 5: Plan storage. Step 6: Document architecture. Step 7: Practice architecture design.",
+          "example_answer": "Production architecture designed: Structure planned, Components designed, State management planned, API integration planned, Storage planned, Documented. Architecture design mastered."
+        },
+        {
+          "title": "Build Production App",
+          "instructions": "Step 1: Implement architecture. Step 2: Add features. Step 3: Add offline support. Step 4: Implement authentication. Step 5: Add push notifications. Step 6: Test thoroughly. Step 7: Deploy app.",
+          "example_answer": "Production app built: Architecture implemented, Features added, Offline support added, Auth implemented, Notifications added, Tested, Deployed. Production app working."
+        },
+        {
+          "title": "Set Up Production Pipeline",
+          "instructions": "Step 1: Set up CI/CD. Step 2: Configure builds. Step 3: Configure tests. Step 4: Configure deployment. Step 5: Monitor pipeline. Step 6: Optimize pipeline. Step 7: Practice production pipeline.",
+          "example_answer": "Production pipeline set up: CI/CD set up, Builds configured, Tests configured, Deployment configured, Monitored, Optimized. Production pipeline mastered."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Building Production Mobile Apps",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to building production-ready mobile applications."
+        },
+        {
+          "title": "Mobile App Production",
+          "source": "OpenStax",
+          "reason": "Covers production architecture, features, testing, and deployment."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Production React Native App – Traversy Media",
+          "reason": "Complete guide to building production-ready React Native apps."
+        },
+        {
+          "title": "Mobile App Production – freeCodeCamp",
+          "reason": "Comprehensive tutorial on building production mobile applications."
+        }
+      ],
+      "summary": "Building production mobile apps combines all intermediate concepts into complete, polished applications. Production architecture designs scalable, maintainable app structures. Feature implementation adds offline support, authentication, push notifications, and advanced navigation. Production testing ensures quality through comprehensive unit, integration, and E2E tests. CI/CD setup automates building, testing, and deployment workflows. Production deployment releases apps to app stores for real users. Building production apps is the culmination of intermediate mobile development skills. Mastering production app development enables you to build complete, polished mobile applications ready for real-world use."
+    }
+  ]
+}
+

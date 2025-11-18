@@ -1,0 +1,87 @@
+{
+  "topic": "Introduction to CSS Frameworks (Bootstrap)",
+  "detailedSummary": "CSS frameworks provide pre-built styles and components to speed up web development. Bootstrap is one of the most popular CSS frameworks, offering a responsive grid system, pre-styled components, and utility classes. Bootstrap's grid system uses containers, rows, and columns with a 12-column layout. Components include navigation bars, buttons, cards, modals, forms, and carousels. Utility classes provide quick styling for spacing, colors, typography, and display properties. Bootstrap uses classes like btn, card, navbar, and container. The framework is mobile-first and responsive by default. To use Bootstrap, you include its CSS and JavaScript files via CDN or download. Customization can be done through CSS variables or by compiling custom builds. While frameworks speed development, understanding underlying CSS is important for customization. Bootstrap and similar frameworks enable rapid prototyping and consistent, professional-looking designs.",
+  "whyItMatters": "CSS frameworks like Bootstrap dramatically speed up development and ensure consistent, responsive designs - they're industry-standard tools used in professional web development.",
+  "materials": {
+    "videos": [
+      {
+        "title": "CSS Tutorial | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "CSS Basics | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "CSS | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Bootstrap Documentation",
+        "url": "https://getbootstrap.com/docs"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Bootstrap Components Practice",
+        "url": "https://codepen.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Build a Website with Bootstrap",
+      "description": "Create a responsive website using Bootstrap's grid system and components.",
+      "tasks": [
+        "Set up Bootstrap in a project using CDN or downloaded files",
+        "Use Bootstrap's grid system to create a responsive layout",
+        "Implement Bootstrap components (navbar, cards, buttons, forms)",
+        "Customize Bootstrap styles to match a design theme",
+        "Create a complete, responsive webpage using Bootstrap components and utilities"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the main advantage of using a CSS framework like Bootstrap?",
+      "type": "multiple-choice",
+      "options": [
+        "It eliminates the need to learn CSS",
+        "It provides pre-built, responsive components that speed up development",
+        "It makes websites load faster",
+        "It replaces HTML"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CSS frameworks provide pre-built, tested components and utilities that speed up development and ensure responsive, consistent designs."
+    },
+    {
+      "question": "Bootstrap's grid system is based on a 12-column layout.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Bootstrap uses a 12-column grid system that allows flexible layouts by combining columns (e.g., col-md-6 takes half the width)."
+    },
+    {
+      "question": "Which Bootstrap class is used to create a button?",
+      "type": "multiple-choice",
+      "options": [
+        "button",
+        "btn",
+        "button-primary",
+        "btn-style"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bootstrap uses the 'btn' class for buttons, with additional classes like 'btn-primary' for styling variants."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

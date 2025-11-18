@@ -1,0 +1,157 @@
+{
+  "topic": "Comparative Literature: Cross-Cultural Analysis",
+  "detailedSummary": "Comparative literature examines literature across national, linguistic, and cultural boundaries, revealing connections, influences, and differences. It transcends single-language or single-culture approaches, studying how literature functions globally. Key approaches include: influence studies (how authors and works influence each other across cultures), thematics (comparing how different cultures address similar themes), genre studies (comparing literary forms across cultures), and translation studies (how translation affects meaning and reception). Comparative literature requires: reading in multiple languages (or using translations thoughtfully), understanding cultural contexts, and recognizing both universal themes and culturally specific elements. Major comparative topics include: the epic tradition across cultures, love poetry in different traditions, representations of war and conflict, and responses to modernity. World literature courses often use comparative approaches. Translation is central: it enables cross-cultural access but raises questions about fidelity, cultural context, and meaning preservation. Comparative methodology involves: selecting appropriate texts for comparison, identifying meaningful points of comparison, analyzing similarities and differences, and considering cultural and historical contexts. This field reveals: how literature circulates globally, how cultures influence each other, universal human experiences, and culturally specific expressions. Comparative literature develops: multilingual competence, cultural sensitivity, and ability to see connections across boundaries. It's essential for understanding literature in our globalized world and appreciating both shared humanity and cultural diversity.",
+  "whyItMatters": "Comparative literature reveals global connections and cultural diversity - essential for understanding literature in a globalized world and appreciating both universal themes and cultural specificity.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Literature Analysis | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Literature | Crash Course",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Shakespeare | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Comparative Literature - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/english"
+      },
+      {
+        "title": "World Literature Anthologies - Available through libraries",
+        "url": "https://www.norton.com/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Comparative Literature Resources - ACLA",
+        "url": "https://www.acla.org/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Comparative Literature: Cross-Cultural Analysis",
+      "description": "Conduct comparative analyses of literature across cultures and languages.",
+      "tasks": [
+        "Compare works from 3 different cultural traditions",
+        "Analyze how different cultures address similar themes",
+        "Examine influence and intertextuality across cultures",
+        "Compare genre conventions across cultures",
+        "Analyze translation choices and their effects",
+        "Write comparative essays on cross-cultural literary topics",
+        "Research cultural contexts for comparative analysis",
+        "Examine how global themes are expressed locally",
+        "Compare representations of identity across cultures",
+        "Write a research paper using comparative methodology"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Comparative literature examines:",
+      "type": "multiple-choice",
+      "options": [
+        "Literature across national, linguistic, and cultural boundaries",
+        "Only one culture",
+        "Only grammar",
+        "Only modern works"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Comparative literature studies literature across boundaries—national, linguistic, cultural—examining connections, influences, and differences."
+    },
+    {
+      "question": "Influence studies in comparative literature examine:",
+      "type": "multiple-choice",
+      "options": [
+        "How authors and works influence each other across cultures",
+        "Only grammar rules",
+        "Only one author",
+        "Only modern literature"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Influence studies trace how authors, works, and literary movements influence each other across different cultures and languages."
+    },
+    {
+      "question": "Translation in comparative literature:",
+      "type": "multiple-choice",
+      "options": [
+        "Enables access but raises questions about meaning",
+        "Is never used",
+        "Is always perfect",
+        "Only changes grammar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Translation enables cross-cultural access but raises important questions about fidelity, cultural context, and how meaning may change in translation."
+    },
+    {
+      "question": "Comparative literature only studies works in the same language.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Comparative literature specifically examines works across different languages and cultures, though it requires careful consideration of translation when works aren't read in original languages."
+    },
+    {
+      "question": "Thematic comparison in comparative literature:",
+      "type": "multiple-choice",
+      "options": [
+        "Compares how different cultures address similar themes",
+        "Only compares grammar",
+        "Only compares one work",
+        "Only compares modern works"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Thematic comparison examines how different cultures and literary traditions address similar themes, revealing both universal concerns and culturally specific approaches."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Plot": "The sequence of events in a story.",
+      "Character": "A person, animal, or entity in a story.",
+      "Theme": "The central message or insight about life that the author conveys."
+    },
+    "keyConcepts": [
+      "Comparative literature examines literature across national, linguistic, and cultural boundaries, rev...",
+      "It transcends single-language or single-culture approaches, studying how literature functions global...",
+      "Key approaches include: influence studies (how authors and works influence each other across culture...",
+      "Comparative literature requires: reading in multiple languages (or using translations thoughtfully),...",
+      "Major comparative topics include: the epic tradition across cultures, love poetry in different tradi..."
+    ],
+    "stepByStepExplanations": [
+      "**Understanding comparative:** Comparative literature examines literature across national, linguistic, and cultural boundaries, revealing connections, influences, and differences. I...",
+      "**Applying concepts:** Practice with examples specific to Comparative Literature: Cross-Cultural Analysis.",
+      "**Mastering skills:** Develop proficiency through structured exercises."
+    ],
+    "examples": [
+      "**Example 1:** A practical illustration of comparative in action.",
+      "**Example 2:** Another scenario demonstrating literature.",
+      "**Example 3:** A real-world application of crosscultural."
+    ],
+    "realLifeApplications": [
+      "**Academic Context:** Comparative Literature: Cross-Cultural Analysis is essential for academic success and scholarly work.",
+      "**Professional Use:** These skills apply directly to professional communication and analysis.",
+      "**Personal Development:** Understanding Comparative Literature: Cross-Cultural Analysis enhances critical thinking and expression."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram illustrating key concepts of Comparative Literature: Cross-Cultural Analysis.",
+      "A flowchart showing the process and relationships in Comparative Literature: Cross-Cultural Analysis."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

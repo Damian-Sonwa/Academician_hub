@@ -1,0 +1,54 @@
+{
+  "subject": "German",
+  "levels": {
+    "Basic": [
+      "German Alphabet and Sounds",
+      "Basic Greetings: Guten Tag, Auf Wiedersehen, Danke",
+      "Numbers 1-20",
+      "Colors: Rot, Blau, Grün, Gelb",
+      "Basic Body Parts: Kopf, Hand, Fuß",
+      "Simple Questions: Was? Wer? Wo?",
+      "Yes and No: Ja and Nein",
+      "Please and Thank You: Bitte, Danke",
+      "Days of the Week",
+      "Months of the Year"
+    ],
+    "Beginner": [
+      "Introduction to German and Basic Greetings",
+      "The German Alphabet and Pronunciation",
+      "Numbers 0-100 and Basic Counting",
+      "Common Nouns and Articles (der, die, das)",
+      "Present Tense of Regular and Irregular Verbs",
+      "Essential Vocabulary: Family, Colors, and Days of the Week",
+      "Asking Questions and Basic Conversation",
+      "Telling Time and Dates",
+      "Basic Adjectives and Descriptions",
+      "Common Phrases and Survival German"
+    ],
+    "Intermediate": [
+      "Irregular Verbs: sein, haben, werden, modal verbs",
+      "Past Tenses: Perfekt and Präteritum",
+      "Future Tense and Conditional",
+      "Reflexive Verbs and Separable Prefixes",
+      "Cases: Nominative, Accusative, Dative, Genitive",
+      "Subjunctive Mood: Konjunktiv I and II",
+      "Comparatives and Superlatives",
+      "Expressing Opinions and Preferences",
+      "Travel and Transportation Vocabulary",
+      "Reading Comprehension and Writing Practice"
+    ],
+    "Advanced": [
+      "Advanced Subjunctive: Complex Uses and Expressions",
+      "Perfect Tenses: Plusquamperfekt and Future Perfect",
+      "Passive Voice: Vorgangspassiv and Zustandspassiv",
+      "Advanced Grammar: Word Order and Complex Sentences",
+      "Idiomatic Expressions and Colloquialisms",
+      "Formal Writing and Academic German",
+      "Literary Analysis and Cultural Texts",
+      "Business and Professional German",
+      "Debate and Argumentation in German",
+      "Advanced Conversation: Nuances and Regional Variations"
+    ]
+  }
+}
+

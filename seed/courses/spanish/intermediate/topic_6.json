@@ -1,0 +1,86 @@
+{
+  "topic": "Subjunctive Mood: Introduction and Basic Uses",
+  "detailedSummary": "The subjunctive expresses doubt, emotion, wishes, and uncertainty. It contrasts with the indicative (facts, certainty). Subjunctive formation: take the 'yo' present form, drop the '-o', add opposite endings: -ar verbs use -e, -es, -e, -emos, -éis, -en; -er/-ir verbs use -a, -as, -a, -amos, -áis, -an. Irregular subjunctives: ser → sea/seas/sea/seamos/seáis/sean, estar → esté/estés/esté/estemos/estéis/estén, tener → tenga/tengas/tenga/tengamos/tengáis/tengan, hacer → haga/hagas/haga/hagamos/hagáis/hagan. Basic uses: after expressions of emotion ('Me alegra que vengas' - I'm glad you're coming), doubt ('Dudo que sea verdad' - I doubt it's true), wishes ('Quiero que estudies' - I want you to study), impersonal expressions ('Es importante que practiques' - It's important that you practice). The subjunctive requires a trigger (verb/expression) and a subject change. Understanding subjunctive enables expressing nuanced thoughts and emotions.",
+  "whyItMatters": "The subjunctive is essential for advanced Spanish - it's used constantly in real conversation to express emotions, doubts, wishes, and recommendations, making it crucial for fluent communication.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Subjunctive Mood: Introduction and Basic Uses | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Subjunctive Mood: Introduction and Basic Uses | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Subjunctive Mood: Introduction and Basic Uses | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Subjunctive Mood Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Subjunctive Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Basic Subjunctive",
+      "description": "Practice forming and using the present subjunctive in basic contexts.",
+      "tasks": [
+        "Conjugate regular and irregular verbs in present subjunctive",
+        "Identify subjunctive triggers (emotion, doubt, wish expressions)",
+        "Write 20 sentences using subjunctive after emotion expressions",
+        "Practice subjunctive after 'querer que', 'esperar que', 'dudar que'",
+        "Write a paragraph expressing wishes and emotions using subjunctive"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "When is the subjunctive mood used?",
+      "type": "multiple-choice",
+      "options": [
+        "Only for past tense",
+        "To express doubt, emotion, wishes, and uncertainty",
+        "Only in questions",
+        "To express facts"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The subjunctive expresses subjectivity: doubt, emotion, wishes, recommendations, and uncertainty, contrasting with the indicative which expresses facts."
+    },
+    {
+      "question": "The subjunctive requires a trigger expression and typically a subject change between clauses.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Subjunctive typically appears after trigger expressions (like 'quiero que', 'dudo que') and requires different subjects in the two clauses."
+    },
+    {
+      "question": "What is the subjunctive form of 'ser' for 'él/ella'?",
+      "type": "multiple-choice",
+      "options": [
+        "es",
+        "sea",
+        "será",
+        "era"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Sea' is the subjunctive form of 'ser' for 'él/ella/usted' (e.g., 'Espero que sea verdad' - I hope it's true)."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+}

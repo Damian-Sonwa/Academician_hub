@@ -1,0 +1,100 @@
+{
+  "course": "english",
+  "level": "beginner",
+  "week": 6,
+  "topic": "Poetry Analysis",
+  "summary": "Understand and interpret poetry. Study poetic forms, rhythm, rhyme, imagery, and how to analyze meaning. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding english at the Junior level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Poetry Analysis. The material is designed to build a strong foundation for further learning and practical application in real-world contexts. This topic provides comprehensive coverage essential for understanding english at the beginner level. Through detailed study, students will gain deep insights into the concepts, principles, and real-world applications. The material is designed to build a strong foundation for further learning and practical application in various contexts.",
+  "why_it_matters": "Understanding this topic enhances critical thinking, cultural awareness, and communication skills essential for academic success and informed citizenship.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Poetry Analysis - Tutorial",
+        "url": "https://youtu.be/wR8CP0qJNWg"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Annotation Guide",
+        "url": "https://owl.purdue.edu/owl/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Poetry Anthology",
+        "url": "https://www.writersdigest.com/"
+      },
+      {
+        "title": "Analysis Framework",
+        "url": "https://www.writersdigest.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Research Assignment: Poetry Analysis",
+      "description": "Complete a research assignment exploring key concepts related to Poetry Analysis.",
+      "tasks": [
+        "Read the assigned textbook chapters and online resources about Poetry Analysis",
+        "Identify and explain at least three key concepts from the topic",
+        "Find one real-world example or application of these concepts",
+        "Write a 300-500 word summary explaining your findings",
+        "Include at least two credible sources in your research"
+      ]
+    },
+    {
+      "title": "Practical Exercise: Poetry Analysis",
+      "description": "Apply your understanding of Poetry Analysis through hands-on activities.",
+      "tasks": [
+        "Complete the lab exercises or simulations related to Poetry Analysis",
+        "Document your observations and findings in a lab report",
+        "Answer the reflection questions about what you learned",
+        "Create a visual representation (diagram, chart, or model) of key concepts",
+        "Present your findings to the class or submit a written report"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary focus of Poetry Analysis?",
+      "options": [
+        "Understanding fundamental concepts of Poetry Analysis",
+        "Memorizing facts without context",
+        "Avoiding practical applications",
+        "Focusing only on advanced topics"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+    },
+    {
+      "question": "Which of the following best describes the importance of Poetry Analysis?",
+      "options": [
+        "It provides essential knowledge for understanding english",
+        "It is only relevant for advanced students",
+        "It has no real-world applications",
+        "It is purely theoretical without practical value"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "This topic provides essential foundational knowledge that is crucial for understanding english and has practical applications in real-world contexts."
+    },
+    {
+      "question": "Poetry Analysis is an important topic for understanding english at the Junior level.",
+      "answer": true,
+      "type": "true-false",
+      "explanation": "This statement is true. Poetry Analysis provides fundamental knowledge that is essential for building a strong understanding of english."
+    },
+    {
+      "question": "The concepts in Poetry Analysis have no practical applications in real life.",
+      "answer": false,
+      "type": "true-false",
+      "explanation": "This statement is false. The concepts in Poetry Analysis have numerous practical applications in various fields and everyday life."
+    },
+    {
+      "question": "The study of Poetry Analysis helps students understand the fundamental principles of ______.",
+      "answer": "english",
+      "type": "fill-in-the-blank",
+      "explanation": "The correct answer is \"english\". Poetry Analysis is a key component of english that helps students understand fundamental principles in this field."
+    }
+  ]
+}

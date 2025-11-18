@@ -1,0 +1,100 @@
+{
+  "course": "webdevelopment",
+  "level": "beginner",
+  "week": 4,
+  "topic": "CSS Grid",
+  "summary": "Build complex two-dimensional layouts. Learn grid containers, grid items, rows, columns, areas, and responsive grid patterns. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding webdev at the Junior level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to CSS Grid. The material is designed to build a strong foundation for further learning and practical application in real-world contexts. This topic provides comprehensive coverage essential for understanding webdev at the beginner level. Through detailed study, students will gain deep insights into the concepts, principles, and real-world applications. The material is designed to build a strong foundation for further learning and practical application in various contexts.",
+  "why_it_matters": "This programming/technology topic provides practical skills highly sought after in the job market and enables you to build real-world applications and solve technical problems.",
+  "materials": {
+    "videos": [
+      {
+        "title": "CSS Grid - Tutorial",
+        "url": "https://youtu.be/UB1O30fR-EE"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "CSS Grid Guide",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Grid Template Examples",
+        "url": "https://codepen.io/"
+      },
+      {
+        "title": "Grid vs Flexbox Comparison",
+        "url": "https://codepen.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Research Assignment: CSS Grid",
+      "description": "Complete a research assignment exploring key concepts related to CSS Grid.",
+      "tasks": [
+        "Read the assigned textbook chapters and online resources about CSS Grid",
+        "Identify and explain at least three key concepts from the topic",
+        "Find one real-world example or application of these concepts",
+        "Write a 300-500 word summary explaining your findings",
+        "Include at least two credible sources in your research"
+      ]
+    },
+    {
+      "title": "Practical Exercise: CSS Grid",
+      "description": "Apply your understanding of CSS Grid through hands-on activities.",
+      "tasks": [
+        "Complete the lab exercises or simulations related to CSS Grid",
+        "Document your observations and findings in a lab report",
+        "Answer the reflection questions about what you learned",
+        "Create a visual representation (diagram, chart, or model) of key concepts",
+        "Present your findings to the class or submit a written report"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the primary focus of CSS Grid?",
+      "options": [
+        "Understanding fundamental concepts of CSS Grid",
+        "Memorizing facts without context",
+        "Avoiding practical applications",
+        "Focusing only on advanced topics"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+    },
+    {
+      "question": "Which of the following best describes the importance of CSS Grid?",
+      "options": [
+        "It provides essential knowledge for understanding webdev",
+        "It is only relevant for advanced students",
+        "It has no real-world applications",
+        "It is purely theoretical without practical value"
+      ],
+      "answer": 0,
+      "type": "multiple-choice",
+      "explanation": "This topic provides essential foundational knowledge that is crucial for understanding webdev and has practical applications in real-world contexts."
+    },
+    {
+      "question": "CSS Grid is an important topic for understanding webdev at the Junior level.",
+      "answer": true,
+      "type": "true-false",
+      "explanation": "This statement is true. CSS Grid provides fundamental knowledge that is essential for building a strong understanding of webdev."
+    },
+    {
+      "question": "The concepts in CSS Grid have no practical applications in real life.",
+      "answer": false,
+      "type": "true-false",
+      "explanation": "This statement is false. The concepts in CSS Grid have numerous practical applications in various fields and everyday life."
+    },
+    {
+      "question": "The study of CSS Grid helps students understand the fundamental principles of ______.",
+      "answer": "webdev",
+      "type": "fill-in-the-blank",
+      "explanation": "The correct answer is \"webdev\". CSS Grid is a key component of webdev that helps students understand fundamental principles in this field."
+    }
+  ]
+}

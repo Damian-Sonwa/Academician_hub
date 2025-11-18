@@ -1,0 +1,54 @@
+{
+  "subject": "French",
+  "levels": {
+    "Basic": [
+      "French Alphabet and Sounds",
+      "Basic Greetings: Bonjour, Au revoir, Merci",
+      "Numbers 1-20",
+      "Colors: Rouge, Bleu, Vert, Jaune",
+      "Basic Body Parts: Tête, Main, Pied",
+      "Simple Questions: Quoi? Qui? Où?",
+      "Yes and No: Oui and Non",
+      "Please and Thank You: S'il vous plaît, Merci",
+      "Days of the Week",
+      "Months of the Year"
+    ],
+    "Beginner": [
+      "Introduction to French and Basic Greetings",
+      "The French Alphabet and Pronunciation",
+      "Numbers 0-100 and Basic Counting",
+      "Common Nouns and Articles (le, la, les, un, une)",
+      "Present Tense of Regular Verbs (-er, -ir, -re)",
+      "Essential Vocabulary: Family, Colors, and Days of the Week",
+      "Asking Questions and Basic Conversation",
+      "Telling Time and Dates",
+      "Basic Adjectives and Descriptions",
+      "Common Phrases and Survival French"
+    ],
+    "Intermediate": [
+      "Irregular Verbs in Present Tense (être, avoir, faire, aller)",
+      "Past Tenses: Passé Composé and Imparfait",
+      "Future Tense and Conditional",
+      "Reflexive Verbs and Daily Routines",
+      "Direct and Indirect Object Pronouns",
+      "Subjunctive Mood: Introduction and Basic Uses",
+      "Comparatives and Superlatives",
+      "Expressing Opinions and Preferences",
+      "Travel and Transportation Vocabulary",
+      "Reading Comprehension and Writing Practice"
+    ],
+    "Advanced": [
+      "Advanced Subjunctive: Complex Uses and Expressions",
+      "Perfect Tenses: Plus-que-parfait, Futur Antérieur",
+      "Passive Voice and Impersonal Expressions",
+      "Advanced Grammar: Prepositions and Complex Structures",
+      "Idiomatic Expressions and Colloquialisms",
+      "Formal Writing and Academic French",
+      "Literary Analysis and Cultural Texts",
+      "Business and Professional French",
+      "Debate and Argumentation in French",
+      "Advanced Conversation: Nuances and Regional Variations"
+    ]
+  }
+}
+

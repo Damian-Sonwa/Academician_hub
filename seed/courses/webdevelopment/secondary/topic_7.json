@@ -1,0 +1,87 @@
+{
+  "topic": "JavaScript Fundamentals: Variables, Data Types, and Operators",
+  "detailedSummary": "JavaScript is a programming language that adds interactivity to web pages. Variables store data values and are declared using var, let, or const. let and const are block-scoped and preferred in modern JavaScript, while var is function-scoped and can cause issues. JavaScript has dynamic typing, meaning variables can hold different data types. Primitive data types include numbers (integers and floats), strings (text), booleans (true/false), undefined, null, and symbols. The typeof operator identifies a variable's type. Operators perform operations on values: arithmetic (+, -, *, /, %), assignment (=, +=, -=), comparison (==, ===, !=, !==, <, >), and logical (&&, ||, !). String concatenation uses +, and template literals (backticks) allow embedded expressions. Type coercion can cause unexpected behavior, so strict equality (===) is preferred. Understanding JavaScript fundamentals is the foundation for creating interactive web applications.",
+  "whyItMatters": "JavaScript is essential for creating interactive websites - without it, web pages would be static and unresponsive to user actions.",
+  "materials": {
+    "videos": [
+      {
+        "title": "JavaScript Tutorial | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "JavaScript Basics | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "JavaScript | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "JavaScript Basics Guide",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      }
+    ],
+    "labs": [
+      {
+        "title": "JavaScript Practice Exercises",
+        "url": "https://codepen.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "JavaScript Variables and Operations",
+      "description": "Practice using JavaScript variables, data types, and operators to solve problems.",
+      "tasks": [
+        "Declare variables using let and const with different data types",
+        "Perform arithmetic operations and store results in variables",
+        "Use string concatenation and template literals to create formatted output",
+        "Compare values using different comparison operators and understand type coercion",
+        "Write a simple program that calculates and displays results using variables and operators"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the difference between let and const in JavaScript?",
+      "type": "multiple-choice",
+      "options": [
+        "There is no difference",
+        "let can be reassigned, const cannot be reassigned",
+        "const is for numbers, let is for strings",
+        "let is block-scoped, const is function-scoped"
+      ],
+      "correctAnswer": 1,
+      "explanation": "let allows variable reassignment, while const creates a constant that cannot be reassigned after declaration. Both are block-scoped."
+    },
+    {
+      "question": "JavaScript uses static typing, meaning you must declare a variable's type when creating it.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. JavaScript uses dynamic typing - variables can hold any data type, and the type is determined at runtime, not declaration."
+    },
+    {
+      "question": "Which operator checks for strict equality (value and type)?",
+      "type": "multiple-choice",
+      "options": [
+        "==",
+        "===",
+        "=",
+        "!="
+      ],
+      "correctAnswer": 1,
+      "explanation": "=== checks for strict equality, comparing both value and type, while == performs type coercion which can lead to unexpected results."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

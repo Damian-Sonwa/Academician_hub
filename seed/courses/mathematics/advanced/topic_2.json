@@ -1,0 +1,256 @@
+{
+  "topic": "Limits and Continuity",
+  "detailedSummary": "Limits describe the value that a function approaches as the input approaches a certain point. Continuity ensures that a function has no breaks, jumps, or holes at a point or over an interval. Understanding limits is essential for derivatives, integrals, and calculus. The limit of f(x) as x approaches a point 'a' is written as lim(x→a) f(x). Continuity at a point 'a' requires three conditions: f(a) is defined, lim(x→a) f(x) exists, and lim(x→a) f(x) = f(a). Types of limits include one-sided limits, infinite limits, and limits at infinity. Examples of continuous functions include polynomials and exponential functions, while piecewise functions may have discontinuities.",
+  "whyItMatters": "Limits and continuity form the foundation of calculus - essential for understanding derivatives, integrals, and analyzing function behavior in advanced mathematics, physics, and engineering.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Limits and Continuity | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=YNstP0ESndU"
+      },
+      {
+        "title": "Epsilon-Delta Definition | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Understanding Limits | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "NCERT Class 12 Mathematics - Chapter on Limits and Continuity",
+        "url": "https://ncert.nic.in/textbook.php?jemh1=0-1"
+      },
+      {
+        "title": "Calculus Made Easy by Silvanus P. Thompson",
+        "url": "https://archive.org/details/calculusmadeeasy00thomuoft"
+      },
+      {
+        "title": "Khan Academy: Limits and Continuity",
+        "url": "https://www.khanacademy.org/math/calculus-1/cs1-limits-and-continuity"
+      },
+      {
+        "title": "Paul's Online Notes: Limits and Continuity",
+        "url": "http://tutorial.math.lamar.edu/Classes/CalcI/LimitsIntro.aspx"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Limit Calculator and Visualizations - Desmos",
+        "url": "https://www.desmos.com/calculator"
+      },
+      {
+        "title": "Interactive Limit Explorer - GeoGebra",
+        "url": "https://www.geogebra.org/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Limits and Continuity",
+      "description": "Solve 5 limit problems involving factorization and rationalization. Identify continuity and discontinuity points for 3 piecewise functions. Draw graphs to illustrate limits and continuity. Submit explanations and graph sketches.",
+      "tasks": [
+        "Solve 5 limit problems using factorization techniques (e.g., lim(x→a) (x² - a²)/(x - a))",
+        "Solve 5 limit problems using rationalization techniques (e.g., lim(x→0) (√(x+1) - 1)/x)",
+        "Evaluate one-sided limits for 5 functions at specified points",
+        "Identify and classify discontinuities (removable, jump, infinite) for 3 piecewise functions",
+        "Prove continuity at a point using the three conditions for 3 functions",
+        "Draw graphs illustrating limits approaching a point from left and right",
+        "Draw graphs showing continuous vs. discontinuous functions",
+        "Evaluate limits at infinity for 5 rational functions",
+        "Apply L'Hôpital's Rule to evaluate indeterminate forms (0/0, ∞/∞)",
+        "Submit detailed explanations and graph sketches for all problems",
+        "Research and explain the epsilon-delta (ε-δ) definition of limits. Write a formal proof using ε-δ to show that lim(x→2) (3x + 1) = 7",
+        "Investigate uniform continuity vs. pointwise continuity. Research examples of functions that are continuous but not uniformly continuous on unbounded intervals",
+        "Study the Squeeze Theorem (Sandwich Theorem). Research its proof and apply it to evaluate lim(x→0) x²sin(1/x)",
+        "Explore limits in metric spaces. Research how the concept of limits generalizes from ℝ to metric spaces and provide examples",
+        "Investigate the relationship between continuity and compactness. Research the theorem stating that continuous functions on compact sets are uniformly continuous",
+        "Study the Intermediate Value Theorem (IVT). Research its proof and apply it to show that the equation x³ + x - 1 = 0 has a solution in [0, 1]",
+        "Research the Extreme Value Theorem. Explain how continuity on a closed interval guarantees the existence of maximum and minimum values",
+        "Investigate limits of sequences vs. limits of functions. Research the relationship between lim(n→∞) aₙ and lim(x→∞) f(x) when f(n) = aₙ",
+        "Explore the concept of removable discontinuities in complex analysis. Research how analytic continuation relates to removable singularities",
+        "Study the Bolzano-Weierstrass Theorem and its connection to limits. Research how this theorem is used in proving limit existence"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Define a limit in your own words.",
+      "type": "multiple-choice",
+      "options": [
+        "The value a function approaches as the input approaches a certain point",
+        "The actual value of a function at a point",
+        "The rate of change of a function",
+        "The derivative of a function"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A limit describes the value that a function approaches (but may not necessarily equal) as the input approaches a certain point."
+    },
+    {
+      "question": "Evaluate lim(x→3) (x^2 - 9)/(x - 3).",
+      "type": "multiple-choice",
+      "options": [
+        "6",
+        "3",
+        "9",
+        "0"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Factor numerator: (x-3)(x+3)/(x-3) = x+3. Substitute x=3: 3+3 = 6."
+    },
+    {
+      "question": "Is f(x) = 1/x continuous at x = 0? Explain.",
+      "type": "multiple-choice",
+      "options": [
+        "No, because f(0) is undefined",
+        "Yes, because the limit exists",
+        "Yes, because it's a rational function",
+        "No, because the limit doesn't exist"
+      ],
+      "correctAnswer": 0,
+      "explanation": "f(x) = 1/x is not continuous at x = 0 because f(0) is undefined (division by zero). For continuity, f(a) must be defined."
+    },
+    {
+      "question": "State the three conditions for continuity at a point.",
+      "type": "multiple-choice",
+      "options": [
+        "f(a) is defined, lim(x→a) f(x) exists, and lim(x→a) f(x) = f(a)",
+        "f(a) is defined and lim(x→a) f(x) exists",
+        "lim(x→a) f(x) exists and equals f(a)",
+        "f is differentiable at a"
+      ],
+      "correctAnswer": 0,
+      "explanation": "For continuity at point a, we need: (1) f(a) is defined, (2) lim(x→a) f(x) exists, and (3) lim(x→a) f(x) = f(a)."
+    },
+    {
+      "question": "Determine if f(x) = |x| is continuous at x = 0.",
+      "type": "multiple-choice",
+      "options": [
+        "Yes, it is continuous",
+        "No, it has a jump discontinuity",
+        "No, it is undefined at x = 0",
+        "No, the limit doesn't exist"
+      ],
+      "correctAnswer": 0,
+      "explanation": "f(x) = |x| is continuous at x = 0. f(0) = 0, lim(x→0) |x| = 0, and the limit equals the function value."
+    },
+    {
+      "question": "Evaluate one-sided limit: lim(x→0+) 1/x.",
+      "type": "multiple-choice",
+      "options": [
+        "∞",
+        "0",
+        "1",
+        "Does not exist"
+      ],
+      "correctAnswer": 0,
+      "explanation": "As x approaches 0 from the right (positive side), 1/x approaches positive infinity."
+    },
+    {
+      "question": "True/False: All polynomials are continuous everywhere.",
+      "type": "multiple-choice",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 0,
+      "explanation": "True. Polynomials are continuous at every point in their domain (all real numbers) because they are sums and products of continuous functions (constant and identity functions)."
+    },
+    {
+      "question": "Explain what lim(x→∞) 1/x is.",
+      "type": "multiple-choice",
+      "options": [
+        "0",
+        "∞",
+        "1",
+        "Does not exist"
+      ],
+      "correctAnswer": 0,
+      "explanation": "As x approaches infinity, 1/x approaches 0. The larger x becomes, the smaller 1/x becomes, approaching 0."
+    },
+    {
+      "question": "Determine if f(x) = (x^2 - 1)/(x-1) is continuous at x=1.",
+      "type": "multiple-choice",
+      "options": [
+        "No, but it has a removable discontinuity",
+        "Yes, it is continuous",
+        "No, it has a jump discontinuity",
+        "No, it has an infinite discontinuity"
+      ],
+      "correctAnswer": 0,
+      "explanation": "f(x) = (x²-1)/(x-1) = (x-1)(x+1)/(x-1) = x+1 for x≠1. At x=1, f(1) is undefined, but lim(x→1) f(x) = 2 exists. This is a removable discontinuity."
+    },
+    {
+      "question": "What is lim(x→0) sin(x)/x?",
+      "type": "multiple-choice",
+      "options": [
+        "1",
+        "0",
+        "∞",
+        "Does not exist"
+      ],
+      "correctAnswer": 0,
+      "explanation": "This is a fundamental limit: lim(x→0) sin(x)/x = 1. This can be proven using the squeeze theorem or L'Hôpital's Rule."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+    "additional": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/21/LimitIllustration.svg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1e/Continuous_Function_Example.svg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/46/Discontinuous_Function_Example.svg",
+      "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Limit": "The limit of f(x) as x approaches a point 'a' is the value L that f(x) approaches (but may not equal) as x gets arbitrarily close to 'a'. Written as lim(x→a) f(x) = L.",
+      "One-Sided Limit": "The limit from the left: lim(x→a⁻) f(x) is the value f approaches as x approaches a from values less than a. The limit from the right: lim(x→a⁺) f(x) is the value f approaches as x approaches a from values greater than a.",
+      "Continuity at a Point": "A function f is continuous at point a if: (1) f(a) is defined, (2) lim(x→a) f(x) exists, and (3) lim(x→a) f(x) = f(a).",
+      "Continuity on an Interval": "A function is continuous on an interval if it is continuous at every point in that interval.",
+      "Removable Discontinuity": "A discontinuity where the limit exists but either f(a) is undefined or f(a) ≠ lim(x→a) f(x). Can be 'removed' by redefining f(a) = lim(x→a) f(x).",
+      "Jump Discontinuity": "A discontinuity where the left and right limits exist but are not equal: lim(x→a⁻) f(x) ≠ lim(x→a⁺) f(x).",
+      "Infinite Discontinuity": "A discontinuity where the limit is infinite: lim(x→a) f(x) = ±∞.",
+      "Limit at Infinity": "lim(x→∞) f(x) = L means f(x) approaches L as x grows without bound. lim(x→-∞) f(x) = L means f(x) approaches L as x decreases without bound.",
+      "Indeterminate Form": "Expressions like 0/0, ∞/∞, 0·∞, ∞-∞ that require special techniques (like L'Hôpital's Rule) to evaluate."
+    },
+    "keyConcepts": [
+      "Limits describe behavior as inputs approach a point, not the value at the point",
+      "Continuity requires three conditions: function defined, limit exists, and they're equal",
+      "One-sided limits are essential for analyzing piecewise functions and endpoints",
+      "Discontinuities are classified as removable, jump, or infinite based on limit behavior",
+      "Limits at infinity describe asymptotic behavior and horizontal asymptotes"
+    ],
+    "stepByStepExplanations": [
+      "**Evaluating a Limit by Factoring:** For lim(x→2) (x² - 4)/(x - 2): Step 1) Factor numerator: (x-2)(x+2). Step 2) Cancel common factor: (x-2)(x+2)/(x-2) = x+2 (for x≠2). Step 3) Substitute x=2: 2+2 = 4. Therefore lim(x→2) (x²-4)/(x-2) = 4.",
+      "**Evaluating a Limit by Rationalization:** For lim(x→0) (√(x+1) - 1)/x: Step 1) Rationalize numerator: multiply by (√(x+1) + 1)/(√(x+1) + 1). Step 2) Simplify: ((x+1) - 1)/(x(√(x+1) + 1)) = x/(x(√(x+1) + 1)) = 1/(√(x+1) + 1). Step 3) Substitute x=0: 1/(1+1) = 1/2.",
+      "**Checking Continuity:** For f(x) = |x| at x = 0: Step 1) f(0) = |0| = 0 (defined). ✓ Step 2) lim(x→0) |x| = 0 (exists). ✓ Step 3) lim(x→0) |x| = 0 = f(0). ✓ Therefore f is continuous at x = 0.",
+      "**Identifying Discontinuity Type:** For f(x) = (x²-1)/(x-1) at x=1: Step 1) f(1) is undefined. Step 2) lim(x→1) (x²-1)/(x-1) = lim(x→1) (x+1) = 2 (exists). Step 3) Since limit exists but f(1) is undefined, this is a removable discontinuity."
+    ],
+    "examples": [
+      "**Limit by Factoring:** lim(x→3) (x² - 9)/(x - 3)\n   Factor: (x-3)(x+3)/(x-3) = x+3 (for x≠3)\n   Substitute: 3+3 = 6\n   Therefore lim(x→3) (x²-9)/(x-3) = 6",
+      "**Continuity Check:** f(x) = x² at x = 2\n   f(2) = 4 (defined) ✓\n   lim(x→2) x² = 4 (exists) ✓\n   lim(x→2) x² = 4 = f(2) ✓\n   Therefore f is continuous at x = 2",
+      "**Removable Discontinuity:** f(x) = (x²-4)/(x-2) at x = 2\n   f(2) is undefined (0/0)\n   lim(x→2) (x²-4)/(x-2) = lim(x→2) (x+2) = 4\n   Since limit exists, discontinuity is removable\n   Can define f(2) = 4 to make it continuous",
+      "**Jump Discontinuity:** f(x) = {x if x<0, x+1 if x≥0} at x = 0\n   lim(x→0⁻) f(x) = 0\n   lim(x→0⁺) f(x) = 1\n   Left and right limits differ → jump discontinuity"
+    ],
+    "realLifeApplications": [
+      "**Instantaneous Velocity:** Velocity at time t is the limit of average velocity as time interval approaches zero: v(t) = lim(Δt→0) Δs/Δt. This connects limits to derivatives in physics.",
+      "**Population Growth Models:** Limits at infinity describe long-term population behavior. For P(t) = 1000/(1 + 9e^(-t)), lim(t→∞) P(t) = 1000 (carrying capacity).",
+      "**Engineering Tolerance:** Manufacturing requires understanding limits: a part must be within tolerance (e.g., 10.0 ± 0.1). Limits describe behavior as measurements approach the tolerance boundary.",
+      "**Signal Processing:** Continuous signals in electronics require continuity. Discontinuities cause signal distortion. Limits help analyze signal behavior at transition points."
+    ],
+    "diagramsOrImageDescriptions": [
+      "Graph showing limit approaching a point: Function curve approaching a value L as x approaches a, with arrows indicating the approach from both sides.",
+      "Continuous function graph: Smooth, unbroken curve with no gaps, jumps, or holes, demonstrating continuity at all points.",
+      "Discontinuous function examples: Graph showing removable discontinuity (hole), jump discontinuity (break), and infinite discontinuity (vertical asymptote).",
+      "One-sided limits visualization: Graph showing left limit (approaching from left) and right limit (approaching from right) at a point, with different values indicating discontinuity."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Multiple-choice questions: 1 point each. Total: 10 points. Passing: 7/10 (70%). Questions require understanding of limit concepts, continuity conditions, and ability to evaluate limits using various techniques."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=YNstP0ESndU"
+}

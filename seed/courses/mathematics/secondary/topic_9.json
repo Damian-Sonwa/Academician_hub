@@ -1,0 +1,161 @@
+{
+  "topic": "Trigonometric Functions and Identities",
+  "detailedSummary": "Trigonometric functions extend beyond right triangles to model periodic phenomena. The six trigonometric functions (sine, cosine, tangent, cosecant, secant, cotangent) are defined for all angles using the unit circle. These functions are periodic: sine and cosine have period 2π (360°), while tangent and cotangent have period π (180°). Their graphs reveal key characteristics: sine and cosine oscillate between -1 and 1, tangent has vertical asymptotes, and all functions exhibit symmetry properties. Trigonometric identities are equations true for all values of the variable. Fundamental identities include: reciprocal identities (csc = 1/sin, sec = 1/cos, cot = 1/tan), quotient identities (tan = sin/cos, cot = cos/sin), Pythagorean identities (sin²θ + cos²θ = 1, 1 + tan²θ = sec²θ, 1 + cot²θ = csc²θ), and even-odd identities (sin(-θ) = -sin(θ), cos(-θ) = cos(θ)). Angle sum and difference identities enable finding exact values: sin(A ± B) = sin(A)cos(B) ± cos(A)sin(B) and cos(A ± B) = cos(A)cos(B) ∓ sin(A)sin(B). Double-angle and half-angle identities simplify expressions involving 2θ or θ/2. These identities are essential for simplifying expressions, solving trigonometric equations, proving mathematical statements, and analyzing wave behavior in physics, engineering, and signal processing.",
+  "whyItMatters": "Trigonometric identities enable simplifying complex expressions, solving equations, and modeling periodic phenomena - essential for physics, engineering, and advanced mathematics.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Functions - Domain, Range, and Composition | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=Uzt63oiMvvg"
+      },
+      {
+        "title": "What is a Function? | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=WUfTyaaNkzM"
+      },
+      {
+        "title": "Function Properties | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Algebra and Trigonometry 2e - Chapter 9: Trigonometric Identities - OpenStax",
+        "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Trigonometric Function Grapher - Desmos",
+        "url": "https://www.desmos.com/calculator"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Trigonometric Functions and Identities",
+      "description": "Master trigonometric functions, their graphs, and fundamental identities.",
+      "tasks": [
+        "Graph all six trigonometric functions and identify key features",
+        "Use fundamental identities to simplify 20 trigonometric expressions",
+        "Prove 10 trigonometric identities using algebraic manipulation",
+        "Solve 15 trigonometric equations using identities",
+        "Apply angle sum and difference formulas to find exact values",
+        "Use double-angle and half-angle formulas",
+        "Find all solutions to trigonometric equations in given intervals",
+        "Model periodic phenomena using trigonometric functions",
+        "Analyze transformations of trigonometric graphs",
+        "Create a problem requiring multiple trigonometric identities"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the period of the function f(x) = sin(2x)?",
+      "type": "multiple-choice",
+      "options": [
+        "π",
+        "2π",
+        "4π",
+        "1"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The period of sin(x) is 2π. For sin(2x), the period is 2π/2 = π."
+    },
+    {
+      "question": "Which identity is equivalent to 1 + tan²(θ)?",
+      "type": "multiple-choice",
+      "options": [
+        "sec²(θ)",
+        "csc²(θ)",
+        "cos²(θ)",
+        "sin²(θ)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "This is a Pythagorean identity: 1 + tan²(θ) = sec²(θ)."
+    },
+    {
+      "question": "What is sin(30° + 45°) using the angle sum formula?",
+      "type": "multiple-choice",
+      "options": [
+        "(√2 + √6)/4",
+        "(√2 + √3)/2",
+        "1/2",
+        "√2/2"
+      ],
+      "correctAnswer": 0,
+      "explanation": "sin(30° + 45°) = sin(30°)cos(45°) + cos(30°)sin(45°) = (1/2)(√2/2) + (√3/2)(√2/2) = (√2 + √6)/4."
+    },
+    {
+      "question": "The function cos(x) is an odd function.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. cos(x) is an even function because cos(-x) = cos(x). Sine is odd: sin(-x) = -sin(x)."
+    },
+    {
+      "question": "Simplify: sin²(θ) + cos²(θ)",
+      "type": "multiple-choice",
+      "options": [
+        "1",
+        "0",
+        "sin(2θ)",
+        "Cannot be simplified"
+      ],
+      "correctAnswer": 0,
+      "explanation": "This is the fundamental Pythagorean identity: sin²(θ) + cos²(θ) = 1 for all θ."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1574170275470-a717198122c8?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Periodic Function": "A function that repeats its values at regular intervals. Sine and cosine have period 2π (360°), repeating every full rotation.",
+      "Amplitude": "Half the distance between maximum and minimum values. For sin(x) and cos(x), amplitude = 1. For A·sin(x), amplitude = |A|.",
+      "Phase Shift": "Horizontal translation of a trigonometric function. For sin(x - c), the graph shifts c units to the right.",
+      "Trigonometric Identity": "An equation true for all values of the variable. Examples: sin²(θ) + cos²(θ) = 1, tan(θ) = sin(θ)/cos(θ).",
+      "Pythagorean Identity": "sin²(θ) + cos²(θ) = 1, derived from unit circle and Pythagorean theorem. Fundamental identity used to derive others.",
+      "Reciprocal Identities": "csc(θ) = 1/sin(θ), sec(θ) = 1/cos(θ), cot(θ) = 1/tan(θ). Define the three reciprocal trig functions.",
+      "Quotient Identities": "tan(θ) = sin(θ)/cos(θ), cot(θ) = cos(θ)/sin(θ). Express tangent and cotangent in terms of sine and cosine.",
+      "Double Angle Formulas": "sin(2θ) = 2sin(θ)cos(θ), cos(2θ) = cos²(θ) - sin²(θ) = 2cos²(θ) - 1 = 1 - 2sin²(θ)."
+    },
+    "keyConcepts": [
+      "Trigonometric functions are periodic: sin and cos repeat every 2π, tan repeats every π",
+      "Graphs of sin(x) and cos(x) are sine waves oscillating between -1 and 1",
+      "Trigonometric identities allow simplifying expressions and solving equations",
+      "The unit circle provides values for all angles, not just acute angles in right triangles",
+      "Identities are tools for manipulation: proving, simplifying, and solving trigonometric equations"
+    ],
+    "stepByStepExplanations": [
+      "**Graphing y = sin(x):** Step 1) Key points: (0, 0), (π/2, 1), (π, 0), (3π/2, -1), (2π, 0). Step 2) Connect with smooth wave. Step 3) Pattern repeats every 2π. Domain: all reals. Range: [-1, 1].",
+      "**Using Pythagorean Identity:** Given sin(θ) = 3/5 and θ in QII: Step 1) sin²(θ) + cos²(θ) = 1. Step 2) (3/5)² + cos²(θ) = 1, so cos²(θ) = 1 - 9/25 = 16/25. Step 3) In QII, cos < 0, so cos(θ) = -4/5.",
+      "**Simplifying with Identities:** Simplify tan(θ)·cos(θ): Step 1) Replace tan(θ) with sin(θ)/cos(θ): [sin(θ)/cos(θ)]·cos(θ). Step 2) Cancel cos(θ): sin(θ).",
+      "**Double Angle Example:** Find sin(60°) using double angle: Step 1) 60° = 2(30°). Step 2) sin(60°) = 2sin(30°)cos(30°) = 2(1/2)(√3/2) = √3/2. ✓"
+    ],
+    "examples": [
+      "**Periodic Behavior:** y = sin(x)\n   sin(0) = 0, sin(π/2) = 1, sin(π) = 0, sin(3π/2) = -1, sin(2π) = 0\n   Pattern repeats: sin(x + 2π) = sin(x)\n   Graph: Wave oscillating between -1 and 1",
+      "**Pythagorean Identity:** If cos(θ) = 4/5\n   sin²(θ) + (4/5)² = 1\n   sin²(θ) = 1 - 16/25 = 9/25\n   sin(θ) = ±3/5 (sign depends on quadrant)",
+      "**Reciprocal Functions:** csc(30°) = 1/sin(30°) = 1/(1/2) = 2\n   sec(60°) = 1/cos(60°) = 1/(1/2) = 2\n   cot(45°) = 1/tan(45°) = 1/1 = 1",
+      "**Identity Verification:** Prove: (1 - cos²(θ))/sin(θ) = sin(θ)\n   Use identity: 1 - cos²(θ) = sin²(θ)\n   Substitute: sin²(θ)/sin(θ) = sin(θ) ✓"
+    ],
+    "realLifeApplications": [
+      "**Wave Motion:** Ocean waves, sound waves, and light waves follow sinusoidal patterns. Height h(t) = A·sin(2πft) where A is amplitude, f is frequency. Used in physics and engineering.",
+      "**Circular Motion:** Point on rotating wheel: x(t) = r·cos(ωt), y(t) = r·sin(ωt) where ω is angular velocity. Models anything rotating: wheels, planets, pendulums.",
+      "**AC Electricity:** Voltage V(t) = V₀·sin(2πft) oscillates sinusoidally. Frequency f = 60 Hz in US. Trig identities help analyze circuits and power.",
+      "**Seasonal Patterns:** Daylight hours follow sinusoidal pattern: D(t) = 12 + A·cos(2πt/365) where A depends on latitude. Maximum in summer, minimum in winter."
+    ],
+    "diagramsOrImageDescriptions": [
+      "Graphs of y = sin(x) and y = cos(x) showing their periodic wave patterns, with key points (0, π/2, π, 3π/2, 2π) marked, demonstrating period of 2π.",
+      "A unit circle with angle θ marked, showing how sin²(θ) + cos²(θ) = 1 comes from Pythagorean theorem applied to the right triangle formed.",
+      "Graphs showing transformations: y = 2sin(x) (amplitude 2), y = sin(2x) (period π), y = sin(x - π/4) (phase shift), demonstrating how parameters affect graphs."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uzt63oiMvvg"
+}

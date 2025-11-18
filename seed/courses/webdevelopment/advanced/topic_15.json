@@ -1,0 +1,87 @@
+{
+  "topic": "Web Security: XSS, CSRF, and Best Practices",
+  "detailedSummary": "Web security protects applications and users from attacks. XSS (Cross-Site Scripting) injects malicious scripts into web pages. Prevention: sanitize user input, escape output, use Content Security Policy (CSP). CSRF (Cross-Site Request Forgery) tricks users into performing unwanted actions. Prevention: CSRF tokens, SameSite cookies, verify origin. SQL Injection attacks databases through input. Prevention: parameterized queries, input validation. Authentication attacks target login systems. Prevention: strong passwords, rate limiting, account lockouts. HTTPS encrypts data in transit. Security headers (CSP, HSTS, X-Frame-Options) protect against various attacks. Input validation and sanitization prevent malicious data. Dependency vulnerabilities require regular updates. Secrets management stores API keys securely. Security best practices: principle of least privilege, defense in depth, regular updates, security audits. Understanding web security is essential for building safe, trustworthy applications.",
+  "whyItMatters": "Web security is critical for protecting user data and application integrity - security vulnerabilities can lead to data breaches, financial loss, and loss of user trust.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Web Security: XSS, CSRF, and Best Practices | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Web Security: XSS, CSRF, and Best Practices | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Web Security: XSS, CSRF, and Best Practices | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "OWASP Top 10 Security Risks",
+        "url": "https://owasp.org/www-project-top-ten/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Security Practice",
+        "url": "https://portswigger.net/web-security"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Secure a Web Application",
+      "description": "Identify and fix security vulnerabilities in a web application, implementing security best practices.",
+      "tasks": [
+        "Identify potential XSS vulnerabilities and implement input sanitization",
+        "Protect against CSRF attacks using tokens or SameSite cookies",
+        "Implement input validation and output encoding",
+        "Add security headers (CSP, HSTS) to protect against attacks",
+        "Conduct a security audit of an application and document vulnerabilities and fixes"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is XSS (Cross-Site Scripting)?",
+      "type": "multiple-choice",
+      "options": [
+        "A database attack",
+        "An attack that injects malicious scripts into web pages",
+        "A CSS framework",
+        "A JavaScript library"
+      ],
+      "correctAnswer": 1,
+      "explanation": "XSS is an attack where malicious scripts are injected into web pages, often through user input, and executed in other users' browsers."
+    },
+    {
+      "question": "CSRF tokens prevent Cross-Site Request Forgery attacks by ensuring requests come from legitimate sources.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. CSRF tokens are unique values included in forms that verify requests originate from the legitimate application, preventing forged requests."
+    },
+    {
+      "question": "What is the primary defense against SQL Injection?",
+      "type": "multiple-choice",
+      "options": [
+        "Using CSS",
+        "Parameterized queries and input validation",
+        "JavaScript",
+        "HTML encoding"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Parameterized queries (prepared statements) and input validation prevent SQL injection by ensuring user input is treated as data, not executable code."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

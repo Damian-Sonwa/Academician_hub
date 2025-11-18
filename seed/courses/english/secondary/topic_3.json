@@ -1,0 +1,163 @@
+{
+  "topic": "Literary Analysis: Plot, Character, and Theme",
+  "detailedSummary": "Literary analysis examines how authors use literary elements to create meaning. Plot is the sequence of events in a story, typically following a structure: exposition (introduction of setting and characters), rising action (conflicts develop), climax (turning point), falling action (consequences unfold), and resolution (outcome). Conflict drives plot—internal (within a character) or external (character vs. character, nature, society, or technology). Characters are the people, animals, or entities in a story. Round characters are complex and well-developed, while flat characters are simple. Dynamic characters change throughout the story, while static characters remain the same. Characterization reveals characters through direct description, dialogue, actions, thoughts, and other characters' reactions. Theme is the central message or insight about life that the author conveys. Themes are universal truths, not single words but complete ideas (e.g., 'love conquers all' not just 'love'). Themes emerge through plot events, character development, symbols, and motifs. Setting (time and place) influences mood and can symbolize themes. Point of view (first person, third person limited, third person omniscient) shapes how readers experience the story. Analyzing these elements helps readers understand deeper meanings, appreciate authorial craft, and connect literature to human experience. Literary analysis develops critical thinking, empathy, and the ability to interpret complex texts—skills valuable in academic, professional, and personal contexts.",
+  "whyItMatters": "Literary analysis develops critical thinking and interpretation skills - essential for understanding literature, appreciating art, and analyzing texts in academic and professional contexts.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Literary Analysis: Plot, Character, and Theme | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Literary Analysis: Plot, Character, and Theme | Crash Course Literature",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Literary Analysis: Plot, Character, and Theme | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Writing About Literature - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/english"
+      },
+      {
+        "title": "Introduction to Literature - Lumen Learning",
+        "url": "https://courses.lumenlearning.com/introliterature/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Literary Analysis Practice - Khan Academy",
+        "url": "https://www.khanacademy.org/humanities/grammar"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Literary Analysis: Plot, Character, and Theme",
+      "description": "Analyze literary elements in various texts and write analytical essays.",
+      "tasks": [
+        "Identify plot structure (exposition, rising action, climax, falling action, resolution) in 3 short stories",
+        "Analyze character development in a novel, identifying round/flat and dynamic/static characters",
+        "Write a character analysis essay examining how a character changes",
+        "Identify and analyze themes in 5 different literary works",
+        "Write a theme analysis essay with textual evidence",
+        "Compare how different authors develop similar themes",
+        "Analyze how setting contributes to mood and meaning",
+        "Examine point of view and its effect on reader understanding",
+        "Create a plot diagram for a story you've read",
+        "Write a comprehensive literary analysis essay on a work of your choice"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the climax of a story?",
+      "type": "multiple-choice",
+      "options": [
+        "The turning point or moment of highest tension",
+        "The introduction of characters",
+        "The resolution of all conflicts",
+        "The background information"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The climax is the turning point where the conflict reaches its peak intensity, the moment of greatest tension in the story."
+    },
+    {
+      "question": "A round character is:",
+      "type": "multiple-choice",
+      "options": [
+        "Complex and well-developed with multiple traits",
+        "Simple with one defining characteristic",
+        "Always the protagonist",
+        "Always changes during the story"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A round character is complex, multi-dimensional, and well-developed, with various traits and motivations, unlike flat characters who are simple and one-dimensional."
+    },
+    {
+      "question": "What is a theme?",
+      "type": "multiple-choice",
+      "options": [
+        "A universal message or insight about life",
+        "The main character",
+        "The setting of the story",
+        "The plot summary"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Theme is the central message, insight, or universal truth about life that the author conveys through the literary work."
+    },
+    {
+      "question": "The theme of a story is always explicitly stated by the author.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Themes are usually implied rather than directly stated. Readers must infer themes through plot, character development, symbols, and other literary elements."
+    },
+    {
+      "question": "What type of conflict is 'a character struggling with guilt'?",
+      "type": "multiple-choice",
+      "options": [
+        "Internal conflict",
+        "External conflict",
+        "Both internal and external",
+        "Not a conflict"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Internal conflict occurs within a character's mind—struggles with emotions, decisions, or moral dilemmas. Guilt is an internal struggle."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Plot": "The sequence of events in a story, including exposition, rising action, climax, falling action, and resolution.",
+      "Exposition": "The beginning of a story where setting, characters, and initial situation are introduced.",
+      "Climax": "The turning point or moment of highest tension in a story where the conflict reaches its peak.",
+      "Round Character": "A complex, well-developed character with multiple traits, motivations, and contradictions.",
+      "Flat Character": "A simple, one-dimensional character with few traits, often serving a specific function.",
+      "Dynamic Character": "A character who undergoes significant change or growth throughout the story.",
+      "Static Character": "A character who remains essentially the same from beginning to end.",
+      "Theme": "The central message, insight, or universal truth about life that the author conveys through the literary work.",
+      "Internal Conflict": "A struggle within a character's mind involving emotions, decisions, or moral dilemmas.",
+      "External Conflict": "A struggle between a character and an outside force (another character, nature, society, technology)."
+    },
+    "keyConcepts": [
+      "Plot structure follows a pattern: exposition → rising action → climax → falling action → resolution",
+      "Characters can be round or flat, dynamic or static",
+      "Themes are universal messages, not single words",
+      "Conflict drives plot and reveals character",
+      "Setting influences mood and can symbolize themes"
+    ],
+    "stepByStepExplanations": [
+      "**Analyzing Plot:** Identify the exposition (where/when story begins, who main characters are). Trace rising action (conflicts develop, tension increases). Locate climax (highest point of conflict). Note falling action (consequences unfold). Find resolution (how conflicts are resolved).",
+      "**Character Analysis:** Determine if character is round (complex) or flat (simple). Assess if character is dynamic (changes) or static (unchanged). Examine how characterization is revealed: through direct description, dialogue, actions, thoughts, or others' reactions.",
+      "**Identifying Theme:** Look for recurring ideas or messages. Consider what the story suggests about human nature, society, or life. Formulate theme as a complete statement (e.g., 'Love requires sacrifice' not just 'love')."
+    ],
+    "examples": [
+      "**Plot Analysis:** In 'The Three Little Pigs': Exposition (pigs leave home), Rising Action (wolf attacks first two houses), Climax (wolf tries to blow down brick house), Falling Action (wolf fails), Resolution (pigs are safe).",
+      "**Character Types:** Ebenezer Scrooge in 'A Christmas Carol' is round (complex personality) and dynamic (transforms from miser to generous). The Ghost of Christmas Past is flat (serves one function) and static (doesn't change).",
+      "**Theme Identification:** In 'To Kill a Mockingbird,' themes include 'Prejudice harms both victims and perpetrators' and 'Courage means doing what's right despite fear.'"
+    ],
+    "realLifeApplications": [
+      "**Understanding Media:** Analyzing plot, character, and theme in films, TV shows, and books develops critical thinking about storytelling and messages in popular culture.",
+      "**Writing Stories:** Understanding these elements helps creative writers construct compelling narratives with well-developed characters and meaningful themes.",
+      "**Communication Skills:** Analyzing how authors develop themes and characters improves ability to understand subtext and deeper meanings in all forms of communication."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A plot diagram showing a mountain shape: Exposition at base left, Rising Action climbing, Climax at peak, Falling Action descending, Resolution at base right.",
+      "A character development chart showing a character's traits, motivations, and changes from beginning to end of a story."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Questions about plot structure, character types, or themes require accurate identification. Total: 5 points. Passing: 3.5/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}

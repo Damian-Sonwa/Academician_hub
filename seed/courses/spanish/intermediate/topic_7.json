@@ -1,0 +1,86 @@
+{
+  "topic": "Comparatives and Superlatives",
+  "detailedSummary": "Comparatives compare two things. Basic structure: más...que (more...than), menos...que (less...than), tan...como (as...as). Examples: 'Juan es más alto que Pedro' (Juan is taller than Pedro), 'Este libro es menos interesante que ese' (This book is less interesting than that one), 'Soy tan inteligente como tú' (I'm as intelligent as you). Irregular comparatives: mejor (better), peor (worse), mayor (older/greater), menor (younger/lesser). Superlatives express the most or least. Structure: el/la/los/las más... (the most...), el/la/los/las menos... (the least...). Examples: 'Es la más alta' (She's the tallest), 'Son los menos caros' (They're the least expensive). Absolute superlatives add -ísimo: 'altísimo' (extremely tall), 'riquísimo' (extremely rich). 'Muy' (very) is also used: 'muy alto' (very tall). Comparatives and superlatives must agree with nouns in gender and number. Understanding these structures enables making comparisons and expressing degrees of quality.",
+  "whyItMatters": "Comparatives and superlatives are essential for expressing opinions, making comparisons, and describing things in detail - they're used constantly in everyday conversation.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Comparatives and Superlatives | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Comparatives and Superlatives | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Comparatives and Superlatives | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Comparatives and Superlatives Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Comparatives Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Comparatives and Superlatives",
+      "description": "Practice using comparatives and superlatives to make comparisons and express degrees.",
+      "tasks": [
+        "Create 20 sentences comparing people, places, and things using más/menos/tan...que",
+        "Practice irregular comparatives (mejor, peor, mayor, menor)",
+        "Write sentences using superlatives (el más, el menos)",
+        "Use absolute superlatives (-ísimo) to express extremes",
+        "Write a paragraph comparing two cities, restaurants, or experiences"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "How do you say 'taller than' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "más alto que",
+        "muy alto",
+        "el más alto",
+        "tan alto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Más alto que' means 'taller than' - the structure is 'más [adjective] que' for comparisons."
+    },
+    {
+      "question": "'Mejor' and 'peor' are irregular comparatives meaning 'better' and 'worse'.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. 'Mejor' (better) and 'peor' (worse) are irregular comparatives that don't use 'más' or 'menos'."
+    },
+    {
+      "question": "How do you say 'the tallest' (feminine) in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "más alta que",
+        "la más alta",
+        "tan alta",
+        "altísima"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'La más alta' means 'the tallest' (feminine) - superlatives use 'el/la/los/las más [adjective]'."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+      "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

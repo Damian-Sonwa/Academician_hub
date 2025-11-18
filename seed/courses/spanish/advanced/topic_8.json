@@ -1,0 +1,86 @@
+{
+  "topic": "Business and Professional Spanish",
+  "detailedSummary": "Business Spanish requires formal language, specific vocabulary, and professional etiquette. Business vocabulary: 'reunión' (meeting), 'negocio' (business), 'empresa' (company), 'cliente' (client), 'contrato' (contract), 'presupuesto' (budget), 'ventas' (sales), 'marketing' (marketing), 'recursos humanos' (human resources), 'jefe' (boss), 'empleado' (employee), 'sueldo' (salary). Professional communication: formal greetings ('Buenos días, señor/señora'), polite requests ('¿Sería posible...?' - Would it be possible...?), professional closings ('Quedo a su disposición' - I remain at your disposal). Business emails: formal structure, clear subject lines, professional tone, appropriate closings. Presentations: 'En primer lugar' (First of all), 'En conclusión' (In conclusion), 'Para resumir' (To summarize). Negotiations: 'Estoy de acuerdo' (I agree), 'Propongo que...' (I propose that...), '¿Podríamos considerar...?' (Could we consider...?). Cultural awareness: understanding business customs, meeting etiquette, relationship-building importance in Latin American business. Understanding business Spanish enables professional communication and career advancement.",
+  "whyItMatters": "Business Spanish is essential for professional success - mastering professional vocabulary and communication enables working in Spanish-speaking business environments and advancing careers.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Business and Professional Spanish | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Business and Professional Spanish | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Business and Professional Spanish | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Business Spanish Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Business Spanish Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Business Spanish",
+      "description": "Practice professional communication, business vocabulary, and workplace Spanish.",
+      "tasks": [
+        "Write formal business emails using appropriate structure and vocabulary",
+        "Create a business presentation script with professional connectors",
+        "Practice business meeting dialogues and negotiations",
+        "Learn business-specific vocabulary for your field of interest",
+        "Write a professional cover letter and resume in Spanish"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the formal way to say 'boss' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "jefe",
+        "amigo",
+        "tío",
+        "chico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Jefe' or 'jefa' means boss in a professional context. 'Amigo', 'tío', and 'chico' are too informal for business settings."
+    },
+    {
+      "question": "In Latin American business culture, building personal relationships before discussing business is often important.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. In many Latin American business cultures, establishing personal rapport and relationships is valued before diving into business matters."
+    },
+    {
+      "question": "How do you politely say 'Would it be possible...?' in a business context?",
+      "type": "multiple-choice",
+      "options": [
+        "¿Puedes...?",
+        "¿Sería posible...?",
+        "¿Quieres...?",
+        "¿Vas a...?"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'¿Sería posible...?' (Would it be possible...?) uses conditional tense for polite, formal business requests."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

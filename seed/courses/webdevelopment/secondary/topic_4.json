@@ -1,0 +1,87 @@
+{
+  "topic": "CSS Layout: Box Model, Flexbox, and Positioning",
+  "detailedSummary": "CSS layout controls how elements are positioned and arranged on a web page. The box model is fundamental: every element is a rectangular box with content, padding, border, and margin. Understanding box-sizing (content-box vs border-box) is crucial for predictable layouts. CSS positioning includes static (default), relative (offset from normal position), absolute (positioned relative to nearest positioned ancestor), fixed (positioned relative to viewport), and sticky (switches between relative and fixed). Flexbox is a one-dimensional layout method that arranges items in rows or columns. Flex containers use display: flex and control item alignment with justify-content (main axis) and align-items (cross axis). Flex properties like flex-grow, flex-shrink, and flex-basis control how items resize. Flexbox solves common layout problems like centering content, creating equal-height columns, and distributing space evenly. Understanding these layout techniques is essential for creating well-structured, visually appealing web pages.",
+  "whyItMatters": "Mastering CSS layout techniques is essential for creating professional, well-structured websites that display correctly across different screen sizes and devices.",
+  "materials": {
+    "videos": [
+      {
+        "title": "CSS Tutorial | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "CSS Basics | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "CSS | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "CSS Layout Guide",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Flexbox Layout Practice",
+        "url": "https://codepen.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Create Layouts with Flexbox",
+      "description": "Build various page layouts using flexbox, demonstrating understanding of positioning and the box model.",
+      "tasks": [
+        "Create a navigation bar using flexbox with proper spacing and alignment",
+        "Build a card layout with equal-height cards using flexbox",
+        "Create a centered content layout using flexbox properties",
+        "Demonstrate different positioning types (relative, absolute, fixed) with examples",
+        "Write a brief explanation of when to use flexbox vs other layout methods"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the default value of the position property in CSS?",
+      "type": "multiple-choice",
+      "options": [
+        "relative",
+        "absolute",
+        "static",
+        "fixed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Static is the default positioning, where elements flow in the normal document order without special positioning."
+    },
+    {
+      "question": "Flexbox is a two-dimensional layout system that can arrange items in both rows and columns simultaneously.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Flexbox is one-dimensional - it arranges items in either a row OR a column. CSS Grid is the two-dimensional layout system."
+    },
+    {
+      "question": "Which flexbox property controls alignment along the main axis?",
+      "type": "multiple-choice",
+      "options": [
+        "align-items",
+        "justify-content",
+        "flex-direction",
+        "align-content"
+      ],
+      "correctAnswer": 1,
+      "explanation": "justify-content controls alignment along the main axis (row or column direction), while align-items controls alignment along the cross axis."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

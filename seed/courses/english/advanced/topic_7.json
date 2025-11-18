@@ -1,0 +1,157 @@
+{
+  "topic": "Rhetorical Analysis: Classical and Modern Approaches",
+  "detailedSummary": "Rhetorical analysis examines how texts persuade, inform, or move audiences. Classical rhetoric, developed in ancient Greece and Rome, provides foundational concepts. Aristotle's three appeals remain central: ethos (credibility/character), pathos (emotion), and logos (logic/reason). The five canons of rhetoric are: invention (finding arguments), arrangement (organizing), style (language choices), memory (techniques for recall), and delivery (presentation). Classical rhetorical figures include: metaphor, simile, alliteration, anaphora (repetition at beginning), and antithesis (contrasting ideas). Modern rhetorical analysis expands beyond speeches to analyze: written texts, visual rhetoric (images, advertisements), digital media, and multimodal compositions. Kenneth Burke's dramatistic pentad analyzes motivation: act (what happened), scene (where/when), agent (who), agency (how), and purpose (why). Feminist rhetoric examines how gender influences communication. Digital rhetoric analyzes how technology shapes persuasion. Visual rhetoric analyzes how images, layout, and design persuade. Rhetorical situation (exigence, audience, constraints) shapes all communication. Advanced rhetorical analysis requires: identifying rhetorical strategies, analyzing their effectiveness, understanding context, and evaluating how texts construct meaning and influence audiences. These skills enable sophisticated analysis of political speeches, advertisements, social media, academic arguments, and all forms of persuasive communication.",
+  "whyItMatters": "Advanced rhetorical analysis enables sophisticated understanding of persuasion - essential for analyzing political discourse, media, academic arguments, and all forms of communication in professional and civic contexts.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Rhetorical Analysis: Classical and Modern Approaches | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Rhetorical Analysis: Classical and Modern Approaches | Crash Course Literature",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Rhetorical Analysis: Classical and Modern Approaches | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Rhetoric and Composition - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/english"
+      },
+      {
+        "title": "A Rhetoric of Motives - Available through libraries",
+        "url": "https://www.ucpress.edu/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Rhetorical Analysis Resources - Purdue OWL",
+        "url": "https://owl.purdue.edu/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Rhetorical Analysis: Classical and Modern Approaches",
+      "description": "Conduct advanced rhetorical analyses using classical and modern frameworks.",
+      "tasks": [
+        "Analyze 5 speeches using classical rhetorical concepts",
+        "Apply Burke's dramatistic pentad to analyze texts",
+        "Conduct visual rhetoric analyses of advertisements",
+        "Analyze digital rhetoric in social media campaigns",
+        "Compare rhetorical strategies across different media",
+        "Write rhetorical analysis essays on political discourse",
+        "Examine how context shapes rhetorical effectiveness",
+        "Analyze feminist rhetorical strategies",
+        "Evaluate how multimodal compositions persuade",
+        "Write a comprehensive rhetorical analysis research paper"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Aristotle's three rhetorical appeals are:",
+      "type": "multiple-choice",
+      "options": [
+        "Ethos, pathos, logos",
+        "Introduction, body, conclusion",
+        "Fact, opinion, bias",
+        "Past, present, future"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aristotle identified three appeals: ethos (credibility), pathos (emotion), and logos (logic), which remain fundamental to rhetorical analysis."
+    },
+    {
+      "question": "The rhetorical situation includes:",
+      "type": "multiple-choice",
+      "options": [
+        "Exigence, audience, constraints",
+        "Only the speaker",
+        "Only the message",
+        "Only the medium"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The rhetorical situation consists of exigence (the problem or need), audience (who receives the message), and constraints (limitations and opportunities)."
+    },
+    {
+      "question": "Visual rhetoric analyzes:",
+      "type": "multiple-choice",
+      "options": [
+        "How images, layout, and design persuade",
+        "Only written text",
+        "Only spoken words",
+        "Only grammar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Visual rhetoric examines how visual elements—images, layout, color, typography, design—create meaning and persuade audiences."
+    },
+    {
+      "question": "Rhetorical analysis only applies to ancient speeches.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Rhetorical analysis applies to all forms of communication: speeches, written texts, visual media, digital content, and multimodal compositions."
+    },
+    {
+      "question": "Kenneth Burke's dramatistic pentad analyzes:",
+      "type": "multiple-choice",
+      "options": [
+        "Motivation through act, scene, agent, agency, purpose",
+        "Only grammar",
+        "Only style",
+        "Only delivery"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Burke's pentad analyzes motivation by examining five elements: act (what), scene (where/when), agent (who), agency (how), and purpose (why)."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Ethos": "Appeal to credibility and character.",
+      "Pathos": "Appeal to emotion.",
+      "Logos": "Appeal to logic and reason."
+    },
+    "keyConcepts": [
+      "Rhetorical analysis examines how texts persuade, inform, or move audiences",
+      "Classical rhetoric, developed in ancient Greece and Rome, provides foundational concepts",
+      "Aristotle's three appeals remain central: ethos (credibility/character), pathos (emotion), and logos...",
+      "The five canons of rhetoric are: invention (finding arguments), arrangement (organizing), style (lan...",
+      "Classical rhetorical figures include: metaphor, simile, alliteration, anaphora (repetition at beginn..."
+    ],
+    "stepByStepExplanations": [
+      "**Understanding rhetorical:** Rhetorical analysis examines how texts persuade, inform, or move audiences. Classical rhetoric, developed in ancient Greece and Rome, provides foundat...",
+      "**Applying concepts:** Practice with examples specific to Rhetorical Analysis: Classical and Modern Approaches.",
+      "**Mastering skills:** Develop proficiency through structured exercises."
+    ],
+    "examples": [
+      "**Example 1:** A practical illustration of rhetorical in action.",
+      "**Example 2:** Another scenario demonstrating analysis.",
+      "**Example 3:** A real-world application of classical."
+    ],
+    "realLifeApplications": [
+      "**Academic Context:** Rhetorical Analysis: Classical and Modern Approaches is essential for academic success and scholarly work.",
+      "**Professional Use:** These skills apply directly to professional communication and analysis.",
+      "**Personal Development:** Understanding Rhetorical Analysis: Classical and Modern Approaches enhances critical thinking and expression."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram illustrating key concepts of Rhetorical Analysis: Classical and Modern Approaches.",
+      "A flowchart showing the process and relationships in Rhetorical Analysis: Classical and Modern Approaches."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

@@ -1,0 +1,1139 @@
+{
+  "level": "Advanced",
+  "topics": [
+    {
+      "course": "Full Stack Development",
+      "level": "Advanced",
+      "topic": "Advanced React Patterns",
+      "description": "Master advanced React patterns including custom hooks, performance optimization, code splitting, and advanced component patterns. These patterns enable you to build more efficient, maintainable, and scalable React applications. Think of it like learning advanced techniques that make your React code more powerful and performant.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Mastering Advanced React: A Complete Guide",
+          "content": "Step 1: Learn custom hooks (extract reusable logic). Step 2: Implement performance optimization (React.memo, useMemo, useCallback). Step 3: Use code splitting (React.lazy, Suspense). Step 4: Learn advanced patterns (render props, compound components). Step 5: Optimize re-renders. Step 6: Implement error boundaries. Step 7: Practice with complex applications. This guide helps you master advanced React!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Advanced React Patterns",
+          "content": "Draw patterns: Custom Hooks (reusable logic), Performance Optimization (memoization), Code Splitting (lazy loading), Error Boundaries (error handling). Show: How patterns improve apps, When to use each, Benefits. Visual helps understand advanced patterns."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build Advanced React App",
+          "content": "Activity: Create app using advanced patterns. Build: Custom hooks, Optimized components, Code splitting, Error boundaries. Practice: Advanced patterns, Performance, Optimization. This activity improves advanced React skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Custom Hooks 🎣",
+          "content": "Reusable functions that use React hooks. **How it works:** Create function starting with 'use', Use hooks inside, Return values/functions, Use in components. **How to understand it:** Like reusable logic packages. **Real-world:** Developer creates useAuth hook: Manages authentication state, Returns user and login function, Used in multiple components. Custom hooks reduce code duplication. **Best practice:** Start function names with 'use', Return consistent interface, Keep hooks focused, Reuse across components, Practice custom hooks."
+        },
+        {
+          "title": "Performance Optimization ⚡",
+          "content": "Optimizing React applications for better performance. **Techniques:** React.memo (prevent re-renders), useMemo (memoize values), useCallback (memoize functions), Code splitting (lazy loading). **How to understand it:** Like fine-tuning for speed. **Real-world:** Developer optimizes app: Uses React.memo for expensive components, useMemo for calculations, useCallback for event handlers, Code splits routes. App performs better. **Best practice:** Profile before optimizing, Use React.memo wisely, Memoize expensive operations, Split large bundles, Measure improvements."
+        },
+        {
+          "title": "Code Splitting and Lazy Loading 📦",
+          "content": "Loading components only when needed. **How it works:** React.lazy loads components, Suspense shows loading state, Reduces initial bundle size. **How to understand it:** Like loading pages of a book as you read. **Real-world:** Developer splits app: Lazy loads routes, Suspense shows spinner, Initial bundle smaller, Faster load time. Code splitting improves performance. **Best practice:** Split by routes, Use Suspense, Show loading states, Measure bundle sizes, Practice splitting."
+        },
+        {
+          "title": "Error Boundaries 🛡️",
+          "content": "Components that catch JavaScript errors in child components. **How it works:** class component with componentDidCatch, Catches errors, Displays fallback UI. **How to understand it:** Like safety nets for errors. **Real-world:** Developer adds error boundary: Wraps app, Catches errors, Shows error page, Prevents app crash. Error boundaries improve UX. **Best practice:** Create error boundaries, Wrap critical sections, Show user-friendly errors, Log errors, Test error handling."
+        },
+        {
+          "title": "Advanced Component Patterns 🧩",
+          "content": "Patterns for building flexible, reusable components. **Patterns:** Render props (pass functions as props), Compound components (related components together), Higher-order components (wrap components). **How to understand it:** Like advanced building techniques. **Real-world:** Developer uses patterns: Render props for flexible components, Compound components for related UI, HOCs for cross-cutting concerns. Patterns improve flexibility. **Best practice:** Learn patterns, Use when appropriate, Keep components flexible, Practice patterns, Understand trade-offs."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Custom Hook for API Calls",
+          "explanation": "Developer creates useFetch hook: Handles API calls, Manages loading/error states, Returns data, Used in multiple components. Custom hook reduces duplication."
+        },
+        {
+          "scenario": "Performance Optimization",
+          "explanation": "Developer optimizes list: Uses React.memo for list items, useMemo for filtered data, useCallback for handlers, Re-renders reduced, Performance improved."
+        },
+        {
+          "scenario": "Code Splitting Routes",
+          "explanation": "Developer splits routes: Lazy loads Dashboard, Lazy loads Profile, Suspense shows loading, Initial bundle 50% smaller, Faster load time."
+        },
+        {
+          "scenario": "Error Boundary",
+          "explanation": "Developer adds error boundary: Wraps app, Catches component errors, Shows error page, App doesn't crash, Better user experience."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Create Custom Hooks",
+          "instructions": "Step 1: Identify reusable logic. Step 2: Create custom hook (useAuth, useFetch, useLocalStorage). Step 3: Extract logic to hook. Step 4: Use hook in components. Step 5: Test hook. Step 6: Reuse in multiple components. Step 7: Practice creating hooks.",
+          "example_answer": "Custom hooks created: useAuth (authentication), useFetch (API calls), useLocalStorage (local storage). Hooks extracted, Used in components, Tested, Reused. Custom hooks mastered."
+        },
+        {
+          "title": "Optimize React Performance",
+          "instructions": "Step 1: Profile application (React DevTools). Step 2: Identify performance issues. Step 3: Use React.memo for expensive components. Step 4: Use useMemo for calculations. Step 5: Use useCallback for handlers. Step 6: Measure improvements. Step 7: Optimize further if needed.",
+          "example_answer": "Performance optimized: App profiled, Issues identified, React.memo used, useMemo/useCallback applied, Re-renders reduced, Performance improved. Optimization mastered."
+        },
+        {
+          "title": "Implement Code Splitting",
+          "instructions": "Step 1: Identify large components/routes. Step 2: Use React.lazy for components. Step 3: Wrap with Suspense. Step 4: Add loading states. Step 5: Measure bundle sizes. Step 6: Test lazy loading. Step 7: Optimize further.",
+          "example_answer": "Code splitting implemented: Routes lazy loaded, Suspense added, Loading states shown, Bundle size reduced, Load time improved. Code splitting mastered."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Advanced React Patterns",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to advanced React patterns, performance optimization, and best practices."
+        },
+        {
+          "title": "React Performance Optimization",
+          "source": "OpenStax",
+          "reason": "Covers React performance techniques, code splitting, and optimization strategies."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Advanced React Patterns – Traversy Media",
+          "reason": "Complete guide to advanced React patterns and performance optimization."
+        },
+        {
+          "title": "React Performance – freeCodeCamp",
+          "reason": "Comprehensive tutorial on optimizing React applications."
+        }
+      ],
+      "summary": "Advanced React patterns enable building more efficient and maintainable applications. Custom hooks extract reusable logic and reduce code duplication. Performance optimization (React.memo, useMemo, useCallback) reduces unnecessary re-renders. Code splitting and lazy loading reduce initial bundle size and improve load times. Error boundaries catch errors and prevent app crashes. Advanced component patterns (render props, compound components) improve flexibility. Mastering advanced React patterns enables you to build high-performance, scalable applications."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Advanced",
+      "topic": "Advanced State Management with Redux",
+      "description": "Master Redux, the most popular state management library for React applications. Redux provides predictable state management for complex applications with large amounts of state. Understanding Redux is essential for building enterprise-level React applications. Think of Redux like a centralized warehouse for your application's state—everything is stored in one place and accessed through a predictable process.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Mastering Redux: A Complete Guide",
+          "content": "Step 1: Understand Redux concepts (store, actions, reducers). Step 2: Set up Redux store. Step 3: Create actions and action creators. Step 4: Create reducers. Step 5: Connect React components (useSelector, useDispatch). Step 6: Handle async actions (Redux Thunk). Step 7: Practice with complex state. This guide helps you master Redux!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Redux Data Flow",
+          "content": "Draw flow: Component → Dispatch Action → Reducer → Store → Component. Show: Unidirectional data flow, Predictable updates, Centralized state. Visual helps understand Redux flow."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build Redux Application",
+          "content": "Activity: Create app with Redux. Build: Redux store, Actions, Reducers, Connected components, Async actions. Practice: Redux patterns, State management, Complex state. This activity improves Redux skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Redux Core Concepts 🎯",
+          "content": "Redux manages state in a predictable way. **Concepts:** Store (single source of truth), Actions (describe what happened), Reducers (update state), Dispatch (send actions). **How to understand it:** Like a state management system with rules. **Real-world:** Developer uses Redux: Store holds app state, Actions describe changes, Reducers update state, Components access state. Redux makes state predictable. **Best practice:** Understand Redux flow, Use single store, Keep reducers pure, Dispatch actions, Practice Redux."
+        },
+        {
+          "title": "Redux Store and Reducers 🗄️",
+          "content": "Store holds state, reducers update it. **How it works:** Create store with reducer, Store holds state, Reducers are pure functions, State updates immutably. **How to understand it:** Like a database with update rules. **Real-world:** Developer creates store: Combines reducers, Creates store, State accessible globally, Updates through reducers. Store centralizes state. **Best practice:** Create single store, Combine reducers, Keep reducers pure, Update immutably, Test reducers."
+        },
+        {
+          "title": "Actions and Action Creators 📤",
+          "content": "Actions describe state changes, action creators create them. **How it works:** Create action types, Create action creators, Dispatch actions, Reducers handle actions. **How to understand it:** Like messages that trigger changes. **Real-world:** Developer creates actions: ADD_TODO action type, addTodo action creator, Dispatch addTodo, Reducer handles it. Actions trigger updates. **Best practice:** Use action types, Create action creators, Dispatch actions, Keep actions simple, Practice actions."
+        },
+        {
+          "title": "Connecting React with Redux 🔗",
+          "content": "React-Redux connects React components to Redux store. **How it works:** Provider wraps app, useSelector gets state, useDispatch dispatches actions. **How to understand it:** Like connecting components to store. **Real-world:** Developer connects component: useSelector gets todos, useDispatch gets dispatch, Component uses state, Dispatches actions. Components access Redux. **Best practice:** Use Provider, Use useSelector, Use useDispatch, Connect components, Practice connection."
+        },
+        {
+          "title": "Async Actions with Redux Thunk ⚡",
+          "content": "Redux Thunk enables async actions (API calls). **How it works:** Create thunk action, Dispatch async action, Handle loading/error, Update state. **How to understand it:** Like actions that do async work. **Real-world:** Developer uses thunk: Fetches data from API, Dispatches loading action, Dispatches success/error, Updates state. Thunk handles async. **Best practice:** Use Redux Thunk, Handle loading states, Handle errors, Update state correctly, Practice async actions."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Redux Store Setup",
+          "explanation": "Developer sets up Redux: Creates root reducer, Creates store, Wraps app with Provider, Store accessible globally. Redux store configured."
+        },
+        {
+          "scenario": "Dispatching Actions",
+          "explanation": "Developer dispatches action: Component calls useDispatch, Dispatches addTodo action, Reducer handles action, State updates, Component re-renders. Actions update state."
+        },
+        {
+          "scenario": "Async Action with Thunk",
+          "explanation": "Developer uses thunk: Creates fetchTodos thunk, Dispatches loading action, Fetches from API, Dispatches success/error, State updates. Async actions working."
+        },
+        {
+          "scenario": "Connected Component",
+          "explanation": "Developer connects component: Uses useSelector to get state, Uses useDispatch to dispatch, Component uses Redux state, Updates through actions. Component connected to Redux."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Set Up Redux Store",
+          "instructions": "Step 1: Install Redux and React-Redux. Step 2: Create action types. Step 3: Create action creators. Step 4: Create reducers. Step 5: Combine reducers. Step 6: Create store. Step 7: Wrap app with Provider. Step 8: Test store setup.",
+          "example_answer": "Redux store set up: Redux installed, Actions created, Reducers created, Store created, Provider added, Store working. Redux setup complete."
+        },
+        {
+          "title": "Connect Components to Redux",
+          "instructions": "Step 1: Use useSelector to get state. Step 2: Use useDispatch to dispatch actions. Step 3: Update component to use Redux. Step 4: Dispatch actions from component. Step 5: Test component connection. Step 6: Connect multiple components. Step 7: Practice connection.",
+          "example_answer": "Components connected: useSelector used, useDispatch used, Components use Redux state, Actions dispatched, Multiple components connected. Redux connection mastered."
+        },
+        {
+          "title": "Implement Async Actions",
+          "instructions": "Step 1: Install Redux Thunk. Step 2: Create thunk action creator. Step 3: Handle loading state. Step 4: Handle success state. Step 5: Handle error state. Step 6: Dispatch thunk action. Step 7: Test async actions.",
+          "example_answer": "Async actions implemented: Redux Thunk installed, Thunk actions created, Loading/success/error handled, Actions dispatched, Async working. Async actions mastered."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Redux Fundamentals",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to Redux, state management, and Redux patterns."
+        },
+        {
+          "title": "Advanced State Management",
+          "source": "OpenStax",
+          "reason": "Covers Redux, state management patterns, and async actions."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Redux Tutorial – Traversy Media",
+          "reason": "Complete guide to Redux with practical examples and state management."
+        },
+        {
+          "title": "Redux Crash Course – freeCodeCamp",
+          "reason": "Comprehensive tutorial on Redux and React-Redux."
+        }
+      ],
+      "summary": "Redux provides predictable state management for complex React applications. Redux store holds centralized state, reducers update it immutably. Actions describe state changes, action creators create them. React-Redux connects React components to Redux store using useSelector and useDispatch. Redux Thunk enables async actions for API calls. Redux is essential for managing complex state in large applications. Mastering Redux enables you to build scalable, maintainable applications with predictable state management."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Advanced",
+      "topic": "GraphQL APIs",
+      "description": "Learn GraphQL, a query language for APIs that provides a more efficient and flexible alternative to REST. GraphQL allows clients to request exactly the data they need, reducing over-fetching and under-fetching. Understanding GraphQL is essential for modern API development. Think of GraphQL like a customizable menu—you order exactly what you want, nothing more, nothing less.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Building GraphQL APIs: A Complete Guide",
+          "content": "Step 1: Understand GraphQL concepts (schema, queries, mutations). Step 2: Set up GraphQL server (Apollo Server). Step 3: Define schema (types, queries, mutations). Step 4: Create resolvers (data fetching logic). Step 5: Connect to database. Step 6: Test with GraphQL Playground. Step 7: Integrate with React frontend. This guide helps you master GraphQL!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "GraphQL vs REST",
+          "content": "Draw comparison: REST (multiple endpoints, fixed responses) vs GraphQL (single endpoint, flexible queries). Show: GraphQL query structure, Type system, Resolver flow. Visual helps understand GraphQL."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build GraphQL API",
+          "content": "Activity: Create GraphQL API. Build: Schema definition, Queries, Mutations, Resolvers, Database integration. Practice: GraphQL concepts, Query language, Type system. This activity improves GraphQL skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "GraphQL Basics 📊",
+          "content": "GraphQL is query language and runtime for APIs. **Concepts:** Schema (defines data structure), Queries (read data), Mutations (modify data), Resolvers (fetch data). **How to understand it:** Like SQL for APIs—you query what you need. **Real-world:** Developer uses GraphQL: Client sends query, Server returns exact data, No over-fetching, Single endpoint. GraphQL is efficient. **Best practice:** Understand GraphQL concepts, Design good schema, Write efficient queries, Use resolvers correctly, Practice GraphQL."
+        },
+        {
+          "title": "GraphQL Schema 🗂️",
+          "content": "Schema defines API structure and capabilities. **How it works:** Define types, Define queries, Define mutations, Schema validates requests. **How to understand it:** Like a contract for your API. **Real-world:** Developer defines schema: User type, Post type, Query type (getUser, getPosts), Mutation type (createPost). Schema defines API. **Best practice:** Design clear schema, Use types effectively, Document schema, Validate schema, Practice schemas."
+        },
+        {
+          "title": "Queries and Mutations 🔍",
+          "content": "Queries fetch data, mutations modify data. **Queries:** Read-only operations, Can request specific fields, Nested queries. **Mutations:** Modify data, Create/update/delete, Return modified data. **How to understand it:** Like GET and POST, but more flexible. **Real-world:** Developer uses queries: Query user with specific fields, Query posts with author, Get exactly what needed. Queries are flexible. **Best practice:** Write efficient queries, Use mutations for changes, Request only needed fields, Nest queries appropriately, Practice queries."
+        },
+        {
+          "title": "Resolvers 🔧",
+          "content": "Resolvers fetch data for GraphQL operations. **How it works:** Resolver function for each field, Fetches data from source, Returns data. **How to understand it:** Like functions that get data. **Real-world:** Developer creates resolvers: getUser resolver fetches from database, getPosts resolver fetches posts, Resolvers handle data fetching. Resolvers power GraphQL. **Best practice:** Write efficient resolvers, Handle errors, Use data loaders, Cache when appropriate, Practice resolvers."
+        },
+        {
+          "title": "Apollo Server and Client 🚀",
+          "content": "Apollo provides GraphQL server and client tools. **Apollo Server:** GraphQL server for Node.js, Easy setup, Built-in features. **Apollo Client:** GraphQL client for React, Caching, State management. **How to understand it:** Like tools for GraphQL. **Real-world:** Developer uses Apollo: Apollo Server for backend, Apollo Client for frontend, Caching works automatically, Development easier. Apollo simplifies GraphQL. **Best practice:** Use Apollo Server, Use Apollo Client, Leverage caching, Use dev tools, Practice Apollo."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "GraphQL Query",
+          "explanation": "Client sends query: { user(id: 1) { name, email, posts { title } } }. Server returns exact data: User with name, email, and posts. No over-fetching, efficient query."
+        },
+        {
+          "scenario": "GraphQL Mutation",
+          "explanation": "Client sends mutation: mutation { createPost(title: \"Hello\", content: \"World\") { id, title } }. Server creates post, returns created post. Mutation modifies data."
+        },
+        {
+          "scenario": "Apollo Server Setup",
+          "explanation": "Developer sets up Apollo Server: Defines schema, Creates resolvers, Connects to database, Server running, GraphQL Playground available. Apollo Server configured."
+        },
+        {
+          "scenario": "Apollo Client Integration",
+          "explanation": "Developer uses Apollo Client: Connects to GraphQL API, Queries data, Caches responses, Updates UI. Apollo Client working."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Build GraphQL API",
+          "instructions": "Step 1: Install Apollo Server. Step 2: Define schema (types, queries, mutations). Step 3: Create resolvers. Step 4: Connect to database. Step 5: Test with GraphQL Playground. Step 6: Add more types. Step 7: Practice GraphQL.",
+          "example_answer": "GraphQL API built: Apollo Server installed, Schema defined, Resolvers created, Database connected, Tested, More types added. GraphQL API functional."
+        },
+        {
+          "title": "Integrate Apollo Client",
+          "instructions": "Step 1: Install Apollo Client. Step 2: Set up Apollo Provider. Step 3: Write GraphQL queries. Step 4: Use useQuery hook. Step 5: Use useMutation hook. Step 6: Test integration. Step 7: Practice Apollo Client.",
+          "example_answer": "Apollo Client integrated: Apollo Client installed, Provider set up, Queries written, useQuery/useMutation used, Integration tested. Apollo Client working."
+        },
+        {
+          "title": "Compare GraphQL vs REST",
+          "instructions": "Step 1: Build same API in REST and GraphQL. Step 2: Compare: Number of requests, Data fetched, Flexibility, Complexity. Step 3: Test both APIs. Step 4: Document differences. Step 5: Choose appropriate approach.",
+          "example_answer": "Comparison done: Both APIs built, GraphQL more flexible, REST simpler, GraphQL better for complex queries, REST better for simple APIs. Comparison complete."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "GraphQL Fundamentals",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to GraphQL, schema design, and API development."
+        },
+        {
+          "title": "Modern API Development",
+          "source": "OpenStax",
+          "reason": "Covers GraphQL, REST, and API design patterns."
+        }
+      ],
+      "videos": [
+        {
+          "title": "GraphQL Tutorial – Traversy Media",
+          "reason": "Complete guide to GraphQL with Apollo Server and Client."
+        },
+        {
+          "title": "GraphQL Crash Course – freeCodeCamp",
+          "reason": "Comprehensive tutorial on GraphQL and building GraphQL APIs."
+        }
+      ],
+      "summary": "GraphQL is a query language for APIs that provides flexible and efficient data fetching. GraphQL schema defines API structure with types, queries, and mutations. Queries fetch data with exact field selection, reducing over-fetching. Mutations modify data with clear operations. Resolvers fetch data from various sources. Apollo Server and Client provide tools for building and consuming GraphQL APIs. GraphQL is ideal for complex applications with varying data requirements. Mastering GraphQL enables you to build efficient, flexible APIs that reduce bandwidth and improve performance."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Advanced",
+      "topic": "Microservices Architecture",
+      "description": "Learn microservices architecture, a design approach where applications are built as a collection of small, independent services. Microservices enable scalability, maintainability, and team independence. Understanding microservices is essential for building large-scale applications. Think of microservices like a team of specialists—each service handles one thing well, and they work together to build the complete application.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Building Microservices: A Complete Guide",
+          "content": "Step 1: Understand microservices concepts (services, communication, deployment). Step 2: Design service boundaries (domain-driven design). Step 3: Set up service communication (REST, message queues). Step 4: Implement service discovery. Step 5: Handle distributed data. Step 6: Implement API gateway. Step 7: Deploy and monitor services. This guide helps you build microservices!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Microservices Architecture",
+          "content": "Draw architecture: API Gateway → Service 1, Service 2, Service 3. Show: Independent services, Service communication, Database per service, Deployment. Visual helps understand microservices."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Design Microservices System",
+          "content": "Activity: Design microservices for e-commerce app. Identify: Services (user, product, order, payment), Communication methods, Data storage, Deployment. Practice: Service design, Architecture, Communication. This activity improves microservices skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Microservices Concepts 🏗️",
+          "content": "Microservices are small, independent services. **Principles:** Single responsibility, Independent deployment, Decentralized data, Service communication. **How to understand it:** Like specialized workers—each does one job well. **Real-world:** Developer builds app: User service (authentication), Product service (catalog), Order service (orders), Each independent, Deployed separately. Microservices enable scalability. **Best practice:** Design small services, Keep services independent, Use clear boundaries, Communicate via APIs, Practice microservices."
+        },
+        {
+          "title": "Service Communication 📡",
+          "content": "Services communicate via APIs and message queues. **Methods:** REST APIs (synchronous), Message queues (asynchronous), gRPC (high performance). **How to understand it:** Like services talking to each other. **Real-world:** Developer implements communication: Order service calls Payment service (REST), Order service publishes event (message queue), Services communicate. Communication enables coordination. **Best practice:** Use REST for sync, Use queues for async, Handle failures, Implement retries, Practice communication."
+        },
+        {
+          "title": "API Gateway 🚪",
+          "content": "API Gateway is single entry point for clients. **How it works:** Routes requests to services, Handles authentication, Load balancing, Rate limiting. **How to understand it:** Like a receptionist directing visitors. **Real-world:** Developer uses API Gateway: Client sends request, Gateway routes to service, Gateway handles auth, Service responds. Gateway simplifies client access. **Best practice:** Use API Gateway, Route requests, Handle auth, Implement caching, Practice gateway."
+        },
+        {
+          "title": "Distributed Data Management 🗄️",
+          "content": "Each service has its own database. **How it works:** Service owns its data, No shared database, Data consistency challenges, Eventual consistency. **How to understand it:** Like each service having its own storage. **Real-world:** Developer designs data: User service has user DB, Product service has product DB, Order service has order DB, Services manage own data. Distributed data enables independence. **Best practice:** Database per service, Handle consistency, Use events, Practice distributed data."
+        },
+        {
+          "title": "Service Discovery and Deployment 🔍",
+          "content": "Services need to find and communicate with each other. **How it works:** Service registry, Service discovery, Health checks, Load balancing. **How to understand it:** Like a phone book for services. **Real-world:** Developer implements discovery: Services register, Clients discover services, Health checks monitor, Load balancing distributes. Discovery enables dynamic services. **Best practice:** Implement service discovery, Use service registry, Health checks, Load balance, Practice deployment."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "E-commerce Microservices",
+          "explanation": "Developer builds e-commerce: User service (auth), Product service (catalog), Order service (orders), Payment service (payments). Each independent, Communicates via APIs, Deployed separately. Microservices architecture."
+        },
+        {
+          "scenario": "API Gateway",
+          "explanation": "Developer uses API Gateway: Client requests, Gateway routes to service, Gateway handles auth, Service responds. Gateway simplifies access."
+        },
+        {
+          "scenario": "Service Communication",
+          "explanation": "Developer implements communication: Order service calls Payment service (REST), Order service publishes event (queue), Services coordinate. Communication working."
+        },
+        {
+          "scenario": "Distributed Data",
+          "explanation": "Developer designs data: Each service has own database, Services manage own data, Events sync data, Distributed data working."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Design Microservices Architecture",
+          "instructions": "Step 1: Choose application (e-commerce, social media). Step 2: Identify services (domain boundaries). Step 3: Design service APIs. Step 4: Plan communication. Step 5: Design data storage. Step 6: Plan deployment. Step 7: Document architecture.",
+          "example_answer": "Microservices designed: Services identified, APIs designed, Communication planned, Data storage designed, Deployment planned, Architecture documented. Microservices architecture complete."
+        },
+        {
+          "title": "Implement Service Communication",
+          "instructions": "Step 1: Create multiple services. Step 2: Implement REST APIs. Step 3: Set up message queue. Step 4: Implement service calls. Step 5: Handle failures. Step 6: Test communication. Step 7: Practice communication.",
+          "example_answer": "Service communication implemented: Services created, REST APIs implemented, Message queue set up, Service calls working, Failures handled, Communication tested. Service communication mastered."
+        },
+        {
+          "title": "Build API Gateway",
+          "instructions": "Step 1: Set up API Gateway. Step 2: Route requests to services. Step 3: Implement authentication. Step 4: Add rate limiting. Step 5: Test gateway. Step 6: Monitor traffic. Step 7: Practice gateway.",
+          "example_answer": "API Gateway built: Gateway set up, Requests routed, Authentication implemented, Rate limiting added, Gateway tested, Traffic monitored. API Gateway functional."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Microservices Architecture",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to microservices, service design, and distributed systems."
+        },
+        {
+          "title": "Distributed Systems",
+          "source": "OpenStax",
+          "reason": "Covers microservices, service communication, and distributed architecture."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Microservices Tutorial – Traversy Media",
+          "reason": "Complete guide to microservices architecture and implementation."
+        },
+        {
+          "title": "Microservices Architecture – freeCodeCamp",
+          "reason": "Comprehensive tutorial on building microservices applications."
+        }
+      ],
+      "summary": "Microservices architecture builds applications as collections of small, independent services. Each service handles a specific domain and can be developed and deployed independently. Service communication enables coordination via REST APIs and message queues. API Gateway provides a single entry point for clients. Distributed data management gives each service its own database. Service discovery enables dynamic service location. Microservices enable scalability, maintainability, and team independence. Mastering microservices enables you to build large-scale, distributed applications."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Advanced",
+      "topic": "Docker and Containerization",
+      "description": "Learn Docker, a platform for containerizing applications. Containers package applications with all dependencies, making them portable and consistent across environments. Understanding Docker is essential for modern deployment and DevOps. Think of Docker like shipping containers—your application is packaged in a standard container that works anywhere.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Mastering Docker: A Complete Guide",
+          "content": "Step 1: Install Docker. Step 2: Understand Docker concepts (images, containers). Step 3: Create Dockerfile. Step 4: Build Docker image. Step 5: Run containers. Step 6: Use Docker Compose for multi-container apps. Step 7: Deploy containers. This guide helps you master Docker!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Docker Architecture",
+          "content": "Draw: Dockerfile → Docker Image → Docker Container. Show: Image layers, Container runtime, Docker daemon. Visual helps understand Docker."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Containerize Application",
+          "content": "Activity: Containerize your app. Create: Dockerfile, Build image, Run container, Use Docker Compose. Practice: Docker commands, Containerization, Multi-container apps. This activity improves Docker skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Docker Basics 🐳",
+          "content": "Docker containers package applications with dependencies. **Concepts:** Images (templates), Containers (running instances), Dockerfile (build instructions). **How to understand it:** Like standardized packaging for apps. **Real-world:** Developer uses Docker: Creates Dockerfile, Builds image, Runs container, App works anywhere. Docker ensures consistency. **Best practice:** Learn Docker basics, Create Dockerfiles, Build images, Run containers, Practice Docker."
+        },
+        {
+          "title": "Dockerfile 📝",
+          "content": "Dockerfile defines how to build Docker image. **How it works:** Write instructions, Build image, Image contains app and dependencies. **How to understand it:** Like a recipe for building container. **Real-world:** Developer creates Dockerfile: FROM node, COPY files, RUN npm install, CMD start app. Dockerfile builds image. **Best practice:** Write efficient Dockerfiles, Use multi-stage builds, Minimize layers, Cache dependencies, Practice Dockerfiles."
+        },
+        {
+          "title": "Docker Images and Containers 📦",
+          "content": "Images are templates, containers are running instances. **How it works:** Build image from Dockerfile, Run container from image, Container is isolated. **How to understand it:** Like class (image) and instance (container). **Real-world:** Developer builds image: docker build -t myapp, Runs container: docker run myapp, Container runs app. Images and containers work together. **Best practice:** Build efficient images, Run containers properly, Manage containers, Use volumes, Practice images/containers."
+        },
+        {
+          "title": "Docker Compose 🎼",
+          "content": "Docker Compose manages multi-container applications. **How it works:** Define services in docker-compose.yml, Start all services, Services communicate. **How to understand it:** Like orchestrating multiple containers. **Real-world:** Developer uses Compose: Defines app, database, redis services, Starts all with docker-compose up, Services work together. Compose simplifies multi-container apps. **Best practice:** Use Docker Compose, Define services, Configure networking, Use volumes, Practice Compose."
+        },
+        {
+          "title": "Container Orchestration 🎯",
+          "content": "Orchestrating containers at scale (Kubernetes basics). **How it works:** Manage multiple containers, Auto-scaling, Load balancing, Health checks. **How to understand it:** Like managing a fleet of containers. **Real-world:** Developer uses Kubernetes: Deploys containers, Auto-scales based on load, Load balances traffic, Monitors health. Orchestration manages scale. **Best practice:** Learn Kubernetes basics, Deploy containers, Auto-scale, Monitor, Practice orchestration."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Containerizing Node.js App",
+          "explanation": "Developer containerizes app: Creates Dockerfile, Builds image, Runs container, App works in container. Containerization complete."
+        },
+        {
+          "scenario": "Docker Compose Setup",
+          "explanation": "Developer uses Compose: Defines app and database services, Starts both with docker-compose up, Services communicate, Multi-container app running."
+        },
+        {
+          "scenario": "Deploying Containers",
+          "explanation": "Developer deploys: Pushes image to registry, Deploys to cloud, Container runs in production, Deployment consistent. Containers deployed."
+        },
+        {
+          "scenario": "Kubernetes Deployment",
+          "explanation": "Developer uses Kubernetes: Deploys containers, Auto-scales, Load balances, Monitors health. Orchestration working."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Containerize Application",
+          "instructions": "Step 1: Create Dockerfile. Step 2: Build Docker image. Step 3: Run container. Step 4: Test application. Step 5: Use Docker Compose. Step 6: Deploy container. Step 7: Practice Docker.",
+          "example_answer": "Application containerized: Dockerfile created, Image built, Container running, Tested, Docker Compose used, Deployed. Containerization complete."
+        },
+        {
+          "title": "Build Multi-Container App",
+          "instructions": "Step 1: Create docker-compose.yml. Step 2: Define services (app, database). Step 3: Configure networking. Step 4: Use volumes. Step 5: Start services. Step 6: Test communication. Step 7: Practice Compose.",
+          "example_answer": "Multi-container app built: docker-compose.yml created, Services defined, Networking configured, Volumes used, Services started, Communication tested. Multi-container app working."
+        },
+        {
+          "title": "Deploy Containers to Cloud",
+          "instructions": "Step 1: Push image to registry. Step 2: Choose cloud platform. Step 3: Deploy container. Step 4: Configure environment. Step 5: Test deployment. Step 6: Monitor containers. Step 7: Practice deployment.",
+          "example_answer": "Containers deployed: Image pushed, Platform chosen, Container deployed, Environment configured, Tested, Monitored. Container deployment complete."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Docker and Containerization",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to Docker, containers, and containerization."
+        },
+        {
+          "title": "DevOps and Containers",
+          "source": "OpenStax",
+          "reason": "Covers Docker, containerization, and deployment strategies."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Docker Tutorial – Traversy Media",
+          "reason": "Complete guide to Docker and containerization."
+        },
+        {
+          "title": "Docker Crash Course – freeCodeCamp",
+          "reason": "Comprehensive tutorial on Docker and containers."
+        }
+      ],
+      "summary": "Docker containerizes applications, making them portable and consistent. Dockerfile defines how to build Docker images. Images are templates, containers are running instances. Docker Compose manages multi-container applications. Container orchestration (Kubernetes) manages containers at scale. Docker ensures applications work the same in development and production. Mastering Docker enables you to build, ship, and run applications consistently across any environment."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Advanced",
+      "topic": "Advanced Database Concepts",
+      "description": "Master advanced database concepts including indexing, query optimization, transactions, and database design patterns. These concepts enable you to build high-performance, scalable database systems. Understanding advanced database concepts is essential for enterprise applications. Think of it like learning advanced techniques for managing large amounts of data efficiently.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Advanced Database Techniques: A Complete Guide",
+          "content": "Step 1: Understand indexing (improve query performance). Step 2: Learn query optimization (write efficient queries). Step 3: Master transactions (ACID properties). Step 4: Design database schemas (normalization, denormalization). Step 5: Implement database relationships. Step 6: Handle concurrency. Step 7: Optimize for scale. This guide helps you master advanced databases!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Database Optimization",
+          "content": "Draw: Database → Indexes → Optimized Queries → Fast Performance. Show: Index structure, Query execution, Performance improvement. Visual helps understand optimization."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Optimize Database",
+          "content": "Activity: Optimize database. Create: Indexes, Optimize queries, Design schema, Handle transactions. Practice: Optimization, Performance, Design. This activity improves database skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Database Indexing 📇",
+          "content": "Indexes speed up database queries. **How it works:** Create index on columns, Database uses index, Queries faster. **How to understand it:** Like an index in a book—finds data quickly. **Real-world:** Developer creates index: CREATE INDEX ON users(email), Queries by email faster, Performance improved. Indexes optimize queries. **Best practice:** Index frequently queried columns, Don't over-index, Monitor index usage, Update indexes, Practice indexing."
+        },
+        {
+          "title": "Query Optimization 🔍",
+          "content": "Writing efficient database queries. **Techniques:** Use indexes, Avoid SELECT *, Limit results, Use JOINs efficiently. **How to understand it:** Like writing efficient code. **Real-world:** Developer optimizes query: Uses index, Limits results, Efficient JOINs, Query faster. Optimization improves performance. **Best practice:** Write efficient queries, Use indexes, Limit data, Optimize JOINs, Practice optimization."
+        },
+        {
+          "title": "Transactions and ACID 🎯",
+          "content": "Transactions ensure data consistency. **ACID:** Atomicity (all or nothing), Consistency (valid state), Isolation (concurrent transactions), Durability (persistent). **How to understand it:** Like ensuring operations complete correctly. **Real-world:** Developer uses transactions: Begin transaction, Execute operations, Commit or rollback, Data consistent. Transactions ensure reliability. **Best practice:** Use transactions, Understand ACID, Handle errors, Practice transactions."
+        },
+        {
+          "title": "Database Design Patterns 🗂️",
+          "content": "Patterns for designing efficient databases. **Patterns:** Normalization (reduce redundancy), Denormalization (improve performance), Sharding (distribute data), Replication (copy data). **How to understand it:** Like architectural patterns for databases. **Real-world:** Developer designs database: Normalizes for consistency, Denormalizes for performance, Shards for scale, Replicates for availability. Patterns optimize design. **Best practice:** Understand patterns, Normalize appropriately, Denormalize when needed, Use sharding for scale, Practice design."
+        },
+        {
+          "title": "Database Scaling 📈",
+          "content": "Scaling databases for growth. **Methods:** Vertical scaling (bigger server), Horizontal scaling (more servers), Read replicas (scale reads), Sharding (distribute data). **How to understand it:** Like expanding capacity. **Real-world:** Developer scales database: Adds read replicas, Shards data, Distributes load, Handles growth. Scaling enables growth. **Best practice:** Plan for scale, Use read replicas, Shard when needed, Monitor performance, Practice scaling."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Creating Indexes",
+          "explanation": "Developer creates index: CREATE INDEX ON users(email), Queries by email faster, Performance improved. Indexes working."
+        },
+        {
+          "scenario": "Query Optimization",
+          "explanation": "Developer optimizes query: Uses index, Limits to 10 results, Efficient JOIN, Query 10x faster. Optimization successful."
+        },
+        {
+          "scenario": "Using Transactions",
+          "explanation": "Developer uses transaction: Begin, Transfer money, Update accounts, Commit, Data consistent. Transaction ensures reliability."
+        },
+        {
+          "scenario": "Database Sharding",
+          "explanation": "Developer shards database: Splits users by region, Distributes across servers, Handles more load, Scales horizontally. Sharding enables scale."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Optimize Database Queries",
+          "instructions": "Step 1: Identify slow queries. Step 2: Create indexes. Step 3: Rewrite queries. Step 4: Use EXPLAIN. Step 5: Measure improvement. Step 6: Optimize further. Step 7: Practice optimization.",
+          "example_answer": "Queries optimized: Slow queries identified, Indexes created, Queries rewritten, Performance improved, Measured, Further optimized. Query optimization mastered."
+        },
+        {
+          "title": "Implement Transactions",
+          "instructions": "Step 1: Identify operations needing transactions. Step 2: Begin transactions. Step 3: Execute operations. Step 4: Handle errors. Step 5: Commit or rollback. Step 6: Test transactions. Step 7: Practice transactions.",
+          "example_answer": "Transactions implemented: Operations identified, Transactions used, Errors handled, Commits/rollbacks working, Tested. Transactions mastered."
+        },
+        {
+          "title": "Design Scalable Database",
+          "instructions": "Step 1: Design schema. Step 2: Create indexes. Step 3: Plan for scale. Step 4: Design sharding strategy. Step 5: Plan replication. Step 6: Test design. Step 7: Document design.",
+          "example_answer": "Scalable database designed: Schema designed, Indexes created, Scaling planned, Sharding strategy designed, Replication planned, Tested, Documented. Scalable design complete."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Database Systems",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to advanced database concepts, optimization, and design."
+        },
+        {
+          "title": "Database Performance",
+          "source": "OpenStax",
+          "reason": "Covers database optimization, indexing, and scaling strategies."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Database Optimization Tutorial – Traversy Media",
+          "reason": "Complete guide to database optimization and performance."
+        },
+        {
+          "title": "Advanced SQL – freeCodeCamp",
+          "reason": "Comprehensive tutorial on advanced database concepts."
+        }
+      ],
+      "summary": "Advanced database concepts enable building high-performance, scalable database systems. Database indexing speeds up queries by creating fast lookup structures. Query optimization writes efficient queries that use indexes and limit data transfer. Transactions ensure data consistency through ACID properties. Database design patterns (normalization, denormalization, sharding) optimize for different needs. Database scaling handles growth through vertical scaling, horizontal scaling, read replicas, and sharding. Mastering advanced database concepts enables you to build enterprise-grade database systems that perform well at scale."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Advanced",
+      "topic": "WebSockets and Real-time Communication",
+      "description": "Learn WebSockets for real-time, bidirectional communication between client and server. WebSockets enable features like chat, live updates, and real-time collaboration. Understanding WebSockets is essential for building interactive, real-time applications. Think of WebSockets like a phone call—both sides can talk and listen simultaneously, unlike HTTP which is like sending letters.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Implementing WebSockets: A Complete Guide",
+          "content": "Step 1: Understand WebSocket protocol. Step 2: Set up WebSocket server (Socket.io). Step 3: Connect client to server. Step 4: Send and receive messages. Step 5: Handle connections/disconnections. Step 6: Implement rooms/namespaces. Step 7: Build real-time features. This guide helps you master WebSockets!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "WebSocket Communication",
+          "content": "Draw: Client ↔ WebSocket Connection ↔ Server. Show: Bidirectional communication, Real-time updates, Connection lifecycle. Visual helps understand WebSockets."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build Real-time Application",
+          "content": "Activity: Create real-time app. Build: WebSocket server, Client connection, Real-time chat, Live updates. Practice: WebSockets, Real-time communication, Socket.io. This activity improves WebSocket skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "WebSocket Protocol 🔌",
+          "content": "WebSocket enables persistent, bidirectional communication. **How it works:** Client connects, Connection stays open, Both sides send/receive, Real-time communication. **How to understand it:** Like a phone call vs letters. **Real-world:** Developer uses WebSocket: Client connects, Server sends updates, Client sends messages, Real-time communication. WebSockets enable real-time. **Best practice:** Understand WebSocket protocol, Use for real-time, Handle connections, Practice WebSockets."
+        },
+        {
+          "title": "Socket.io Library 🎪",
+          "content": "Socket.io simplifies WebSocket implementation. **How it works:** Server and client libraries, Automatic fallbacks, Rooms and namespaces, Event-based. **How to understand it:** Like a toolkit for WebSockets. **Real-world:** Developer uses Socket.io: Sets up server, Connects clients, Emits events, Listens for events, Real-time working. Socket.io simplifies WebSockets. **Best practice:** Use Socket.io, Handle events, Use rooms, Practice Socket.io."
+        },
+        {
+          "title": "Real-time Features ⚡",
+          "content": "Building features that update in real-time. **Features:** Chat applications, Live notifications, Collaborative editing, Live dashboards. **How to understand it:** Like instant updates. **Real-world:** Developer builds chat: Users connect, Send messages, Receive instantly, Real-time chat working. Real-time features engage users. **Best practice:** Build real-time features, Handle connections, Update UI instantly, Practice real-time."
+        },
+        {
+          "title": "Connection Management 🔄",
+          "content": "Managing WebSocket connections properly. **How it works:** Handle connections, Handle disconnections, Reconnection logic, Connection state. **How to understand it:** Like managing phone calls. **Real-world:** Developer manages connections: Tracks connected users, Handles disconnects, Reconnects automatically, Manages state. Connection management ensures reliability. **Best practice:** Handle connections, Implement reconnection, Track state, Practice management."
+        },
+        {
+          "title": "Scaling WebSockets 📈",
+          "content": "Scaling WebSocket applications. **Challenges:** Stateful connections, Load balancing, Message broadcasting. **Solutions:** Redis adapter, Sticky sessions, Message queues. **How to understand it:** Like scaling phone systems. **Real-world:** Developer scales WebSockets: Uses Redis adapter, Load balances, Broadcasts messages, Handles scale. Scaling enables growth. **Best practice:** Plan for scale, Use Redis adapter, Load balance, Practice scaling."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Real-time Chat",
+          "explanation": "Developer builds chat: Socket.io server, Clients connect, Users send messages, Messages broadcast, Real-time chat working."
+        },
+        {
+          "scenario": "Live Notifications",
+          "explanation": "Developer implements notifications: Server emits events, Clients receive instantly, Notifications appear, Real-time notifications working."
+        },
+        {
+          "scenario": "Collaborative Editing",
+          "explanation": "Developer builds editor: Multiple users connect, Changes broadcast, All see updates, Collaborative editing working."
+        },
+        {
+          "scenario": "Scaling with Redis",
+          "explanation": "Developer scales: Uses Redis adapter, Multiple servers, Messages broadcast, Scales horizontally. Scaling working."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Build Real-time Chat",
+          "instructions": "Step 1: Set up Socket.io server. Step 2: Connect clients. Step 3: Send messages. Step 4: Broadcast messages. Step 5: Handle connections. Step 6: Add features (rooms, typing). Step 7: Test chat.",
+          "example_answer": "Real-time chat built: Socket.io server set up, Clients connected, Messages sent/broadcast, Connections handled, Features added, Tested. Real-time chat working."
+        },
+        {
+          "title": "Implement Live Updates",
+          "instructions": "Step 1: Set up WebSocket connection. Step 2: Server emits updates. Step 3: Client receives updates. Step 4: Update UI instantly. Step 5: Handle reconnection. Step 6: Test updates. Step 7: Practice real-time.",
+          "example_answer": "Live updates implemented: WebSocket connected, Server emits, Client receives, UI updates, Reconnection handled, Tested. Live updates working."
+        },
+        {
+          "title": "Scale WebSocket Application",
+          "instructions": "Step 1: Set up Redis adapter. Step 2: Deploy multiple servers. Step 3: Configure load balancing. Step 4: Test broadcasting. Step 5: Monitor connections. Step 6: Optimize performance. Step 7: Practice scaling.",
+          "example_answer": "WebSocket scaled: Redis adapter set up, Multiple servers deployed, Load balanced, Broadcasting tested, Monitored, Optimized. Scaling complete."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Real-time Web Applications",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to WebSockets, real-time communication, and Socket.io."
+        },
+        {
+          "title": "WebSocket Development",
+          "source": "OpenStax",
+          "reason": "Covers WebSockets, Socket.io, and real-time features."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Socket.io Tutorial – Traversy Media",
+          "reason": "Complete guide to Socket.io and real-time communication."
+        },
+        {
+          "title": "WebSocket Crash Course – freeCodeCamp",
+          "reason": "Comprehensive tutorial on WebSockets and real-time apps."
+        }
+      ],
+      "summary": "WebSockets enable real-time, bidirectional communication between client and server. WebSocket protocol provides persistent connections for instant communication. Socket.io simplifies WebSocket implementation with automatic fallbacks and event-based communication. Real-time features like chat, notifications, and collaboration enhance user experience. Connection management handles connections, disconnections, and reconnections reliably. Scaling WebSockets requires Redis adapters and load balancing for multiple servers. Mastering WebSockets enables you to build interactive, real-time applications that engage users with instant updates and communication."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Advanced",
+      "topic": "Advanced Security Practices",
+      "description": "Master advanced security practices for full stack applications including OWASP top 10, security headers, encryption, and security testing. Security is critical for protecting user data and application integrity. Understanding advanced security is essential for production applications. Think of security like multiple layers of protection—each layer adds more security to your application.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Securing Applications: A Complete Guide",
+          "content": "Step 1: Understand OWASP top 10 vulnerabilities. Step 2: Implement security headers. Step 3: Use HTTPS and encryption. Step 4: Implement input validation. Step 5: Protect against SQL injection. Step 6: Implement rate limiting. Step 7: Conduct security testing. This guide helps you secure applications!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Security Layers",
+          "content": "Draw layers: Application Security → Network Security → Data Security → Authentication. Show: Multiple layers, Defense in depth, Security measures. Visual helps understand security."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Secure Your Application",
+          "content": "Activity: Secure your app. Implement: Security headers, Input validation, Encryption, Rate limiting, Security testing. Practice: Security practices, Vulnerability prevention, Testing. This activity improves security skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "OWASP Top 10 🛡️",
+          "content": "Common web application vulnerabilities. **Vulnerabilities:** Injection, Broken authentication, Sensitive data exposure, XML external entities, Broken access control. **How to understand it:** Like common security weaknesses. **Real-world:** Developer addresses OWASP: Prevents SQL injection, Secures authentication, Encrypts data, Validates input, Protects against vulnerabilities. OWASP awareness improves security. **Best practice:** Understand OWASP, Prevent vulnerabilities, Test for issues, Practice security."
+        },
+        {
+          "title": "Security Headers 🔒",
+          "content": "HTTP headers that improve security. **Headers:** Content-Security-Policy, X-Frame-Options, X-Content-Type-Options, Strict-Transport-Security. **How to understand it:** Like security instructions for browsers. **Real-world:** Developer sets headers: CSP prevents XSS, HSTS enforces HTTPS, Headers improve security. Security headers protect users. **Best practice:** Set security headers, Use CSP, Enforce HTTPS, Practice headers."
+        },
+        {
+          "title": "Input Validation and Sanitization 🧹",
+          "content": "Validating and sanitizing user input. **How it works:** Validate input format, Sanitize input, Prevent injection attacks. **How to understand it:** Like checking and cleaning data. **Real-world:** Developer validates input: Checks format, Sanitizes strings, Prevents SQL injection, Input safe. Validation prevents attacks. **Best practice:** Validate all input, Sanitize data, Use parameterized queries, Practice validation."
+        },
+        {
+          "title": "Encryption and Hashing 🔐",
+          "content": "Protecting data with encryption and hashing. **Encryption:** Encrypt sensitive data, Use HTTPS, Encrypt at rest. **Hashing:** Hash passwords, Use bcrypt, Salt passwords. **How to understand it:** Like encoding data securely. **Real-world:** Developer secures data: Encrypts sensitive data, Uses HTTPS, Hashes passwords, Data protected. Encryption secures data. **Best practice:** Encrypt sensitive data, Use HTTPS, Hash passwords, Practice encryption."
+        },
+        {
+          "title": "Security Testing 🧪",
+          "content": "Testing applications for security vulnerabilities. **Methods:** Penetration testing, Vulnerability scanning, Code review, Security audits. **How to understand it:** Like security inspections. **Real-world:** Developer tests security: Scans for vulnerabilities, Reviews code, Tests authentication, Finds and fixes issues. Security testing improves security. **Best practice:** Conduct security tests, Scan for vulnerabilities, Review code, Fix issues, Practice testing."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Preventing SQL Injection",
+          "explanation": "Developer prevents injection: Uses parameterized queries, Validates input, Sanitizes data, SQL injection prevented. Security improved."
+        },
+        {
+          "scenario": "Implementing Security Headers",
+          "explanation": "Developer sets headers: CSP prevents XSS, HSTS enforces HTTPS, Headers protect users. Security headers working."
+        },
+        {
+          "scenario": "Password Security",
+          "explanation": "Developer secures passwords: Hashes with bcrypt, Uses salt, Stores hash, Passwords secure. Password security working."
+        },
+        {
+          "scenario": "Security Testing",
+          "explanation": "Developer tests security: Scans for vulnerabilities, Reviews code, Tests authentication, Fixes issues. Security testing complete."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Implement Security Headers",
+          "instructions": "Step 1: Set Content-Security-Policy. Step 2: Set X-Frame-Options. Step 3: Set HSTS. Step 4: Set other headers. Step 5: Test headers. Step 6: Verify protection. Step 7: Practice security.",
+          "example_answer": "Security headers implemented: CSP set, X-Frame-Options set, HSTS set, Other headers set, Tested, Verified. Security headers working."
+        },
+        {
+          "title": "Secure Authentication",
+          "instructions": "Step 1: Hash passwords with bcrypt. Step 2: Use secure sessions. Step 3: Implement rate limiting. Step 4: Add 2FA. Step 5: Test authentication. Step 6: Fix vulnerabilities. Step 7: Practice security.",
+          "example_answer": "Authentication secured: Passwords hashed, Secure sessions, Rate limiting, 2FA added, Tested, Vulnerabilities fixed. Authentication secure."
+        },
+        {
+          "title": "Conduct Security Audit",
+          "instructions": "Step 1: Review OWASP top 10. Step 2: Scan for vulnerabilities. Step 3: Review code. Step 4: Test authentication. Step 5: Test input validation. Step 6: Fix issues. Step 7: Document findings.",
+          "example_answer": "Security audit conducted: OWASP reviewed, Vulnerabilities scanned, Code reviewed, Authentication tested, Validation tested, Issues fixed, Documented. Security audit complete."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Web Application Security",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to security practices, OWASP, and vulnerability prevention."
+        },
+        {
+          "title": "Secure Software Development",
+          "source": "OpenStax",
+          "reason": "Covers security practices, encryption, and security testing."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Web Security Tutorial – Traversy Media",
+          "reason": "Complete guide to web application security and best practices."
+        },
+        {
+          "title": "OWASP Top 10 – freeCodeCamp",
+          "reason": "Comprehensive tutorial on OWASP vulnerabilities and prevention."
+        }
+      ],
+      "summary": "Advanced security practices protect applications and user data. OWASP Top 10 identifies common vulnerabilities that must be prevented. Security headers (CSP, HSTS) provide browser-level protection. Input validation and sanitization prevent injection attacks. Encryption and hashing protect sensitive data in transit and at rest. Security testing identifies and fixes vulnerabilities before deployment. Security is critical for production applications. Mastering advanced security practices enables you to build secure applications that protect users and data."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Advanced",
+      "topic": "Performance Optimization",
+      "description": "Master performance optimization techniques for full stack applications including frontend optimization, backend optimization, database optimization, and caching strategies. Performance is critical for user experience and scalability. Understanding performance optimization is essential for building fast, efficient applications. Think of optimization like tuning a car—you adjust different parts to get the best performance.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Optimizing Applications: A Complete Guide",
+          "content": "Step 1: Measure performance (metrics, profiling). Step 2: Optimize frontend (bundle size, lazy loading, code splitting). Step 3: Optimize backend (caching, database queries, API responses). Step 4: Optimize database (indexes, queries, connection pooling). Step 5: Implement caching (Redis, CDN). Step 6: Monitor performance. Step 7: Continuously optimize. This guide helps you optimize applications!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Performance Optimization",
+          "content": "Draw optimization: Frontend (bundle, lazy load) → Backend (cache, optimize) → Database (indexes, queries) → Fast Performance. Show: Optimization layers, Performance gains, Monitoring. Visual helps understand optimization."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Optimize Your Application",
+          "content": "Activity: Optimize your app. Measure: Performance metrics, Identify bottlenecks, Optimize frontend, Optimize backend, Implement caching, Measure improvements. Practice: Optimization, Performance, Monitoring. This activity improves optimization skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Frontend Performance ⚡",
+          "content": "Optimizing React and frontend applications. **Techniques:** Code splitting, Lazy loading, Bundle optimization, Image optimization, Memoization. **How to understand it:** Like making frontend faster. **Real-world:** Developer optimizes frontend: Splits code, Lazy loads routes, Optimizes images, Reduces bundle size, App faster. Frontend optimization improves UX. **Best practice:** Measure performance, Split code, Lazy load, Optimize images, Practice optimization."
+        },
+        {
+          "title": "Backend Performance 🚀",
+          "content": "Optimizing APIs and server performance. **Techniques:** Caching responses, Database optimization, Connection pooling, Async operations, Load balancing. **How to understand it:** Like making backend faster. **Real-world:** Developer optimizes backend: Caches API responses, Optimizes queries, Uses connection pooling, Async operations, API faster. Backend optimization improves response time. **Best practice:** Cache responses, Optimize queries, Use pooling, Async operations, Practice optimization."
+        },
+        {
+          "title": "Database Performance 📊",
+          "content": "Optimizing database queries and operations. **Techniques:** Indexing, Query optimization, Connection pooling, Read replicas, Caching. **How to understand it:** Like making database faster. **Real-world:** Developer optimizes database: Creates indexes, Optimizes queries, Uses connection pooling, Read replicas, Database faster. Database optimization improves performance. **Best practice:** Index frequently queried columns, Optimize queries, Use pooling, Read replicas, Practice optimization."
+        },
+        {
+          "title": "Caching Strategies 💾",
+          "content": "Implementing caching to improve performance. **Types:** Browser caching, CDN caching, Application caching (Redis), Database caching. **How to understand it:** Like storing frequently used items nearby. **Real-world:** Developer implements caching: Redis for API responses, CDN for static assets, Browser cache, Performance improved. Caching reduces load. **Best practice:** Use Redis, Use CDN, Browser cache, Cache appropriately, Practice caching."
+        },
+        {
+          "title": "Performance Monitoring 📈",
+          "content": "Monitoring application performance continuously. **Metrics:** Response time, Throughput, Error rate, Resource usage. **Tools:** APM tools, Logging, Metrics dashboards. **How to understand it:** Like health monitoring. **Real-world:** Developer monitors performance: Tracks metrics, Alerts on issues, Optimizes based on data, Performance maintained. Monitoring ensures performance. **Best practice:** Monitor continuously, Track metrics, Set alerts, Optimize based on data, Practice monitoring."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Frontend Optimization",
+          "explanation": "Developer optimizes frontend: Code splits routes, Lazy loads components, Optimizes images, Reduces bundle from 2MB to 500KB, Load time 50% faster. Frontend optimized."
+        },
+        {
+          "scenario": "Backend Caching",
+          "explanation": "Developer implements caching: Redis caches API responses, Reduces database load, Response time 80% faster, Performance improved. Caching working."
+        },
+        {
+          "scenario": "Database Optimization",
+          "explanation": "Developer optimizes database: Creates indexes, Optimizes queries, Query time 90% faster, Database performance improved. Database optimized."
+        },
+        {
+          "scenario": "Performance Monitoring",
+          "explanation": "Developer monitors performance: Tracks response times, Monitors errors, Alerts on issues, Optimizes based on data, Performance maintained. Monitoring working."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Optimize Frontend Performance",
+          "instructions": "Step 1: Measure current performance. Step 2: Analyze bundle size. Step 3: Implement code splitting. Step 4: Lazy load routes. Step 5: Optimize images. Step 6: Measure improvements. Step 7: Optimize further.",
+          "example_answer": "Frontend optimized: Performance measured, Bundle analyzed, Code split, Routes lazy loaded, Images optimized, Improvements measured, Further optimized. Frontend performance improved."
+        },
+        {
+          "title": "Implement Caching",
+          "instructions": "Step 1: Set up Redis. Step 2: Cache API responses. Step 3: Set cache expiration. Step 4: Use CDN for assets. Step 5: Test caching. Step 6: Measure improvements. Step 7: Practice caching.",
+          "example_answer": "Caching implemented: Redis set up, API responses cached, Expiration set, CDN used, Tested, Improvements measured. Caching working."
+        },
+        {
+          "title": "Optimize Database Performance",
+          "instructions": "Step 1: Identify slow queries. Step 2: Create indexes. Step 3: Optimize queries. Step 4: Use connection pooling. Step 5: Measure improvements. Step 6: Optimize further. Step 7: Practice optimization.",
+          "example_answer": "Database optimized: Slow queries identified, Indexes created, Queries optimized, Connection pooling used, Improvements measured, Further optimized. Database performance improved."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Web Performance Optimization",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to performance optimization, caching, and monitoring."
+        },
+        {
+          "title": "High-Performance Web Applications",
+          "source": "OpenStax",
+          "reason": "Covers performance optimization, frontend/backend optimization, and caching."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Performance Optimization Tutorial – Traversy Media",
+          "reason": "Complete guide to optimizing web application performance."
+        },
+        {
+          "title": "Web Performance – freeCodeCamp",
+          "reason": "Comprehensive tutorial on performance optimization techniques."
+        }
+      ],
+      "summary": "Performance optimization improves application speed and user experience. Frontend optimization (code splitting, lazy loading, bundle optimization) reduces load times. Backend optimization (caching, query optimization, connection pooling) improves response times. Database optimization (indexing, query optimization) speeds up data access. Caching strategies (Redis, CDN, browser cache) reduce server load and improve response times. Performance monitoring tracks metrics and identifies optimization opportunities. Performance is critical for user experience and scalability. Mastering performance optimization enables you to build fast, efficient applications that scale."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Advanced",
+      "topic": "Advanced Deployment Strategies",
+      "description": "Master advanced deployment strategies including CI/CD pipelines, blue-green deployments, canary releases, and infrastructure as code. Advanced deployment enables reliable, automated releases. Understanding advanced deployment is essential for production applications. Think of advanced deployment like an automated factory—code goes through automated processes to reach production safely.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Advanced Deployment: A Complete Guide",
+          "content": "Step 1: Set up CI/CD pipeline (GitHub Actions, GitLab CI). Step 2: Implement automated testing. Step 3: Set up blue-green deployment. Step 4: Implement canary releases. Step 5: Use infrastructure as code (Terraform). Step 6: Monitor deployments. Step 7: Automate rollbacks. This guide helps you master deployment!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "CI/CD Pipeline",
+          "content": "Draw pipeline: Code → Build → Test → Deploy → Monitor. Show: Automated steps, Testing gates, Deployment strategies, Monitoring. Visual helps understand CI/CD."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Set Up CI/CD Pipeline",
+          "content": "Activity: Create CI/CD pipeline. Build: Automated tests, Build process, Deployment automation, Monitoring. Practice: CI/CD, Automation, Deployment. This activity improves deployment skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "CI/CD Pipelines 🔄",
+          "content": "Continuous Integration and Deployment automates releases. **How it works:** Code push triggers pipeline, Automated tests run, Build application, Deploy automatically. **How to understand it:** Like automated assembly line. **Real-world:** Developer sets up CI/CD: Push to GitHub, Tests run, Build succeeds, Auto-deploy to production, Deployment automated. CI/CD enables fast releases. **Best practice:** Set up CI/CD, Automate tests, Automate deployment, Monitor pipeline, Practice CI/CD."
+        },
+        {
+          "title": "Blue-Green Deployment 🔵🟢",
+          "content": "Deployment strategy with zero downtime. **How it works:** Run two environments (blue, green), Deploy to inactive, Test, Switch traffic, Old environment standby. **How to understand it:** Like having two stages—switch between them. **Real-world:** Developer uses blue-green: Deploys to green, Tests, Switches traffic, Blue standby, Zero downtime. Blue-green enables safe deployment. **Best practice:** Use blue-green, Test before switch, Keep standby, Practice deployment."
+        },
+        {
+          "title": "Canary Releases 🐦",
+          "content": "Gradual rollout to minimize risk. **How it works:** Deploy to small percentage, Monitor, Gradually increase, Rollback if issues. **How to understand it:** Like testing with small group first. **Real-world:** Developer uses canary: Deploys to 5% users, Monitors, Increases to 50%, Then 100%, Safe rollout. Canary minimizes risk. **Best practice:** Use canary releases, Monitor closely, Gradual rollout, Rollback ready, Practice canary."
+        },
+        {
+          "title": "Infrastructure as Code (IaC) 📝",
+          "content": "Managing infrastructure with code. **Tools:** Terraform, CloudFormation, Ansible. **How it works:** Define infrastructure in code, Version control, Deploy infrastructure. **How to understand it:** Like code for infrastructure. **Real-world:** Developer uses Terraform: Defines servers in code, Version controls, Deploys infrastructure, Infrastructure managed as code. IaC enables consistency. **Best practice:** Use IaC, Version control infrastructure, Automate deployment, Practice IaC."
+        },
+        {
+          "title": "Monitoring and Rollbacks 📊",
+          "content": "Monitoring deployments and rolling back if needed. **How it works:** Monitor metrics, Detect issues, Automatically rollback, Restore previous version. **How to understand it:** Like safety systems. **Real-world:** Developer monitors: Tracks metrics, Detects errors, Auto-rollback, Previous version restored, Deployment safe. Monitoring ensures reliability. **Best practice:** Monitor deployments, Set up alerts, Automate rollbacks, Test rollbacks, Practice monitoring."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "CI/CD Pipeline",
+          "explanation": "Developer sets up CI/CD: Push triggers pipeline, Tests run, Build succeeds, Auto-deploy, Deployment automated. CI/CD working."
+        },
+        {
+          "scenario": "Blue-Green Deployment",
+          "explanation": "Developer uses blue-green: Deploys to green, Tests, Switches traffic, Zero downtime, Safe deployment. Blue-green working."
+        },
+        {
+          "scenario": "Canary Release",
+          "explanation": "Developer uses canary: Deploys to 5%, Monitors, Increases gradually, Safe rollout, Risk minimized. Canary working."
+        },
+        {
+          "scenario": "Infrastructure as Code",
+          "explanation": "Developer uses Terraform: Defines infrastructure, Version controls, Deploys, Infrastructure managed as code. IaC working."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Set Up CI/CD Pipeline",
+          "instructions": "Step 1: Choose CI/CD tool (GitHub Actions). Step 2: Create workflow file. Step 3: Add test step. Step 4: Add build step. Step 5: Add deploy step. Step 6: Test pipeline. Step 7: Practice CI/CD.",
+          "example_answer": "CI/CD pipeline set up: Tool chosen, Workflow created, Tests automated, Build automated, Deploy automated, Tested. CI/CD pipeline working."
+        },
+        {
+          "title": "Implement Blue-Green Deployment",
+          "instructions": "Step 1: Set up two environments. Step 2: Deploy to inactive. Step 3: Test deployment. Step 4: Switch traffic. Step 5: Monitor. Step 6: Test rollback. Step 7: Practice blue-green.",
+          "example_answer": "Blue-green implemented: Two environments set up, Deployed to inactive, Tested, Traffic switched, Monitored, Rollback tested. Blue-green deployment working."
+        },
+        {
+          "title": "Use Infrastructure as Code",
+          "instructions": "Step 1: Install Terraform. Step 2: Define infrastructure. Step 3: Initialize Terraform. Step 4: Plan changes. Step 5: Apply infrastructure. Step 6: Version control. Step 7: Practice IaC.",
+          "example_answer": "IaC implemented: Terraform installed, Infrastructure defined, Initialized, Planned, Applied, Version controlled. Infrastructure as code working."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "DevOps and CI/CD",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to CI/CD, deployment strategies, and DevOps practices."
+        },
+        {
+          "title": "Infrastructure as Code",
+          "source": "OpenStax",
+          "reason": "Covers Terraform, infrastructure management, and deployment automation."
+        }
+      ],
+      "videos": [
+        {
+          "title": "CI/CD Tutorial – Traversy Media",
+          "reason": "Complete guide to setting up CI/CD pipelines."
+        },
+        {
+          "title": "DevOps Crash Course – freeCodeCamp",
+          "reason": "Comprehensive tutorial on DevOps and deployment strategies."
+        }
+      ],
+      "summary": "Advanced deployment strategies enable reliable, automated releases. CI/CD pipelines automate testing, building, and deployment. Blue-green deployment provides zero-downtime deployments by switching between environments. Canary releases gradually roll out changes to minimize risk. Infrastructure as Code (Terraform) manages infrastructure with version-controlled code. Monitoring and automated rollbacks ensure deployment safety. Advanced deployment is essential for production applications. Mastering advanced deployment strategies enables you to release code safely, quickly, and reliably."
+    },
+    {
+      "course": "Full Stack Development",
+      "level": "Advanced",
+      "topic": "Building Enterprise Applications",
+      "description": "Put it all together! Build enterprise-level full stack applications using all advanced concepts: microservices, Docker, advanced databases, security, performance, and deployment. Enterprise applications are complex, scalable, and production-ready. Think of it like building a skyscraper—you use all advanced techniques to create something large, stable, and impressive.",
+      "instructional_materials": [
+        {
+          "type": "Step-by-Step Guide",
+          "title": "Building Enterprise Apps: A Complete Guide",
+          "content": "Step 1: Design architecture (microservices, databases). Step 2: Set up infrastructure (Docker, Kubernetes). Step 3: Implement services (APIs, databases). Step 4: Add security (authentication, encryption). Step 5: Optimize performance (caching, optimization). Step 6: Set up CI/CD. Step 7: Deploy and monitor. This guide helps you build enterprise apps!"
+        },
+        {
+          "type": "Visual Guide",
+          "title": "Enterprise Architecture",
+          "content": "Draw architecture: Load Balancer → API Gateway → Microservices → Databases → Cache → Monitoring. Show: Complete system, All components, Scalability, Reliability. Visual helps understand enterprise architecture."
+        },
+        {
+          "type": "Interactive Exercise",
+          "title": "Build Enterprise Application",
+          "content": "Activity: Build enterprise app. Design: Architecture, Services, Databases, Security, Performance, Deployment. Practice: Enterprise development, All advanced concepts, Production-ready apps. This activity improves enterprise skills."
+        }
+      ],
+      "key_points": [
+        {
+          "title": "Enterprise Architecture 🏗️",
+          "content": "Designing scalable, maintainable architectures. **Components:** Microservices, API Gateway, Load balancers, Databases, Caching, Monitoring. **How to understand it:** Like designing a city—everything connected and organized. **Real-world:** Developer designs enterprise app: Microservices architecture, API Gateway, Multiple databases, Redis caching, Monitoring, Scalable design. Enterprise architecture enables scale. **Best practice:** Design for scale, Use microservices, Plan architecture, Document design, Practice architecture."
+        },
+        {
+          "title": "Scalability and Performance 📈",
+          "content": "Building applications that scale. **Techniques:** Horizontal scaling, Load balancing, Caching, Database optimization, CDN. **How to understand it:** Like building to handle growth. **Real-world:** Developer builds scalable app: Auto-scaling services, Load balancing, Caching, Optimized database, Handles millions of users. Scalability enables growth. **Best practice:** Design for scale, Use load balancing, Implement caching, Optimize database, Practice scalability."
+        },
+        {
+          "title": "Reliability and Monitoring 🔍",
+          "content": "Ensuring applications are reliable and monitored. **Techniques:** Health checks, Error handling, Logging, Monitoring, Alerting. **How to understand it:** Like health monitoring systems. **Real-world:** Developer ensures reliability: Health checks, Error handling, Comprehensive logging, Monitoring dashboards, Alerts on issues, App reliable. Reliability ensures uptime. **Best practice:** Implement health checks, Handle errors, Log comprehensively, Monitor continuously, Practice reliability."
+        },
+        {
+          "title": "Security at Scale 🛡️",
+          "content": "Implementing security for enterprise applications. **Techniques:** Authentication, Authorization, Encryption, Security headers, Security testing. **How to understand it:** Like multiple security layers. **Real-world:** Developer secures enterprise app: JWT authentication, Role-based access, Encryption, Security headers, Regular audits, App secure. Security protects users. **Best practice:** Implement security, Use authentication, Encrypt data, Test security, Practice security."
+        },
+        {
+          "title": "DevOps and Automation 🤖",
+          "content": "Automating development and deployment. **Techniques:** CI/CD pipelines, Infrastructure as Code, Automated testing, Automated deployment. **How to understand it:** Like automated factories. **Real-world:** Developer automates: CI/CD pipeline, Terraform for infrastructure, Automated tests, Auto-deployment, DevOps working. Automation enables speed. **Best practice:** Automate everything, Use CI/CD, Infrastructure as Code, Test automatically, Practice automation."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Enterprise E-commerce Platform",
+          "explanation": "Developer builds platform: Microservices (user, product, order, payment), API Gateway, Multiple databases, Redis caching, CI/CD, Monitoring, Scalable, Secure, Production-ready. Enterprise application."
+        },
+        {
+          "scenario": "Scalable Architecture",
+          "explanation": "Developer designs scalable: Auto-scaling services, Load balancing, Caching, CDN, Handles millions of users, Scales automatically. Scalable architecture."
+        },
+        {
+          "scenario": "Production Deployment",
+          "explanation": "Developer deploys: CI/CD pipeline, Blue-green deployment, Monitoring, Alerts, Automated rollback, Production deployment. Deployment automated and safe."
+        },
+        {
+          "scenario": "Enterprise Security",
+          "explanation": "Developer secures: JWT authentication, Role-based access, Encryption, Security headers, Regular audits, Enterprise-grade security. Security comprehensive."
+        }
+      ],
+      "exercises": [
+        {
+          "title": "Design Enterprise Architecture",
+          "instructions": "Step 1: Choose application domain. Step 2: Design microservices. Step 3: Design API Gateway. Step 4: Plan databases. Step 5: Plan caching. Step 6: Plan monitoring. Step 7: Document architecture.",
+          "example_answer": "Enterprise architecture designed: Domain chosen, Microservices designed, API Gateway planned, Databases planned, Caching planned, Monitoring planned, Documented. Enterprise architecture complete."
+        },
+        {
+          "title": "Build Enterprise Application",
+          "instructions": "Step 1: Set up infrastructure. Step 2: Build microservices. Step 3: Implement API Gateway. Step 4: Add security. Step 5: Optimize performance. Step 6: Set up CI/CD. Step 7: Deploy and monitor.",
+          "example_answer": "Enterprise app built: Infrastructure set up, Microservices built, API Gateway implemented, Security added, Performance optimized, CI/CD set up, Deployed and monitored. Enterprise application complete."
+        },
+        {
+          "title": "Scale Enterprise Application",
+          "instructions": "Step 1: Implement load balancing. Step 2: Add caching. Step 3: Optimize database. Step 4: Use CDN. Step 5: Auto-scale services. Step 6: Monitor performance. Step 7: Optimize further.",
+          "example_answer": "Enterprise app scaled: Load balancing implemented, Caching added, Database optimized, CDN used, Auto-scaling configured, Performance monitored, Further optimized. Enterprise application scaled."
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Enterprise Application Architecture",
+          "source": "Open Textbook Library",
+          "reason": "Comprehensive guide to building enterprise applications and architecture."
+        },
+        {
+          "title": "Scalable Web Applications",
+          "source": "OpenStax",
+          "reason": "Covers enterprise architecture, scalability, and production applications."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Enterprise Architecture Tutorial – Traversy Media",
+          "reason": "Complete guide to building enterprise applications."
+        },
+        {
+          "title": "Building Scalable Apps – freeCodeCamp",
+          "reason": "Comprehensive tutorial on enterprise application development."
+        }
+      ],
+      "summary": "Building enterprise applications combines all advanced concepts into production-ready systems. Enterprise architecture designs scalable, maintainable systems with microservices, API gateways, and distributed databases. Scalability and performance ensure applications handle growth through load balancing, caching, and optimization. Reliability and monitoring ensure applications are available and performant through health checks, logging, and alerting. Security at scale protects users and data through authentication, encryption, and security testing. DevOps and automation enable fast, reliable releases through CI/CD and Infrastructure as Code. Mastering enterprise application development enables you to build large-scale, production-ready applications that serve millions of users."
+    }
+  ]
+}
+

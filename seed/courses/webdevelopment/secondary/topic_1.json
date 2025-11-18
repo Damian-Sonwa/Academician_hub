@@ -1,0 +1,87 @@
+{
+  "topic": "Introduction to Web Development",
+  "detailedSummary": "Web development is the process of creating websites and web applications that run in browsers. The web consists of three core technologies: HTML (HyperText Markup Language) for structure, CSS (Cascading Style Sheets) for styling, and JavaScript for interactivity. Websites are accessed through browsers like Chrome, Firefox, or Safari using URLs (Uniform Resource Locators). The client-server model describes how browsers (clients) request web pages from servers, which respond with HTML, CSS, and JavaScript files. Web development can be divided into frontend (what users see and interact with) and backend (server-side logic and databases). Modern web development involves understanding how these technologies work together to create responsive, interactive websites. Development tools include text editors, browser developer tools for debugging, and version control systems. Understanding web development fundamentals is essential for creating modern websites and applications that work across different devices and browsers.",
+  "whyItMatters": "Understanding web development fundamentals is essential in today's digital world, as websites are the primary way businesses, organizations, and individuals communicate and operate online.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Introduction to Web Development | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Introduction to Web Development | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Introduction to Web Development | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Web Development Fundamentals Guide",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Web Development Environment Setup",
+        "url": "https://codepen.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Web Development Research and Setup",
+      "description": "Research the web development ecosystem and set up your development environment.",
+      "tasks": [
+        "Research and explain the roles of HTML, CSS, and JavaScript in web development",
+        "Install and configure a code editor (VS Code recommended)",
+        "Set up browser developer tools and learn basic debugging",
+        "Create your first HTML file and view it in a browser",
+        "Write a 300-400 word report explaining how websites work and the tools you've set up"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What are the three core technologies of web development?",
+      "type": "multiple-choice",
+      "options": [
+        "HTML, CSS, and Python",
+        "HTML, CSS, and JavaScript",
+        "Java, CSS, and JavaScript",
+        "HTML, PHP, and JavaScript"
+      ],
+      "correctAnswer": 1,
+      "explanation": "HTML provides structure, CSS provides styling, and JavaScript provides interactivity - these are the three fundamental technologies of web development."
+    },
+    {
+      "question": "Frontend development refers to the server-side logic and database management.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Frontend development refers to what users see and interact with in the browser, while backend development handles server-side logic and databases."
+    },
+    {
+      "question": "What does HTML stand for?",
+      "type": "multiple-choice",
+      "options": [
+        "HyperText Markup Language",
+        "High-Level Markup Language",
+        "Home Tool Markup Language",
+        "Hyperlink and Text Markup Language"
+      ],
+      "correctAnswer": 0,
+      "explanation": "HTML stands for HyperText Markup Language, which is used to structure content on web pages."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

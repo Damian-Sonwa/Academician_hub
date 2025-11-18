@@ -1,0 +1,86 @@
+{
+  "topic": "Formal Writing and Academic Spanish",
+  "detailedSummary": "Formal writing requires specific structures, vocabulary, and style. Academic register uses: complex sentence structures, formal connectors ('sin embargo' - however, 'no obstante' - nevertheless, 'por consiguiente' - therefore), passive voice, subjunctive extensively, precise vocabulary, avoiding contractions. Essay structure: introducción (introduction with thesis), desarrollo (body paragraphs with arguments), conclusión (conclusion summarizing points). Formal letters: 'Estimado/a Sr./Sra.' (Dear Mr./Mrs.), 'Le escribo para...' (I'm writing to...), 'Quedo a su disposición' (I remain at your disposal), 'Atentamente' (Sincerely). Academic vocabulary: 'analizar' (to analyze), 'examinar' (to examine), 'demostrar' (to demonstrate), 'concluir' (to conclude), 'sugerir' (to suggest), 'argumentar' (to argue). Citations: 'Según...' (According to...), 'Como menciona...' (As...mentions), 'En opinión de...' (In the opinion of...). Avoiding informal language, using 'usted' form, maintaining objectivity. Understanding formal writing enables academic and professional communication.",
+  "whyItMatters": "Formal writing skills are essential for academic and professional contexts - mastering academic Spanish enables writing essays, reports, and professional correspondence.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Formal Writing and Academic Spanish | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Formal Writing and Academic Spanish | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Formal Writing and Academic Spanish | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Academic Spanish Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Formal Writing Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Formal Writing",
+      "description": "Practice writing formal essays, letters, and academic texts in Spanish.",
+      "tasks": [
+        "Write a formal essay with introduction, body, and conclusion on an academic topic",
+        "Compose formal business letters using appropriate greetings and closings",
+        "Practice using formal connectors and academic vocabulary",
+        "Write an argumentative essay with citations and formal structure",
+        "Revise informal writing to make it more formal and academic"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is an appropriate formal greeting for a business letter?",
+      "type": "multiple-choice",
+      "options": [
+        "Hola",
+        "Estimado/a Sr./Sra.",
+        "Qué tal",
+        "Hey"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Estimado/a Sr./Sra.' (Dear Mr./Mrs.) is the formal greeting for business letters. 'Hola' and 'Qué tal' are too informal."
+    },
+    {
+      "question": "Formal writing in Spanish should use 'usted' form, passive voice, and avoid contractions.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. Formal writing uses 'usted', passive constructions, formal connectors, and avoids contractions and colloquialisms."
+    },
+    {
+      "question": "What connector means 'therefore' or 'consequently' in formal Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "pero",
+        "y",
+        "por consiguiente",
+        "porque"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Por consiguiente' means 'therefore' or 'consequently' and is used in formal writing to show logical conclusions."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}

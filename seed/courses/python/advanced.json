@@ -1,0 +1,1005 @@
+[
+  {
+    "title": "Getting Started with Python",
+    "summary": "Set up your environment and write your first program. Install Python, choose an IDE (VS Code, PyCharm), and run your first \"Hello, World.  Learn about Python syntax and indentation. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Getting Started with Python - Tutorial",
+          "url": "https://youtu.be/kqtD5dpn9C8"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Python Installation Guide",
+          "url": "https://docs.python.org/3/tutorial/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "IDE Setup Tutorial",
+          "url": "https://www.practicepython.org/"
+        },
+        {
+          "title": "First Program Template",
+          "url": "https://www.practicepython.org/"
+        }
+      ]
+    },
+    "detailedSummary": "Set up your environment and write your first program. Install Python, choose an IDE (VS Code, PyCharm), and run your first \"Hello, World.  Learn about Python syntax and indentation. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding python at the Advanced level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Getting Started with Python. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Getting Started with Python",
+        "description": "Complete a research assignment exploring key concepts related to Getting Started with Python.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Getting Started with Python",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Getting Started with Python",
+        "description": "Apply your understanding of Getting Started with Python through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Getting Started with Python",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Getting Started with Python?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Getting Started with Python",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Getting Started with Python?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding python",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding python and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Getting Started with Python is an important topic for understanding python at the Advanced level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Getting Started with Python provides fundamental knowledge that is essential for building a strong understanding of python."
+        },
+        {
+          "question": "The concepts in Getting Started with Python have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Getting Started with Python have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Getting Started with Python helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "python",
+          "explanation": "The correct answer is \"python\". Getting Started with Python is a key component of python that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Variables and Data Types",
+    "summary": "Store and manipulate different types of data. Learn about integers, floats, strings, booleans, and type conversion.  Understand variable naming rules and best practices. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Variables and Data Types - Tutorial",
+          "url": "https://youtu.be/kqtD5dpn9C8"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Python Textbook - Advanced Level",
+          "url": "https://docs.python.org/3/tutorial/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Data Types Cheatsheet",
+          "url": "https://www.practicepython.org/"
+        },
+        {
+          "title": "Type Conversion Examples",
+          "url": "https://www.practicepython.org/"
+        },
+        {
+          "title": "Variable Practice Problems",
+          "url": "https://www.practicepython.org/"
+        }
+      ]
+    },
+    "detailedSummary": "Store and manipulate different types of data. Learn about integers, floats, strings, booleans, and type conversion.  Understand variable naming rules and best practices. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding python at the Advanced level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Variables and Data Types. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Variables and Data Types",
+        "description": "Complete a research assignment exploring key concepts related to Variables and Data Types.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Variables and Data Types",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Variables and Data Types",
+        "description": "Apply your understanding of Variables and Data Types through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Variables and Data Types",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Variables and Data Types?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Variables and Data Types",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Variables and Data Types?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding python",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding python and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Variables and Data Types is an important topic for understanding python at the Advanced level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Variables and Data Types provides fundamental knowledge that is essential for building a strong understanding of python."
+        },
+        {
+          "question": "The concepts in Variables and Data Types have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Variables and Data Types have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Variables and Data Types helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "python",
+          "explanation": "The correct answer is \"python\". Variables and Data Types is a key component of python that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Input and Output",
+    "summary": "Interact with users through input and print statements. Use input() and print() functions, format strings with f-strings, and handle user input validation. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Input and Output - Tutorial",
+          "url": "https://youtu.be/kqtD5dpn9C8"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "I/O Functions Guide",
+          "url": "https://docs.python.org/3/tutorial/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "String Formatting Tutorial",
+          "url": "https://www.practicepython.org/"
+        },
+        {
+          "title": "User Interaction Examples",
+          "url": "https://www.practicepython.org/"
+        }
+      ]
+    },
+    "detailedSummary": "Interact with users through input and print statements. Use input() and print() functions, format strings with f-strings, and handle user input validation. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding python at the Advanced level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Input and Output. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Input and Output",
+        "description": "Complete a research assignment exploring key concepts related to Input and Output.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Input and Output",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Input and Output",
+        "description": "Apply your understanding of Input and Output through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Input and Output",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Input and Output?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Input and Output",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Input and Output?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding python",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding python and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Input and Output is an important topic for understanding python at the Advanced level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Input and Output provides fundamental knowledge that is essential for building a strong understanding of python."
+        },
+        {
+          "question": "The concepts in Input and Output have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Input and Output have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Input and Output helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "python",
+          "explanation": "The correct answer is \"python\". Input and Output is a key component of python that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Conditional Statements",
+    "summary": "Make decisions in your code with if/elif/else. Learn boolean logic, comparison operators, logical operators (and, or, not), and nested conditionals. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Conditional Statements - Tutorial",
+          "url": "https://youtu.be/kqtD5dpn9C8"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Boolean Operators Guide",
+          "url": "https://docs.python.org/3/tutorial/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Conditional Logic Flowchart",
+          "url": "https://www.practicepython.org/"
+        },
+        {
+          "title": "Decision-Making Practice",
+          "url": "https://www.practicepython.org/"
+        }
+      ]
+    },
+    "detailedSummary": "Make decisions in your code with if/elif/else. Learn boolean logic, comparison operators, logical operators (and, or, not), and nested conditionals. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding python at the Advanced level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Conditional Statements. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Conditional Statements",
+        "description": "Complete a research assignment exploring key concepts related to Conditional Statements.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Conditional Statements",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Conditional Statements",
+        "description": "Apply your understanding of Conditional Statements through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Conditional Statements",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Conditional Statements?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Conditional Statements",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Conditional Statements?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding python",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding python and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Conditional Statements is an important topic for understanding python at the Advanced level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Conditional Statements provides fundamental knowledge that is essential for building a strong understanding of python."
+        },
+        {
+          "question": "The concepts in Conditional Statements have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Conditional Statements have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Conditional Statements helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "python",
+          "explanation": "The correct answer is \"python\". Conditional Statements is a key component of python that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Loops: For and While",
+    "summary": "Repeat code blocks efficiently. Master for loops, while loops, range() function, break and continue statements, and nested loops. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Loops: For and While - Tutorial",
+          "url": "https://youtu.be/kqtD5dpn9C8"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Loop Patterns Guide",
+          "url": "https://docs.python.org/3/tutorial/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Iteration Examples",
+          "url": "https://www.practicepython.org/"
+        },
+        {
+          "title": "Loop Practice Problems",
+          "url": "https://www.practicepython.org/"
+        }
+      ]
+    },
+    "detailedSummary": "Repeat code blocks efficiently. Master for loops, while loops, range() function, break and continue statements, and nested loops. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding python at the Advanced level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Loops: For and While. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Loops: For and While",
+        "description": "Complete a research assignment exploring key concepts related to Loops: For and While.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Loops: For and While",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Loops: For and While",
+        "description": "Apply your understanding of Loops: For and While through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Loops: For and While",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Loops: For and While?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Loops: For and While",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Loops: For and While?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding python",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding python and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Loops: For and While is an important topic for understanding python at the Advanced level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Loops: For and While provides fundamental knowledge that is essential for building a strong understanding of python."
+        },
+        {
+          "question": "The concepts in Loops: For and While have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Loops: For and While have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Loops: For and While helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "python",
+          "explanation": "The correct answer is \"python\". Loops: For and While is a key component of python that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Lists and Tuples",
+    "summary": "Work with ordered collections of data. Learn list operations, indexing, slicing, list methods, list comprehensions, and the difference between lists and tuples. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Lists and Tuples - Tutorial",
+          "url": "https://youtu.be/kqtD5dpn9C8"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Python Textbook - Advanced Level",
+          "url": "https://docs.python.org/3/tutorial/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "List Methods Reference",
+          "url": "https://www.practicepython.org/"
+        },
+        {
+          "title": "Comprehension Tutorial",
+          "url": "https://www.practicepython.org/"
+        },
+        {
+          "title": "Collection Practice Set",
+          "url": "https://www.practicepython.org/"
+        }
+      ]
+    },
+    "detailedSummary": "Work with ordered collections of data. Learn list operations, indexing, slicing, list methods, list comprehensions, and the difference between lists and tuples. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding python at the Advanced level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Lists and Tuples. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Lists and Tuples",
+        "description": "Complete a research assignment exploring key concepts related to Lists and Tuples.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Lists and Tuples",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Lists and Tuples",
+        "description": "Apply your understanding of Lists and Tuples through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Lists and Tuples",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Lists and Tuples?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Lists and Tuples",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Lists and Tuples?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding python",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding python and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Lists and Tuples is an important topic for understanding python at the Advanced level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Lists and Tuples provides fundamental knowledge that is essential for building a strong understanding of python."
+        },
+        {
+          "question": "The concepts in Lists and Tuples have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Lists and Tuples have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Lists and Tuples helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "python",
+          "explanation": "The correct answer is \"python\". Lists and Tuples is a key component of python that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Dictionaries and Sets",
+    "summary": "Use key-value pairs and unique collections. Master dictionary operations, accessing values, dictionary methods, and set operations. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Dictionaries and Sets - Tutorial",
+          "url": "https://youtu.be/kqtD5dpn9C8"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Dictionary Methods Guide",
+          "url": "https://docs.python.org/3/tutorial/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Set Operations Chart",
+          "url": "https://www.practicepython.org/"
+        },
+        {
+          "title": "Data Structure Comparison",
+          "url": "https://www.practicepython.org/"
+        }
+      ]
+    },
+    "detailedSummary": "Use key-value pairs and unique collections. Master dictionary operations, accessing values, dictionary methods, and set operations. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding python at the Advanced level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Dictionaries and Sets. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Dictionaries and Sets",
+        "description": "Complete a research assignment exploring key concepts related to Dictionaries and Sets.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Dictionaries and Sets",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Dictionaries and Sets",
+        "description": "Apply your understanding of Dictionaries and Sets through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Dictionaries and Sets",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Dictionaries and Sets?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Dictionaries and Sets",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Dictionaries and Sets?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding python",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding python and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Dictionaries and Sets is an important topic for understanding python at the Advanced level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Dictionaries and Sets provides fundamental knowledge that is essential for building a strong understanding of python."
+        },
+        {
+          "question": "The concepts in Dictionaries and Sets have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Dictionaries and Sets have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Dictionaries and Sets helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "python",
+          "explanation": "The correct answer is \"python\". Dictionaries and Sets is a key component of python that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Functions",
+    "summary": "Create reusable blocks of code. Define functions, use parameters and arguments, return values, scope, and write docstrings. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Functions - Tutorial",
+          "url": "https://youtu.be/kqtD5dpn9C8"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Documentation Guide",
+          "url": "https://docs.python.org/3/tutorial/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Function Best Practices",
+          "url": "https://www.practicepython.org/"
+        },
+        {
+          "title": "Scope Examples",
+          "url": "https://www.practicepython.org/"
+        }
+      ]
+    },
+    "detailedSummary": "Create reusable blocks of code. Define functions, use parameters and arguments, return values, scope, and write docstrings. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding python at the Advanced level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Functions. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Functions",
+        "description": "Complete a research assignment exploring key concepts related to Functions.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Functions",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Functions",
+        "description": "Apply your understanding of Functions through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Functions",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Functions?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Functions",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Functions?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding python",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding python and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Functions is an important topic for understanding python at the Advanced level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Functions provides fundamental knowledge that is essential for building a strong understanding of python."
+        },
+        {
+          "question": "The concepts in Functions have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Functions have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Functions helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "python",
+          "explanation": "The correct answer is \"python\". Functions is a key component of python that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "File Handling",
+    "summary": "Read from and write to files. Open, read, write, and close files.  Use context managers (with statement) and handle different file formats. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "File Handling - Tutorial",
+          "url": "https://youtu.be/kqtD5dpn9C8"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "File I/O Guide",
+          "url": "https://docs.python.org/3/tutorial/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "CSV Handling Tutorial",
+          "url": "https://www.practicepython.org/"
+        },
+        {
+          "title": "Text Processing Examples",
+          "url": "https://www.practicepython.org/"
+        }
+      ]
+    },
+    "detailedSummary": "Read from and write to files. Open, read, write, and close files.  Use context managers (with statement) and handle different file formats. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding python at the Advanced level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to File Handling. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: File Handling",
+        "description": "Complete a research assignment exploring key concepts related to File Handling.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about File Handling",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: File Handling",
+        "description": "Apply your understanding of File Handling through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to File Handling",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of File Handling?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of File Handling",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of File Handling?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding python",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding python and has practical applications in real-world contexts."
+        },
+        {
+          "question": "File Handling is an important topic for understanding python at the Advanced level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. File Handling provides fundamental knowledge that is essential for building a strong understanding of python."
+        },
+        {
+          "question": "The concepts in File Handling have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in File Handling have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of File Handling helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "python",
+          "explanation": "The correct answer is \"python\". File Handling is a key component of python that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Error Handling",
+    "summary": "Handle exceptions and errors gracefully. Use try/except blocks, handle specific exceptions, finally clause, and raise custom exceptions. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.",
+    "materials": {
+      "videos": [
+        {
+          "title": "Error Handling - Tutorial",
+          "url": "https://youtu.be/kqtD5dpn9C8"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "Python Textbook - Advanced Level",
+          "url": "https://docs.python.org/3/tutorial/"
+        }
+      ],
+      "labs": [
+        {
+          "title": "Exception Types Reference",
+          "url": "https://www.practicepython.org/"
+        },
+        {
+          "title": "Error Handling Patterns",
+          "url": "https://www.practicepython.org/"
+        },
+        {
+          "title": "Debugging Tips",
+          "url": "https://www.practicepython.org/"
+        }
+      ]
+    },
+    "detailedSummary": "Handle exceptions and errors gracefully. Use try/except blocks, handle specific exceptions, finally clause, and raise custom exceptions. This lesson provides comprehensive coverage of the topic with practical examples and hands-on activities. Students will gain a deep understanding through interactive learning materials and real-world applications. The lesson includes detailed explanations, visual aids, and assessment tools to ensure mastery of the concepts.\n\nThis topic provides essential knowledge for understanding python at the Advanced level. Through comprehensive study, students will develop a deep understanding of the concepts, principles, and applications related to Error Handling. The material is designed to build a strong foundation for further learning and practical application in real-world contexts.",
+    "assignments": [
+      {
+        "title": "Research Assignment: Error Handling",
+        "description": "Complete a research assignment exploring key concepts related to Error Handling.",
+        "tasks": [
+          "Read the assigned textbook chapters and online resources about Error Handling",
+          "Identify and explain at least three key concepts from the topic",
+          "Find one real-world example or application of these concepts",
+          "Write a 300-500 word summary explaining your findings",
+          "Include at least two credible sources in your research"
+        ]
+      },
+      {
+        "title": "Practical Exercise: Error Handling",
+        "description": "Apply your understanding of Error Handling through hands-on activities.",
+        "tasks": [
+          "Complete the lab exercises or simulations related to Error Handling",
+          "Document your observations and findings in a lab report",
+          "Answer the reflection questions about what you learned",
+          "Create a visual representation (diagram, chart, or model) of key concepts",
+          "Present your findings to the class or submit a written report"
+        ]
+      }
+    ],
+    "quiz": {
+      "questions": [
+        {
+          "question": "What is the primary focus of Error Handling?",
+          "type": "multiple-choice",
+          "options": [
+            "Understanding fundamental concepts of Error Handling",
+            "Memorizing facts without context",
+            "Avoiding practical applications",
+            "Focusing only on advanced topics"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The primary focus is understanding fundamental concepts, which provides a strong foundation for further learning and practical application."
+        },
+        {
+          "question": "Which of the following best describes the importance of Error Handling?",
+          "type": "multiple-choice",
+          "options": [
+            "It provides essential knowledge for understanding python",
+            "It is only relevant for advanced students",
+            "It has no real-world applications",
+            "It is purely theoretical without practical value"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This topic provides essential foundational knowledge that is crucial for understanding python and has practical applications in real-world contexts."
+        },
+        {
+          "question": "Error Handling is an important topic for understanding python at the Advanced level.",
+          "type": "true-false",
+          "correctAnswer": true,
+          "explanation": "This statement is true. Error Handling provides fundamental knowledge that is essential for building a strong understanding of python."
+        },
+        {
+          "question": "The concepts in Error Handling have no practical applications in real life.",
+          "type": "true-false",
+          "correctAnswer": false,
+          "explanation": "This statement is false. The concepts in Error Handling have numerous practical applications in various fields and everyday life."
+        },
+        {
+          "question": "The study of Error Handling helps students understand the fundamental principles of ______.",
+          "type": "fill-in-the-blank",
+          "correctAnswer": "python",
+          "explanation": "The correct answer is \"python\". Error Handling is a key component of python that helps students understand fundamental principles in this field."
+        }
+      ]
+    }
+  }
+]
+

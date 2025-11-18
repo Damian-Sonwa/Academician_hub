@@ -1,0 +1,157 @@
+{
+  "topic": "Creative Writing: Fiction and Poetry",
+  "detailedSummary": "Creative writing is the art of crafting original works of imagination, including fiction (short stories, novels) and poetry. Fiction writing involves creating believable characters, developing plots with conflict and resolution, establishing vivid settings, and using point of view effectively. Character development requires creating round, dynamic characters with motivations, flaws, and growth. Dialogue should sound natural, reveal character, and advance plot. Show, don't tell—using specific details and actions rather than stating emotions or traits directly. Plot structure follows narrative arc: exposition, inciting incident, rising action, climax, falling action, resolution. Setting creates atmosphere and can function symbolically. Point of view choices (first person, third person limited, third person omniscient) affect reader experience. Poetry writing uses line breaks, rhythm, sound devices (alliteration, assonance, rhyme), imagery, and figurative language to create meaning and emotion. Free verse doesn't follow strict meter or rhyme, while formal poetry follows patterns (sonnets, haikus, villanelles). Both fiction and poetry benefit from revision: refining language, strengthening imagery, tightening structure, and ensuring every word serves a purpose. Creative writing develops imagination, empathy, self-expression, and communication skills. It allows writers to explore human experience, experiment with language, and create art that entertains, moves, and provokes thought.",
+  "whyItMatters": "Creative writing develops imagination, self-expression, and communication skills - essential for personal growth, artistic expression, and understanding the craft of literature.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Creative Writing: Fiction and Poetry | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Creative Writing: Fiction and Poetry | Crash Course Literature",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Creative Writing: Fiction and Poetry | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Creative Writing - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/english"
+      },
+      {
+        "title": "Writing Fiction - Lumen Learning",
+        "url": "https://courses.lumenlearning.com/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Creative Writing Prompts - Writer's Digest",
+        "url": "https://www.writersdigest.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Creative Writing: Fiction and Poetry",
+      "description": "Write original fiction and poetry, developing creative writing skills.",
+      "tasks": [
+        "Write a short story (1000-2000 words) with developed characters and plot",
+        "Write 5 poems in different forms (free verse, sonnet, haiku, etc.)",
+        "Create character profiles for 3 original characters",
+        "Write dialogue that reveals character and advances plot",
+        "Use 'show, don't tell' technique in descriptive writing",
+        "Revise a story focusing on plot structure and pacing",
+        "Revise poems focusing on imagery and sound",
+        "Participate in peer workshops, giving and receiving feedback",
+        "Experiment with different points of view in fiction",
+        "Create a portfolio of your best creative writing"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "'Show, don't tell' means:",
+      "type": "multiple-choice",
+      "options": [
+        "Use specific details and actions instead of stating emotions directly",
+        "Always use dialogue",
+        "Never describe characters",
+        "Use only dialogue"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Show, don't tell' means using specific details, actions, and sensory information to reveal character and emotion, rather than stating them directly."
+    },
+    {
+      "question": "What is the inciting incident?",
+      "type": "multiple-choice",
+      "options": [
+        "The event that sets the main conflict in motion",
+        "The climax of the story",
+        "The resolution",
+        "The setting"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The inciting incident is the event that disrupts the normal world and sets the main conflict or story in motion."
+    },
+    {
+      "question": "Free verse poetry:",
+      "type": "multiple-choice",
+      "options": [
+        "Doesn't follow strict meter or rhyme patterns",
+        "Must rhyme",
+        "Always has 14 lines",
+        "Is not real poetry"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Free verse poetry doesn't follow regular meter or rhyme schemes, allowing poets freedom in line breaks and rhythm."
+    },
+    {
+      "question": "All fiction must be written in third person point of view.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Fiction can be written in first person ('I'), second person ('you'), or third person ('he/she/they'), each offering different perspectives and effects."
+    },
+    {
+      "question": "What makes a character 'round'?",
+      "type": "multiple-choice",
+      "options": [
+        "Complex, multi-dimensional with various traits",
+        "Physically round in shape",
+        "Appears in many scenes",
+        "Is the main character"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A round character is complex, well-developed, and multi-dimensional with various traits, motivations, and contradictions, unlike flat characters who are simple and one-dimensional."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Stanza": "A group of lines in a poem, separated by blank lines.",
+      "Rhyme Scheme": "The pattern of end rhymes in a poem, indicated by letters.",
+      "Meter": "The rhythmic pattern of stressed and unstressed syllables."
+    },
+    "keyConcepts": [
+      "Creative writing is the art of crafting original works of imagination, including fiction (short stor...",
+      "Fiction writing involves creating believable characters, developing plots with conflict and resoluti...",
+      "Character development requires creating round, dynamic characters with motivations, flaws, and growt...",
+      "Dialogue should sound natural, reveal character, and advance plot",
+      "Show, don't tell—using specific details and actions rather than stating emotions or traits directly"
+    ],
+    "stepByStepExplanations": [
+      "**Understanding creative:** Creative writing is the art of crafting original works of imagination, including fiction (short stories, novels) and poetry. Fiction writing involves ...",
+      "**Applying concepts:** Practice with examples specific to Creative Writing: Fiction and Poetry.",
+      "**Mastering skills:** Develop proficiency through structured exercises."
+    ],
+    "examples": [
+      "**Example 1:** A practical illustration of creative in action.",
+      "**Example 2:** Another scenario demonstrating writing.",
+      "**Example 3:** A real-world application of fiction."
+    ],
+    "realLifeApplications": [
+      "**Academic Context:** Creative Writing: Fiction and Poetry is essential for academic success and scholarly work.",
+      "**Professional Use:** These skills apply directly to professional communication and analysis.",
+      "**Personal Development:** Understanding Creative Writing: Fiction and Poetry enhances critical thinking and expression."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram illustrating key concepts of Creative Writing: Fiction and Poetry.",
+      "A flowchart showing the process and relationships in Creative Writing: Fiction and Poetry."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

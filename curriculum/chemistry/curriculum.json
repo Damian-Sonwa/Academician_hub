@@ -1,0 +1,41 @@
+{
+  "subject": "Chemistry",
+  "levels": {
+    "Secondary": [
+      "Introduction to Chemistry: Matter and Measurement",
+      "Atomic Structure and Periodic Table",
+      "Chemical Bonding: Ionic, Covalent, and Metallic",
+      "Molecular Geometry and VSEPR Theory",
+      "Chemical Reactions and Stoichiometry",
+      "States of Matter: Gases, Liquids, and Solids",
+      "Solutions and Solubility",
+      "Acids, Bases, and pH",
+      "Chemical Equilibrium",
+      "Thermodynamics: Enthalpy, Entropy, and Free Energy",
+      "Reaction Rates and Kinetics",
+      "Oxidation-Reduction Reactions",
+      "Organic Chemistry: Hydrocarbons and Functional Groups",
+      "Biochemistry: Biomolecules and Metabolism",
+      "Environmental Chemistry and Green Chemistry"
+    ],
+    "Advanced": [
+      "Advanced Atomic Structure and Quantum Chemistry",
+      "Chemical Bonding: Molecular Orbital Theory",
+      "Thermodynamics and Statistical Mechanics",
+      "Chemical Kinetics: Reaction Mechanisms",
+      "Electrochemistry: Batteries and Electrolysis",
+      "Organic Chemistry: Synthesis and Reaction Mechanisms",
+      "Inorganic Chemistry: Coordination Compounds and Organometallics",
+      "Physical Chemistry: Quantum Mechanics and Spectroscopy",
+      "Analytical Chemistry: Instrumental Methods",
+      "Biochemistry: Protein Structure and Enzyme Kinetics",
+      "Materials Chemistry: Polymers and Nanomaterials",
+      "Environmental Chemistry: Atmospheric and Aquatic Chemistry",
+      "Computational Chemistry and Molecular Modeling",
+      "Research Methods in Chemistry",
+      "Advanced Topics: Supramolecular Chemistry and Catalysis"
+    ]
+  }
+}
+
+

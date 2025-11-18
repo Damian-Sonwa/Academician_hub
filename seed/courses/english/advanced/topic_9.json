@@ -1,0 +1,157 @@
+{
+  "topic": "Literary Research Methods and Scholarly Writing",
+  "detailedSummary": "Literary research involves systematic investigation using scholarly methods to contribute new knowledge about literature. Research methods include: archival research (examining original manuscripts, letters, historical documents), textual analysis (close reading, comparative analysis), historical research (examining historical contexts), biographical research (author's life and influences), and theoretical research (applying critical theories). Primary sources are original materials: literary texts, manuscripts, letters, diaries. Secondary sources analyze primary sources: scholarly articles, books, reviews. Tertiary sources provide overviews: encyclopedias, bibliographies. Research process involves: formulating research questions, conducting literature review (surveying existing scholarship), developing methodology, gathering evidence, analyzing findings, and presenting conclusions. Scholarly writing follows conventions: clear thesis, evidence-based arguments, engagement with existing scholarship, proper citations, and contribution to academic conversation. Research databases (JSTOR, MLA International Bibliography, Project MUSE) provide access to peer-reviewed scholarship. Digital humanities tools enable computational analysis of texts. Research ethics require: accurate representation of sources, avoiding plagiarism, acknowledging influences, and respecting intellectual property. Advanced research may involve: interdisciplinary approaches, comparative studies, and original archival discoveries. Scholarly writing demonstrates: critical thinking, research competence, and ability to contribute meaningfully to literary studies. These skills are essential for graduate study, academic careers, and advanced literary analysis.",
+  "whyItMatters": "Literary research methods enable original contributions to knowledge - essential for graduate study, academic careers, and advancing understanding of literature through systematic scholarly investigation.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Literary Research Methods and Scholarly Writing | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Literary Research Methods and Scholarly Writing | Crash Course Literature",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Literary Research Methods and Scholarly Writing | English Learning",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Literary Research Methods - Open Textbook Library",
+        "url": "https://open.umn.edu/opentextbooks/subjects/english"
+      },
+      {
+        "title": "Purdue Online Writing Lab - Research Methods",
+        "url": "https://owl.purdue.edu/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Research Databases - JSTOR, MLA Bibliography",
+        "url": "https://www.jstor.org/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Literary Research Methods and Scholarly Writing",
+      "description": "Conduct original literary research and write scholarly papers.",
+      "tasks": [
+        "Formulate research questions and develop methodology",
+        "Conduct comprehensive literature review on a topic",
+        "Use research databases to find peer-reviewed sources",
+        "Analyze primary sources (texts, manuscripts, historical documents)",
+        "Apply theoretical frameworks to literary texts",
+        "Write a 20-page research paper with original analysis",
+        "Engage with existing scholarship in your writing",
+        "Use proper citation formats (MLA, Chicago)",
+        "Present research findings in academic format",
+        "Revise research paper based on feedback"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "Primary sources in literary research include:",
+      "type": "multiple-choice",
+      "options": [
+        "Original literary texts and manuscripts",
+        "Only scholarly articles",
+        "Only encyclopedias",
+        "Only summaries"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Primary sources are original materials: the literary texts themselves, manuscripts, letters, diaries, and other original documents from the period."
+    },
+    {
+      "question": "A literature review:",
+      "type": "multiple-choice",
+      "options": [
+        "Surveys existing scholarship on a topic",
+        "Only summarizes one source",
+        "Only lists sources",
+        "Only provides opinions"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A literature review surveys and synthesizes existing scholarship on a topic, identifying gaps, debates, and areas for further research."
+    },
+    {
+      "question": "Scholarly writing requires:",
+      "type": "multiple-choice",
+      "options": [
+        "Evidence-based arguments and engagement with scholarship",
+        "Only personal opinions",
+        "Only summaries",
+        "Only creative writing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Scholarly writing presents evidence-based arguments, engages with existing scholarship, uses proper citations, and contributes to academic conversation."
+    },
+    {
+      "question": "Literary research only involves reading the text itself.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Literary research involves multiple methods: textual analysis, historical research, theoretical frameworks, archival research, and engagement with existing scholarship."
+    },
+    {
+      "question": "Research databases like JSTOR provide:",
+      "type": "multiple-choice",
+      "options": [
+        "Access to peer-reviewed scholarly articles",
+        "Only popular websites",
+        "Only fiction",
+        "Only summaries"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Research databases like JSTOR, MLA Bibliography, and Project MUSE provide access to peer-reviewed scholarly articles, books, and other academic sources."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Plot": "The sequence of events in a story.",
+      "Character": "A person, animal, or entity in a story.",
+      "Theme": "The central message or insight about life that the author conveys."
+    },
+    "keyConcepts": [
+      "Literary research involves systematic investigation using scholarly methods to contribute new knowle...",
+      "Research methods include: archival research (examining original manuscripts, letters, historical doc...",
+      "Primary sources are original materials: literary texts, manuscripts, letters, diaries",
+      "Secondary sources analyze primary sources: scholarly articles, books, reviews",
+      "Tertiary sources provide overviews: encyclopedias, bibliographies"
+    ],
+    "stepByStepExplanations": [
+      "**Understanding literary:** Literary research involves systematic investigation using scholarly methods to contribute new knowledge about literature. Research methods include: ar...",
+      "**Applying concepts:** Practice with examples specific to Literary Research Methods and Scholarly Writing.",
+      "**Mastering skills:** Develop proficiency through structured exercises."
+    ],
+    "examples": [
+      "**Example 1:** A practical illustration of literary in action.",
+      "**Example 2:** Another scenario demonstrating research.",
+      "**Example 3:** A real-world application of methods."
+    ],
+    "realLifeApplications": [
+      "**Academic Context:** Literary Research Methods and Scholarly Writing is essential for academic success and scholarly work.",
+      "**Professional Use:** These skills apply directly to professional communication and analysis.",
+      "**Personal Development:** Understanding Literary Research Methods and Scholarly Writing enhances critical thinking and expression."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A visual diagram illustrating key concepts of Literary Research Methods and Scholarly Writing.",
+      "A flowchart showing the process and relationships in Literary Research Methods and Scholarly Writing."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

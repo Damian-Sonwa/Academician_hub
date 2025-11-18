@@ -1,0 +1,87 @@
+{
+  "topic": "Testing: Unit Testing and Integration Testing",
+  "detailedSummary": "Testing ensures code works correctly and prevents regressions. Unit tests test individual functions/components in isolation. Integration tests verify components work together. Test-driven development (TDD) writes tests before code. Jest is a popular JavaScript testing framework. Test structure: describe() groups tests, it()/test() define test cases, expect() makes assertions. Mocking simulates dependencies. Code coverage measures how much code is tested. React Testing Library tests React components from user perspective. Supertest tests Express APIs. End-to-end (E2E) tests verify complete user flows. Testing best practices: test behavior not implementation, keep tests simple, use descriptive names, test edge cases. Continuous Integration (CI) runs tests automatically. Understanding testing enables building reliable, maintainable applications with confidence in code quality.",
+  "whyItMatters": "Testing is essential for code quality and reliability - it catches bugs early, prevents regressions, and enables confident refactoring and deployment.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Testing: Unit Testing and Integration Testing | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Testing: Unit Testing and Integration Testing | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Testing: Unit Testing and Integration Testing | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Jest Documentation",
+        "url": "https://jestjs.io/docs/getting-started"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Testing Practice",
+        "url": "https://codesandbox.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Write Comprehensive Tests",
+      "description": "Create unit and integration tests for a web application, demonstrating testing best practices.",
+      "tasks": [
+        "Set up a testing framework (Jest) in a project",
+        "Write unit tests for functions and components",
+        "Create integration tests for API endpoints",
+        "Use mocking to isolate units under test",
+        "Achieve good test coverage and document your testing strategy"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the main purpose of unit testing?",
+      "type": "multiple-choice",
+      "options": [
+        "To test the entire application",
+        "To test individual functions or components in isolation",
+        "To test only the UI",
+        "To test only databases"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Unit tests test individual functions or components in isolation, ensuring each piece works correctly before integration."
+    },
+    {
+      "question": "Test-Driven Development (TDD) means writing tests after writing code.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. TDD means writing tests first, then writing code to make tests pass, then refactoring - this ensures code meets requirements from the start."
+    },
+    {
+      "question": "What is mocking in testing?",
+      "type": "multiple-choice",
+      "options": [
+        "Making fun of code",
+        "Simulating dependencies to isolate units under test",
+        "Deleting tests",
+        "Writing more code"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mocking simulates dependencies (like APIs or databases) to isolate the unit under test, ensuring tests are fast and don't depend on external systems."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

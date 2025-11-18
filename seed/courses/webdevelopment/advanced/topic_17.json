@@ -1,0 +1,87 @@
+{
+  "topic": "Build Tools: Webpack, Babel, and Module Bundlers",
+  "detailedSummary": "Build tools transform and bundle code for production. Webpack is a module bundler that combines modules into optimized bundles. Entry points define where bundling starts. Output configures where bundles are written. Loaders transform files (Babel for JS, CSS loaders for styles). Plugins extend functionality (HTML generation, optimization). Babel transpiles modern JavaScript to compatible versions. Presets configure Babel transformations. Source maps map bundled code to original. Code splitting reduces bundle size. Tree shaking removes unused code. Development vs production builds optimize differently. Vite is a modern alternative with faster HMR (Hot Module Replacement). Parcel provides zero-configuration bundling. Understanding build tools enables creating optimized, production-ready applications that work across browsers and devices.",
+  "whyItMatters": "Build tools are essential for modern development - they enable using modern JavaScript, optimize code for production, and create efficient, deployable applications.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Build Tools: Webpack, Babel, and Module Bundlers | freeCodeCamp",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Build Tools: Webpack, Babel, and Module Bundlers | Traversy Media",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Build Tools: Webpack, Babel, and Module Bundlers | The Net Ninja",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Webpack Documentation",
+        "url": "https://webpack.js.org/"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Build Tools Practice",
+        "url": "https://codesandbox.io/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Configure Build Tools",
+      "description": "Set up and configure build tools for a web application, demonstrating understanding of bundling and optimization.",
+      "tasks": [
+        "Configure Webpack or Vite for a project with entry, output, and loaders",
+        "Set up Babel to transpile modern JavaScript",
+        "Configure development and production builds with different optimizations",
+        "Implement code splitting to reduce bundle sizes",
+        "Build and optimize a project for production deployment"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is the main purpose of a module bundler like Webpack?",
+      "type": "multiple-choice",
+      "options": [
+        "To write code",
+        "To combine modules into optimized bundles for production",
+        "To design websites",
+        "To manage databases"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Module bundlers like Webpack combine multiple modules and dependencies into optimized bundles, making code production-ready and improving load times."
+    },
+    {
+      "question": "Babel only converts JavaScript to HTML.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. Babel is a JavaScript compiler that transpiles modern JavaScript (ES6+) to older versions that are compatible with more browsers."
+    },
+    {
+      "question": "What is code splitting?",
+      "type": "multiple-choice",
+      "options": [
+        "Dividing code into multiple files",
+        "Splitting code into smaller bundles loaded on demand to reduce initial load time",
+        "Deleting code",
+        "Combining all code"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Code splitting divides code into smaller bundles that are loaded on demand, reducing initial bundle size and improving page load performance."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+}
+

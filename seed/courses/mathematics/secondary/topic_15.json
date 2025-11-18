@@ -1,0 +1,165 @@
+{
+  "topic": "Introduction to Calculus: Limits and Derivatives",
+  "detailedSummary": "Calculus is the mathematics of change, studying how quantities vary and accumulate. Limits are the fundamental concept, describing the behavior of functions as inputs approach a particular value. The limit of f(x) as x approaches a, written lim(x→a) f(x), is the value that f(x) gets arbitrarily close to as x gets arbitrarily close to a. Limits can be evaluated by direct substitution, factoring and canceling, rationalizing, or using special limit laws. Continuity means a function has no breaks, jumps, or holes—mathematically, f is continuous at a if lim(x→a) f(x) = f(a). The derivative measures instantaneous rate of change, representing the slope of the tangent line to a curve at a point. The derivative of f(x) at x = a is f'(a) = lim(h→0) [f(a+h) - f(a)]/h. This limit definition gives the slope of the tangent line. Basic derivative rules include: power rule (d/dx[xⁿ] = nxⁿ⁻¹), constant rule, sum/difference rule, product rule, and quotient rule. The derivative has powerful interpretations: velocity is the derivative of position, acceleration is the derivative of velocity, and marginal cost in economics is the derivative of the cost function. Understanding limits and derivatives opens the door to optimization (finding maximums and minimums), related rates, curve sketching, and modeling dynamic systems in physics, engineering, economics, and biology.",
+  "whyItMatters": "Calculus provides tools for analyzing change and optimization - essential for physics, engineering, economics, medicine, and understanding dynamic systems in science and technology.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Limits and Continuity | Khan Academy",
+        "url": "https://www.youtube.com/watch?v=YNstP0ESndU"
+      },
+      {
+        "title": "Epsilon-Delta Definition | Professor Leonard",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      },
+      {
+        "title": "Understanding Limits | 3Blue1Brown",
+        "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Calculus Volume 1 - Chapter 2: Limits - OpenStax",
+        "url": "https://openstax.org/details/books/calculus-volume-1"
+      },
+      {
+        "title": "Calculus Volume 1 - Chapter 3: Derivatives - OpenStax",
+        "url": "https://openstax.org/details/books/calculus-volume-1"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Calculus Visualizations - Desmos",
+        "url": "https://www.desmos.com/calculator"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Introduction to Calculus: Limits and Derivatives",
+      "description": "Master limit evaluation and basic derivative calculations.",
+      "tasks": [
+        "Evaluate 15 limits using various techniques",
+        "Determine continuity of 10 functions at given points",
+        "Use the limit definition to find derivatives of 5 functions",
+        "Apply the power rule to find derivatives",
+        "Use product and quotient rules to find derivatives",
+        "Find derivatives of polynomial, rational, and root functions",
+        "Interpret derivatives as rates of change in context",
+        "Find equations of tangent lines to curves",
+        "Solve optimization problems using derivatives",
+        "Create problems involving limits and derivatives"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What is lim(x→2) (x² - 4)/(x - 2)?",
+      "type": "multiple-choice",
+      "options": [
+        "4",
+        "2",
+        "0",
+        "Does not exist"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Factor numerator: (x-2)(x+2)/(x-2) = x+2 (for x≠2). So lim(x→2) (x+2) = 2+2 = 4."
+    },
+    {
+      "question": "What is the derivative of f(x) = x³?",
+      "type": "multiple-choice",
+      "options": [
+        "3x²",
+        "x²",
+        "3x",
+        "x³"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Using power rule: d/dx[x³] = 3x³⁻¹ = 3x²."
+    },
+    {
+      "question": "A function is continuous at x = a if:",
+      "type": "multiple-choice",
+      "options": [
+        "lim(x→a) f(x) = f(a)",
+        "f(a) exists",
+        "lim(x→a) f(x) exists",
+        "All of the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "For continuity, all three conditions must hold: the limit exists, the function value exists, and they are equal."
+    },
+    {
+      "question": "The derivative of a constant function is always zero.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "True. If f(x) = c (a constant), then f'(x) = 0 because constants don't change."
+    },
+    {
+      "question": "What is the derivative of f(x) = 5x² + 3x - 7?",
+      "type": "multiple-choice",
+      "options": [
+        "10x + 3",
+        "5x + 3",
+        "10x² + 3x",
+        "5x² + 3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Using power rule and sum rule: f'(x) = d/dx[5x²] + d/dx[3x] - d/dx[7] = 10x + 3 - 0 = 10x + 3."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80",
+      "https://images.unsplash.com/photo-1574170275470-a717198122c8?w=800&q=80"
+    ]
+  },
+  "fullTopicLesson": {
+    "definitions": {
+      "Limit": "The value that f(x) approaches as x approaches a value a. Written: lim(x→a) f(x) = L. The function may not equal L at x = a, but gets arbitrarily close.",
+      "Continuity": "A function is continuous at x = a if: (1) f(a) exists, (2) lim(x→a) f(x) exists, (3) lim(x→a) f(x) = f(a). No breaks, jumps, or holes.",
+      "Derivative": "The instantaneous rate of change of a function. f'(x) = lim(h→0) [f(x+h) - f(x)]/h. Represents slope of tangent line at point x.",
+      "Power Rule": "For f(x) = xⁿ, the derivative is f'(x) = nxⁿ⁻¹. Example: d/dx(x³) = 3x², d/dx(x⁵) = 5x⁴.",
+      "Sum/Difference Rule": "Derivative of sum/difference: [f(x) ± g(x)]' = f'(x) ± g'(x). Example: d/dx(x² + 3x) = 2x + 3.",
+      "Product Rule": "Derivative of product: [f(x)·g(x)]' = f'(x)·g(x) + f(x)·g'(x). Example: d/dx(x²·sin(x)) = 2x·sin(x) + x²·cos(x).",
+      "Quotient Rule": "Derivative of quotient: [f(x)/g(x)]' = [f'(x)·g(x) - f(x)·g'(x)]/[g(x)]².",
+      "Chain Rule": "Derivative of composition: [f(g(x))]' = f'(g(x))·g'(x). For nested functions, multiply derivatives from outside to inside."
+    },
+    "keyConcepts": [
+      "Limits describe behavior as x approaches a value, not necessarily the value at that point",
+      "Continuity requires the limit to equal the function value at that point",
+      "Derivatives measure instantaneous rate of change (slope of tangent line)",
+      "Basic derivative rules: power rule, sum rule, product rule, quotient rule, chain rule",
+      "Derivatives have applications: velocity (derivative of position), acceleration (derivative of velocity), optimization"
+    ],
+    "stepByStepExplanations": [
+      "**Evaluating Limits:** lim(x→3) (x² - 9)/(x - 3): Step 1) Direct substitution gives 0/0 (indeterminate). Step 2) Factor: (x+3)(x-3)/(x-3) = x+3. Step 3) Cancel: x+3. Step 4) Substitute: 3+3 = 6. So limit = 6.",
+      "**Finding Derivative:** f(x) = x² + 3x - 5: Step 1) Apply power rule: d/dx(x²) = 2x. Step 2) d/dx(3x) = 3. Step 3) d/dx(-5) = 0. Step 4) Combine: f'(x) = 2x + 3.",
+      "**Product Rule:** f(x) = x²·sin(x): Step 1) Identify: u = x², v = sin(x). Step 2) u' = 2x, v' = cos(x). Step 3) Apply: f'(x) = (2x)(sin(x)) + (x²)(cos(x)) = 2x·sin(x) + x²·cos(x).",
+      "**Chain Rule:** f(x) = (3x + 2)⁵: Step 1) Outer function: u⁵, inner: u = 3x + 2. Step 2) Outer derivative: 5u⁴. Step 3) Inner derivative: 3. Step 4) Multiply: f'(x) = 5(3x+2)⁴·3 = 15(3x+2)⁴."
+    ],
+    "examples": [
+      "**Limit Evaluation:** lim(x→2) (x² - 4)/(x - 2)\n   Factor: (x+2)(x-2)/(x-2) = x+2\n   Limit: 2 + 2 = 4\n   Note: Function undefined at x=2, but limit exists",
+      "**Basic Derivatives:** f(x) = 5x³ - 2x + 7\n   f'(x) = 5(3x²) - 2(1) + 0 = 15x² - 2\n   Power rule applied to each term",
+      "**Product Rule:** f(x) = x·eˣ\n   f'(x) = (1)(eˣ) + (x)(eˣ) = eˣ(1 + x)\n   Derivative of product",
+      "**Chain Rule:** f(x) = √(x² + 1)\n   f(x) = (x² + 1)^(1/2)\n   f'(x) = (1/2)(x² + 1)^(-1/2)·(2x) = x/√(x² + 1)"
+    ],
+    "realLifeApplications": [
+      "**Velocity and Acceleration:** If position s(t) = t² meters, velocity v(t) = s'(t) = 2t m/s (derivative). Acceleration a(t) = v'(t) = 2 m/s² (second derivative). Used in physics.",
+      "**Optimization:** To maximize profit P(x) = -x² + 100x - 500: Find derivative P'(x) = -2x + 100. Set = 0: x = 50. Second derivative test confirms maximum. Used in business.",
+      "**Marginal Cost:** If cost C(x) = 1000 + 50x + 0.1x², marginal cost C'(x) = 50 + 0.2x gives cost of producing one more unit. Critical for pricing decisions.",
+      "**Rate of Change:** Population P(t) = 1000e^(0.02t). Growth rate P'(t) = 20e^(0.02t). At t=10: P'(10) ≈ 24.4 people/year. Measures how fast population is growing."
+    ],
+    "diagramsOrImageDescriptions": [
+      "A graph showing a function approaching a limit: as x approaches a from both sides, f(x) approaches L, with the limit point marked even if f(a) is undefined.",
+      "A diagram showing the derivative as slope: a curve with a tangent line at point (a, f(a)), with the slope m = f'(a) representing the instantaneous rate of change.",
+      "A visual comparison of average rate of change (secant line slope) vs. instantaneous rate of change (tangent line slope), showing how the limit creates the derivative."
+    ],
+    "codeSamples": []
+  },
+  "markingGuide": {
+    "quizGrading": "Each multiple-choice question is worth 1 point. True/false questions are worth 1 point. Short-answer questions require complete and accurate responses. Total: 5 points. Passing: 4/5 (70%)."
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=YNstP0ESndU"
+}

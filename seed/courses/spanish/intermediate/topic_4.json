@@ -1,0 +1,86 @@
+{
+  "topic": "Reflexive Verbs and Daily Routines",
+  "detailedSummary": "Reflexive verbs indicate that the subject performs an action on itself. They use reflexive pronouns: me, te, se, nos, os, se. Common reflexive verbs: levantarse (to get up), ducharse (to shower), vestirse (to get dressed), despertarse (to wake up), acostarse (to go to bed), lavarse (to wash oneself), peinarse (to comb one's hair), cepillarse (to brush), afeitarse (to shave). Conjugation: 'Me levanto' (I get up), 'Te duchas' (You shower), 'Se viste' (He/She gets dressed). Daily routine vocabulary: por la mañana (in the morning), por la tarde (in the afternoon), por la noche (at night), primero (first), luego (then), después (after), finalmente (finally). Example routine: 'Me despierto a las siete, me ducho, me visto, y desayuno' (I wake up at seven, shower, get dressed, and have breakfast). Some verbs can be reflexive or non-reflexive: 'lavo el coche' (I wash the car) vs 'me lavo' (I wash myself). Understanding reflexive verbs enables describing daily activities and routines accurately.",
+  "whyItMatters": "Reflexive verbs are essential for describing daily routines and personal care activities - they're used constantly in conversation about everyday life.",
+  "materials": {
+    "videos": [
+      {
+        "title": "Reflexive Verbs and Daily Routines | Butterfly Spanish",
+        "url": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+      },
+      {
+        "title": "Reflexive Verbs and Daily Routines | Spanish Learning",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      },
+      {
+        "title": "Reflexive Verbs and Daily Routines | SpanishDict",
+        "url": "https://www.youtube.com/watch?v=5MJbHmgaeDM"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "Reflexive Verbs Guide",
+        "url": "https://openstax.org/details/books/biology-2e"
+      }
+    ],
+    "labs": [
+      {
+        "title": "Reflexive Verbs Practice",
+        "url": "https://www.duolingo.com/"
+      }
+    ]
+  },
+  "assignments": [
+    {
+      "title": "Master Reflexive Verbs",
+      "description": "Practice using reflexive verbs to describe daily routines and personal activities.",
+      "tasks": [
+        "Conjugate 15 reflexive verbs in present tense with correct pronouns",
+        "Write your complete daily routine using reflexive verbs",
+        "Create a timeline of your day from morning to night in Spanish",
+        "Practice the difference between reflexive and non-reflexive uses of verbs",
+        "Write a dialogue about daily routines between two people"
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "question": "What reflexive pronoun is used with 'yo'?",
+      "type": "multiple-choice",
+      "options": [
+        "te",
+        "se",
+        "me",
+        "nos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Me' is the reflexive pronoun for 'yo' (I), as in 'me levanto' (I get up)."
+    },
+    {
+      "question": "All verbs that describe personal care activities are reflexive in Spanish.",
+      "type": "true-false",
+      "correctAnswer": false,
+      "explanation": "False. While many personal care verbs are reflexive (ducharse, vestirse), not all are. Some verbs can be used both reflexively and non-reflexively depending on context."
+    },
+    {
+      "question": "How do you say 'I get dressed' in Spanish?",
+      "type": "multiple-choice",
+      "options": [
+        "Me visto",
+        "Te visto",
+        "Se visto",
+        "Visto me"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Me visto' means 'I get dressed' - 'vestirse' is reflexive, so it requires the reflexive pronoun 'me' with 'yo'."
+    }
+  ],
+  "images": {
+    "main": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=800&q=80",
+    "additional": [
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/watch?v=Uq3e0Qvd4rE"
+}
