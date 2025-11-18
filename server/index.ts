@@ -187,41 +187,47 @@ app.use('/api/assignments', assignmentsRoutes);
 app.use('/api/weekly', weeklyRoutes);
 app.use('/api/dictionary', dictionaryRoutes);
 
-// 404 handler for API routes - MUST be before error handler
-app.use('/api/*', (req: express.Request, res: express.Response) => {
-  // Ensure CORS headers are set
-  const origin = req.headers.origin;
-  if (origin) {
-    const allowedOrigins = [
-      'http://localhost:8080',
-      'http://localhost:8081',
-      'http://localhost:5173',
-      'http://localhost:3000',
-      'http://127.0.0.1:8080',
-      'http://127.0.0.1:8081',
-      'http://127.0.0.1:5173',
-      'http://127.0.0.1:3000',
-    ];
-    
-    if (process.env.CORS_ORIGIN) {
-      allowedOrigins.push(process.env.CORS_ORIGIN);
-      const normalizedOrigin = origin.replace(/\/$/, '');
-      const normalizedCorsOrigin = process.env.CORS_ORIGIN.replace(/\/$/, '');
-      if (allowedOrigins.includes(origin) || 
-          normalizedOrigin === normalizedCorsOrigin ||
-          normalizedOrigin.toLowerCase() === normalizedCorsOrigin.toLowerCase()) {
-        res.setHeader('Access-Control-Allow-Origin', origin);
-        res.setHeader('Access-Control-Allow-Credentials', 'true');
+// 404 handler for unmatched routes - MUST be after all routes but before error handler
+app.use((req: express.Request, res: express.Response, next: express.NextFunction) => {
+  // Only handle if path starts with /api and response hasn't been sent
+  if (req.path.startsWith('/api') && !res.headersSent) {
+    // Ensure CORS headers are set
+    const origin = req.headers.origin;
+    if (origin) {
+      const allowedOrigins = [
+        'http://localhost:8080',
+        'http://localhost:8081',
+        'http://localhost:5173',
+        'http://localhost:3000',
+        'http://127.0.0.1:8080',
+        'http://127.0.0.1:8081',
+        'http://127.0.0.1:5173',
+        'http://127.0.0.1:3000',
+      ];
+      
+      if (process.env.CORS_ORIGIN) {
+        allowedOrigins.push(process.env.CORS_ORIGIN);
+        const normalizedOrigin = origin.replace(/\/$/, '');
+        const normalizedCorsOrigin = process.env.CORS_ORIGIN.replace(/\/$/, '');
+        if (allowedOrigins.includes(origin) || 
+            normalizedOrigin === normalizedCorsOrigin ||
+            normalizedOrigin.toLowerCase() === normalizedCorsOrigin.toLowerCase()) {
+          res.setHeader('Access-Control-Allow-Origin', origin);
+          res.setHeader('Access-Control-Allow-Credentials', 'true');
+        }
       }
     }
+    
+    return res.status(404).json({
+      success: false,
+      error: 'API endpoint not found',
+      path: req.path,
+      method: req.method,
+    });
   }
   
-  res.status(404).json({
-    success: false,
-    error: 'API endpoint not found',
-    path: req.path,
-    method: req.method,
-  });
+  // For non-API routes, pass to next handler (or Express default 404)
+  next();
 });
 
 // Error handling middleware - MUST be after all routes
