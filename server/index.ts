@@ -117,19 +117,32 @@ app.use(cors({
     
     // In production, check against allowed origins
     if (process.env.NODE_ENV === 'production') {
-      // Check if origin is in allowed list
-      if (origin && allowedOrigins.includes(origin)) {
-        return callback(null, true);
-      }
-      // Also check direct match with CORS_ORIGIN
-      if (origin && process.env.CORS_ORIGIN && origin === process.env.CORS_ORIGIN) {
-        return callback(null, true);
-      }
       // Allow if no origin (like mobile apps or Postman)
       if (!origin) {
         return callback(null, true);
       }
-      console.error(`❌ CORS blocked - Origin: ${origin} not in allowed list`);
+      
+      // Check if origin is in allowed list
+      if (origin && allowedOrigins.includes(origin)) {
+        console.log(`✅ CORS allowed - Origin: ${origin} is in allowed list`);
+        return callback(null, true);
+      }
+      
+      // Also check direct match with CORS_ORIGIN (case-insensitive, handle trailing slashes)
+      if (origin && process.env.CORS_ORIGIN) {
+        const normalizedOrigin = origin.replace(/\/$/, ''); // Remove trailing slash
+        const normalizedCorsOrigin = process.env.CORS_ORIGIN.replace(/\/$/, ''); // Remove trailing slash
+        
+        if (normalizedOrigin === normalizedCorsOrigin || 
+            normalizedOrigin.toLowerCase() === normalizedCorsOrigin.toLowerCase()) {
+          console.log(`✅ CORS allowed - Origin: ${origin} matches CORS_ORIGIN`);
+          return callback(null, true);
+        }
+      }
+      
+      console.error(`❌ CORS blocked - Origin: ${origin}`);
+      console.error(`   Allowed origins: ${allowedOrigins.join(', ')}`);
+      console.error(`   CORS_ORIGIN env: ${process.env.CORS_ORIGIN || 'NOT SET'}`);
       return callback(new Error(`Not allowed by CORS. Origin: ${origin}`));
     }
     
