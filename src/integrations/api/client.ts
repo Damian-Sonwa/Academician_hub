@@ -43,21 +43,33 @@ class ApiClient {
     }
 
     try {
-      const response = await fetch(`${this.baseUrl}${endpoint}`, {
+      const fullUrl = `${this.baseUrl}${endpoint}`;
+      console.log(`🌐 API Request: ${options.method || 'GET'} ${fullUrl}`);
+      
+      const response = await fetch(fullUrl, {
         ...options,
         headers,
         credentials: 'include', // Include credentials for CORS
         mode: 'cors', // Explicitly set CORS mode
       });
 
+      console.log(`📡 API Response: ${response.status} ${response.statusText} for ${endpoint}`);
+
       // Check if response is ok before parsing
       const text = await response.text();
+      
+      // Check if response is HTML (error page)
+      if (text.trim().startsWith('<!DOCTYPE') || text.trim().startsWith('<!doctype')) {
+        console.error(`❌ Server returned HTML instead of JSON for ${endpoint}`);
+        console.error(`Response preview: ${text.substring(0, 200)}`);
+        throw new Error(`Server returned HTML error page. Check if the API endpoint exists: ${fullUrl}`);
+      }
       
       let data;
       try {
         data = JSON.parse(text);
       } catch (parseError) {
-        console.error(`JSON Parse Error (${endpoint}):`, text);
+        console.error(`JSON Parse Error (${endpoint}):`, text.substring(0, 200));
         throw new Error(`Invalid JSON response from server. Response: ${text.substring(0, 100)}`);
       }
 
